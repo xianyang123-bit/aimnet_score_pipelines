@@ -1,0 +1,10 @@
+{
+  "scope": "reference reconstruction; not an exact reproduction of the unreleased AIMNet2(Score) workflow",
+  "score_definition": "Eint + Edesolv + ELCSE; lower is better",
+  "n_requested": 10,
+  "n_scored": 10,
+  "n_errors": 0,
+  "n_optimization_converged": 9,
+  "elapsed_seconds_this_run": 82.23469186481088,
+  "output": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P0C6U8/aimnet2_score.csv"
+}

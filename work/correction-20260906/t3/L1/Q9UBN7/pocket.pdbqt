@@ -1,0 +1,270 @@
+REMARK  Name = /data/user_data/xianyang/t3-aimnet-affinity-balanced/L1/Q9UBN7/pocket.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ATOM      1  N   GLU A   1       7.018   3.738  17.471  0.00  0.00    +0.000 N 
+ATOM      2  CA  GLU A   1       6.194   3.254  16.341  0.00  0.00    +0.000 C 
+ATOM      3  C   GLU A   1       7.086   2.930  15.151  0.00  0.00    +0.000 C 
+ATOM      4  O   GLU A   1       6.757   3.326  14.042  0.00  0.00    +0.000 OA
+ATOM      5  CB  GLU A   1       5.111   4.273  16.048  0.00  0.00    +0.000 C 
+ATOM      6  CG  GLU A   1       4.228   4.399  17.276  0.00  0.00    +0.000 C 
+ATOM      7  CD  GLU A   1       2.771   4.708  16.996  0.00  0.00    +0.000 C 
+ATOM      8  OE1 GLU A   1       2.476   5.202  15.873  0.00  0.00    +0.000 OA
+ATOM      9  OE2 GLU A   1       1.949   4.483  17.916  0.00  0.00    +0.000 OA
+ATOM     10  H   GLU A   1       7.750   3.057  17.674  0.00  0.00    +0.000 HD
+ATOM     11  H   GLU A   1       6.428   3.859  18.294  0.00  0.00    +0.000 HD
+ATOM     12  H   GLU A   1       7.444   4.631  17.223  0.00  0.00    +0.000 HD
+TER 
+REMARK  Name = /data/user_data/xianyang/t3-aimnet-affinity-balanced/L1/Q9UBN7/pocket.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ATOM      1  N   TRP B   1       8.585   0.265  12.309  0.00  0.00    +0.000 N 
+ATOM      2  CA  TRP B   1       8.219  -0.843  11.427  0.00  0.00    +0.000 C 
+ATOM      3  C   TRP B   1       9.503  -1.432  10.876  0.00  0.00    +0.000 C 
+ATOM      4  O   TRP B   1      10.476  -0.703  10.739  0.00  0.00    +0.000 OA
+ATOM      5  CB  TRP B   1       7.324  -0.367  10.303  0.00  0.00    +0.000 C 
+ATOM      6  CG  TRP B   1       6.002   0.182  10.762  0.00  0.00    +0.000 C 
+ATOM      7  CD1 TRP B   1       5.773   1.407  11.336  0.00  0.00    +0.000 C 
+ATOM      8  CD2 TRP B   1       4.727  -0.460  10.625  0.00  0.00    +0.000 A 
+ATOM      9  NE1 TRP B   1       4.432   1.568  11.600  0.00  0.00    +0.000 NA
+ATOM     10  CE2 TRP B   1       3.772   0.434  11.177  0.00  0.00    +0.000 A 
+ATOM     11  CE3 TRP B   1       4.309  -1.692  10.098  0.00  0.00    +0.000 A 
+ATOM     12  CZ2 TRP B   1       2.414   0.130  11.156  0.00  0.00    +0.000 A 
+ATOM     13  CZ3 TRP B   1       2.964  -1.976  10.099  0.00  0.00    +0.000 A 
+ATOM     14  CH2 TRP B   1       2.050  -1.094  10.667  0.00  0.00    +0.000 A 
+ATOM     15  H   TRP B   1       7.740   0.684  12.697  0.00  0.00    +0.000 HD
+ATOM     16  H   TRP B   1       9.099   0.967  11.777  0.00  0.00    +0.000 HD
+ATOM     17  H   TRP B   1       9.171  -0.084  13.068  0.00  0.00    +0.000 HD
+TER 
+REMARK  Name = /data/user_data/xianyang/t3-aimnet-affinity-balanced/L1/Q9UBN7/pocket.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ATOM      1  N   CYS C   1      10.488   4.641  11.053  0.00  0.00    +0.000 N 
+ATOM      2  CA  CYS C   1       9.344   5.040  11.901  0.00  0.00    +0.000 C 
+ATOM      3  C   CYS C   1       8.076   5.188  11.052  0.00  0.00    +0.000 C 
+ATOM      4  O   CYS C   1       8.083   5.420   9.827  0.00  0.00    +0.000 OA
+ATOM      5  CB  CYS C   1       9.676   6.317  12.676  0.00  0.00    +0.000 C 
+ATOM      6  SG  CYS C   1       9.953   7.787  11.654  0.00  0.00    +0.000 S 
+ATOM      7  N   GLY C   2       6.970   5.048  11.744  0.00  0.00    +0.000 N 
+ATOM      8  CA  GLY C   2       5.647   5.150  11.153  0.00  0.00    +0.000 C 
+ATOM      9  C   GLY C   2       5.203   6.545  10.820  0.00  0.00    +0.000 C 
+ATOM     10  O   GLY C   2       5.837   7.522  11.217  0.00  0.00    +0.000 OA
+ATOM     11  N   ARG C   3       4.059   6.613  10.131  0.00  0.00    +0.000 N 
+ATOM     12  CA  ARG C   3       3.557   7.864   9.557  0.00  0.00    +0.000 C 
+ATOM     13  C   ARG C   3       3.177   8.869  10.645  0.00  0.00    +0.000 C 
+ATOM     14  O   ARG C   3       3.249  10.085  10.319  0.00  0.00    +0.000 OA
+ATOM     15  CB  ARG C   3       2.353   7.575   8.656  0.00  0.00    +0.000 C 
+ATOM     16  CG  ARG C   3       1.186   6.945   9.373  0.00  0.00    +0.000 C 
+ATOM     17  CD  ARG C   3       0.258   6.323   8.349  0.00  0.00    +0.000 C 
+ATOM     18  NE  ARG C   3      -0.825   5.671   9.036  0.00  0.00    +0.000 N 
+ATOM     19  CZ  ARG C   3      -2.083   6.104   9.053  0.00  0.00    +0.000 C 
+ATOM     20  NH1 ARG C   3      -2.404   7.242   8.458  0.00  0.00    +0.000 N 
+ATOM     21  NH2 ARG C   3      -3.008   5.388   9.659  0.00  0.00    +0.000 N 
+ATOM     22  N   TYR C   4       2.810   8.433  11.853  0.00  0.00    +0.000 N 
+ATOM     23  CA  TYR C   4       2.455   9.375  12.937  0.00  0.00    +0.000 C 
+ATOM     24  C   TYR C   4       3.697   9.918  13.619  0.00  0.00    +0.000 C 
+ATOM     25  O   TYR C   4       3.533  10.859  14.406  0.00  0.00    +0.000 OA
+ATOM     26  CB  TYR C   4       1.491   8.739  13.926  0.00  0.00    +0.000 C 
+ATOM     27  CG  TYR C   4       0.156   8.443  13.296  0.00  0.00    +0.000 A 
+ATOM     28  CD1 TYR C   4      -0.570   9.437  12.663  0.00  0.00    +0.000 A 
+ATOM     29  CD2 TYR C   4      -0.381   7.175  13.334  0.00  0.00    +0.000 A 
+ATOM     30  CE1 TYR C   4      -1.809   9.178  12.095  0.00  0.00    +0.000 A 
+ATOM     31  CE2 TYR C   4      -1.613   6.895  12.774  0.00  0.00    +0.000 A 
+ATOM     32  CZ  TYR C   4      -2.329   7.895  12.139  0.00  0.00    +0.000 A 
+ATOM     33  OH  TYR C   4      -3.556   7.606  11.598  0.00  0.00    +0.000 OA
+ATOM     34  H   CYS C   1      10.253   3.790  10.543  0.00  0.00    +0.000 HD
+ATOM     35  H   CYS C   1      11.304   4.471  11.641  0.00  0.00    +0.000 HD
+ATOM     36  H   CYS C   1      10.697   5.388  10.390  0.00  0.00    +0.000 HD
+ATOM     37  H   CYS C   1       8.813   8.090  10.978  0.00  0.00    +0.000 HD
+ATOM     38  H   GLY C   2       7.040   4.865  12.709  0.00  0.00    +0.000 HD
+ATOM     39  H   ARG C   3       3.533   5.790  10.004  0.00  0.00    +0.000 HD
+ATOM     40  H   ARG C   3      -0.620   4.844   9.530  0.00  0.00    +0.000 HD
+ATOM     41  H   ARG C   3      -1.710   7.774   8.006  0.00  0.00    +0.000 HD
+ATOM     42  H   ARG C   3      -3.337   7.556   8.467  0.00  0.00    +0.000 HD
+ATOM     43  H   ARG C   3      -3.941   5.702   9.676  0.00  0.00    +0.000 HD
+ATOM     44  H   ARG C   3      -2.766   4.539  10.095  0.00  0.00    +0.000 HD
+ATOM     45  H   TYR C   4       2.775   7.464  12.026  0.00  0.00    +0.000 HD
+ATOM     46  H   TYR C   4      -4.047   8.277  11.166  0.00  0.00    +0.000 HD
+TER 
+REMARK  Name = /data/user_data/xianyang/t3-aimnet-affinity-balanced/L1/Q9UBN7/pocket.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ATOM      1  N   GLY D   1       7.394   9.440   9.472  0.00  0.00    +0.000 N 
+ATOM      2  CA  GLY D   1       7.051   8.851   8.169  0.00  0.00    +0.000 C 
+ATOM      3  C   GLY D   1       8.232   8.301   7.408  0.00  0.00    +0.000 C 
+ATOM      4  O   GLY D   1       8.164   8.243   6.161  0.00  0.00    +0.000 OA
+ATOM      5  H   GLY D   1       6.547   9.787   9.922  0.00  0.00    +0.000 HD
+ATOM      6  H   GLY D   1       8.047  10.212   9.335  0.00  0.00    +0.000 HD
+ATOM      7  H   GLY D   1       7.826   8.730  10.063  0.00  0.00    +0.000 HD
+TER 
+REMARK  Name = /data/user_data/xianyang/t3-aimnet-affinity-balanced/L1/Q9UBN7/pocket.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ATOM      1  N   MET E   1       9.322   5.185   7.214  0.00  0.00    +0.000 N 
+ATOM      2  CA  MET E   1       9.047   3.888   6.537  0.00  0.00    +0.000 C 
+ATOM      3  C   MET E   1       8.287   4.180   5.234  0.00  0.00    +0.000 C 
+ATOM      4  O   MET E   1       8.593   3.527   4.219  0.00  0.00    +0.000 OA
+ATOM      5  CB  MET E   1       8.311   2.854   7.386  0.00  0.00    +0.000 C 
+ATOM      6  CG  MET E   1       8.203   1.483   6.667  0.00  0.00    +0.000 C 
+ATOM      7  SD  MET E   1       9.831   0.781   6.213  0.00  0.00    +0.000 S 
+ATOM      8  CE  MET E   1      10.265   0.039   7.773  0.00  0.00    +0.000 C 
+ATOM      9  N   LEU E   2       7.351   5.125   5.234  0.00  0.00    +0.000 N 
+ATOM     10  CA  LEU E   2       6.625   5.493   3.994  0.00  0.00    +0.000 C 
+ATOM     11  C   LEU E   2       7.636   6.064   2.993  0.00  0.00    +0.000 C 
+ATOM     12  O   LEU E   2       7.550   5.763   1.795  0.00  0.00    +0.000 OA
+ATOM     13  CB  LEU E   2       5.521   6.508   4.318  0.00  0.00    +0.000 C 
+ATOM     14  CG  LEU E   2       4.785   7.097   3.114  0.00  0.00    +0.000 C 
+ATOM     15  CD1 LEU E   2       4.195   6.011   2.246  0.00  0.00    +0.000 C 
+ATOM     16  CD2 LEU E   2       3.697   8.047   3.587  0.00  0.00    +0.000 C 
+ATOM     17  H   MET E   1       9.813   5.806   6.572  0.00  0.00    +0.000 HD
+ATOM     18  H   MET E   1       9.900   5.022   8.039  0.00  0.00    +0.000 HD
+ATOM     19  H   MET E   1       8.441   5.615   7.496  0.00  0.00    +0.000 HD
+ATOM     20  H   LEU E   2       7.136   5.590   6.075  0.00  0.00    +0.000 HD
+TER 
+REMARK  Name = /data/user_data/xianyang/t3-aimnet-affinity-balanced/L1/Q9UBN7/pocket.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ATOM      1  N   VAL F   1       5.566  -4.282   5.441  0.00  0.00    +0.000 N 
+ATOM      2  CA  VAL F   1       6.315  -3.852   6.641  0.00  0.00    +0.000 C 
+ATOM      3  C   VAL F   1       5.554  -4.394   7.840  0.00  0.00    +0.000 C 
+ATOM      4  O   VAL F   1       4.341  -4.485   7.819  0.00  0.00    +0.000 OA
+ATOM      5  CB  VAL F   1       6.483  -2.311   6.637  0.00  0.00    +0.000 C 
+ATOM      6  CG1 VAL F   1       7.332  -1.875   5.453  0.00  0.00    +0.000 C 
+ATOM      7  CG2 VAL F   1       5.101  -1.591   6.598  0.00  0.00    +0.000 C 
+ATOM      8  H   VAL F   1       6.039  -3.941   4.604  0.00  0.00    +0.000 HD
+ATOM      9  H   VAL F   1       4.620  -3.901   5.476  0.00  0.00    +0.000 HD
+ATOM     10  H   VAL F   1       5.521  -5.301   5.415  0.00  0.00    +0.000 HD
+TER 
+REMARK  Name = /data/user_data/xianyang/t3-aimnet-affinity-balanced/L1/Q9UBN7/pocket.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ATOM      1  N   SER G   1       4.868  -4.162  12.030  0.00  0.00    +0.000 N 
+ATOM      2  CA  SER G   1       4.818  -3.236  13.183  0.00  0.00    +0.000 C 
+ATOM      3  C   SER G   1       5.513  -3.848  14.391  0.00  0.00    +0.000 C 
+ATOM      4  O   SER G   1       5.181  -4.976  14.807  0.00  0.00    +0.000 OA
+ATOM      5  CB  SER G   1       3.406  -2.889  13.562  0.00  0.00    +0.000 C 
+ATOM      6  OG  SER G   1       3.423  -2.142  14.786  0.00  0.00    +0.000 OA
+ATOM      7  H   SER G   1       4.398  -3.736  11.231  0.00  0.00    +0.000 HD
+ATOM      8  H   SER G   1       4.400  -5.035  12.274  0.00  0.00    +0.000 HD
+ATOM      9  H   SER G   1       5.841  -4.354  11.790  0.00  0.00    +0.000 HD
+ATOM     10  H   SER G   1       3.831  -2.676  15.485  0.00  0.00    +0.000 HD
+TER 
+REMARK  Name = /data/user_data/xianyang/t3-aimnet-affinity-balanced/L1/Q9UBN7/pocket.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ATOM      1  N   ILE H   1       4.967  -2.581  17.197  0.00  0.00    +0.000 N 
+ATOM      2  CA  ILE H   1       3.952  -2.341  18.278  0.00  0.00    +0.000 C 
+ATOM      3  C   ILE H   1       3.092  -3.586  18.391  0.00  0.00    +0.000 C 
+ATOM      4  O   ILE H   1       2.978  -4.136  19.514  0.00  0.00    +0.000 OA
+ATOM      5  CB  ILE H   1       3.102  -1.088  18.018  0.00  0.00    +0.000 C 
+ATOM      6  CG1 ILE H   1       3.969   0.160  17.895  0.00  0.00    +0.000 C 
+ATOM      7  CG2 ILE H   1       1.995  -0.910  19.075  0.00  0.00    +0.000 C 
+ATOM      8  CD1 ILE H   1       5.055   0.258  18.933  0.00  0.00    +0.000 C 
+ATOM      9  N   ASP H   2       2.425  -4.015  17.319  0.00  0.00    +0.000 N 
+ATOM     10  CA  ASP H   2       1.442  -5.126  17.472  0.00  0.00    +0.000 C 
+ATOM     11  C   ASP H   2       1.672  -6.272  16.483  0.00  0.00    +0.000 C 
+ATOM     12  O   ASP H   2       0.794  -7.161  16.421  0.00  0.00    +0.000 OA
+ATOM     13  CB  ASP H   2       0.023  -4.578  17.326  0.00  0.00    +0.000 C 
+ATOM     14  CG  ASP H   2      -0.362  -4.300  15.887  0.00  0.00    +0.000 C 
+ATOM     15  OD1 ASP H   2       0.566  -4.104  15.043  0.00  0.00    +0.000 OA
+ATOM     16  OD2 ASP H   2      -1.563  -4.337  15.598  0.00  0.00    +0.000 OA
+ATOM     17  N   LEU H   3       2.804  -6.291  15.759  0.00  0.00    +0.000 N 
+ATOM     18  CA  LEU H   3       3.197  -7.396  14.855  0.00  0.00    +0.000 C 
+ATOM     19  C   LEU H   3       2.181  -7.550  13.727  0.00  0.00    +0.000 C 
+ATOM     20  O   LEU H   3       2.090  -8.665  13.192  0.00  0.00    +0.000 OA
+ATOM     21  CB  LEU H   3       3.339  -8.698  15.637  0.00  0.00    +0.000 C 
+ATOM     22  CG  LEU H   3       4.199  -8.589  16.898  0.00  0.00    +0.000 C 
+ATOM     23  CD2 LEU H   3       4.421  -9.961  17.499  0.00  0.00    +0.000 C 
+ATOM     24  CD1 LEU H   3       5.538  -7.918  16.621  0.00  0.00    +0.000 C 
+ATOM     25  N   SER H   4       1.480  -6.499  13.362  0.00  0.00    +0.000 N 
+ATOM     26  CA  SER H   4       0.595  -6.521  12.171  0.00  0.00    +0.000 C 
+ATOM     27  C   SER H   4       1.467  -6.210  10.946  0.00  0.00    +0.000 C 
+ATOM     28  O   SER H   4       2.472  -5.502  11.101  0.00  0.00    +0.000 OA
+ATOM     29  CB  SER H   4      -0.528  -5.597  12.312  0.00  0.00    +0.000 C 
+ATOM     30  OG  SER H   4      -0.028  -4.293  12.271  0.00  0.00    +0.000 OA
+ATOM     31  H   ILE H   1       5.561  -1.757  17.099  0.00  0.00    +0.000 HD
+ATOM     32  H   ILE H   1       4.488  -2.762  16.315  0.00  0.00    +0.000 HD
+ATOM     33  H   ILE H   1       5.542  -3.387  17.443  0.00  0.00    +0.000 HD
+ATOM     34  H   ASP H   2       2.579  -3.604  16.438  0.00  0.00    +0.000 HD
+ATOM     35  H   LEU H   3       3.412  -5.520  15.835  0.00  0.00    +0.000 HD
+ATOM     36  H   SER H   4       1.544  -5.673  13.894  0.00  0.00    +0.000 HD
+ATOM     37  H   SER H   4       0.609  -4.168  12.992  0.00  0.00    +0.000 HD
+TER 
+REMARK  Name = /data/user_data/xianyang/t3-aimnet-affinity-balanced/L1/Q9UBN7/pocket.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ATOM      1  N   TRP I   1       1.623  -4.569   7.093  0.00  0.00    +0.000 N 
+ATOM      2  CA  TRP I   1       0.948  -3.593   6.223  0.00  0.00    +0.000 C 
+ATOM      3  C   TRP I   1       1.549  -3.704   4.830  0.00  0.00    +0.000 C 
+ATOM      4  O   TRP I   1       2.787  -3.706   4.704  0.00  0.00    +0.000 OA
+ATOM      5  CB  TRP I   1       1.108  -2.170   6.771  0.00  0.00    +0.000 C 
+ATOM      6  CG  TRP I   1       0.461  -1.119   5.947  0.00  0.00    +0.000 C 
+ATOM      7  CD1 TRP I   1       1.099  -0.297   5.065  0.00  0.00    +0.000 C 
+ATOM      8  CD2 TRP I   1      -0.931  -0.786   5.885  0.00  0.00    +0.000 C 
+ATOM      9  NE1 TRP I   1       0.199   0.512   4.444  0.00  0.00    +0.000 NA
+ATOM     10  CE2 TRP I   1      -1.046   0.274   4.957  0.00  0.00    +0.000 C 
+ATOM     11  CE3 TRP I   1      -2.085  -1.248   6.533  0.00  0.00    +0.000 C 
+ATOM     12  CZ2 TRP I   1      -2.267   0.870   4.646  0.00  0.00    +0.000 C 
+ATOM     13  CZ3 TRP I   1      -3.289  -0.652   6.222  0.00  0.00    +0.000 C 
+ATOM     14  CH2 TRP I   1      -3.368   0.382   5.306  0.00  0.00    +0.000 C 
+ATOM     15  H   TRP I   1       1.503  -5.506   6.709  0.00  0.00    +0.000 HD
+ATOM     16  H   TRP I   1       1.216  -4.530   8.028  0.00  0.00    +0.000 HD
+ATOM     17  H   TRP I   1       2.617  -4.347   7.145  0.00  0.00    +0.000 HD
+TER 
+REMARK  Name = /data/user_data/xianyang/t3-aimnet-affinity-balanced/L1/Q9UBN7/pocket.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ATOM      1  N   TYR J   1       1.852  -1.507   1.488  0.00  0.00    +0.000 N 
+ATOM      2  CA  TYR J   1       1.687  -0.107   1.008  0.00  0.00    +0.000 C 
+ATOM      3  C   TYR J   1       0.950  -0.062  -0.340  0.00  0.00    +0.000 C 
+ATOM      4  O   TYR J   1       0.270   0.929  -0.616  0.00  0.00    +0.000 OA
+ATOM      5  CB  TYR J   1       3.027   0.599   0.850  0.00  0.00    +0.000 C 
+ATOM      6  CG  TYR J   1       3.646   1.045   2.144  0.00  0.00    +0.000 A 
+ATOM      7  CD2 TYR J   1       3.142   2.137   2.843  0.00  0.00    +0.000 A 
+ATOM      8  CD1 TYR J   1       4.741   0.396   2.655  0.00  0.00    +0.000 A 
+ATOM      9  CE2 TYR J   1       3.712   2.561   4.036  0.00  0.00    +0.000 A 
+ATOM     10  CE1 TYR J   1       5.303   0.797   3.845  0.00  0.00    +0.000 A 
+ATOM     11  CZ  TYR J   1       4.813   1.901   4.512  0.00  0.00    +0.000 A 
+ATOM     12  OH  TYR J   1       5.411   2.276   5.664  0.00  0.00    +0.000 OA
+ATOM     13  H   TYR J   1       0.935  -1.945   1.581  0.00  0.00    +0.000 HD
+ATOM     14  H   TYR J   1       2.320  -1.503   2.394  0.00  0.00    +0.000 HD
+ATOM     15  H   TYR J   1       2.413  -2.032   0.818  0.00  0.00    +0.000 HD
+ATOM     16  H   TYR J   1       6.164   1.812   5.974  0.00  0.00    +0.000 HD
+TER 
+REMARK  Name = /data/user_data/xianyang/t3-aimnet-affinity-balanced/L1/Q9UBN7/pocket.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ATOM      1  N   GLN K   1      -2.719  -1.210   0.428  0.00  0.00    +0.000 N 
+ATOM      2  CA  GLN K   1      -3.256  -0.284   1.464  0.00  0.00    +0.000 C 
+ATOM      3  C   GLN K   1      -4.132  -1.106   2.404  0.00  0.00    +0.000 C 
+ATOM      4  O   GLN K   1      -5.293  -0.717   2.703  0.00  0.00    +0.000 OA
+ATOM      5  CB  GLN K   1      -3.971   0.934   0.861  0.00  0.00    +0.000 C 
+ATOM      6  CG  GLN K   1      -3.196   1.539  -0.297  0.00  0.00    +0.000 C 
+ATOM      7  CD  GLN K   1      -4.034   2.511  -1.091  0.00  0.00    +0.000 C 
+ATOM      8  OE1 GLN K   1      -4.478   2.230  -2.207  0.00  0.00    +0.000 OA
+ATOM      9  NE2 GLN K   1      -4.282   3.665  -0.497  0.00  0.00    +0.000 N 
+ATOM     10  H   GLN K   1      -2.127  -0.690  -0.219  0.00  0.00    +0.000 HD
+ATOM     11  H   GLN K   1      -3.493  -1.632  -0.085  0.00  0.00    +0.000 HD
+ATOM     12  H   GLN K   1      -2.170  -1.942   0.878  0.00  0.00    +0.000 HD
+ATOM     13  H   GLN K   1      -4.823   4.348  -0.955  0.00  0.00    +0.000 HD
+ATOM     14  H   GLN K   1      -3.926   3.841   0.404  0.00  0.00    +0.000 HD
+TER 
+REMARK  Name = /data/user_data/xianyang/t3-aimnet-affinity-balanced/L1/Q9UBN7/pocket.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ATOM      1  N   TYR L   1      -3.838  -4.387   5.772  0.00  0.00    +0.000 N 
+ATOM      2  CA  TYR L   1      -3.099  -5.391   6.550  0.00  0.00    +0.000 C 
+ATOM      3  C   TYR L   1      -3.242  -6.731   5.844  0.00  0.00    +0.000 C 
+ATOM      4  O   TYR L   1      -4.272  -6.982   5.205  0.00  0.00    +0.000 OA
+ATOM      5  CB  TYR L   1      -3.646  -5.512   7.954  0.00  0.00    +0.000 C 
+ATOM      6  CG  TYR L   1      -3.525  -4.233   8.731  0.00  0.00    +0.000 A 
+ATOM      7  CD2 TYR L   1      -2.334  -3.934   9.361  0.00  0.00    +0.000 A 
+ATOM      8  CD1 TYR L   1      -4.596  -3.370   8.886  0.00  0.00    +0.000 A 
+ATOM      9  CE2 TYR L   1      -2.217  -2.801  10.148  0.00  0.00    +0.000 A 
+ATOM     10  CE1 TYR L   1      -4.472  -2.199   9.608  0.00  0.00    +0.000 A 
+ATOM     11  CZ  TYR L   1      -3.283  -1.930  10.261  0.00  0.00    +0.000 A 
+ATOM     12  OH  TYR L   1      -3.172  -0.789  11.013  0.00  0.00    +0.000 OA
+ATOM     13  H   TYR L   1      -3.446  -4.329   4.832  0.00  0.00    +0.000 HD
+ATOM     14  H   TYR L   1      -3.761  -3.478   6.229  0.00  0.00    +0.000 HD
+ATOM     15  H   TYR L   1      -4.820  -4.657   5.715  0.00  0.00    +0.000 HD
+ATOM     16  H   TYR L   1      -3.899  -0.203  11.085  0.00  0.00    +0.000 HD
+TER 

@@ -1,0 +1,70 @@
+{
+  "target": "2vvn",
+  "full_285_ligunity": {
+    "n": 285,
+    "n_active": 5,
+    "ef1_top_count": 3,
+    "ef1": 57.0,
+    "active_top1": 1,
+    "active_top5": 5,
+    "active_top10": 5,
+    "active_ranks": {
+      "2xj7": 1,
+      "2wca": 2,
+      "2w66": 3,
+      "2w4x": 4,
+      "2vvn": 5
+    }
+  },
+  "top20_ligunity": {
+    "n": 20,
+    "n_active": 5,
+    "ef1_top_count": 1,
+    "ef1": 4.0,
+    "active_top1": 1,
+    "active_top5": 5,
+    "active_top10": 5,
+    "active_ranks": {
+      "2xj7": 1,
+      "2wca": 2,
+      "2w66": 3,
+      "2w4x": 4,
+      "2vvn": 5
+    }
+  },
+  "top20_aimnet_interaction": {
+    "n": 20,
+    "n_active": 5,
+    "ef1_top_count": 1,
+    "ef1": 0.0,
+    "active_top1": 0,
+    "active_top5": 0,
+    "active_top10": 0,
+    "active_ranks": {
+      "2wca": 14,
+      "2w66": 15,
+      "2xj7": 16,
+      "2w4x": 18,
+      "2vvn": 19
+    }
+  },
+  "top20_aimnet2_composite": {
+    "n": 20,
+    "n_active": 5,
+    "ef1_top_count": 1,
+    "ef1": 0.0,
+    "active_top1": 0,
+    "active_top5": 0,
+    "active_top10": 1,
+    "active_ranks": {
+      "2wca": 10,
+      "2w4x": 16,
+      "2w66": 17,
+      "2vvn": 18,
+      "2xj7": 19
+    }
+  },
+  "spearman_ligunity_vs_interaction": -0.42105263157894735,
+  "spearman_ligunity_vs_composite": -0.393984962406015,
+  "n_composite_converged": 20
+}

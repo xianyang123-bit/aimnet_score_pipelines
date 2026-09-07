@@ -1,0 +1,50 @@
+[
+  {
+    "path": "/home/xianyang/aimnet-score-reference/6qot-oldgas-k1.csv",
+    "status": "deleted_outdated_result",
+    "reason": "Exact refinement settings and/or supplied interaction-value provenance are not fully recorded in the canonical workflow.",
+    "deleted_on": "2026-09-06"
+  },
+  {
+    "path": "/home/xianyang/aimnet-score-reference/6qot-refined-k01.csv",
+    "status": "deleted_outdated_result",
+    "reason": "Exact refinement settings and/or supplied interaction-value provenance are not fully recorded in the canonical workflow.",
+    "deleted_on": "2026-09-06"
+  },
+  {
+    "path": "/home/xianyang/aimnet-score-reference/6qot-refined.csv",
+    "status": "deleted_outdated_result",
+    "reason": "Exact refinement settings and/or supplied interaction-value provenance are not fully recorded in the canonical workflow.",
+    "deleted_on": "2026-09-06"
+  },
+  {
+    "path": "/home/xianyang/aimnet-score-reference/6qot-refined-k100.csv",
+    "status": "deleted_outdated_result",
+    "reason": "Exact refinement settings and/or supplied interaction-value provenance are not fully recorded in the canonical workflow.",
+    "deleted_on": "2026-09-06"
+  },
+  {
+    "path": "/home/xianyang/aimnet-score-reference/6qot-smoke.csv",
+    "status": "deleted_outdated_result",
+    "reason": "Exact refinement settings and/or supplied interaction-value provenance are not fully recorded in the canonical workflow.",
+    "deleted_on": "2026-09-06"
+  },
+  {
+    "path": "/home/xianyang/aimnet-score-reference/6qot-refined-k1.csv",
+    "status": "deleted_outdated_result",
+    "reason": "Exact refinement settings and/or supplied interaction-value provenance are not fully recorded in the canonical workflow.",
+    "deleted_on": "2026-09-06"
+  },
+  {
+    "path": "/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/B4RNM9/aimnet2-score-refined-smoke-3.csv",
+    "status": "deleted_outdated_result",
+    "reason": "Exploratory three-ligand protocol not used by the canonical 250-ligand summary; retained as historical, not a corrected result.",
+    "deleted_on": "2026-09-06"
+  },
+  {
+    "path": "/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/B4RNM9/aimnet2-score-smoke-3.csv",
+    "status": "deleted_outdated_result",
+    "reason": "Exploratory three-ligand protocol not used by the canonical 250-ligand summary; retained as historical, not a corrected result.",
+    "deleted_on": "2026-09-06"
+  }
+]

@@ -1,0 +1,1 @@
+The composite script now minimizes the ligand in a fixed pocket before recalculating interaction. Numerical results in this bundle precede that change. Only the separate bound-minimized-20260906 three-ligand test uses the new protocol.

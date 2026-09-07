@@ -1,0 +1,134 @@
+COMMAND: /home/xianyang/miniconda3/envs/t3-aimnet/bin/smina -r /data/user_data/xianyang/t3-aimnet-affinity-balanced/L4/Q9Y239/pocket.pdbqt -l /data/user_data/xianyang/t3-aimnet-affinity-balanced/L4/Q9Y239/input_3d.sdf --center_x 16.04 --center_y 13.745 --center_z 16.5695 --size_x 34.108000000000004 --size_y 33.306 --size_z 28.165 --exhaustiveness 8 --num_modes 1 --cpu 4 --seed 1 -o /data/user_data/xianyang/t3-aimnet-affinity-balanced/L4/Q9Y239/poses.sdf
+
+   _______  _______ _________ _        _______ 
+  (  ____ \(       )\__   __/( (    /|(  ___  )
+  | (    \/| () () |   ) (   |  \  ( || (   ) |
+  | (_____ | || || |   | |   |   \ | || (___) |
+  (_____  )| |(_)| |   | |   | (\ \) ||  ___  |
+        ) || |   | |   | |   | | \   || (   ) |
+  /\____) || )   ( |___) (___| )  \  || )   ( |
+  \_______)|/     \|\_______/|/    )_)|/     \|
+
+
+smina is based off AutoDock Vina. Please cite appropriately.
+
+Weights      Terms
+-0.035579    gauss(o=0,_w=0.5,_c=8)
+-0.005156    gauss(o=3,_w=2,_c=8)
+0.840245     repulsion(o=0,_c=8)
+-0.035069    hydrophobic(g=0.5,_b=1.5,_c=8)
+-0.587439    non_dir_h_bond(g=-0.7,_b=0,_c=8)
+1.923        num_tors_div
+
+Using random seed: 1
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+1       -9.4       0.000      0.000    
+Refine time 8.821
+Using random seed: 1
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+1       -7.3       0.000      0.000    
+Refine time 15.459
+Using random seed: 1
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+1       -11.0      0.000      0.000    
+Refine time 14.502
+Using random seed: 1
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+1       -7.3       0.000      0.000    
+Refine time 11.100
+Using random seed: 1
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+1       -11.4      0.000      0.000    
+Refine time 14.458
+Using random seed: 1
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+1       -8.5       0.000      0.000    
+Refine time 4.725
+Using random seed: 1
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+1       -5.8       0.000      0.000    
+Refine time 16.848
+Using random seed: 1
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+1       -8.3       0.000      0.000    
+Refine time 9.248
+Using random seed: 1
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+1       -8.8       0.000      0.000    
+Refine time 10.319
+Using random seed: 1
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+1       -8.2       0.000      0.000    
+Refine time 11.348
+Loop time 124.041
+

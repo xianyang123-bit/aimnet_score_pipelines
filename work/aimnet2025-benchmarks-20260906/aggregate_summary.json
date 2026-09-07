@@ -1,0 +1,98 @@
+{
+  "protocol": "fixed_pocket_aimnet2025_minimized_v2",
+  "n_scored": 1667,
+  "n_system_jobs": 134,
+  "n_complex_converged": 1440,
+  "n_cpcm_converged": 1490,
+  "n_both_converged": 1313,
+  "n_complex_energy_increased": 0,
+  "t3": {
+    "L1": {
+      "n_systems": 24,
+      "n_ligands": 231,
+      "n_evaluable": 24,
+      "mean_interaction_spearman": -0.04066913510623316,
+      "mean_composite_spearman": -0.087748213171697,
+      "mean_smina_spearman": 0.03016977856368445,
+      "mean_pre_min_interaction_spearman": -0.053404457678782
+    },
+    "L2": {
+      "n_systems": 24,
+      "n_ligands": 236,
+      "n_evaluable": 24,
+      "mean_interaction_spearman": 0.04775105094762492,
+      "mean_composite_spearman": 0.10177984409020308,
+      "mean_smina_spearman": 0.0945087049763414,
+      "mean_pre_min_interaction_spearman": 0.10695255970531957
+    },
+    "L3": {
+      "n_systems": 23,
+      "n_ligands": 230,
+      "n_evaluable": 23,
+      "mean_interaction_spearman": 0.23502752725147208,
+      "mean_composite_spearman": 0.2173642998274317,
+      "mean_smina_spearman": 0.1069261898698833,
+      "mean_pre_min_interaction_spearman": 0.08535163538291508
+    },
+    "L4": {
+      "n_systems": 22,
+      "n_ligands": 220,
+      "n_evaluable": 21,
+      "mean_interaction_spearman": 0.13297149753645468,
+      "mean_composite_spearman": 0.11685354419335474,
+      "mean_smina_spearman": -0.0103609081369245,
+      "mean_pre_min_interaction_spearman": -0.06568648170943459
+    }
+  },
+  "casf": {
+    "n_pockets": 24,
+    "n_ligands": 480,
+    "pose_selection": "All available poses rescored with AIMNet2(2025) member 0; lowest interaction-energy pose selected per ligand, then minimized",
+    "total_allposes_scored": 47896,
+    "selected_poses_changed": 320,
+    "pre_min_interaction_ef1": 1.638888888888889,
+    "interaction_ef1": 0.9722222222222223,
+    "composite_ef1": 0.9722222222222223,
+    "retrieval_ef1": 3.2023809523809526,
+    "interaction_active_top5": 1.2916666666666667,
+    "composite_active_top5": 1.4166666666666667,
+    "retrieval_active_top5": 4.333333333333333,
+    "interaction_active_top10": 2.7083333333333335,
+    "composite_active_top10": 2.4583333333333335,
+    "retrieval_active_top10": 4.791666666666667
+  },
+  "smoke": {
+    "pre_min_interaction": {
+      "n": 250,
+      "n_actives": 58,
+      "ef1": 0.0,
+      "auroc": 0.5795617816091954,
+      "active_top5": 2,
+      "active_top10": 3
+    },
+    "interaction": {
+      "n": 250,
+      "n_actives": 58,
+      "ef1": 1.4367816091954022,
+      "auroc": 0.5422054597701149,
+      "active_top5": 1,
+      "active_top10": 1
+    },
+    "composite": {
+      "n": 250,
+      "n_actives": 58,
+      "ef1": 0.0,
+      "auroc": 0.521551724137931,
+      "active_top5": 0,
+      "active_top10": 3
+    }
+  },
+  "excluded_inputs": [
+    "L3/P18564: zero-byte poses",
+    "L4/Q15726: zero-byte poses",
+    "L4/Q8TDU9: zero-byte poses"
+  ],
+  "validation": "All input ligand IDs matched; no scoring errors; energy arithmetic passed at 1e-6 kcal/mol",
+  "convergence_policy": "All finite scores included; nonconverged rows flagged",
+  "comparison_note": "Interaction and fixed-pocket minimization use AIMNet2(2025) member 0. Desolvation uses the separate legacy wB97M gas and wB97M-CPCM pair. CASF comparisons also include refreshed pose selection."
+}

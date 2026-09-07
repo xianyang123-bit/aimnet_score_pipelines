@@ -1,0 +1,14 @@
+{
+  "model": "aimnet2-2025",
+  "definition": "E_complex - E_pocket - E_ligand",
+  "neighbor_backend": "explicit_torch_cdist_full_legacy_coulomb_v2",
+  "scope": "250-ligand nonrandom smoke-test chunk; not full-library EF1",
+  "n_scored": 250,
+  "n": 250,
+  "n_actives": 58,
+  "n_decoys": 192,
+  "ef1_top_n": 3,
+  "ef1_actives_in_top_n": 0,
+  "ef1": 0.0,
+  "auroc": 0.5796515804597702
+}\n

@@ -1,0 +1,53 @@
+Bound geometry uses fixed-pocket gas FIRE. Legacy CPCM bound-refinement options are ignored.
+/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/site-packages/aimnet/models/base.py:85: UserWarning: 'torch.load' received a zip file that looks like a TorchScript archive dispatching to 'torch.jit.load' (call 'torch.jit.load' directly to silence this warning)
+  data = torch.load(path, map_location=device, weights_only=True)
+/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/site-packages/torch/jit/_serialization.py:176: FutureWarning: `torch.jit.load` is deprecated. Please switch to `torch.export`.
+  warnings.warn(
+/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/site-packages/torch/jit/_serialization.py:176: FutureWarning: `torch.jit.load` is deprecated. Please switch to `torch.export`.
+  warnings.warn(
+1/10 mol_id=6919 Eint=-54.030 desolv=11.594 strain=13.276 score=-29.159 steps=586 converged=True
+2/10 mol_id=25339 Eint=-68.608 desolv=12.025 strain=16.308 score=-40.276 steps=441 converged=True
+3/10 mol_id=32149 Eint=-81.402 desolv=12.668 strain=26.889 score=-41.845 steps=1000 converged=False
+4/10 mol_id=37452 Eint=-72.305 desolv=24.196 strain=13.605 score=-34.504 steps=606 converged=True
+5/10 mol_id=46896 Eint=-65.291 desolv=16.096 strain=16.632 score=-32.563 steps=573 converged=True
+6/10 mol_id=62803 Eint=-116.610 desolv=17.868 strain=34.375 score=-64.367 steps=773 converged=True
+7/10 mol_id=73412 Eint=-66.514 desolv=9.283 strain=18.873 score=-38.359 steps=581 converged=True
+8/10 mol_id=95108 Eint=-145.548 desolv=23.468 strain=32.217 score=-89.863 steps=585 converged=True
+9/10 mol_id=111632 Eint=-388.478 desolv=46.607 strain=209.835 score=-132.037 steps=1000 converged=False
+10/10 mol_id=136992 Eint=-50.223 desolv=19.831 strain=13.002 score=-17.390 steps=550 converged=True
+wrote 10 rows to /home/xianyang/aimnet2_score_pipelines/work/aimnet2025-benchmarks-20260906/t3/L1/Q92793/aimnet2_score.csv in 110.19 s
+{
+  "scope": "reference reconstruction; not an exact reproduction of the unreleased AIMNet2(Score) workflow",
+  "score_definition": "Eint + Edesolv + ELCSE; lower is better",
+  "interaction_geometry": "fixed_pocket_aimnet2025_minimized_v2",
+  "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q92793/pocket.pdb",
+  "pocket_charge": 0,
+  "gas_model": "/home/xianyang/t3-aimnet-models/aimnet2_wb97m_0.jpt",
+  "interaction_model": "aimnet2-2025",
+  "interaction_members": [
+    "aimnet2-2025"
+  ],
+  "cpcm_model": "/home/xianyang/t3-aimnet-models/wb97m_cpcms_v2_0.jpt",
+  "complex_fmax_ev_a": 0.002,
+  "complex_max_steps": 1000,
+  "n_complex_optimization_converged": 6,
+  "minimized_poses": "/home/xianyang/aimnet2_score_pipelines/work/aimnet2025-benchmarks-20260906/t3/L1/Q92793/aimnet2_score.minimized.sdf",
+  "bound_refinement": "AIMNet2(2025) ligand-in-fixed-pocket FIRE; no isolated bound refinement",
+  "n_requested": 10,
+  "n_scored": 10,
+  "n_errors": 0,
+  "n_optimization_converged": 8,
+  "elapsed_seconds_this_run": 110.1874739729974,
+  "output": "/home/xianyang/aimnet2_score_pipelines/work/aimnet2025-benchmarks-20260906/t3/L1/Q92793/aimnet2_score.csv"
+}
+ mol_id  aimnet_interaction_kcal_mol  desolvation_kcal_mol  local_strain_kcal_mol  aimnet2_composite_kcal_mol  optimization_converged
+   6919                   -54.029558             11.594230              13.275964                  -29.159365                    True
+  25339                   -68.607757             12.024503              16.307681                  -40.275573                    True
+  32149                   -81.402151             12.667857              26.889090                  -41.845204                   False
+  37452                   -72.305040             24.196387              13.604578                  -34.504075                    True
+  46896                   -65.290878             16.096138              16.631539                  -32.563202                    True
+  62803                  -116.609567             17.868324              34.374734                  -64.366509                    True
+  73412                   -66.514470              9.282795              18.872506                  -38.359169                    True
+  95108                  -145.548333             23.467965              32.216916                  -89.863452                    True
+ 111632                  -388.478049             46.606651             209.834653                 -132.036745                   False
+ 136992                   -50.222570             19.830976              13.001540                  -17.390054                    True

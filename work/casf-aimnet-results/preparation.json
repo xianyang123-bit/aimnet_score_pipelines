@@ -1,0 +1,29 @@
+{
+  "target": "3ebp",
+  "top_n": 20,
+  "pocket_source": "/data/user_data/xianyang/casf-2016/extracted/CASF-2016/coreset/3ebp/3ebp_pocket.pdb",
+  "pose_counts": {
+    "2xnb": 100,
+    "4eor": 100,
+    "1pxn": 100,
+    "2fvd": 100,
+    "3pxf": 100,
+    "4eky": 100,
+    "3g2n": 100,
+    "3ebp": 100,
+    "3l7b": 100,
+    "3syr": 100,
+    "4wiv": 100,
+    "4lzs": 100,
+    "3u5j": 100,
+    "3p5o": 100,
+    "4ogj": 100,
+    "2wbg": 100,
+    "2cet": 100,
+    "2j7h": 100,
+    "2cbv": 100,
+    "2j78": 100
+  },
+  "total_poses": 2000,
+  "combined_sdf": "/data/user_data/xianyang/casf-2016/ligunity/rerank-3ebp-top20/3ebp_retrieved_top20_allposes.sdf"
+}

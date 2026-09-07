@@ -1,0 +1,978 @@
+[
+  {
+    "key": "t3/L1/O95271",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/O95271/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/O95271/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/O95271/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/P00338",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P00338/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P00338/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P00338/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/P06239",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P06239/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P06239/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P06239/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/P08922",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P08922/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P08922/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P08922/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/P0C6U8",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P0C6U8/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P0C6U8/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P0C6U8/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/P33981",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P33981/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P33981/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P33981/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/P35354",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P35354/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P35354/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P35354/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/P49327",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P49327/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P49327/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P49327/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/P49759",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P49759/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P49759/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P49759/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/P50053",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P50053/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P50053/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P50053/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/P51532",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P51532/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P51532/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P51532/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/P56524",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P56524/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P56524/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P56524/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/P62937",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P62937/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P62937/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P62937/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/Q06124",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q06124/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q06124/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q06124/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/Q07343",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q07343/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q07343/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q07343/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/Q08499",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q08499/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q08499/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q08499/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/Q15059",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q15059/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q15059/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q15059/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/Q6GI75",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q6GI75/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q6GI75/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q6GI75/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/Q86WV6",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q86WV6/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q86WV6/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q86WV6/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/Q86X55",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q86X55/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q86X55/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q86X55/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/Q8N1Q1",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q8N1Q1/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q8N1Q1/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q8N1Q1/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/Q92793",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q92793/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q92793/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q92793/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/Q96MU7",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q96MU7/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q96MU7/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q96MU7/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L1/Q9UBN7",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q9UBN7/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q9UBN7/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/Q9UBN7/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/O14757",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/O14757/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/O14757/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/O14757/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/O43318",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/O43318/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/O43318/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/O43318/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/O75460",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/O75460/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/O75460/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/O75460/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/O95819",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/O95819/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/O95819/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/O95819/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/P05177",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P05177/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P05177/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P05177/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/P06730",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P06730/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P06730/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P06730/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/P08254",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P08254/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P08254/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P08254/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/P18825",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P18825/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P18825/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P18825/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/P31153",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P31153/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P31153/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P31153/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/P31645",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P31645/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P31645/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P31645/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/P36897",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P36897/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P36897/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P36897/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/P41143",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P41143/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P41143/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P41143/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/P43166",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P43166/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P43166/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P43166/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/P43405",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P43405/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P43405/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P43405/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/P56817",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P56817/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P56817/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/P56817/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/Q06187",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q06187/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q06187/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q06187/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/Q13224",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q13224/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q13224/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q13224/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/Q13822",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q13822/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q13822/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q13822/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/Q14145",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q14145/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q14145/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q14145/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/Q15119",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q15119/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q15119/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q15119/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/Q6P179",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q6P179/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q6P179/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q6P179/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/Q8NER1",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q8NER1/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q8NER1/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q8NER1/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/Q92793",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q92793/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q92793/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q92793/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L2/Q9Y5Z0",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q9Y5Z0/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q9Y5Z0/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L2/Q9Y5Z0/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/A0A1D8PKB4",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/A0A1D8PKB4/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/A0A1D8PKB4/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/A0A1D8PKB4/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/O14638",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/O14638/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/O14638/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/O14638/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/P05556",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P05556/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P05556/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P05556/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/P05622",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P05622/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P05622/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P05622/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/P11926",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P11926/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P11926/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P11926/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/P28347",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P28347/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P28347/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P28347/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/P40879",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P40879/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P40879/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P40879/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/P43250",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P43250/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P43250/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P43250/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/P51684",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P51684/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P51684/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P51684/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/P56528",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P56528/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P56528/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/P56528/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/Q00959",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q00959/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q00959/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q00959/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/Q00961",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q00961/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q00961/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q00961/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/Q15878",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q15878/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q15878/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q15878/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/Q16665",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q16665/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q16665/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q16665/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/Q62645",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q62645/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q62645/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q62645/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/Q92830",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q92830/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q92830/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q92830/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/Q96LB1",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q96LB1/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q96LB1/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q96LB1/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/Q9HCR9",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q9HCR9/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q9HCR9/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q9HCR9/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/Q9NPC1",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q9NPC1/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q9NPC1/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q9NPC1/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/Q9NR22",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q9NR22/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q9NR22/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q9NR22/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/Q9UKS7",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q9UKS7/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q9UKS7/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q9UKS7/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/Q9Y4K4",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q9Y4K4/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q9Y4K4/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q9Y4K4/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L3/Q9Y6M4",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q9Y6M4/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q9Y6M4/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L3/Q9Y6M4/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/O00767",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/O00767/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/O00767/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/O00767/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/O75747",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/O75747/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/O75747/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/O75747/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/O94782",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/O94782/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/O94782/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/O94782/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/P09871",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/P09871/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/P09871/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/P09871/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/P24863",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/P24863/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/P24863/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/P24863/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/P37059",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/P37059/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/P37059/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/P37059/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/P42226",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/P42226/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/P42226/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/P42226/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/P43341",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/P43341/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/P43341/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/P43341/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/P50052",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/P50052/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/P50052/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/P50052/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/Q08211",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q08211/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q08211/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q08211/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/Q08828",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q08828/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q08828/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q08828/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/Q13094",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q13094/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q13094/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q13094/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/Q13724",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q13724/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q13724/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q13724/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/Q6SZW1",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q6SZW1/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q6SZW1/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q6SZW1/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/Q70CQ3",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q70CQ3/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q70CQ3/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q70CQ3/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/Q96PC2",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q96PC2/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q96PC2/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q96PC2/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/Q99705",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q99705/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q99705/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q99705/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/Q9GZQ6",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q9GZQ6/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q9GZQ6/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q9GZQ6/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/Q9HB14",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q9HB14/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q9HB14/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q9HB14/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/Q9NY59",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q9NY59/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q9NY59/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q9NY59/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/Q9Y239",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q9Y239/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q9Y239/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q9Y239/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "t3/L4/Q9Y4K0",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q9Y4K0/poses.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q9Y4K0/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q9Y4K0/aimnet_interaction.csv",
+    "n": 10,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "casf/1e66",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/1e66/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/1e66/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/1e66/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/1nvq",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/1nvq/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/1nvq/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/1nvq/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/2cet",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/2cet/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/2cet/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/2cet/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/2fvd",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/2fvd/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/2fvd/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/2fvd/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/2p4y",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/2p4y/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/2p4y/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/2p4y/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/2qbp",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/2qbp/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/2qbp/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/2qbp/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/2r9w",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/2r9w/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/2r9w/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/2r9w/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/2vvn",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/2vvn/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/2vvn/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/2vvn/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/3ag9",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3ag9/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3ag9/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3ag9/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/3arp",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3arp/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3arp/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3arp/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/3coy",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3coy/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3coy/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3coy/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/3e93",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3e93/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3e93/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3e93/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/3ebp",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3ebp/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3ebp/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3ebp/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/3f3e",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3f3e/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3f3e/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3f3e/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/3ge7",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3ge7/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3ge7/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3ge7/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/3gnw",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3gnw/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3gnw/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3gnw/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/3myg",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3myg/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3myg/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3myg/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/3qqs",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3qqs/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3qqs/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/3qqs/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/4gid",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/4gid/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/4gid/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/4gid/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/4ivc",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/4ivc/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/4ivc/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/4ivc/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/4jia",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/4jia/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/4jia/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/4jia/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/4pcs",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/4pcs/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/4pcs/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/4pcs/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/4twp",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/4twp/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/4twp/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/4twp/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf/5dwr",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/5dwr/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/5dwr/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf/5dwr/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "casf-single",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf-single/aimnet_interaction_bestpose.sdf",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf-single/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/casf-single/aimnet_interaction_bestpose.csv",
+    "n": 20,
+    "output": "aimnet2_composite_rerank.csv"
+  },
+  {
+    "key": "smoke/part0",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/smoke/part0/poses.sdf.gz",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/smoke/part0/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/smoke/part0/aimnet_interaction.csv",
+    "n": 250,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "smoke/part1",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/smoke/part1/poses.sdf.gz",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/smoke/part1/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/smoke/part1/aimnet_interaction.csv",
+    "n": 250,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "smoke/part2",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/smoke/part2/poses.sdf.gz",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/smoke/part2/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/smoke/part2/aimnet_interaction.csv",
+    "n": 250,
+    "output": "aimnet2_score.csv"
+  },
+  {
+    "key": "smoke/part3",
+    "poses": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/smoke/part3/poses.sdf.gz",
+    "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/smoke/part3/pocket.pdb",
+    "interaction": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/smoke/part3/aimnet_interaction.csv",
+    "n": 250,
+    "output": "aimnet2_score.csv"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "atom_count_mismatches": 0,
+  "complete": true,
+  "embed_failures": 0,
+  "embedded": 10,
+  "hydrogenation_returncode": 0,
+  "layer": "L4",
+  "missing_mol_id_properties": 0,
+  "output_poses": 10,
+  "raw_output_poses": 10,
+  "reconstruction_failures": 0,
+  "requested": 10,
+  "smina_returncode": 0,
+  "task_id": 77,
+  "uniprot": "P37059"
+}

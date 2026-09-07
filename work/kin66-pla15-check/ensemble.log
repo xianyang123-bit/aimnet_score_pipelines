@@ -1,0 +1,634 @@
+Validated 81 systems and matched fragment atoms; testing both geometry conventions
+Downloading https://storage.googleapis.com/aimnetcentral/aimnet2v2/AIMNet2/aimnet2_2025_b973c_d3_1.pt -> /home/xianyang/.cache/aimnet/aimnet2_2025_b973c_d3_1.pt
+aimnet2_2025_member1 {'model': 'aimnet2-b973c-2025-d3_1', 'metadata': mappingproxy({'format_version': 2, 'cutoff': 5.0, 'needs_coulomb': True, 'needs_dispersion': True, 'coulomb_mode': 'sr_embedded', 'coulomb_sr_rc': 4.599999904632568, 'coulomb_sr_envelope': 'exp', 'd3_params': {'s8': 1.5, 'a1': 0.37, 'a2': 4.1, 's6': 1.0}, 'has_embedded_lr': True, 'implemented_species': [1, 5, 6, 7, 8, 9, 14, 15, 16, 17, 33, 34, 35, 53], 'family': 'b973c-2025-d3', 'supports_charged_systems': None, 'has_embedded_d3ts': False}), 'coulomb_method': 'simple', 'coulomb_cutoff': inf}
+aimnet2_2025_member1 cdk2 17 -53.6698
+aimnet2_2025_member1 cdk2 17 -53.6975
+aimnet2_2025_member1 cdk2 1h1q -52.9761
+aimnet2_2025_member1 cdk2 1h1q -53.0287
+aimnet2_2025_member1 cdk2 1h1r -52.9037
+aimnet2_2025_member1 cdk2 1h1r -52.942
+aimnet2_2025_member1 cdk2 1h1s -85.2658
+aimnet2_2025_member1 cdk2 1h1s -85.2303
+aimnet2_2025_member1 cdk2 1oi9 -60.4702
+aimnet2_2025_member1 cdk2 1oi9 -60.5141
+aimnet2_2025_member1 cdk2 1oiu -68.4624
+aimnet2_2025_member1 cdk2 1oiu -68.5137
+aimnet2_2025_member1 cdk2 1oiy -72.8824
+aimnet2_2025_member1 cdk2 1oiy -72.8703
+aimnet2_2025_member1 cdk2 20 -69.1695
+aimnet2_2025_member1 cdk2 20 -69.1723
+aimnet2_2025_member1 cdk2 21 -64.8748
+aimnet2_2025_member1 cdk2 21 -64.9809
+aimnet2_2025_member1 cdk2 22 -62.8913
+aimnet2_2025_member1 cdk2 22 -62.9001
+aimnet2_2025_member1 cdk2 26 -61.3352
+aimnet2_2025_member1 cdk2 26 -61.2392
+aimnet2_2025_member1 cdk2 28 -86.18
+aimnet2_2025_member1 cdk2 28 -86.1948
+aimnet2_2025_member1 cdk2 29 -80.4298
+aimnet2_2025_member1 cdk2 29 -80.3893
+aimnet2_2025_member1 cdk2 30 -67.9584
+aimnet2_2025_member1 cdk2 30 -67.9018
+aimnet2_2025_member1 cdk2 31 -60.1384
+aimnet2_2025_member1 cdk2 31 -60.1407
+aimnet2_2025_member1 cdk2 32 -85.4943
+aimnet2_2025_member1 cdk2 32 -85.5008
+aimnet2_2025_member1 p38 2aa -62.3587
+aimnet2_2025_member1 p38 2aa -62.2976
+aimnet2_2025_member1 p38 2bb -53.1697
+aimnet2_2025_member1 p38 2bb -53.187
+aimnet2_2025_member1 p38 2c -59.2478
+aimnet2_2025_member1 p38 2c -59.2532
+aimnet2_2025_member1 p38 2e -53.1259
+aimnet2_2025_member1 p38 2e -53.0891
+aimnet2_2025_member1 p38 2ee -56.4015
+aimnet2_2025_member1 p38 2ee -56.3851
+aimnet2_2025_member1 p38 2f -51.1749
+aimnet2_2025_member1 p38 2f -51.1255
+aimnet2_2025_member1 p38 2ff -63.8219
+aimnet2_2025_member1 p38 2ff -63.7871
+aimnet2_2025_member1 p38 2g -53.4592
+aimnet2_2025_member1 p38 2g -53.4025
+aimnet2_2025_member1 p38 2gg -57.6831
+aimnet2_2025_member1 p38 2gg -57.6216
+aimnet2_2025_member1 p38 2h -55.0684
+aimnet2_2025_member1 p38 2h -55.0774
+aimnet2_2025_member1 p38 2i -53.6405
+aimnet2_2025_member1 p38 2i -53.5774
+aimnet2_2025_member1 p38 2j -53.942
+aimnet2_2025_member1 p38 2j -53.9464
+aimnet2_2025_member1 p38 2k -50.1604
+aimnet2_2025_member1 p38 2k -50.1813
+aimnet2_2025_member1 p38 2l -56.1129
+aimnet2_2025_member1 p38 2l -56.1159
+aimnet2_2025_member1 p38 2m -56.2402
+aimnet2_2025_member1 p38 2m -56.2821
+aimnet2_2025_member1 p38 2n -60.258
+aimnet2_2025_member1 p38 2n -60.3295
+aimnet2_2025_member1 p38 2o -56.2727
+aimnet2_2025_member1 p38 2o -56.2925
+aimnet2_2025_member1 p38 2p -63.0055
+aimnet2_2025_member1 p38 2p -62.9197
+aimnet2_2025_member1 p38 2q -61.0833
+aimnet2_2025_member1 p38 2q -61.082
+aimnet2_2025_member1 p38 2r -62.7857
+aimnet2_2025_member1 p38 2r -62.6848
+aimnet2_2025_member1 p38 2s -73.0781
+aimnet2_2025_member1 p38 2s -73.1011
+aimnet2_2025_member1 p38 2t -55.314
+aimnet2_2025_member1 p38 2t -55.2668
+aimnet2_2025_member1 p38 2u -66.9952
+aimnet2_2025_member1 p38 2u -67.0515
+aimnet2_2025_member1 p38 2v -46.6751
+aimnet2_2025_member1 p38 2v -46.5936
+aimnet2_2025_member1 p38 2x -50.6402
+aimnet2_2025_member1 p38 2x -50.7195
+aimnet2_2025_member1 p38 2y -49.7948
+aimnet2_2025_member1 p38 2y -49.8051
+aimnet2_2025_member1 p38 2z -50.8564
+aimnet2_2025_member1 p38 2z -50.8728
+aimnet2_2025_member1 p38 3fln -52.8731
+aimnet2_2025_member1 p38 3fln -52.8942
+aimnet2_2025_member1 p38 3flq -56.042
+aimnet2_2025_member1 p38 3flq -56.0274
+aimnet2_2025_member1 p38 3flw -54.1865
+aimnet2_2025_member1 p38 3flw -54.266
+aimnet2_2025_member1 p38 3fly -50.0895
+aimnet2_2025_member1 p38 3fly -50.0726
+aimnet2_2025_member1 p38 3flz -53.3277
+aimnet2_2025_member1 p38 3flz -53.3439
+aimnet2_2025_member1 p38 3fmh -56.1362
+aimnet2_2025_member1 p38 3fmh -56.1112
+aimnet2_2025_member1 p38 3fmk -54.643
+aimnet2_2025_member1 p38 3fmk -54.7035
+aimnet2_2025_member1 tyk2 ejm_31 -51.7435
+aimnet2_2025_member1 tyk2 ejm_31 -51.7511
+aimnet2_2025_member1 tyk2 ejm_42 -56.015
+aimnet2_2025_member1 tyk2 ejm_42 -56.0184
+aimnet2_2025_member1 tyk2 ejm_43 -51.1504
+aimnet2_2025_member1 tyk2 ejm_43 -51.1707
+aimnet2_2025_member1 tyk2 ejm_44 -49.7094
+aimnet2_2025_member1 tyk2 ejm_44 -49.6655
+aimnet2_2025_member1 tyk2 ejm_45 -55.0666
+aimnet2_2025_member1 tyk2 ejm_45 -55.0607
+aimnet2_2025_member1 tyk2 ejm_46 -56.1165
+aimnet2_2025_member1 tyk2 ejm_46 -56.0799
+aimnet2_2025_member1 tyk2 ejm_47 -58.9601
+aimnet2_2025_member1 tyk2 ejm_47 -58.8713
+aimnet2_2025_member1 tyk2 ejm_48 -54.6845
+aimnet2_2025_member1 tyk2 ejm_48 -54.6959
+aimnet2_2025_member1 tyk2 ejm_49 -63.2516
+aimnet2_2025_member1 tyk2 ejm_49 -63.2371
+aimnet2_2025_member1 tyk2 ejm_50 -65.9531
+aimnet2_2025_member1 tyk2 ejm_50 -65.9705
+aimnet2_2025_member1 tyk2 ejm_54 -62.2485
+aimnet2_2025_member1 tyk2 ejm_54 -62.253
+aimnet2_2025_member1 tyk2 ejm_55 -51.1953
+aimnet2_2025_member1 tyk2 ejm_55 -51.2089
+aimnet2_2025_member1 tyk2 jmc_23 -66.1907
+aimnet2_2025_member1 tyk2 jmc_23 -66.2148
+aimnet2_2025_member1 tyk2 jmc_27 -70.0786
+aimnet2_2025_member1 tyk2 jmc_27 -70.0794
+aimnet2_2025_member1 tyk2 jmc_28 -56.8128
+aimnet2_2025_member1 tyk2 jmc_28 -56.7862
+aimnet2_2025_member1 tyk2 jmc_30 -76.5955
+aimnet2_2025_member1 tyk2 jmc_30 -76.6139
+aimnet2_2025_member1 PLA15 10GS -223.7699
+aimnet2_2025_member1 PLA15 10GS -223.7699
+aimnet2_2025_member1 PLA15 2CET -234.0961
+aimnet2_2025_member1 PLA15 2CET -234.0959
+aimnet2_2025_member1 PLA15 2FVD -72.3622
+aimnet2_2025_member1 PLA15 2FVD -72.3623
+aimnet2_2025_member1 PLA15 2OBF -186.4175
+aimnet2_2025_member1 PLA15 2OBF -186.4177
+aimnet2_2025_member1 PLA15 2P4Y -146.1699
+aimnet2_2025_member1 PLA15 2P4Y -146.1711
+aimnet2_2025_member1 PLA15 2VOT -229.7239
+aimnet2_2025_member1 PLA15 2VOT -229.7239
+aimnet2_2025_member1 PLA15 2VW5 -85.3106
+aimnet2_2025_member1 PLA15 2VW5 -85.3104
+aimnet2_2025_member1 PLA15 2XB8 -175.8985
+aimnet2_2025_member1 PLA15 2XB8 -175.8988
+aimnet2_2025_member1 PLA15 2YKI -83.3241
+aimnet2_2025_member1 PLA15 2YKI -83.3256
+aimnet2_2025_member1 PLA15 2ZX6 -221.5635
+aimnet2_2025_member1 PLA15 2ZX6 -221.564
+aimnet2_2025_member1 PLA15 3G0W -55.4163
+aimnet2_2025_member1 PLA15 3G0W -55.4199
+aimnet2_2025_member1 PLA15 3GNW -71.9172
+aimnet2_2025_member1 PLA15 3GNW -71.9178
+aimnet2_2025_member1 PLA15 3NOX -226.251
+aimnet2_2025_member1 PLA15 3NOX -226.2507
+aimnet2_2025_member1 PLA15 3PE2 -126.5765
+aimnet2_2025_member1 PLA15 3PE2 -126.5754
+aimnet2_2025_member1 PLA15 4GID -179.8739
+aimnet2_2025_member1 PLA15 4GID -179.8774
+Downloading https://storage.googleapis.com/aimnetcentral/aimnet2v2/AIMNet2/aimnet2_2025_b973c_d3_2.pt -> /home/xianyang/.cache/aimnet/aimnet2_2025_b973c_d3_2.pt
+aimnet2_2025_member2 {'model': 'aimnet2-b973c-2025-d3_2', 'metadata': mappingproxy({'format_version': 2, 'cutoff': 5.0, 'needs_coulomb': True, 'needs_dispersion': True, 'coulomb_mode': 'sr_embedded', 'coulomb_sr_rc': 4.599999904632568, 'coulomb_sr_envelope': 'exp', 'd3_params': {'s8': 1.5, 'a1': 0.37, 'a2': 4.1, 's6': 1.0}, 'has_embedded_lr': True, 'implemented_species': [1, 5, 6, 7, 8, 9, 14, 15, 16, 17, 33, 34, 35, 53], 'family': 'b973c-2025-d3', 'supports_charged_systems': None, 'has_embedded_d3ts': False}), 'coulomb_method': 'simple', 'coulomb_cutoff': inf}
+aimnet2_2025_member2 cdk2 17 -59.9573
+aimnet2_2025_member2 cdk2 17 -59.9827
+aimnet2_2025_member2 cdk2 1h1q -58.8418
+aimnet2_2025_member2 cdk2 1h1q -58.8952
+aimnet2_2025_member2 cdk2 1h1r -59.526
+aimnet2_2025_member2 cdk2 1h1r -59.5565
+aimnet2_2025_member2 cdk2 1h1s -95.9073
+aimnet2_2025_member2 cdk2 1h1s -95.8722
+aimnet2_2025_member2 cdk2 1oi9 -65.6084
+aimnet2_2025_member2 cdk2 1oi9 -65.6576
+aimnet2_2025_member2 cdk2 1oiu -75.629
+aimnet2_2025_member2 cdk2 1oiu -75.6709
+aimnet2_2025_member2 cdk2 1oiy -75.3698
+aimnet2_2025_member2 cdk2 1oiy -75.3586
+aimnet2_2025_member2 cdk2 20 -78.403
+aimnet2_2025_member2 cdk2 20 -78.4
+aimnet2_2025_member2 cdk2 21 -72.2231
+aimnet2_2025_member2 cdk2 21 -72.3225
+aimnet2_2025_member2 cdk2 22 -72.4903
+aimnet2_2025_member2 cdk2 22 -72.4955
+aimnet2_2025_member2 cdk2 26 -66.4863
+aimnet2_2025_member2 cdk2 26 -66.3923
+aimnet2_2025_member2 cdk2 28 -95.7845
+aimnet2_2025_member2 cdk2 28 -95.8022
+aimnet2_2025_member2 cdk2 29 -87.6033
+aimnet2_2025_member2 cdk2 29 -87.5633
+aimnet2_2025_member2 cdk2 30 -74.1018
+aimnet2_2025_member2 cdk2 30 -74.0523
+aimnet2_2025_member2 cdk2 31 -68.8076
+aimnet2_2025_member2 cdk2 31 -68.812
+aimnet2_2025_member2 cdk2 32 -96.3697
+aimnet2_2025_member2 cdk2 32 -96.3635
+aimnet2_2025_member2 p38 2aa -58.1916
+aimnet2_2025_member2 p38 2aa -58.1254
+aimnet2_2025_member2 p38 2bb -52.0246
+aimnet2_2025_member2 p38 2bb -52.041
+aimnet2_2025_member2 p38 2c -54.4921
+aimnet2_2025_member2 p38 2c -54.4924
+aimnet2_2025_member2 p38 2e -51.9882
+aimnet2_2025_member2 p38 2e -51.944
+aimnet2_2025_member2 p38 2ee -54.512
+aimnet2_2025_member2 p38 2ee -54.4962
+aimnet2_2025_member2 p38 2f -49.271
+aimnet2_2025_member2 p38 2f -49.2171
+aimnet2_2025_member2 p38 2ff -59.6698
+aimnet2_2025_member2 p38 2ff -59.6323
+aimnet2_2025_member2 p38 2g -52.7564
+aimnet2_2025_member2 p38 2g -52.7056
+aimnet2_2025_member2 p38 2gg -55.5795
+aimnet2_2025_member2 p38 2gg -55.5125
+aimnet2_2025_member2 p38 2h -51.2918
+aimnet2_2025_member2 p38 2h -51.3025
+aimnet2_2025_member2 p38 2i -50.2826
+aimnet2_2025_member2 p38 2i -50.2177
+aimnet2_2025_member2 p38 2j -50.4795
+aimnet2_2025_member2 p38 2j -50.4861
+aimnet2_2025_member2 p38 2k -48.4903
+aimnet2_2025_member2 p38 2k -48.5075
+aimnet2_2025_member2 p38 2l -54.8269
+aimnet2_2025_member2 p38 2l -54.8308
+aimnet2_2025_member2 p38 2m -55.8542
+aimnet2_2025_member2 p38 2m -55.8926
+aimnet2_2025_member2 p38 2n -59.5828
+aimnet2_2025_member2 p38 2n -59.6514
+aimnet2_2025_member2 p38 2o -56.1412
+aimnet2_2025_member2 p38 2o -56.1553
+aimnet2_2025_member2 p38 2p -62.5941
+aimnet2_2025_member2 p38 2p -62.5052
+aimnet2_2025_member2 p38 2q -63.0631
+aimnet2_2025_member2 p38 2q -63.0536
+aimnet2_2025_member2 p38 2r -61.2468
+aimnet2_2025_member2 p38 2r -61.1459
+aimnet2_2025_member2 p38 2s -72.4503
+aimnet2_2025_member2 p38 2s -72.4766
+aimnet2_2025_member2 p38 2t -56.3878
+aimnet2_2025_member2 p38 2t -56.3315
+aimnet2_2025_member2 p38 2u -66.2966
+aimnet2_2025_member2 p38 2u -66.3518
+aimnet2_2025_member2 p38 2v -44.0402
+aimnet2_2025_member2 p38 2v -43.9649
+aimnet2_2025_member2 p38 2x -50.5009
+aimnet2_2025_member2 p38 2x -50.572
+aimnet2_2025_member2 p38 2y -46.1352
+aimnet2_2025_member2 p38 2y -46.1532
+aimnet2_2025_member2 p38 2z -48.8591
+aimnet2_2025_member2 p38 2z -48.8746
+aimnet2_2025_member2 p38 3fln -51.7583
+aimnet2_2025_member2 p38 3fln -51.7681
+aimnet2_2025_member2 p38 3flq -54.0803
+aimnet2_2025_member2 p38 3flq -54.0705
+aimnet2_2025_member2 p38 3flw -52.5073
+aimnet2_2025_member2 p38 3flw -52.5909
+aimnet2_2025_member2 p38 3fly -48.2238
+aimnet2_2025_member2 p38 3fly -48.2175
+aimnet2_2025_member2 p38 3flz -52.4642
+aimnet2_2025_member2 p38 3flz -52.4832
+aimnet2_2025_member2 p38 3fmh -54.4073
+aimnet2_2025_member2 p38 3fmh -54.3862
+aimnet2_2025_member2 p38 3fmk -52.1555
+aimnet2_2025_member2 p38 3fmk -52.2163
+aimnet2_2025_member2 tyk2 ejm_31 -59.7011
+aimnet2_2025_member2 tyk2 ejm_31 -59.7119
+aimnet2_2025_member2 tyk2 ejm_42 -62.1588
+aimnet2_2025_member2 tyk2 ejm_42 -62.1655
+aimnet2_2025_member2 tyk2 ejm_43 -56.1876
+aimnet2_2025_member2 tyk2 ejm_43 -56.2091
+aimnet2_2025_member2 tyk2 ejm_44 -54.8266
+aimnet2_2025_member2 tyk2 ejm_44 -54.7866
+aimnet2_2025_member2 tyk2 ejm_45 -61.3686
+aimnet2_2025_member2 tyk2 ejm_45 -61.3641
+aimnet2_2025_member2 tyk2 ejm_46 -62.2533
+aimnet2_2025_member2 tyk2 ejm_46 -62.2152
+aimnet2_2025_member2 tyk2 ejm_47 -64.5287
+aimnet2_2025_member2 tyk2 ejm_47 -64.442
+aimnet2_2025_member2 tyk2 ejm_48 -59.086
+aimnet2_2025_member2 tyk2 ejm_48 -59.0975
+aimnet2_2025_member2 tyk2 ejm_49 -69.3634
+aimnet2_2025_member2 tyk2 ejm_49 -69.358
+aimnet2_2025_member2 tyk2 ejm_50 -73.0539
+aimnet2_2025_member2 tyk2 ejm_50 -73.0789
+aimnet2_2025_member2 tyk2 ejm_54 -67.0181
+aimnet2_2025_member2 tyk2 ejm_54 -67.0145
+aimnet2_2025_member2 tyk2 ejm_55 -58.8117
+aimnet2_2025_member2 tyk2 ejm_55 -58.8291
+aimnet2_2025_member2 tyk2 jmc_23 -74.0842
+aimnet2_2025_member2 tyk2 jmc_23 -74.1151
+aimnet2_2025_member2 tyk2 jmc_27 -75.5002
+aimnet2_2025_member2 tyk2 jmc_27 -75.5002
+aimnet2_2025_member2 tyk2 jmc_28 -62.5137
+aimnet2_2025_member2 tyk2 jmc_28 -62.4816
+aimnet2_2025_member2 tyk2 jmc_30 -83.9406
+aimnet2_2025_member2 tyk2 jmc_30 -83.9603
+aimnet2_2025_member2 PLA15 10GS -226.6046
+aimnet2_2025_member2 PLA15 10GS -226.6047
+aimnet2_2025_member2 PLA15 2CET -239.0027
+aimnet2_2025_member2 PLA15 2CET -239.0021
+aimnet2_2025_member2 PLA15 2FVD -79.7316
+aimnet2_2025_member2 PLA15 2FVD -79.7316
+aimnet2_2025_member2 PLA15 2OBF -191.1931
+aimnet2_2025_member2 PLA15 2OBF -191.1944
+aimnet2_2025_member2 PLA15 2P4Y -147.2166
+aimnet2_2025_member2 PLA15 2P4Y -147.2154
+aimnet2_2025_member2 PLA15 2VOT -243.2771
+aimnet2_2025_member2 PLA15 2VOT -243.2773
+aimnet2_2025_member2 PLA15 2VW5 -92.7068
+aimnet2_2025_member2 PLA15 2VW5 -92.7074
+aimnet2_2025_member2 PLA15 2XB8 -175.262
+aimnet2_2025_member2 PLA15 2XB8 -175.2654
+aimnet2_2025_member2 PLA15 2YKI -86.7152
+aimnet2_2025_member2 PLA15 2YKI -86.7147
+aimnet2_2025_member2 PLA15 2ZX6 -224.027
+aimnet2_2025_member2 PLA15 2ZX6 -224.027
+aimnet2_2025_member2 PLA15 3G0W -59.6155
+aimnet2_2025_member2 PLA15 3G0W -59.6207
+aimnet2_2025_member2 PLA15 3GNW -73.418
+aimnet2_2025_member2 PLA15 3GNW -73.4195
+aimnet2_2025_member2 PLA15 3NOX -226.6764
+aimnet2_2025_member2 PLA15 3NOX -226.6766
+aimnet2_2025_member2 PLA15 3PE2 -123.5835
+aimnet2_2025_member2 PLA15 3PE2 -123.5854
+aimnet2_2025_member2 PLA15 4GID -175.3252
+aimnet2_2025_member2 PLA15 4GID -175.324
+Downloading https://storage.googleapis.com/aimnetcentral/aimnet2v2/AIMNet2/aimnet2_2025_b973c_d3_3.pt -> /home/xianyang/.cache/aimnet/aimnet2_2025_b973c_d3_3.pt
+aimnet2_2025_member3 {'model': 'aimnet2-b973c-2025-d3_3', 'metadata': mappingproxy({'format_version': 2, 'cutoff': 5.0, 'needs_coulomb': True, 'needs_dispersion': True, 'coulomb_mode': 'sr_embedded', 'coulomb_sr_rc': 4.599999904632568, 'coulomb_sr_envelope': 'exp', 'd3_params': {'s8': 1.5, 'a1': 0.37, 'a2': 4.1, 's6': 1.0}, 'has_embedded_lr': True, 'implemented_species': [1, 5, 6, 7, 8, 9, 14, 15, 16, 17, 33, 34, 35, 53], 'family': 'b973c-2025-d3', 'supports_charged_systems': None, 'has_embedded_d3ts': False}), 'coulomb_method': 'simple', 'coulomb_cutoff': inf}
+aimnet2_2025_member3 cdk2 17 -57.9022
+aimnet2_2025_member3 cdk2 17 -57.933
+aimnet2_2025_member3 cdk2 1h1q -56.6806
+aimnet2_2025_member3 cdk2 1h1q -56.7302
+aimnet2_2025_member3 cdk2 1h1r -57.3236
+aimnet2_2025_member3 cdk2 1h1r -57.3582
+aimnet2_2025_member3 cdk2 1h1s -92.7727
+aimnet2_2025_member3 cdk2 1h1s -92.7396
+aimnet2_2025_member3 cdk2 1oi9 -63.8093
+aimnet2_2025_member3 cdk2 1oi9 -63.8519
+aimnet2_2025_member3 cdk2 1oiu -72.7508
+aimnet2_2025_member3 cdk2 1oiu -72.7942
+aimnet2_2025_member3 cdk2 1oiy -73.3402
+aimnet2_2025_member3 cdk2 1oiy -73.3278
+aimnet2_2025_member3 cdk2 20 -74.1952
+aimnet2_2025_member3 cdk2 20 -74.2
+aimnet2_2025_member3 cdk2 21 -69.4453
+aimnet2_2025_member3 cdk2 21 -69.5497
+aimnet2_2025_member3 cdk2 22 -67.2833
+aimnet2_2025_member3 cdk2 22 -67.2959
+aimnet2_2025_member3 cdk2 26 -63.8964
+aimnet2_2025_member3 cdk2 26 -63.8043
+aimnet2_2025_member3 cdk2 28 -91.4184
+aimnet2_2025_member3 cdk2 28 -91.4263
+aimnet2_2025_member3 cdk2 29 -84.3768
+aimnet2_2025_member3 cdk2 29 -84.3339
+aimnet2_2025_member3 cdk2 30 -70.5904
+aimnet2_2025_member3 cdk2 30 -70.5313
+aimnet2_2025_member3 cdk2 31 -65.5226
+aimnet2_2025_member3 cdk2 31 -65.5397
+aimnet2_2025_member3 cdk2 32 -90.982
+aimnet2_2025_member3 cdk2 32 -90.9822
+aimnet2_2025_member3 p38 2aa -62.471
+aimnet2_2025_member3 p38 2aa -62.409
+aimnet2_2025_member3 p38 2bb -54.4168
+aimnet2_2025_member3 p38 2bb -54.4354
+aimnet2_2025_member3 p38 2c -61.6669
+aimnet2_2025_member3 p38 2c -61.6618
+aimnet2_2025_member3 p38 2e -55.1639
+aimnet2_2025_member3 p38 2e -55.1279
+aimnet2_2025_member3 p38 2ee -57.9565
+aimnet2_2025_member3 p38 2ee -57.9417
+aimnet2_2025_member3 p38 2f -51.6334
+aimnet2_2025_member3 p38 2f -51.5712
+aimnet2_2025_member3 p38 2ff -62.2499
+aimnet2_2025_member3 p38 2ff -62.2108
+aimnet2_2025_member3 p38 2g -54.9963
+aimnet2_2025_member3 p38 2g -54.9423
+aimnet2_2025_member3 p38 2gg -60.2668
+aimnet2_2025_member3 p38 2gg -60.2004
+aimnet2_2025_member3 p38 2h -55.7619
+aimnet2_2025_member3 p38 2h -55.7793
+aimnet2_2025_member3 p38 2i -54.601
+aimnet2_2025_member3 p38 2i -54.5386
+aimnet2_2025_member3 p38 2j -54.7959
+aimnet2_2025_member3 p38 2j -54.8017
+aimnet2_2025_member3 p38 2k -52.0452
+aimnet2_2025_member3 p38 2k -52.0579
+aimnet2_2025_member3 p38 2l -56.6761
+aimnet2_2025_member3 p38 2l -56.6807
+aimnet2_2025_member3 p38 2m -56.7403
+aimnet2_2025_member3 p38 2m -56.7772
+aimnet2_2025_member3 p38 2n -62.1298
+aimnet2_2025_member3 p38 2n -62.2022
+aimnet2_2025_member3 p38 2o -57.4902
+aimnet2_2025_member3 p38 2o -57.5049
+aimnet2_2025_member3 p38 2p -64.3325
+aimnet2_2025_member3 p38 2p -64.2503
+aimnet2_2025_member3 p38 2q -64.3026
+aimnet2_2025_member3 p38 2q -64.2956
+aimnet2_2025_member3 p38 2r -63.0216
+aimnet2_2025_member3 p38 2r -62.9174
+aimnet2_2025_member3 p38 2s -73.5941
+aimnet2_2025_member3 p38 2s -73.6109
+aimnet2_2025_member3 p38 2t -57.1921
+aimnet2_2025_member3 p38 2t -57.1375
+aimnet2_2025_member3 p38 2u -67.3861
+aimnet2_2025_member3 p38 2u -67.4443
+aimnet2_2025_member3 p38 2v -49.1831
+aimnet2_2025_member3 p38 2v -49.1035
+aimnet2_2025_member3 p38 2x -52.3317
+aimnet2_2025_member3 p38 2x -52.4145
+aimnet2_2025_member3 p38 2y -49.5404
+aimnet2_2025_member3 p38 2y -49.5522
+aimnet2_2025_member3 p38 2z -52.4973
+aimnet2_2025_member3 p38 2z -52.511
+aimnet2_2025_member3 p38 3fln -54.0063
+aimnet2_2025_member3 p38 3fln -54.0172
+aimnet2_2025_member3 p38 3flq -56.325
+aimnet2_2025_member3 p38 3flq -56.316
+aimnet2_2025_member3 p38 3flw -53.6583
+aimnet2_2025_member3 p38 3flw -53.7389
+aimnet2_2025_member3 p38 3fly -51.2692
+aimnet2_2025_member3 p38 3fly -51.2579
+aimnet2_2025_member3 p38 3flz -55.7021
+aimnet2_2025_member3 p38 3flz -55.7136
+aimnet2_2025_member3 p38 3fmh -56.6763
+aimnet2_2025_member3 p38 3fmh -56.6531
+aimnet2_2025_member3 p38 3fmk -54.7943
+aimnet2_2025_member3 p38 3fmk -54.8467
+aimnet2_2025_member3 tyk2 ejm_31 -58.9793
+aimnet2_2025_member3 tyk2 ejm_31 -58.9873
+aimnet2_2025_member3 tyk2 ejm_42 -62.2996
+aimnet2_2025_member3 tyk2 ejm_42 -62.3053
+aimnet2_2025_member3 tyk2 ejm_43 -57.4298
+aimnet2_2025_member3 tyk2 ejm_43 -57.4536
+aimnet2_2025_member3 tyk2 ejm_44 -56.1309
+aimnet2_2025_member3 tyk2 ejm_44 -56.0939
+aimnet2_2025_member3 tyk2 ejm_45 -61.9649
+aimnet2_2025_member3 tyk2 ejm_45 -61.9601
+aimnet2_2025_member3 tyk2 ejm_46 -61.7357
+aimnet2_2025_member3 tyk2 ejm_46 -61.6934
+aimnet2_2025_member3 tyk2 ejm_47 -65.8839
+aimnet2_2025_member3 tyk2 ejm_47 -65.7994
+aimnet2_2025_member3 tyk2 ejm_48 -59.4036
+aimnet2_2025_member3 tyk2 ejm_48 -59.4111
+aimnet2_2025_member3 tyk2 ejm_49 -68.9602
+aimnet2_2025_member3 tyk2 ejm_49 -68.9527
+aimnet2_2025_member3 tyk2 ejm_50 -72.6959
+aimnet2_2025_member3 tyk2 ejm_50 -72.7177
+aimnet2_2025_member3 tyk2 ejm_54 -67.0834
+aimnet2_2025_member3 tyk2 ejm_54 -67.0832
+aimnet2_2025_member3 tyk2 ejm_55 -57.448
+aimnet2_2025_member3 tyk2 ejm_55 -57.4646
+aimnet2_2025_member3 tyk2 jmc_23 -73.3685
+aimnet2_2025_member3 tyk2 jmc_23 -73.3952
+aimnet2_2025_member3 tyk2 jmc_27 -76.8702
+aimnet2_2025_member3 tyk2 jmc_27 -76.8758
+aimnet2_2025_member3 tyk2 jmc_28 -64.1167
+aimnet2_2025_member3 tyk2 jmc_28 -64.0843
+aimnet2_2025_member3 tyk2 jmc_30 -83.4913
+aimnet2_2025_member3 tyk2 jmc_30 -83.5139
+aimnet2_2025_member3 PLA15 10GS -221.7701
+aimnet2_2025_member3 PLA15 10GS -221.7697
+aimnet2_2025_member3 PLA15 2CET -239.8365
+aimnet2_2025_member3 PLA15 2CET -239.8361
+aimnet2_2025_member3 PLA15 2FVD -78.0953
+aimnet2_2025_member3 PLA15 2FVD -78.0954
+aimnet2_2025_member3 PLA15 2OBF -188.1518
+aimnet2_2025_member3 PLA15 2OBF -188.1536
+aimnet2_2025_member3 PLA15 2P4Y -145.3619
+aimnet2_2025_member3 PLA15 2P4Y -145.3623
+aimnet2_2025_member3 PLA15 2VOT -231.9931
+aimnet2_2025_member3 PLA15 2VOT -231.9929
+aimnet2_2025_member3 PLA15 2VW5 -91.1843
+aimnet2_2025_member3 PLA15 2VW5 -91.1844
+aimnet2_2025_member3 PLA15 2XB8 -172.2015
+aimnet2_2025_member3 PLA15 2XB8 -172.2018
+aimnet2_2025_member3 PLA15 2YKI -86.7395
+aimnet2_2025_member3 PLA15 2YKI -86.7392
+aimnet2_2025_member3 PLA15 2ZX6 -224.7279
+aimnet2_2025_member3 PLA15 2ZX6 -224.7277
+aimnet2_2025_member3 PLA15 3G0W -52.7767
+aimnet2_2025_member3 PLA15 3G0W -52.7774
+aimnet2_2025_member3 PLA15 3GNW -71.4595
+aimnet2_2025_member3 PLA15 3GNW -71.4585
+aimnet2_2025_member3 PLA15 3NOX -225.0322
+aimnet2_2025_member3 PLA15 3NOX -225.0324
+aimnet2_2025_member3 PLA15 3PE2 -122.6661
+aimnet2_2025_member3 PLA15 3PE2 -122.6658
+aimnet2_2025_member3 PLA15 4GID -172.8194
+aimnet2_2025_member3 PLA15 4GID -172.817
+                    model dataset                    geometry                   reference  n       mae      rmse      bias  max_abs_error  pearson  spearman
+     aimnet2_2025_default   KIN66 matched_complex_coordinates                   int_b973c 66  2.762694  3.491175  2.613386       7.938965 0.976571  0.956038
+     aimnet2_2025_default   KIN66 matched_complex_coordinates                   int_wb97m 66 10.838173 11.446162 10.838173      21.679936 0.962549  0.945141
+     aimnet2_2025_default   KIN66 matched_complex_coordinates             int_wb97m_dzvpd 20 17.374860 17.894096 17.374860      24.289134 0.940637  0.918797
+     aimnet2_2025_default   KIN66 matched_complex_coordinates   int_wb97m_dzvpd_estimated 50 11.998741 12.078498 11.998741      15.347863 0.978651  0.968788
+     aimnet2_2025_default   KIN66 matched_complex_coordinates    AIMNet2_2025_interaction 66  0.787433  0.955412  0.068917       3.016292 0.996202  0.990356
+     aimnet2_2025_default   KIN66                released_xyz                   int_b973c 66  2.763982  3.493610  2.609976       7.962672 0.976399  0.956288
+     aimnet2_2025_default   KIN66                released_xyz                   int_wb97m 66 10.834763 11.444957 10.834763      21.677590 0.962352  0.945350
+     aimnet2_2025_default   KIN66                released_xyz             int_wb97m_dzvpd 20 17.382044 17.901494 17.382044      24.286788 0.940538  0.918797
+     aimnet2_2025_default   KIN66                released_xyz   int_wb97m_dzvpd_estimated 50 11.991869 12.072035 11.991869      15.298098 0.978547  0.969268
+     aimnet2_2025_default   KIN66                released_xyz    AIMNet2_2025_interaction 66  0.792414  0.958063  0.065507       3.013946 0.996175  0.990314
+     aimnet2_2025_default   PLA15 matched_complex_coordinates                   int_b973c 15  4.167852  5.396436  3.003065      11.942518 0.997705  0.982143
+     aimnet2_2025_default   PLA15 matched_complex_coordinates                   int_wb97m 15 17.714251 19.062933 17.714251      34.535988 0.995169  0.950000
+     aimnet2_2025_default   PLA15 matched_complex_coordinates             int_wb97m_dzvpd 15 21.123706 22.692304 21.123706      36.743215 0.992795  0.950000
+     aimnet2_2025_default   PLA15 matched_complex_coordinates    AIMNet2_2025_interaction 15  1.789848  2.310261  0.085000       5.786794 0.999561  0.989286
+     aimnet2_2025_default   PLA15 matched_complex_coordinates PLA15_reference_interaction 15  9.418525 10.956217  9.418525      20.922082 0.996433  0.975000
+     aimnet2_2025_default   PLA15                released_xyz                   int_b973c 15  4.168008  5.396572  3.003121      11.942699 0.997705  0.982143
+     aimnet2_2025_default   PLA15                released_xyz                   int_wb97m 15 17.714307 19.062941 17.714307      34.536170 0.995169  0.950000
+     aimnet2_2025_default   PLA15                released_xyz             int_wb97m_dzvpd 15 21.123762 22.692318 21.123762      36.743396 0.992795  0.950000
+     aimnet2_2025_default   PLA15                released_xyz    AIMNet2_2025_interaction 15  1.789801  2.310210  0.085057       5.786722 0.999561  0.989286
+     aimnet2_2025_default   PLA15                released_xyz PLA15_reference_interaction 15  9.418581 10.956216  9.418581      20.922263 0.996433  0.975000
+    aimnet2_2025_ensemble   KIN66 matched_complex_coordinates                   int_b973c 66  2.753774  3.223155  2.679423       7.565802 0.985373  0.975410
+    aimnet2_2025_ensemble   KIN66 matched_complex_coordinates                   int_wb97m 66 10.904210 11.393929 10.904210      19.638233 0.967895  0.952364
+    aimnet2_2025_ensemble   KIN66 matched_complex_coordinates             int_wb97m_dzvpd 20 16.657886 17.135857 16.657886      23.022647 0.947965  0.918797
+    aimnet2_2025_ensemble   KIN66 matched_complex_coordinates   int_wb97m_dzvpd_estimated 50 12.346919 12.462946 12.346919      16.354307 0.969881  0.949100
+    aimnet2_2025_ensemble   KIN66 matched_complex_coordinates    AIMNet2_2025_interaction 66  0.135408  0.145337  0.134954       0.267363 0.999986  0.999666
+    aimnet2_2025_ensemble   KIN66                released_xyz                   int_b973c 66  2.754395  3.224874  2.676286       7.574459 0.985240  0.975535
+    aimnet2_2025_ensemble   KIN66                released_xyz                   int_wb97m 66 10.901074 11.392635 10.901074      19.646890 0.967736  0.952656
+    aimnet2_2025_ensemble   KIN66                released_xyz             int_wb97m_dzvpd 20 16.664716 17.142768 16.664716      23.031304 0.947886  0.918797
+    aimnet2_2025_ensemble   KIN66                released_xyz   int_wb97m_dzvpd_estimated 50 12.340633 12.457194 12.340633      16.314037 0.969732  0.950636
+    aimnet2_2025_ensemble   KIN66                released_xyz    AIMNet2_2025_interaction 66  0.131818  0.134604  0.131818       0.204090 0.999997  0.999624
+    aimnet2_2025_ensemble   PLA15 matched_complex_coordinates                   int_b973c 15  4.024346  4.769313  2.948836      10.117289 0.998517  0.992857
+    aimnet2_2025_ensemble   PLA15 matched_complex_coordinates                   int_wb97m 15 17.660022 19.016319 17.660022      32.710760 0.995899  0.967857
+    aimnet2_2025_ensemble   PLA15 matched_complex_coordinates             int_wb97m_dzvpd 15 21.069477 22.446596 21.069477      34.917987 0.994365  0.975000
+    aimnet2_2025_ensemble   PLA15 matched_complex_coordinates    AIMNet2_2025_interaction 15  0.030771  0.041229  0.030771       0.115766 1.000000  1.000000
+    aimnet2_2025_ensemble   PLA15 matched_complex_coordinates PLA15_reference_interaction 15  9.364296 10.563492  9.364296      19.096854 0.997432  0.989286
+    aimnet2_2025_ensemble   PLA15                released_xyz                   int_b973c 15  4.024704  4.769570  2.949165      10.117336 0.998517  0.992857
+    aimnet2_2025_ensemble   PLA15                released_xyz                   int_wb97m 15 17.660351 19.016558 17.660351      32.710807 0.995899  0.967857
+    aimnet2_2025_ensemble   PLA15                released_xyz             int_wb97m_dzvpd 15 21.069807 22.446910 21.069807      34.918033 0.994365  0.975000
+    aimnet2_2025_ensemble   PLA15                released_xyz    AIMNet2_2025_interaction 15  0.031101  0.041380  0.031101       0.115554 1.000000  1.000000
+    aimnet2_2025_ensemble   PLA15                released_xyz PLA15_reference_interaction 15  9.364625 10.563772  9.364625      19.096900 0.997432  0.989286
+aimnet2_2025_full_coulomb   KIN66 matched_complex_coordinates                   int_b973c 66  2.762726  3.491192  2.613534       7.939175 0.976574  0.956038
+aimnet2_2025_full_coulomb   KIN66 matched_complex_coordinates                   int_wb97m 66 10.838321 11.446270 10.838321      21.680140 0.962552  0.945141
+aimnet2_2025_full_coulomb   KIN66 matched_complex_coordinates             int_wb97m_dzvpd 20 17.374779 17.894048 17.374779      24.289338 0.940634  0.918797
+aimnet2_2025_full_coulomb   KIN66 matched_complex_coordinates   int_wb97m_dzvpd_estimated 50 11.998945 12.078691 11.998945      15.347237 0.978653  0.968788
+aimnet2_2025_full_coulomb   KIN66 matched_complex_coordinates    AIMNet2_2025_interaction 66  0.787378  0.955461  0.069065       3.016496 0.996202  0.990356
+aimnet2_2025_full_coulomb   KIN66                released_xyz                   int_b973c 66  2.763958  3.493606  2.609984       7.962847 0.976400  0.956288
+aimnet2_2025_full_coulomb   KIN66                released_xyz                   int_wb97m 66 10.834772 11.444954 10.834772      21.678163 0.962353  0.945350
+aimnet2_2025_full_coulomb   KIN66                released_xyz             int_wb97m_dzvpd 20 17.381969 17.901437 17.381969      24.287361 0.940537  0.918797
+aimnet2_2025_full_coulomb   KIN66                released_xyz   int_wb97m_dzvpd_estimated 50 11.991925 12.072083 11.991925      15.298351 0.978548  0.969268
+aimnet2_2025_full_coulomb   KIN66                released_xyz    AIMNet2_2025_interaction 66  0.792342  0.958028  0.065516       3.014519 0.996176  0.990314
+aimnet2_2025_full_coulomb   PLA15 matched_complex_coordinates                   int_b973c 15  4.167943  5.396574  3.003072      11.942820 0.997705  0.982143
+aimnet2_2025_full_coulomb   PLA15 matched_complex_coordinates                   int_wb97m 15 17.714257 19.062924 17.714257      34.536291 0.995169  0.950000
+aimnet2_2025_full_coulomb   PLA15 matched_complex_coordinates             int_wb97m_dzvpd 15 21.123713 22.692285 21.123713      36.743517 0.992795  0.950000
+aimnet2_2025_full_coulomb   PLA15 matched_complex_coordinates    AIMNet2_2025_interaction 15  1.789886  2.310296  0.085007       5.786661 0.999561  0.989286
+aimnet2_2025_full_coulomb   PLA15 matched_complex_coordinates PLA15_reference_interaction 15  9.418531 10.956204  9.418531      20.922384 0.996433  0.975000
+aimnet2_2025_full_coulomb   PLA15                released_xyz                   int_b973c 15  4.167944  5.396487  3.003148      11.942820 0.997705  0.982143
+aimnet2_2025_full_coulomb   PLA15                released_xyz                   int_wb97m 15 17.714333 19.063003 17.714333      34.536291 0.995169  0.950000
+aimnet2_2025_full_coulomb   PLA15                released_xyz             int_wb97m_dzvpd 15 21.123789 22.692376 21.123789      36.743517 0.992795  0.950000
+aimnet2_2025_full_coulomb   PLA15                released_xyz    AIMNet2_2025_interaction 15  1.789811  2.310249  0.085083       5.786779 0.999561  0.989286
+aimnet2_2025_full_coulomb   PLA15                released_xyz PLA15_reference_interaction 15  9.418608 10.956294  9.418608      20.922384 0.996433  0.975000
+     aimnet2_2025_member1   KIN66 matched_complex_coordinates                   int_b973c 66  4.576540  5.537912  4.549877      12.105171 0.957720  0.910364
+     aimnet2_2025_member1   KIN66 matched_complex_coordinates                   int_wb97m 66 12.774664 13.458844 12.774664      24.177602 0.953980  0.919173
+     aimnet2_2025_member1   KIN66 matched_complex_coordinates             int_wb97m_dzvpd 20 20.109805 20.595685 20.109805      27.562016 0.938099  0.929323
+     aimnet2_2025_member1   KIN66 matched_complex_coordinates   int_wb97m_dzvpd_estimated 50 13.668505 13.768671 13.668505      17.714765 0.969637  0.947179
+     aimnet2_2025_member1   KIN66 matched_complex_coordinates    AIMNet2_2025_interaction 66  2.187162  2.842813  2.005408       5.804778 0.983380  0.954118
+     aimnet2_2025_member1   KIN66                released_xyz                   int_b973c 66  4.576045  5.539775  4.547186      12.113885 0.957474  0.911241
+     aimnet2_2025_member1   KIN66                released_xyz                   int_wb97m 66 12.771973 13.458463 12.771973      24.186316 0.953695  0.919257
+     aimnet2_2025_member1   KIN66                released_xyz             int_wb97m_dzvpd 20 20.117263 20.603395 20.117263      27.570731 0.937941  0.929323
+     aimnet2_2025_member1   KIN66                released_xyz   int_wb97m_dzvpd_estimated 50 13.662667 13.763617 13.662667      17.733176 0.969405  0.947371
+     aimnet2_2025_member1   KIN66                released_xyz    AIMNet2_2025_interaction 66  2.186855  2.843555  2.002717       5.769341 0.983292  0.954619
+     aimnet2_2025_member1   PLA15 matched_complex_coordinates                   int_b973c 15  5.644206  6.665264  4.082288      11.714388 0.997012  0.992857
+     aimnet2_2025_member1   PLA15 matched_complex_coordinates                   int_wb97m 15 18.793474 20.145340 18.793474      32.455972 0.995848  0.967857
+     aimnet2_2025_member1   PLA15 matched_complex_coordinates             int_wb97m_dzvpd 15 22.202929 23.502271 22.202929      34.045452 0.994660  0.975000
+     aimnet2_2025_member1   PLA15 matched_complex_coordinates    AIMNet2_2025_interaction 15  2.497334  2.924255  1.164223       5.937345 0.999157  1.000000
+     aimnet2_2025_member1   PLA15 matched_complex_coordinates PLA15_reference_interaction 15 10.497748 11.604036 10.497748      18.813095 0.997476  0.989286
+     aimnet2_2025_member1   PLA15                released_xyz                   int_b973c 15  5.644370  6.664999  4.082916      11.710905 0.997013  0.992857
+     aimnet2_2025_member1   PLA15                released_xyz                   int_wb97m 15 18.794102 20.145868 18.794102      32.455953 0.995848  0.967857
+     aimnet2_2025_member1   PLA15                released_xyz             int_wb97m_dzvpd 15 22.203557 23.502976 22.203557      34.045090 0.994660  0.975000
+     aimnet2_2025_member1   PLA15                released_xyz    AIMNet2_2025_interaction 15  2.497174  2.923990  1.164852       5.937353 0.999157  1.000000
+     aimnet2_2025_member1   PLA15                released_xyz PLA15_reference_interaction 15 10.498376 11.604623 10.498376      18.813077 0.997476  0.989286
+     aimnet2_2025_member2   KIN66 matched_complex_coordinates                   int_b973c 66  2.698201  3.138702  2.132624       6.581173 0.987932  0.969398
+     aimnet2_2025_member2   KIN66 matched_complex_coordinates                   int_wb97m 66 10.357411 10.805825 10.357411      16.138968 0.966458  0.927815
+     aimnet2_2025_member2   KIN66 matched_complex_coordinates             int_wb97m_dzvpd 20 13.457269 13.872944 13.457269      17.966596 0.963288  0.929323
+     aimnet2_2025_member2   KIN66 matched_complex_coordinates   int_wb97m_dzvpd_estimated 50 12.837347 13.246746 12.837347      18.934204 0.922879  0.874382
+     aimnet2_2025_member2   KIN66 matched_complex_coordinates    AIMNet2_2025_interaction 66  2.374437  2.651299 -0.411844       6.286869 0.986672  0.968939
+     aimnet2_2025_member2   KIN66                released_xyz                   int_b973c 66  2.694593  3.135410  2.129410       6.516231 0.987941  0.969607
+     aimnet2_2025_member2   KIN66                released_xyz                   int_wb97m 66 10.354197 10.802832 10.354197      16.101531 0.966447  0.928358
+     aimnet2_2025_member2   KIN66                released_xyz             int_wb97m_dzvpd 20 13.463294 13.878834 13.463294      17.971754 0.963308  0.929323
+     aimnet2_2025_member2   KIN66                released_xyz   int_wb97m_dzvpd_estimated 50 12.831344 13.240575 12.831344      18.896766 0.922845  0.874766
+     aimnet2_2025_member2   KIN66                released_xyz    AIMNet2_2025_interaction 66  2.370584  2.645188 -0.415059       6.293035 0.986794  0.968980
+     aimnet2_2025_member2   PLA15 matched_complex_coordinates                   int_b973c 15  3.269737  4.182092  1.036598       8.818821 0.998297  0.989286
+     aimnet2_2025_member2   PLA15 matched_complex_coordinates                   int_wb97m 15 15.747784 17.503499 15.747784      31.412292 0.995087  0.964286
+     aimnet2_2025_member2   PLA15 matched_complex_coordinates             int_wb97m_dzvpd 15 19.157239 20.770487 19.157239      33.619518 0.993992  0.971429
+     aimnet2_2025_member2   PLA15 matched_complex_coordinates    AIMNet2_2025_interaction 15  2.148450  2.912107 -1.881467       7.616044 0.999418  0.996429
+     aimnet2_2025_member2   PLA15 matched_complex_coordinates PLA15_reference_interaction 15  8.060092  9.340485  7.452058      17.798385 0.996583  0.978571
+     aimnet2_2025_member2   PLA15                released_xyz                   int_b973c 15  3.269903  4.182216  1.037327       8.819054 0.998297  0.989286
+     aimnet2_2025_member2   PLA15                released_xyz                   int_wb97m 15 15.748512 17.503858 15.748512      31.412525 0.995088  0.964286
+     aimnet2_2025_member2   PLA15                released_xyz             int_wb97m_dzvpd 15 19.157968 20.770969 19.157968      33.619751 0.993993  0.971429
+     aimnet2_2025_member2   PLA15                released_xyz    AIMNet2_2025_interaction 15  2.147650  2.911207 -1.880738       7.615909 0.999418  0.996429
+     aimnet2_2025_member2   PLA15                released_xyz PLA15_reference_interaction 15  8.060803  9.340767  7.452787      17.798618 0.996583  0.978571
+     aimnet2_2025_member3   KIN66 matched_complex_coordinates                   int_b973c 66  1.960281  2.618326  1.421804       7.709321 0.977697  0.963762
+     aimnet2_2025_member3   KIN66 matched_complex_coordinates                   int_wb97m 66  9.646591 10.410305  9.646591      19.781752 0.949967  0.921511
+     aimnet2_2025_member3   KIN66 matched_complex_coordinates             int_wb97m_dzvpd 20 15.689611 16.397661 15.689611      23.166166 0.925168  0.900752
+     aimnet2_2025_member3   KIN66 matched_complex_coordinates   int_wb97m_dzvpd_estimated 50 10.883082 11.134860 10.883082      16.355708 0.945213  0.908764
+     aimnet2_2025_member3   KIN66 matched_complex_coordinates    AIMNet2_2025_interaction 66  1.164394  1.438629 -1.122665       3.096343 0.995961  0.989062
+     aimnet2_2025_member3   KIN66                released_xyz                   int_b973c 66  1.965926  2.624086  1.418574       7.721906 0.977507  0.964137
+     aimnet2_2025_member3   KIN66                released_xyz                   int_wb97m 66  9.643361 10.409700  9.643361      19.794337 0.949756  0.921637
+     aimnet2_2025_member3   KIN66                released_xyz             int_wb97m_dzvpd 20 15.696264 16.404174 15.696264      23.178751 0.925109  0.903759
+     aimnet2_2025_member3   KIN66                released_xyz   int_wb97m_dzvpd_estimated 50 10.876651 11.129649 10.876651      16.316643 0.944932  0.908475
+     aimnet2_2025_member3   KIN66                released_xyz    AIMNet2_2025_interaction 66  1.169981  1.443455 -1.125894       3.128828 0.995928  0.988895
+     aimnet2_2025_member3   PLA15 matched_complex_coordinates                   int_b973c 15  4.489189  5.157187  3.673393      10.463064 0.998795  0.996429
+     aimnet2_2025_member3   PLA15 matched_complex_coordinates                   int_wb97m 15 18.384578 19.938088 18.384578      34.456223 0.995232  0.957143
+     aimnet2_2025_member3   PLA15 matched_complex_coordinates             int_wb97m_dzvpd 15 21.794034 23.309581 21.794034      35.263761 0.993780  0.971429
+     aimnet2_2025_member3   PLA15 matched_complex_coordinates    AIMNet2_2025_interaction 15  1.865699  2.070313  0.755328       3.668281 0.999590  0.996429
+     aimnet2_2025_member3   PLA15 matched_complex_coordinates PLA15_reference_interaction 15 10.088853 11.448180 10.088853      20.813346 0.996983  0.982143
+     aimnet2_2025_member3   PLA15                released_xyz                   int_b973c 15  4.489443  5.157471  3.673297      10.463197 0.998794  0.996429
+     aimnet2_2025_member3   PLA15                released_xyz                   int_wb97m 15 18.384483 19.937942 18.384483      34.455770 0.995232  0.957143
+     aimnet2_2025_member3   PLA15                released_xyz             int_wb97m_dzvpd 15 21.793939 23.309465 21.793939      35.263894 0.993780  0.971429
+     aimnet2_2025_member3   PLA15                released_xyz    AIMNet2_2025_interaction 15  1.865678  2.070114  0.755233       3.668118 0.999590  0.996429
+     aimnet2_2025_member3   PLA15                released_xyz PLA15_reference_interaction 15 10.088757 11.448043 10.088757      20.812893 0.996983  0.982143
+            current_wb97m   KIN66 matched_complex_coordinates                   int_b973c 66 62.133233 62.652647 62.133233      81.905133 0.878459  0.803319
+            current_wb97m   KIN66 matched_complex_coordinates                   int_wb97m 66 70.358020 70.840236 70.358020      89.614878 0.850365  0.757019
+            current_wb97m   KIN66 matched_complex_coordinates             int_wb97m_dzvpd 20 67.114353 67.244280 67.114353      76.868058 0.947154  0.917293
+            current_wb97m   KIN66 matched_complex_coordinates   int_wb97m_dzvpd_estimated 50 74.817585 75.338109 74.817585      92.501939 0.614909  0.504826
+            current_wb97m   KIN66 matched_complex_coordinates    AIMNet2_2025_interaction 66 59.588764 60.259294 59.588764      80.603554 0.837033  0.737397
+            current_wb97m   KIN66                released_xyz                   int_b973c 66 62.128125 62.647322 62.128125      81.859646 0.878530  0.805615
+            current_wb97m   KIN66                released_xyz                   int_wb97m 66 70.352913 70.834931 70.352913      89.569391 0.850432  0.758856
+            current_wb97m   KIN66                released_xyz             int_wb97m_dzvpd 20 67.117602 67.246866 67.117602      76.875956 0.947385  0.917293
+            current_wb97m   KIN66                released_xyz   int_wb97m_dzvpd_estimated 50 74.810515 75.331078 74.810515      92.456452 0.614757  0.509052
+            current_wb97m   KIN66                released_xyz    AIMNet2_2025_interaction 66 59.583657 60.253731 59.583657      80.558067 0.837197  0.739735
+            current_wb97m   PLA15 matched_complex_coordinates                   int_b973c 15 29.428541 31.036675 29.428541      46.630808 0.991118  0.957143
+            current_wb97m   PLA15 matched_complex_coordinates                   int_wb97m 15 44.139726 45.736109 44.139726      79.367926 0.985262  0.971429
+            current_wb97m   PLA15 matched_complex_coordinates             int_wb97m_dzvpd 15 47.549182 49.725224 47.549182      85.436400 0.978170  0.950000
+            current_wb97m   PLA15 matched_complex_coordinates    AIMNet2_2025_interaction 15 26.510476 29.127011 26.510476      54.812900 0.986772  0.967857
+            current_wb97m   PLA15 matched_complex_coordinates PLA15_reference_interaction 15 35.844001 37.902427 35.844001      68.834795 0.985113  0.964286
+            current_wb97m   PLA15                released_xyz                   int_b973c 15 29.428541 31.036675 29.428541      46.630808 0.991118  0.957143
+            current_wb97m   PLA15                released_xyz                   int_wb97m 15 44.139726 45.736109 44.139726      79.367926 0.985262  0.971429
+            current_wb97m   PLA15                released_xyz             int_wb97m_dzvpd 15 47.549182 49.725224 47.549182      85.436400 0.978170  0.950000
+            current_wb97m   PLA15                released_xyz    AIMNet2_2025_interaction 15 26.510476 29.127011 26.510476      54.812900 0.986772  0.967857
+            current_wb97m   PLA15                released_xyz PLA15_reference_interaction 15 35.844001 37.902427 35.844001      68.834795 0.985113  0.964286

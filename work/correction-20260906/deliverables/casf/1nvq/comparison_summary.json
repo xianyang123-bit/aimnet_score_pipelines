@@ -1,0 +1,62 @@
+{
+  "target": "1nvq",
+  "full_285_ligunity": {
+    "n": 285,
+    "n_active": 9,
+    "ef1_top_count": 3,
+    "ef1": 10.555555555555555,
+    "active_top1": 0,
+    "active_top5": 1,
+    "active_top10": 1,
+    "active_ranks": {
+      "4eor": 2,
+      "1nvq": 21,
+      "2brb": 22,
+      "2br1": 23,
+      "3jvr": 24,
+      "3jvs": 25,
+      "3myg": 26,
+      "3e5a": 30,
+      "4ogj": 259
+    }
+  },
+  "top20_ligunity": {
+    "n": 20,
+    "n_active": 1,
+    "ef1_top_count": 1,
+    "ef1": 0.0,
+    "active_top1": 0,
+    "active_top5": 1,
+    "active_top10": 1,
+    "active_ranks": {
+      "4eor": 2
+    }
+  },
+  "top20_aimnet_interaction": {
+    "n": 20,
+    "n_active": 1,
+    "ef1_top_count": 1,
+    "ef1": 0.0,
+    "active_top1": 0,
+    "active_top5": 0,
+    "active_top10": 1,
+    "active_ranks": {
+      "4eor": 8
+    }
+  },
+  "top20_aimnet2_composite": {
+    "n": 20,
+    "n_active": 1,
+    "ef1_top_count": 1,
+    "ef1": 0.0,
+    "active_top1": 0,
+    "active_top5": 0,
+    "active_top10": 1,
+    "active_ranks": {
+      "4eor": 6
+    }
+  },
+  "spearman_ligunity_vs_interaction": 0.11729323308270674,
+  "spearman_ligunity_vs_composite": 0.10977443609022557,
+  "n_composite_converged": 20
+}

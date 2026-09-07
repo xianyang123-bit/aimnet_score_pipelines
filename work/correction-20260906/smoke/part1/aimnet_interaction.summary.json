@@ -1,0 +1,20 @@
+{
+  "model": "aimnet2-2025",
+  "definition": "E_complex - E_pocket - E_ligand",
+  "pocket_formal_charge": 0,
+  "n_input": 63,
+  "n_scored": 63,
+  "n_skipped": 0,
+  "elapsed_seconds": 1.2944755554199219,
+  "interaction_kcal_min": -71.84780098153401,
+  "interaction_kcal_median": -38.132618618812415,
+  "interaction_kcal_max": -6.58288902935921,
+  "aimnet_chunk_ef1": 0.0,
+  "aimnet_chunk_auc": 0.5986111111111111,
+  "smina_chunk_ef1": 0.0,
+  "smina_chunk_auc": 0.8305555555555556,
+  "aimnet_vs_smina_spearman": 0.1718509984639017,
+  "cpcm_and_strain_terms_included": false,
+  "warning": "This active-enriched first chunk is a functionality test, not full-library EF1.",
+  "skipped": []
+}

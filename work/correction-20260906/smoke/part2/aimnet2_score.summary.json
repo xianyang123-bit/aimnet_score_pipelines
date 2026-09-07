@@ -1,0 +1,17 @@
+{
+  "scope": "reference reconstruction; not an exact reproduction of the unreleased AIMNet2(Score) workflow",
+  "score_definition": "Eint + Edesolv + ELCSE; lower is better",
+  "n_requested": 62,
+  "n_scored": 62,
+  "n_errors": 0,
+  "n_optimization_converged": 54,
+  "elapsed_seconds_this_run": 338.7931358840033,
+  "output": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/smoke/part2/aimnet2_score.csv",
+  "n_actives": 14,
+  "n_decoys": 48,
+  "ef1_percent": 0.0,
+  "ef1_top_n": 1,
+  "ef1_actives_in_top_n": 0,
+  "auroc": 0.37797619047619047,
+  "composite_vs_interaction_spearman": 0.11797738661831736
+}

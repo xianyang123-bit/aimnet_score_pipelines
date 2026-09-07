@@ -1,0 +1,38 @@
+{
+  "current_wb97m": {
+    "model": "/home/xianyang/t3-aimnet-models/aimnet2_wb97m_0.jpt",
+    "metadata": "{'format_version': 1, 'cutoff': 5.0, 'needs_coulomb': False, 'needs_dispersion': False, 'coulomb_mode': 'full_embedded', 'd3_params': {'s8': 0.3908, 'a1': 0.566, 'a2': 3.128, 's6': 1.0}, 'implemented_species': [1, 5, 6, 7, 8, 9, 14, 15, 16, 17, 33, 34, 35, 53]}",
+    "coulomb_method": "simple",
+    "coulomb_cutoff": Infinity
+  },
+  "aimnet2_2025_default": {
+    "model": "aimnet2-2025",
+    "metadata": "{'format_version': 2, 'cutoff': 5.0, 'needs_coulomb': True, 'needs_dispersion': True, 'coulomb_mode': 'sr_embedded', 'coulomb_sr_rc': 4.599999904632568, 'coulomb_sr_envelope': 'exp', 'd3_params': {'s8': 1.5, 'a1': 0.37, 'a2': 4.1, 's6': 1.0}, 'has_embedded_lr': True, 'implemented_species': [1, 5, 6, 7, 8, 9, 14, 15, 16, 17, 33, 34, 35, 53], 'family': 'b973c-2025-d3', 'supports_charged_systems': None, 'has_embedded_d3ts': False}",
+    "coulomb_method": "simple",
+    "coulomb_cutoff": Infinity
+  },
+  "aimnet2_2025_full_coulomb": {
+    "model": "aimnet2-2025",
+    "metadata": "{'format_version': 2, 'cutoff': 5.0, 'needs_coulomb': True, 'needs_dispersion': True, 'coulomb_mode': 'sr_embedded', 'coulomb_sr_rc': 4.599999904632568, 'coulomb_sr_envelope': 'exp', 'd3_params': {'s8': 1.5, 'a1': 0.37, 'a2': 4.1, 's6': 1.0}, 'has_embedded_lr': True, 'implemented_species': [1, 5, 6, 7, 8, 9, 14, 15, 16, 17, 33, 34, 35, 53], 'family': 'b973c-2025-d3', 'supports_charged_systems': None, 'has_embedded_d3ts': False}",
+    "coulomb_method": "simple",
+    "coulomb_cutoff": Infinity
+  },
+  "aimnet2_2025_member1": {
+    "model": "aimnet2-b973c-2025-d3_1",
+    "metadata": "{'format_version': 2, 'cutoff': 5.0, 'needs_coulomb': True, 'needs_dispersion': True, 'coulomb_mode': 'sr_embedded', 'coulomb_sr_rc': 4.599999904632568, 'coulomb_sr_envelope': 'exp', 'd3_params': {'s8': 1.5, 'a1': 0.37, 'a2': 4.1, 's6': 1.0}, 'has_embedded_lr': True, 'implemented_species': [1, 5, 6, 7, 8, 9, 14, 15, 16, 17, 33, 34, 35, 53], 'family': 'b973c-2025-d3', 'supports_charged_systems': None, 'has_embedded_d3ts': False}",
+    "coulomb_method": "simple",
+    "coulomb_cutoff": Infinity
+  },
+  "aimnet2_2025_member2": {
+    "model": "aimnet2-b973c-2025-d3_2",
+    "metadata": "{'format_version': 2, 'cutoff': 5.0, 'needs_coulomb': True, 'needs_dispersion': True, 'coulomb_mode': 'sr_embedded', 'coulomb_sr_rc': 4.599999904632568, 'coulomb_sr_envelope': 'exp', 'd3_params': {'s8': 1.5, 'a1': 0.37, 'a2': 4.1, 's6': 1.0}, 'has_embedded_lr': True, 'implemented_species': [1, 5, 6, 7, 8, 9, 14, 15, 16, 17, 33, 34, 35, 53], 'family': 'b973c-2025-d3', 'supports_charged_systems': None, 'has_embedded_d3ts': False}",
+    "coulomb_method": "simple",
+    "coulomb_cutoff": Infinity
+  },
+  "aimnet2_2025_member3": {
+    "model": "aimnet2-b973c-2025-d3_3",
+    "metadata": "{'format_version': 2, 'cutoff': 5.0, 'needs_coulomb': True, 'needs_dispersion': True, 'coulomb_mode': 'sr_embedded', 'coulomb_sr_rc': 4.599999904632568, 'coulomb_sr_envelope': 'exp', 'd3_params': {'s8': 1.5, 'a1': 0.37, 'a2': 4.1, 's6': 1.0}, 'has_embedded_lr': True, 'implemented_species': [1, 5, 6, 7, 8, 9, 14, 15, 16, 17, 33, 34, 35, 53], 'family': 'b973c-2025-d3', 'supports_charged_systems': None, 'has_embedded_d3ts': False}",
+    "coulomb_method": "simple",
+    "coulomb_cutoff": Infinity
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "failures": [
+    {
+      "task": 88,
+      "error": "OSError('File error: Invalid input file /home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L4/Q8TDU9/poses.sdf')"
+    }
+  ]
+}

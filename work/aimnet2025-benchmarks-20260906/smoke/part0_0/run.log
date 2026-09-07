@@ -1,0 +1,72 @@
+Bound geometry uses fixed-pocket gas FIRE. Legacy CPCM bound-refinement options are ignored.
+/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/site-packages/aimnet/models/base.py:85: UserWarning: 'torch.load' received a zip file that looks like a TorchScript archive dispatching to 'torch.jit.load' (call 'torch.jit.load' directly to silence this warning)
+  data = torch.load(path, map_location=device, weights_only=True)
+/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/site-packages/torch/jit/_serialization.py:176: FutureWarning: `torch.jit.load` is deprecated. Please switch to `torch.export`.
+  warnings.warn(
+/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/site-packages/torch/jit/_serialization.py:176: FutureWarning: `torch.jit.load` is deprecated. Please switch to `torch.export`.
+  warnings.warn(
+1/16 mol_id=8457 Eint=-97.069 desolv=32.595 strain=149.490 score=85.016 steps=383 converged=True
+2/16 mol_id=80302 Eint=-208.574 desolv=39.717 strain=83.990 score=-84.867 steps=1000 converged=False
+3/16 mol_id=35644 Eint=-700.893 desolv=19.663 strain=286.398 score=-394.832 steps=673 converged=True
+4/16 mol_id=106444 Eint=-204.185 desolv=12.198 strain=73.190 score=-118.797 steps=308 converged=True
+5/16 mol_id=74935 Eint=-57.098 desolv=13.935 strain=45.182 score=2.019 steps=319 converged=True
+6/16 mol_id=72284 Eint=-193.246 desolv=31.022 strain=151.076 score=-11.148 steps=551 converged=True
+7/16 mol_id=55476 Eint=-335.235 desolv=26.770 strain=71.217 score=-237.248 steps=1000 converged=False
+8/16 mol_id=29349 Eint=-72.061 desolv=40.876 strain=43.676 score=12.491 steps=1000 converged=False
+9/16 mol_id=6871 Eint=-230.438 desolv=29.219 strain=150.093 score=-51.127 steps=931 converged=True
+10/16 mol_id=77861 Eint=-64.357 desolv=5.168 strain=47.581 score=-11.608 steps=481 converged=True
+11/16 mol_id=32175 Eint=-406.161 desolv=11.831 strain=116.470 score=-277.860 steps=1000 converged=False
+12/16 mol_id=60570 Eint=-191.371 desolv=4.528 strain=250.237 score=63.394 steps=890 converged=True
+13/16 mol_id=7963 Eint=-56.776 desolv=5.623 strain=10.568 score=-40.585 steps=339 converged=True
+14/16 mol_id=14741 Eint=-183.359 desolv=59.090 strain=95.613 score=-28.657 steps=675 converged=True
+15/16 mol_id=1118 Eint=-331.118 desolv=5.070 strain=82.903 score=-243.146 steps=643 converged=True
+16/16 mol_id=2684 Eint=-27.437 desolv=-2.592 strain=11.499 score=-18.529 steps=158 converged=True
+wrote 16 rows to /home/xianyang/aimnet2_score_pipelines/work/aimnet2025-benchmarks-20260906/smoke/part0_0/aimnet2_score.csv in 169.00 s
+{
+  "scope": "reference reconstruction; not an exact reproduction of the unreleased AIMNet2(Score) workflow",
+  "score_definition": "Eint + Edesolv + ELCSE; lower is better",
+  "interaction_geometry": "fixed_pocket_aimnet2025_minimized_v2",
+  "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/smoke/part0/pocket.pdb",
+  "pocket_charge": 0,
+  "gas_model": "/home/xianyang/t3-aimnet-models/aimnet2_wb97m_0.jpt",
+  "interaction_model": "aimnet2-2025",
+  "interaction_members": [
+    "aimnet2-2025"
+  ],
+  "cpcm_model": "/home/xianyang/t3-aimnet-models/wb97m_cpcms_v2_0.jpt",
+  "complex_fmax_ev_a": 0.002,
+  "complex_max_steps": 1000,
+  "n_complex_optimization_converged": 10,
+  "minimized_poses": "/home/xianyang/aimnet2_score_pipelines/work/aimnet2025-benchmarks-20260906/smoke/part0_0/aimnet2_score.minimized.sdf",
+  "bound_refinement": "AIMNet2(2025) ligand-in-fixed-pocket FIRE; no isolated bound refinement",
+  "n_requested": 16,
+  "n_scored": 16,
+  "n_errors": 0,
+  "n_optimization_converged": 12,
+  "elapsed_seconds_this_run": 169.00471540901344,
+  "output": "/home/xianyang/aimnet2_score_pipelines/work/aimnet2025-benchmarks-20260906/smoke/part0_0/aimnet2_score.csv",
+  "n_actives": 4,
+  "n_decoys": 12,
+  "ef1_percent": 4.0,
+  "ef1_top_n": 1,
+  "ef1_actives_in_top_n": 1,
+  "auroc": 0.625,
+  "composite_vs_interaction_spearman": 0.7323529411764707
+}
+ mol_id  aimnet_interaction_kcal_mol  desolvation_kcal_mol  local_strain_kcal_mol  aimnet2_composite_kcal_mol  optimization_converged
+   8457                   -97.069434             32.594915             149.490210                   85.015692                    True
+  80302                  -208.574062             39.717228              83.989669                  -84.867166                   False
+  35644                  -700.892968             19.662812             286.398235                 -394.831922                    True
+ 106444                  -204.185050             12.198164              73.190002                 -118.796885                    True
+  74935                   -57.098269             13.935407              45.181974                    2.019112                    True
+  72284                  -193.245764             31.022216             151.075739                  -11.147810                    True
+  55476                  -335.234819             26.769547              71.217178                 -237.248094                   False
+  29349                   -72.060642             40.875526              43.675922                   12.490806                   False
+   6871                  -230.437998             29.218834             150.092558                  -51.126606                    True
+  77861                   -64.357057              5.168415              47.580772                  -11.607870                    True
+  32175                  -406.160553             11.830730             116.469620                 -277.860202                   False
+  60570                  -191.371473              4.527880             250.237224                   63.393631                    True
+   7963                   -56.775814              5.623201              10.567899                  -40.584714                    True
+  14741                  -183.359201             59.089526              95.612507                  -28.657169                    True
+   1118                  -331.118456              5.069563              82.902810                 -243.146083                    True
+   2684                   -27.436822             -2.591697              11.499451                  -18.529067                    True

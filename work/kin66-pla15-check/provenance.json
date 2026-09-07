@@ -1,0 +1,20 @@
+{
+  "source": "https://doi.org/10.1184/R1/33043574.v2",
+  "jobs": [
+    "10341235",
+    "10341253"
+  ],
+  "torch": "2.14.0+cu130",
+  "aimnet": "0.2.0",
+  "models": {
+    "/home/xianyang/t3-aimnet-models/aimnet2_wb97m_0.jpt": "e62f73566f28e84f2c75c38d93b1dbecf3a868eeab8df05150bdcd0d650432dc",
+    "/home/xianyang/.cache/aimnet/aimnet2_2025_b973c_d3_1.pt": "912ae4f0923803cb38da3fe2bfccc1a47414fd1f9de32ad5a48465be9fe9d0a7",
+    "/home/xianyang/.cache/aimnet/aimnet2_2025_b973c_d3_0.pt": "043ed5418a104e31f79462f8e5ebeca64a2d24422174f5d29f894d32271981b5",
+    "/home/xianyang/.cache/aimnet/aimnet2_2025_b973c_d3_2.pt": "37c00223b32b8d614c8a9a68c3ccde0b424f5e3795d816c2b4e9d6295afe441c",
+    "/home/xianyang/.cache/aimnet/aimnet2_2025_b973c_d3_3.pt": "92ee4d1c252042b42622b96b6e0de05eb9c2630af84261780c5c1e558cf8f91d"
+  },
+  "n_systems": 81,
+  "n_prediction_rows": 1134,
+  "validation": "No missing systems; 7 model variants including ensemble x 2 geometry conventions x 81; energy arithmetic within 1e-6 kcal/mol",
+  "geometry_optimized": false
+}

@@ -1,0 +1,26 @@
+{
+  "pre_min_interaction": {
+    "n": 250,
+    "n_actives": 58,
+    "ef1": 0.0,
+    "auroc": 0.5795617816091954,
+    "active_top5": 2,
+    "active_top10": 3
+  },
+  "interaction": {
+    "n": 250,
+    "n_actives": 58,
+    "ef1": 1.4367816091954022,
+    "auroc": 0.5422054597701149,
+    "active_top5": 1,
+    "active_top10": 1
+  },
+  "composite": {
+    "n": 250,
+    "n_actives": 58,
+    "ef1": 0.0,
+    "auroc": 0.521551724137931,
+    "active_top5": 0,
+    "active_top10": 3
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "n_test_ligands": 3,
+  "complex_converged": 3,
+  "cpcm_converged": 3,
+  "component_arithmetic": "passed at 1e-7 kcal/mol",
+  "complex_energy_decreased": true,
+  "minimized_pose_ids": "passed",
+  "fixed_pocket_harmonic_test": "passed",
+  "charge_and_zero_step_tests": "passed"
+}

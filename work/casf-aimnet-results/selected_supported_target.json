@@ -1,0 +1,12 @@
+{
+  "selection_rule": "first CASF TargetInfo target with AIMNet2-supported pocket elements",
+  "target": "3ebp",
+  "pocket": "/data/user_data/xianyang/casf-2016/extracted/CASF-2016/coreset/3ebp/3ebp_pocket.pdb",
+  "pocket_atoms": 322,
+  "unsupported_atomic_numbers": "",
+  "n_actives": 5,
+  "actives": "3ebp,3syr,3g2n,4eky,3l7b",
+  "ef1": 0.0,
+  "actives_top20": 5,
+  "active_ranks": "3ebp:8,3syr:10,3g2n:7,4eky:6,3l7b:9"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "target": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/O95271",
+    "safe_eV": [
+      -291787.77584045683,
+      -254106.26130014294,
+      -37681.568018181526
+    ],
+    "direct_dense_eV": [
+      -291787.7757936519,
+      -254106.26126885088,
+      -37681.56802455926
+    ],
+    "interaction_delta_kcal_mol": -0.0005048098735052633,
+    "pass": true
+  },
+  {
+    "target": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P00338",
+    "safe_eV": [
+      -306765.1814274119,
+      -231899.6410609214,
+      -74866.04397358416
+    ],
+    "direct_dense_eV": [
+      -306765.1814672572,
+      -231899.64109194584,
+      -74866.04398276325
+    ],
+    "interaction_delta_kcal_mol": -8.26118872638004e-06,
+    "pass": true
+  },
+  {
+    "target": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/t3/L1/P06239",
+    "safe_eV": [
+      -335174.54341813974,
+      -254549.86954653155,
+      -80623.52758324203
+    ],
+    "direct_dense_eV": [
+      -335174.5434868931,
+      -254549.86952337553,
+      -80623.52759507362
+    ],
+    "interaction_delta_kcal_mol": 0.0018466381001031908,
+    "pass": true
+  }
+]

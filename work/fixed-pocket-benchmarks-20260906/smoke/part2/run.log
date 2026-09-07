@@ -1,0 +1,160 @@
+Bound geometry uses fixed-pocket gas FIRE. Legacy CPCM bound-refinement options are ignored.
+/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/site-packages/aimnet/models/base.py:85: UserWarning: 'torch.load' received a zip file that looks like a TorchScript archive dispatching to 'torch.jit.load' (call 'torch.jit.load' directly to silence this warning)
+  data = torch.load(path, map_location=device, weights_only=True)
+/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/site-packages/torch/jit/_serialization.py:176: FutureWarning: `torch.jit.load` is deprecated. Please switch to `torch.export`.
+  warnings.warn(
+/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/site-packages/torch/jit/_serialization.py:176: FutureWarning: `torch.jit.load` is deprecated. Please switch to `torch.export`.
+  warnings.warn(
+1/62 mol_id=23706 Eint=-85.407 desolv=7.905 strain=31.871 score=-45.631 steps=487 converged=True
+2/62 mol_id=100013 Eint=-110.706 desolv=10.894 strain=34.790 score=-65.022 steps=1000 converged=False
+3/62 mol_id=4844 Eint=-145.295 desolv=18.671 strain=50.582 score=-76.042 steps=728 converged=True
+4/62 mol_id=97280 Eint=-232.141 desolv=10.355 strain=57.523 score=-164.264 steps=695 converged=True
+5/62 mol_id=93063 Eint=-280.820 desolv=21.048 strain=135.255 score=-124.517 steps=1000 converged=False
+6/62 mol_id=33001 Eint=-141.223 desolv=19.628 strain=190.781 score=69.187 steps=1000 converged=False
+7/62 mol_id=101058 Eint=-44.249 desolv=6.698 strain=39.355 score=1.804 steps=657 converged=True
+8/62 mol_id=64450 Eint=-118.159 desolv=13.206 strain=49.742 score=-55.211 steps=735 converged=True
+9/62 mol_id=25490 Eint=-137.160 desolv=8.394 strain=132.369 score=3.602 steps=566 converged=True
+10/62 mol_id=137428 Eint=-411.638 desolv=16.646 strain=142.629 score=-252.363 steps=713 converged=True
+11/62 mol_id=438 Eint=-271.036 desolv=20.595 strain=96.640 score=-153.801 steps=513 converged=True
+12/62 mol_id=62482 Eint=-515.338 desolv=28.376 strain=135.490 score=-351.472 steps=728 converged=True
+13/62 mol_id=99711 Eint=-103.926 desolv=7.483 strain=32.677 score=-63.766 steps=1000 converged=False
+14/62 mol_id=119060 Eint=-95.703 desolv=-0.819 strain=156.464 score=59.942 steps=1000 converged=False
+15/62 mol_id=11311 Eint=-195.791 desolv=-21.889 strain=215.078 score=-2.602 steps=1000 converged=False
+16/62 mol_id=22575 Eint=-89.021 desolv=-23.366 strain=241.409 score=129.023 steps=862 converged=True
+17/62 mol_id=19980 Eint=-64.295 desolv=13.260 strain=50.728 score=-0.306 steps=888 converged=True
+18/62 mol_id=64267 Eint=-294.846 desolv=6.133 strain=76.176 score=-212.537 steps=484 converged=True
+19/62 mol_id=80164 Eint=-430.760 desolv=-17.550 strain=128.174 score=-320.135 steps=571 converged=True
+20/62 mol_id=15531 Eint=-58.367 desolv=-0.940 strain=155.222 score=95.916 steps=899 converged=True
+21/62 mol_id=107741 Eint=-522.426 desolv=33.157 strain=190.937 score=-298.332 steps=519 converged=True
+22/62 mol_id=130295 Eint=-95.599 desolv=11.070 strain=43.899 score=-40.630 steps=396 converged=True
+23/62 mol_id=19276 Eint=-96.764 desolv=9.525 strain=37.195 score=-50.045 steps=775 converged=True
+24/62 mol_id=9478 Eint=-306.813 desolv=32.412 strain=178.635 score=-95.766 steps=802 converged=True
+25/62 mol_id=50838 Eint=-418.066 desolv=-13.162 strain=502.640 score=71.411 steps=1000 converged=False
+26/62 mol_id=80789 Eint=-255.008 desolv=16.505 strain=63.214 score=-175.290 steps=1000 converged=False
+27/62 mol_id=122856 Eint=-67.666 desolv=12.976 strain=36.313 score=-18.377 steps=383 converged=True
+28/62 mol_id=140320 Eint=-154.974 desolv=-0.068 strain=98.950 score=-56.092 steps=1000 converged=False
+29/62 mol_id=77986 Eint=-78.544 desolv=-13.261 strain=92.096 score=0.290 steps=741 converged=True
+30/62 mol_id=5671 Eint=-228.550 desolv=1.936 strain=101.375 score=-125.239 steps=1000 converged=False
+31/62 mol_id=4333 Eint=-405.227 desolv=15.901 strain=86.056 score=-303.270 steps=1000 converged=False
+32/62 mol_id=118755 Eint=-243.838 desolv=2.934 strain=54.285 score=-186.618 steps=1000 converged=False
+33/62 mol_id=74084 Eint=-142.304 desolv=36.069 strain=79.843 score=-26.392 steps=933 converged=True
+34/62 mol_id=131296 Eint=-116.911 desolv=5.972 strain=44.067 score=-66.873 steps=857 converged=True
+35/62 mol_id=14488 Eint=-339.546 desolv=67.488 strain=198.570 score=-73.488 steps=1000 converged=False
+36/62 mol_id=102928 Eint=-227.920 desolv=19.818 strain=89.641 score=-118.462 steps=616 converged=True
+37/62 mol_id=9457 Eint=-358.900 desolv=-4.595 strain=143.950 score=-219.545 steps=656 converged=True
+38/62 mol_id=142997 Eint=-90.859 desolv=6.052 strain=38.530 score=-46.277 steps=1000 converged=False
+39/62 mol_id=91263 Eint=-58.590 desolv=18.422 strain=50.148 score=9.979 steps=582 converged=True
+40/62 mol_id=99922 Eint=-109.142 desolv=32.271 strain=33.761 score=-43.109 steps=1000 converged=False
+41/62 mol_id=30908 Eint=-96.953 desolv=11.599 strain=34.086 score=-51.268 steps=723 converged=True
+42/62 mol_id=90039 Eint=-332.087 desolv=-5.745 strain=152.441 score=-185.391 steps=919 converged=True
+43/62 mol_id=92490 Eint=-81.358 desolv=1.329 strain=114.903 score=34.874 steps=856 converged=True
+44/62 mol_id=63893 Eint=-130.495 desolv=43.216 strain=37.259 score=-50.019 steps=666 converged=True
+45/62 mol_id=101684 Eint=-565.471 desolv=14.996 strain=211.274 score=-339.202 steps=626 converged=True
+46/62 mol_id=13020 Eint=-194.803 desolv=9.819 strain=32.688 score=-152.296 steps=505 converged=True
+47/62 mol_id=58399 Eint=-350.943 desolv=1.004 strain=119.261 score=-230.677 steps=726 converged=True
+48/62 mol_id=141816 Eint=-285.503 desolv=27.107 strain=199.113 score=-59.283 steps=1000 converged=False
+49/62 mol_id=102379 Eint=-306.539 desolv=35.088 strain=145.703 score=-125.749 steps=1000 converged=False
+50/62 mol_id=121875 Eint=-49.822 desolv=23.229 strain=122.552 score=95.959 steps=732 converged=True
+51/62 mol_id=49247 Eint=-151.768 desolv=6.203 strain=60.974 score=-84.590 steps=401 converged=True
+52/62 mol_id=21479 Eint=-295.499 desolv=12.394 strain=121.812 score=-161.294 steps=919 converged=True
+53/62 mol_id=101132 Eint=-66.750 desolv=-4.732 strain=24.647 score=-46.836 steps=594 converged=True
+54/62 mol_id=91340 Eint=-192.390 desolv=-47.335 strain=124.712 score=-115.014 steps=480 converged=True
+55/62 mol_id=35215 Eint=-74.185 desolv=19.514 strain=22.420 score=-32.251 steps=399 converged=True
+56/62 mol_id=99054 Eint=-212.036 desolv=-15.252 strain=89.153 score=-138.136 steps=554 converged=True
+57/62 mol_id=19285 Eint=-104.715 desolv=27.519 strain=41.983 score=-35.213 steps=717 converged=True
+58/62 mol_id=66023 Eint=-88.421 desolv=31.802 strain=65.625 score=9.007 steps=760 converged=True
+59/62 mol_id=96818 Eint=-115.695 desolv=-14.409 strain=37.850 score=-92.253 steps=502 converged=True
+60/62 mol_id=108597 Eint=-80.634 desolv=-2.296 strain=61.113 score=-21.818 steps=688 converged=True
+61/62 mol_id=129984 Eint=-100.212 desolv=7.703 strain=100.890 score=8.381 steps=886 converged=True
+62/62 mol_id=91355 Eint=-201.876 desolv=20.098 strain=62.987 score=-118.791 steps=1000 converged=False
+wrote 62 rows to /home/xianyang/aimnet2_score_pipelines/work/fixed-pocket-benchmarks-20260906/smoke/part2/aimnet2_score.csv in 683.64 s
+{
+  "scope": "reference reconstruction; not an exact reproduction of the unreleased AIMNet2(Score) workflow",
+  "score_definition": "Eint + Edesolv + ELCSE; lower is better",
+  "interaction_geometry": "fixed_pocket_gas_minimized_v1",
+  "pocket": "/home/xianyang/aimnet2_score_pipelines/work/correction-20260906/smoke/part2/pocket.pdb",
+  "pocket_charge": 0,
+  "gas_model": "/home/xianyang/t3-aimnet-models/aimnet2_wb97m_0.jpt",
+  "cpcm_model": "/home/xianyang/t3-aimnet-models/wb97m_cpcms_v2_0.jpt",
+  "complex_fmax_ev_a": 0.002,
+  "complex_max_steps": 1000,
+  "n_complex_optimization_converged": 46,
+  "minimized_poses": "/home/xianyang/aimnet2_score_pipelines/work/fixed-pocket-benchmarks-20260906/smoke/part2/aimnet2_score.minimized.sdf",
+  "bound_refinement": "gas-phase ligand-in-fixed-pocket FIRE; no isolated bound refinement",
+  "n_requested": 62,
+  "n_scored": 62,
+  "n_errors": 0,
+  "n_optimization_converged": 44,
+  "elapsed_seconds_this_run": 683.6447886179994,
+  "output": "/home/xianyang/aimnet2_score_pipelines/work/fixed-pocket-benchmarks-20260906/smoke/part2/aimnet2_score.csv",
+  "n_actives": 14,
+  "n_decoys": 48,
+  "ef1_percent": 4.428571428571429,
+  "ef1_top_n": 1,
+  "ef1_actives_in_top_n": 1,
+  "auroc": 0.5089285714285714,
+  "composite_vs_interaction_spearman": 0.8001561280249805
+}
+ mol_id  aimnet_interaction_kcal_mol  desolvation_kcal_mol  local_strain_kcal_mol  aimnet2_composite_kcal_mol  optimization_converged
+  23706                   -85.406613              7.905246              31.870845                  -45.630522                    True
+ 100013                  -110.705980             10.893655              34.789966                  -65.022359                   False
+   4844                  -145.295431             18.671372              50.582342                  -76.041717                    True
+  97280                  -232.140952             10.354665              57.522745                 -164.263542                    True
+  93063                  -280.820366             21.048411             135.254770                 -124.517185                   False
+  33001                  -141.223299             19.628407             190.781470                   69.186578                   False
+ 101058                   -44.248887              6.697952              39.355274                    1.804340                    True
+  64450                  -118.158665             13.206005              49.741964                  -55.210696                    True
+  25490                  -137.160259              8.394060             132.368503                    3.602303                    True
+ 137428                  -411.637828             16.646025             142.629016                 -252.362787                    True
+    438                  -271.036332             20.595445              96.639519                 -153.801368                    True
+  62482                  -515.337655             28.375516             135.489945                 -351.472193                    True
+  99711                  -103.925721              7.482963              32.677167                  -63.765591                   False
+ 119060                   -95.702504             -0.819223             156.463502                   59.941775                   False
+  11311                  -195.791060            -21.888644             215.078112                   -2.601593                   False
+  22575                   -89.020799            -23.365914             241.409362                  129.022648                    True
+  19980                   -64.294948             13.260212              50.728341                   -0.306395                    True
+  64267                  -294.846300              6.133356              76.175687                 -212.537257                    True
+  80164                  -430.759768            -17.550011             128.174340                 -320.135440                    True
+  15531                   -58.366703             -0.939767             155.222160                   95.915691                    True
+ 107741                  -522.426099             33.156842             190.937308                 -298.331949                    True
+ 130295                   -95.598513             11.069719              43.899070                  -40.629723                    True
+  19276                   -96.764299              9.524809              37.194578                  -50.044913                    True
+   9478                  -306.813017             32.411613             178.634952                  -95.766452                    True
+  50838                  -418.066382            -13.161967             502.639625                   71.411276                   False
+  80789                  -255.008164             16.504695              63.213702                 -175.289766                   False
+ 122856                   -67.666491             12.976478              36.312520                  -18.377494                    True
+ 140320                  -154.974295             -0.067543              98.950194                  -56.091645                   False
+  77986                   -78.544216            -13.261474              92.095741                    0.290052                    True
+   5671                  -228.549615              1.935625             101.374710                 -125.239280                   False
+   4333                  -405.226766             15.901122              86.056111                 -303.269533                   False
+ 118755                  -243.837859              2.934496              54.285242                 -186.618121                   False
+  74084                  -142.303986             36.068742              79.842775                  -26.392469                    True
+ 131296                  -116.911263              5.971720              44.066965                  -66.872577                    True
+  14488                  -339.545884             67.488098             198.570096                  -73.487690                   False
+ 102928                  -227.920439             19.817831              89.640989                 -118.461619                    True
+   9457                  -358.900093             -4.594941             143.949740                 -219.545294                    True
+ 142997                   -90.858583              6.051680              38.530167                  -46.276737                   False
+  91263                   -58.590321             18.421608              50.148174                    9.979462                    True
+  99922                  -109.141619             32.271453              33.760678                  -43.109488                   False
+  30908                   -96.952880             11.599440              34.085650                  -51.267789                    True
+  90039                  -332.087249             -5.745098             152.441385                 -185.390962                    True
+  92490                   -81.357545              1.328531             114.902932                   34.873918                    True
+  63893                  -130.494671             43.216280              37.259120                  -50.019271                    True
+ 101684                  -565.471473             14.996170             211.273706                 -339.201596                    True
+  13020                  -194.802876              9.819302              32.688009                 -152.295565                    True
+  58399                  -350.942893              1.004439             119.261454                 -230.677001                    True
+ 141816                  -285.503383             27.106625             199.113414                  -59.283343                   False
+ 102379                  -306.538852             35.087591             145.702510                 -125.748751                   False
+ 121875                   -49.821575             23.228952             122.551689                   95.959066                    True
+  49247                  -151.768061              6.203451              60.974359                  -84.590251                    True
+  21479                  -295.499130             12.393734             121.811505                 -161.293890                    True
+ 101132                   -66.750167             -4.732287              24.646692                  -46.835762                    True
+  91340                  -192.390343            -47.334771             124.711583                 -115.013531                    True
+  35215                   -74.184622             19.513523              22.420360                  -32.250739                    True
+  99054                  -212.036237            -15.252168              89.152652                 -138.135752                    True
+  19285                  -104.714768             27.518871              41.982754                  -35.213143                    True
+  66023                   -88.420598             31.801979              65.625180                    9.006562                    True
+  96818                  -115.694761            -14.409134              37.850462                  -92.253433                    True
+ 108597                   -80.634025             -2.296476              61.112657                  -21.817844                    True
+ 129984                  -100.211650              7.702548             100.890384                    8.381282                    True
+  91355                  -201.875733             20.097709              62.987450                 -118.790573                   False
