@@ -114,7 +114,7 @@ for name,v in summary["smoke"].items():lines.append(f"{name}: AUROC {v['auroc']:
 lines+=["","## Validation and coverage","",summary["validation"]+".",
 "Three zero-byte T3 inputs remain excluded. Finite nonconverged scores are retained and flagged. The smoke set is nonrandom; T3 is active-only. These are public-checkpoint reconstructed scores.",
 "","Each system includes component energies, minimized SDF poses, and interaction/composite ranking CSVs. protocol_comparison.csv.gz aligns old/new scores.", "", summary["comparison_note"], "", f"Both minimizations converged for {summary['n_both_converged']} of {len(full)} cases. {summary['n_complex_energy_increased']} complexes ended above their initial energy."]
-previous=json.loads((root.parent/"fixed-pocket-benchmarks-20260906/aggregate_summary.json").read_text())
+previous=json.loads((root/"previous_checkpoint_summary.json").read_text())
 lines += ["", "## Change from previous checkpoint", "",
 "| Metric | Previous | AIMNet2(2025) member 0 |", "|---|---:|---:|"]
 for layer, value in t3.items():

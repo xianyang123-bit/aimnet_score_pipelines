@@ -78,8 +78,8 @@ Full tables, minimized poses, scores, and provenance: [current results](work/aim
   pockets, ligand inputs, docked `poses.sdf` files, and AIMNet2 component scores.
 - `work/*casf*` and `work/*ligunity*`: CASF-2016 retrieval, pose preparation,
   reranking, multi-pocket evaluation, and audit scripts.
-- `work/casf-aimnet-results/` and `work/casf-aimnet-multi24-results/`: staged
-  CASF results.
+- `work/casf-aimnet-multi24-results/`: canonical staged CASF results,
+  including the original `3ebp` single-pocket case.
 - `work/t3_full_dock*`, `work/aimnet_*chunk*`, and
   `work/aimnet2_score_reference*`: earlier T3 docking and scoring experiments.
 - `MANIFEST.sha256`: SHA-256 checksums for every file in this consolidated copy.
@@ -118,7 +118,7 @@ directory is deployed under a different account or location.
 
 ## Historical numerical correction, 2026-09-06
 
-The T3 affinity, CASF reranking, and 250-ligand smoke-test results were recalculated using explicit reference neighbor lists and full-range Coulomb neighbors for the legacy checkpoint. Scorers now import work/aimnet_safe_calculator.py. See work/correction-20260906/report.md for metrics, validation, limitations, and original-result backups. Eight historical exploratory CSVs were not regenerated; see legacy_experiments_not_recomputed.json. This correction retains the original checkpoints and does not turn the reconstructed score into an official AIMNet2(Score) release.
+The T3 affinity, CASF reranking, and 250-ligand smoke-test results were recalculated using explicit reference neighbor lists and full-range Coulomb neighbors for the legacy checkpoint. Scorers now import work/aimnet_safe_calculator.py. See work/correction-20260906/report.md for metrics, validation, limitations, and the retained correction audit record. Eight historical exploratory CSVs were not regenerated; see legacy_experiments_not_recomputed.json. This correction retains the original checkpoints and does not turn the reconstructed score into an official AIMNet2(Score) release.
 
 Outdated result backups and historical result CSVs were deleted on 2026-09-06 at the user's request. Current results and comparison audits remain; see work/correction-20260906/cleanup_log.json.
 
