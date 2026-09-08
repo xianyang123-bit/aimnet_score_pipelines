@@ -1,0 +1,17 @@
+{
+  "status": "complete",
+  "removed": "/home/xianyang/aimnet2_score_pipelines/work/casf-aimnet-results",
+  "files_removed": 14,
+  "bytes_removed": 344893,
+  "canonical_replacement": "/home/xianyang/aimnet2_score_pipelines/work/casf-aimnet-multi24-results/3ebp",
+  "maintained_entrypoints_updated": [
+    "work/run_casf_aimnet_rerank.sbatch",
+    "work/aimnet2025-benchmarks-20260906/updated_entrypoints/run_casf_aimnet_rerank.sbatch",
+    "work/analyze_casf_aimnet_rerank.sbatch",
+    "work/stage_casf_results.sbatch",
+    "README.md"
+  ],
+  "historical_audit_records_retained": true,
+  "recoverability": "Deleted directory is not recoverable from this package; equivalent corrected 3ebp results remain in the multi24 directory.",
+  "time": "2026-09-08 16:55:02"
+}

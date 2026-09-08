@@ -1,0 +1,88 @@
+{
+  "layer": "L1",
+  "uniprot": "O75874",
+  "n": 30,
+  "n_actives": 5,
+  "n_decoys": 25,
+  "source_n": 1479,
+  "source_n_actives": 29,
+  "source_n_decoys": 1450,
+  "sampling_seed": "10940256162873321156",
+  "status": "complete",
+  "methods": {
+    "smina": {
+      "n_scored": 30,
+      "n_failed": 0,
+      "n_active_scored": 5,
+      "coverage": 1.0,
+      "sample_failure_last": {
+        "auroc": 0.696,
+        "ef1": 6.0,
+        "top_n": 1,
+        "top_active_expected": 1.0
+      },
+      "scored_only": {
+        "auroc": 0.696,
+        "ef1": 6.0,
+        "top_n": 1,
+        "top_active_expected": 1.0
+      }
+    },
+    "pre_min_interaction": {
+      "n_scored": 30,
+      "n_failed": 0,
+      "n_active_scored": 5,
+      "coverage": 1.0,
+      "sample_failure_last": {
+        "auroc": 0.592,
+        "ef1": 6.0,
+        "top_n": 1,
+        "top_active_expected": 1.0
+      },
+      "scored_only": {
+        "auroc": 0.592,
+        "ef1": 6.0,
+        "top_n": 1,
+        "top_active_expected": 1.0
+      }
+    },
+    "interaction": {
+      "n_scored": 30,
+      "n_failed": 0,
+      "n_active_scored": 5,
+      "coverage": 1.0,
+      "sample_failure_last": {
+        "auroc": 0.376,
+        "ef1": 0.0,
+        "top_n": 1,
+        "top_active_expected": 0.0
+      },
+      "scored_only": {
+        "auroc": 0.376,
+        "ef1": 0.0,
+        "top_n": 1,
+        "top_active_expected": 0.0
+      }
+    },
+    "composite": {
+      "n_scored": 30,
+      "n_failed": 0,
+      "n_active_scored": 5,
+      "coverage": 1.0,
+      "sample_failure_last": {
+        "auroc": 0.464,
+        "ef1": 0.0,
+        "top_n": 1,
+        "top_active_expected": 0.0
+      },
+      "scored_only": {
+        "auroc": 0.464,
+        "ef1": 0.0,
+        "top_n": 1,
+        "top_active_expected": 0.0
+      }
+    }
+  },
+  "n_complex_converged": 24,
+  "n_cpcm_converged": 22
+}

@@ -1,0 +1,80 @@
+{
+  "timestamp_utc": "2026-09-08T21:01:43.361664+00:00",
+  "reason": "Compacted obsolete correction staging data after confirming maintained code and canonical CASF/T3 results exist outside this snapshot.",
+  "preservation_policy": "Retain reports, validation evidence, comparison tables, hashes, inventories, cleanup logs, and small historical manifest records.",
+  "active_t3_jobs_affected": false,
+  "removed": [
+    {
+      "path": "work/correction-20260906/casf",
+      "files": 267,
+      "bytes": 197850755
+    },
+    {
+      "path": "work/correction-20260906/casf-single",
+      "files": 11,
+      "bytes": 7819748
+    },
+    {
+      "path": "work/correction-20260906/deliverables",
+      "files": 729,
+      "bytes": 8236859
+    },
+    {
+      "path": "work/correction-20260906/smoke",
+      "files": 40,
+      "bytes": 933087
+    },
+    {
+      "path": "work/correction-20260906/t3",
+      "files": 866,
+      "bytes": 9838008
+    },
+    {
+      "path": "work/correction-20260906/aimnet_corrected_results_20260906.zip",
+      "files": 1,
+      "bytes": 2746704
+    },
+    {
+      "path": "work/correction-20260906/local_pipeline_update.zip",
+      "files": 1,
+      "bytes": 4462983
+    },
+    {
+      "path": "work/correction-20260906/t3-corrected-poses-and-scores.tar.gz",
+      "files": 1,
+      "bytes": 2060833
+    },
+    {
+      "path": "work/correction-20260906/casf_worker_0.json",
+      "files": 1,
+      "bytes": 20
+    },
+    {
+      "path": "work/correction-20260906/casf_worker_1.json",
+      "files": 1,
+      "bytes": 20
+    },
+    {
+      "path": "work/correction-20260906/casf_worker_2.json",
+      "files": 1,
+      "bytes": 20
+    },
+    {
+      "path": "work/correction-20260906/casf_worker_3.json",
+      "files": 1,
+      "bytes": 20
+    },
+    {
+      "path": "work/correction-20260906/casf_worker_4.json",
+      "files": 1,
+      "bytes": 20
+    },
+    {
+      "path": "work/correction-20260906/casf_worker_5.json",
+      "files": 1,
+      "bytes": 20
+    }
+  ],
+  "removed_files": 1922,
+  "removed_bytes": 233949097
+}

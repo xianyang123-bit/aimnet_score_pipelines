@@ -1,0 +1,3 @@
+2026-09-08 12:01:14 TARGET_FAILED {'layer': 'L1', 'uniprot': 'C7C422', 'error': "RuntimeError('AIMNet process failed (1); see /data/user_data/xianyang/t3-smoke-L123-20260908/L1/C7C422/chunks/00000000_00000025/attempt-1788882980207727886/score.log')", 'job_id': '10358425'}
+2026-09-08 12:01:15 SUMMARY [('L1', 0, 319, 29), ('L2', 0, 449, 39), ('L3', 0, 49, 4)]
+[2026-09-08T13:23:38.858] error: *** JOB 10358425 ON babel-x5-20 CANCELLED AT 2026-09-08T13:23:38 DUE to SIGNAL Terminated ***

@@ -33,10 +33,5 @@ poses="$root/3ebp_retrieved_top20_allposes.sdf"
   --max-steps 1000 \
   --device cuda
 
-mkdir -p /home/xianyang/aimnet2_score_pipelines/work/casf-aimnet-results
-cp "$root/aimnet_interaction_bestpose.csv" /home/xianyang/aimnet2_score_pipelines/work/casf-aimnet-results/
-cp "$root/aimnet_interaction_bestpose.summary.json" /home/xianyang/aimnet2_score_pipelines/work/casf-aimnet-results/
-cp "$root/aimnet2_composite_rerank.csv" /home/xianyang/aimnet2_score_pipelines/work/casf-aimnet-results/
-cp "$root/aimnet2_composite_rerank.summary.json" /home/xianyang/aimnet2_score_pipelines/work/casf-aimnet-results/
-cp /data/user_data/xianyang/casf-2016/ligunity/results/3ebp_ligunity_all285.csv /home/xianyang/aimnet2_score_pipelines/work/casf-aimnet-results/
-cp /data/user_data/xianyang/casf-2016/ligunity/results/selected_supported_target.json /home/xianyang/aimnet2_score_pipelines/work/casf-aimnet-results/
+# Results remain under "$root". The canonical staged 3ebp result is:
+# /home/xianyang/aimnet2_score_pipelines/work/casf-aimnet-multi24-results/3ebp

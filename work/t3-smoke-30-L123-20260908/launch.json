@@ -1,0 +1,105 @@
+{
+  "workers": [
+    {
+      "lane": 0,
+      "job_id": "10361600"
+    },
+    {
+      "lane": 1,
+      "job_id": "10361601"
+    },
+    {
+      "lane": 2,
+      "job_id": "10361602"
+    },
+    {
+      "lane": 3,
+      "job_id": "10361603"
+    },
+    {
+      "lane": 4,
+      "job_id": "10361604"
+    },
+    {
+      "lane": 5,
+      "job_id": "10361605"
+    },
+    {
+      "lane": 6,
+      "job_id": "10361606"
+    },
+    {
+      "lane": 7,
+      "job_id": "10361607"
+    }
+  ],
+  "cpu_workers": [
+    {
+      "lane": 0,
+      "job_id": "10361584"
+    },
+    {
+      "lane": 1,
+      "job_id": "10361585"
+    },
+    {
+      "lane": 2,
+      "job_id": "10361586"
+    },
+    {
+      "lane": 3,
+      "job_id": "10361587"
+    },
+    {
+      "lane": 4,
+      "job_id": "10361588"
+    },
+    {
+      "lane": 5,
+      "job_id": "10361589"
+    },
+    {
+      "lane": 6,
+      "job_id": "10361590"
+    },
+    {
+      "lane": 7,
+      "job_id": "10361591"
+    },
+    {
+      "lane": 8,
+      "job_id": "10361592"
+    },
+    {
+      "lane": 9,
+      "job_id": "10361593"
+    },
+    {
+      "lane": 10,
+      "job_id": "10361594"
+    },
+    {
+      "lane": 11,
+      "job_id": "10361595"
+    },
+    {
+      "lane": 12,
+      "job_id": "10361596"
+    },
+    {
+      "lane": 13,
+      "job_id": "10361597"
+    },
+    {
+      "lane": 14,
+      "job_id": "10361598"
+    },
+    {
+      "lane": 15,
+      "job_id": "10361599"
+    }
+  ],
+  "implementation": "fast.py",
+  "state": "/home/xianyang/aimnet2_score_pipelines/work/t3-smoke-30-L123-20260908/fast",
+  "scope": "5 actives + 25 decoys per target"
+}

@@ -1,0 +1,11 @@
+{
+  "status": "running",
+  "job_id": "10358427",
+  "layer": "L1",
+  "target": "O00329",
+  "next_ligand": 50,
+  "target_n": 250,
+  "targets_complete": 0,
+  "failures": [],
+  "updated": 1788887435.9491568
+}

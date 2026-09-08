@@ -1,0 +1,8 @@
+{
+  "targets": 890,
+  "ready_targets": 818,
+  "n_to_score": 24540,
+  "cached_scores": 518,
+  "cached_poses": 531,
+  "selection_checks": "Unique IDs, exact 5+25 counts and repeated seeded selection passed"
+}
