@@ -1,0 +1,23 @@
+{
+  "status": "source_not_recovered",
+  "reference_sha256": "6dfa5bb24afe70a836924aef189c4e2fa04e67f5ab35176da46130659498f567",
+  "candidates": 2,
+  "results": [
+    {
+      "pdb_id": "4X41",
+      "matched_atoms": 0,
+      "reference_atoms": 244,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q9NR22/4X41.cif",
+      "sha256": "d910d112a7c4212a62cd984ac3800dd4aa14e86b23ddc00a8540d5951cae2293"
+    },
+    {
+      "pdb_id": "5DST",
+      "matched_atoms": 0,
+      "reference_atoms": 244,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q9NR22/5DST.cif",
+      "sha256": "a0a2383904858ad26ea5df5ec79ac0ce8e9b475880b57ebd4598d512a6ad778e"
+    }
+  ]
+}

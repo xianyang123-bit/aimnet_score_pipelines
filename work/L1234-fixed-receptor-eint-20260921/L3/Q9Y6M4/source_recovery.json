@@ -1,0 +1,69 @@
+{
+  "status": "matched",
+  "reference_sha256": "4024371e49a779ae4c0c2efa5c0897120575bf8ae8200a7a2f4c38e9faf9f144",
+  "candidates": 10,
+  "results": [
+    {
+      "pdb_id": "2CHL",
+      "matched_atoms": 0,
+      "reference_atoms": 200,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q9Y6M4/2CHL.cif",
+      "sha256": "6b1016acd2d5b85971027c709962acb5f50e3c76ad922f420552612315eb76c8"
+    },
+    {
+      "pdb_id": "2IZR",
+      "matched_atoms": 0,
+      "reference_atoms": 200,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q9Y6M4/2IZR.cif",
+      "sha256": "e0e3c54b7c51ab843d5dae020f86d4e90c15dbc2aa7987b679290f6eb2e70281"
+    },
+    {
+      "pdb_id": "2IZS",
+      "matched_atoms": 0,
+      "reference_atoms": 200,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q9Y6M4/2IZS.cif",
+      "sha256": "0474fe0ca8b79fe10dcc1f39d1becf04662e0f2e34ce4a77da956dd0ec00bed8"
+    },
+    {
+      "pdb_id": "2IZT",
+      "matched_atoms": 0,
+      "reference_atoms": 200,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q9Y6M4/2IZT.cif",
+      "sha256": "567e6d492466b7810ae605c045b51c43a0b3a4bd643a58fe2adb0574a7b41bc7"
+    },
+    {
+      "pdb_id": "2IZU",
+      "matched_atoms": 0,
+      "reference_atoms": 200,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q9Y6M4/2IZU.cif",
+      "sha256": "8480bb31cad82e06531de6698dc00c01031951d55ae789a72b27b9b5d4ea0c57"
+    },
+    {
+      "pdb_id": "4G16",
+      "matched_atoms": 200,
+      "reference_atoms": 200,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q9Y6M4/4G16.cif",
+      "sha256": "6e18906778f7169b622de5fc496316c507acf86ac36f3abf33734c905b1e35c2"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q9Y6M4/4G16.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "B:401::0VM",
+      "name": "2-[(4-{[3-(trifluoromethyl)pyridin-2-yl]oxy}phenyl)amino]-1H-benzimidazole-6-carbonitrile",
+      "distance_to_reference_A": 2.617786278518542,
+      "elements": [
+        "C",
+        "F",
+        "N",
+        "O"
+      ]
+    }
+  ]
+}

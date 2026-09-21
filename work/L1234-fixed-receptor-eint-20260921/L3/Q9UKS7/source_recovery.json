@@ -1,0 +1,60 @@
+{
+  "status": "matched",
+  "reference_sha256": "fa42e8bcc3f70b4dd9b572b8dcbcfda35b02b5292aaefb316ae2a290ca826258",
+  "candidates": 7,
+  "results": [
+    {
+      "pdb_id": "7LPS",
+      "matched_atoms": 0,
+      "reference_atoms": 77,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q9UKS7/7LPS.cif",
+      "sha256": "96252194121099534faace9bfae4600fa57adb9bc12debadc07aafad67d3c299"
+    },
+    {
+      "pdb_id": "8DEY",
+      "matched_atoms": 0,
+      "reference_atoms": 77,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q9UKS7/8DEY.cif",
+      "sha256": "5125774d98fbfb7e6e75fbdc100dff388a31ca56e9e3727e9247a7b32d11d304"
+    },
+    {
+      "pdb_id": "9DOM",
+      "matched_atoms": 77,
+      "reference_atoms": 77,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q9UKS7/9DOM.cif",
+      "sha256": "83023a041ba1d09984a63bea737fc567e0cbbcd8fe040ecf68abbd0ab77d6364"
+    },
+    {
+      "pdb_id": "9O91",
+      "matched_atoms": 0,
+      "reference_atoms": 77,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q9UKS7/9O91.cif",
+      "sha256": "0b2b46ed98157836aee42a1232f9749e80fb1c26f187ecb53b8ddad480845392"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q9UKS7/9DOM.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "O:501::A1A8N",
+      "name": "(3S)-3-(1'-benzyl-6-oxo-6,8-dihydro-2H,7H-spiro[furo[2,3-e]isoindole-3,4'-piperidin]-7-yl)piperidine-2,6-dione",
+      "distance_to_reference_A": 3.1792554159739983,
+      "elements": [
+        "C",
+        "N",
+        "O"
+      ]
+    },
+    {
+      "residue": "Q:201::ZN",
+      "name": "ZINC ION",
+      "distance_to_reference_A": 2.30284063712624,
+      "elements": [
+        "Zn"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "status": "not_prepared",
+  "preparation": {
+    "status": "preparation_failed",
+    "error": "ValueError('Nearby nonprotein residue H:2002: :NA (2.49 A). Review it: essential cofactors/metals need another protocol; explicitly --exclude-heterogen only a ligand intentionally replaced or nonessential species.')"
+  }
+}

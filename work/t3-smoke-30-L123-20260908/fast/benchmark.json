@@ -1,6 +1,0 @@
-{
-  "status": "Previously validated serial scoring protocol",
-  "streams_per_gpu": 1,
-  "production_omp_threads": 4,
-  "new_benchmark_run": false
-}

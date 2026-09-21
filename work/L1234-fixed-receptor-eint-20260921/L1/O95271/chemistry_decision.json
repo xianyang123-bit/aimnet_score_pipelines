@@ -1,0 +1,10 @@
+{
+  "source": "reviewed_L1_decision",
+  "excluded_residue_keys": [
+    "C:1402::JKN"
+  ],
+  "exclude_names": [
+    "JKN"
+  ],
+  "rationale": "Co-crystallized inhibitor is replaced by each benchmark ligand; reuse validated pilot."
+}

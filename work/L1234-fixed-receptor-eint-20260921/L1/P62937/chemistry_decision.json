@@ -1,0 +1,11 @@
+{
+  "source": "reviewed_L1_decision",
+  "excluded_residue_keys": [
+    "C:401::SFA",
+    "D:402::SFA"
+  ],
+  "exclude_names": [
+    "SFA"
+  ],
+  "rationale": "Replace deposited sanglifehrin ligands."
+}

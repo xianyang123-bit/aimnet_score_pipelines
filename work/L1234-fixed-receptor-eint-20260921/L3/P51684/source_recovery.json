@@ -1,0 +1,15 @@
+{
+  "status": "source_not_recovered",
+  "reference_sha256": "0259af995851ab6a30687e07664cdc2937a06bf760a368722ca61b6a8621db40",
+  "candidates": 1,
+  "results": [
+    {
+      "pdb_id": "6WWZ",
+      "matched_atoms": 0,
+      "reference_atoms": 294,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/P51684/6WWZ.cif",
+      "sha256": "7bd9662d6d773b8f065d6ef58ae6964ae681806dd8ec4c14e75949c0be082753"
+    }
+  ]
+}

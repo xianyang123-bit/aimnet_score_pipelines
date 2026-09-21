@@ -1,0 +1,168 @@
+{
+  "status": "matched",
+  "reference_sha256": "321186f3a6bd674be009a8009bdfe0ab9591a196bca965a601973bb592e36caf",
+  "candidates": 57,
+  "results": [
+    {
+      "pdb_id": "1BHF",
+      "matched_atoms": 0,
+      "reference_atoms": 185,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P06239/1BHF.cif",
+      "sha256": "c187f52db0da72434178a04e9e544c99261e3576238c6e7fdaf25d4c331ae124"
+    },
+    {
+      "pdb_id": "1BHH",
+      "matched_atoms": 0,
+      "reference_atoms": 185,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P06239/1BHH.cif",
+      "sha256": "7d26444450402925266c3662f7b9409a23d44007fc809299f37f4ec81b53e8b2"
+    },
+    {
+      "pdb_id": "1CWD",
+      "matched_atoms": 0,
+      "reference_atoms": 185,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P06239/1CWD.cif",
+      "sha256": "22f6feb1ac925f4c695f2ea065d96b13d070d9f86b55faba3f1c5078b829c766"
+    },
+    {
+      "pdb_id": "1CWE",
+      "matched_atoms": 0,
+      "reference_atoms": 185,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P06239/1CWE.cif",
+      "sha256": "8fe7b52ab04006992f88bb6ef96dc88fdd4adc46fade2c3f7abc4d9ef6d80060"
+    },
+    {
+      "pdb_id": "1FBZ",
+      "matched_atoms": 0,
+      "reference_atoms": 185,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P06239/1FBZ.cif",
+      "sha256": "44b08ecb959b3156f199fc4cc71cc56557b08642809236390c4f70e9b3f29657"
+    },
+    {
+      "pdb_id": "1H92",
+      "matched_atoms": 0,
+      "reference_atoms": 185,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P06239/1H92.cif",
+      "sha256": "613b07485412bcca983d85bdf922c10fce4ca77cc404c35f5c44233eade83fbf"
+    },
+    {
+      "pdb_id": "1IJR",
+      "matched_atoms": 0,
+      "reference_atoms": 185,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P06239/1IJR.cif",
+      "sha256": "90844797f4c03ff3d690ef7ca892714c173a669b408aa16170d0df6f3775cdf8"
+    },
+    {
+      "pdb_id": "1KIK",
+      "matched_atoms": 0,
+      "reference_atoms": 185,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P06239/1KIK.cif",
+      "sha256": "2de4b258ae5c456b95466f491d74169ef4e0f64d06e1483b4fa11697b9061df0"
+    },
+    {
+      "pdb_id": "1LCJ",
+      "matched_atoms": 0,
+      "reference_atoms": 185,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P06239/1LCJ.cif",
+      "sha256": "fd6019e5ff2b3cebeef7122bd8be31fba9b8283c641a1d19972ce2b858f3b327"
+    },
+    {
+      "pdb_id": "1LCK",
+      "matched_atoms": 0,
+      "reference_atoms": 185,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P06239/1LCK.cif",
+      "sha256": "7cbf1eba3105cec574e8c0985c3b953b69b0cb3cc040671da0f46e60567728dc"
+    },
+    {
+      "pdb_id": "1LKK",
+      "matched_atoms": 0,
+      "reference_atoms": 185,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P06239/1LKK.cif",
+      "sha256": "3a0422c972b86c8a8dd2df8c69370673384b400738b3ba0a2467fb50ec8a9ae0"
+    },
+    {
+      "pdb_id": "1LKL",
+      "matched_atoms": 0,
+      "reference_atoms": 185,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P06239/1LKL.cif",
+      "sha256": "cea583dd9bc01369f1c600fe48c1d3a6c8ec90da4027643b7afc91de821decbd"
+    },
+    {
+      "pdb_id": "1Q68",
+      "matched_atoms": 0,
+      "reference_atoms": 185,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P06239/1Q68.cif",
+      "sha256": "f005a375646cebc7380a6c0a6092d8947e58d7010c7a1b70f03c0d95f2e90242"
+    },
+    {
+      "pdb_id": "1Q69",
+      "matched_atoms": 0,
+      "reference_atoms": 185,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P06239/1Q69.cif",
+      "sha256": "cff3cd646580fac39c99fe84c314999a3be13a723a14b21928fbf895e5d3c072"
+    },
+    {
+      "pdb_id": "1QPC",
+      "matched_atoms": 0,
+      "reference_atoms": 185,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P06239/1QPC.cif",
+      "sha256": "0af7af0fb901b4a1bd91945571b88fe3d648b84e6d4492493d1a9b1a56ea9ae6"
+    },
+    {
+      "pdb_id": "1QPD",
+      "matched_atoms": 185,
+      "reference_atoms": 185,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P06239/1QPD.cif",
+      "sha256": "774097ab94071dd3dd39a4d677074ad7c19e0be5fbc5ff1ed7fcd5778f910e5a"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P06239/1QPD.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "A:394::PTR",
+      "name": "O-PHOSPHOTYROSINE",
+      "distance_to_reference_A": 9.52613342337804,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "P"
+      ]
+    },
+    {
+      "residue": "B:901::SO4",
+      "name": "SULFATE ION",
+      "distance_to_reference_A": 4.650304398638866,
+      "elements": [
+        "O",
+        "S"
+      ]
+    },
+    {
+      "residue": "C:902::STU",
+      "name": "STAUROSPORINE",
+      "distance_to_reference_A": 2.7632640119974146,
+      "elements": [
+        "C",
+        "N",
+        "O"
+      ]
+    }
+  ]
+}

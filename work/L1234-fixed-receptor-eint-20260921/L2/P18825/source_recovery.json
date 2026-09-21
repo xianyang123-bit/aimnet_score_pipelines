@@ -1,0 +1,90 @@
+{
+  "status": "matched",
+  "reference_sha256": "5bb58309d4891f8f31dfb2fbc5465883a0ded48ac67be3bc1bf3d9f796d0f54e",
+  "candidates": 1,
+  "results": [
+    {
+      "pdb_id": "6KUW",
+      "matched_atoms": 210,
+      "reference_atoms": 210,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/P18825/6KUW.cif",
+      "sha256": "44bea1a64f68bf1a0b025be41a3e45fc5ad02d08d80c81914e4cb1234838be0c"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/P18825/6KUW.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "D:1202::CLR",
+      "name": "CHOLESTEROL",
+      "distance_to_reference_A": 8.127082194736316,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "I:1207::OLC",
+      "name": "(2R)-2,3-dihydroxypropyl (9Z)-octadec-9-enoate",
+      "distance_to_reference_A": 5.698453562151752,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "J:1208::OLA",
+      "name": "OLEIC ACID",
+      "distance_to_reference_A": 6.952928735432287,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "K:1209::OLA",
+      "name": "OLEIC ACID",
+      "distance_to_reference_A": 7.5024231418922245,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "L:1201::E33",
+      "name": "(8~{a}~{R},12~{a}~{S},13~{a}~{R})-12-ethylsulfonyl-3-methoxy-5,6,8,8~{a},9,10,11,12~{a},13,13~{a}-decahydroisoquinolino[2,1-g][1,6]naphthyridine",
+      "distance_to_reference_A": 2.775105583576958,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "S"
+      ]
+    },
+    {
+      "residue": "M:1202::CLR",
+      "name": "CHOLESTEROL",
+      "distance_to_reference_A": 4.447144139782294,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "N:1203::OLC",
+      "name": "(2R)-2,3-dihydroxypropyl (9Z)-octadec-9-enoate",
+      "distance_to_reference_A": 11.460914884947014,
+      "elements": [
+        "C"
+      ]
+    },
+    {
+      "residue": "O:1204::OLC",
+      "name": "(2R)-2,3-dihydroxypropyl (9Z)-octadec-9-enoate",
+      "distance_to_reference_A": 7.492054724840178,
+      "elements": [
+        "C"
+      ]
+    }
+  ]
+}

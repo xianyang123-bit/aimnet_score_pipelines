@@ -1,0 +1,38 @@
+{
+  "status": "matched",
+  "reference_sha256": "24afef5a97c772f2ca66802170e4c6cfd87b43742ac397583676d2346c549487",
+  "candidates": 1,
+  "results": [
+    {
+      "pdb_id": "2HI4",
+      "matched_atoms": 180,
+      "reference_atoms": 180,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/P05177/2HI4.cif",
+      "sha256": "7a45a3e2e36d74b4a2e90d798105ba005efdff52cb259eb127aec62ad04bdc8f"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/P05177/2HI4.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "B:900::HEM",
+      "name": "PROTOPORPHYRIN IX CONTAINING FE",
+      "distance_to_reference_A": 3.0903393017596015,
+      "elements": [
+        "C",
+        "Fe",
+        "N",
+        "O"
+      ]
+    },
+    {
+      "residue": "C:800::BHF",
+      "name": "2-PHENYL-4H-BENZO[H]CHROMEN-4-ONE",
+      "distance_to_reference_A": 3.340474816549291,
+      "elements": [
+        "C",
+        "O"
+      ]
+    }
+  ]
+}

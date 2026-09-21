@@ -23,6 +23,7 @@ import torch
 from aimnet_safe_calculator import AIMNet2Calculator
 from aimnet_interaction_calculator import InteractionCalculator
 from aimnet_casf_interaction import read_pocket
+from pocket_geometry import check_contacts
 from rdkit import Chem, RDLogger
 from rdkit.Chem import Lipinski
 from scipy.stats import rankdata, spearmanr
@@ -307,7 +308,9 @@ def main() -> None:
     pocket_xyz, pocket_z, pdb_charge = read_pocket(pocket_path)
     if len(pocket_z) == 0:
         parser.error("pocket PDB contains no atoms")
-    pocket_charge = pdb_charge if args.pocket_charge is None else args.pocket_charge
+    if args.pocket_charge is not None and args.pocket_charge != pdb_charge:
+        parser.error("pocket-charge cannot override the validated preparation charge")
+    pocket_charge = pdb_charge
     device = args.device
     gas = AIMNet2Calculator(args.gas_model, device=device, compile_model=False)
     interaction = InteractionCalculator(args.interaction_model, device=device, compile_model=False)
@@ -355,11 +358,17 @@ def main() -> None:
                 if key in prior.index:
                     row[key] = prior[key]
         try:
+            row["initial_min_heavy_contact_A"] = check_contacts(
+                mol.GetConformer().GetPositions(), [a.GetAtomicNum() for a in mol.GetAtoms()],
+                pocket_xyz, pocket_z)
             coord, numbers, charge = ligand_tensors(mol, device)
             refined, complex_ev, bound_steps, bound_force, bound_converged, initial_complex_ev = minimize_in_pocket(
                 interaction, coord, numbers, charge, pocket_coord, pocket_numbers, pocket_charge,
                 fmax=args.complex_fmax, max_steps=args.complex_max_steps)
             refine_steps, n_torsions = 0, len(rotatable_torsions(mol))
+            row["final_min_heavy_contact_A"] = check_contacts(
+                refined.detach().cpu().numpy(), numbers.detach().cpu().numpy().reshape(-1),
+                pocket_xyz, pocket_z)
             with torch.no_grad():
                 ecpcm_bound = float(model_energy(cpcm, refined.clone(), numbers, charge)[0].cpu())
             egas = gas_energy(gas, refined.clone(), numbers, charge)
@@ -384,7 +393,7 @@ def main() -> None:
                 "input_interaction_kcal_mol": input_eint,
                 "pre_minimization_interaction_kcal_mol": (initial_complex_ev - pocket_ev - initial_interaction_ligand_ev) * EV_TO_KCAL_MOL,
                 "initial_interaction_ligand_ev": initial_interaction_ligand_ev,
-                "interaction_geometry": "fixed_pocket_aimnet2025_minimized_v2",
+                "interaction_geometry": "fixed_prepared_pocket_aimnet2025_minimized_v3",
                 "complex_bound_ev": complex_ev,
                 "pocket_ev": pocket_ev,
                 "complex_initial_ev": initial_complex_ev,
@@ -445,9 +454,11 @@ def main() -> None:
     summary = {
         "scope": "reference reconstruction; not an exact reproduction of the unreleased AIMNet2(Score) workflow",
         "score_definition": "Eint + Edesolv + ELCSE; lower is better",
-        "interaction_geometry": "fixed_pocket_aimnet2025_minimized_v2",
+        "interaction_geometry": "fixed_prepared_pocket_aimnet2025_minimized_v3",
         "pocket": str(pocket_path),
         "pocket_charge": pocket_charge,
+        "pocket_preparation_record": str(pocket_path.with_suffix(".prep.json")),
+        "pocket_preparation": json.loads(pocket_path.with_suffix(".prep.json").read_text()),
         "gas_model": args.gas_model,
         "interaction_model": args.interaction_model,
         "interaction_members": interaction.model_names,

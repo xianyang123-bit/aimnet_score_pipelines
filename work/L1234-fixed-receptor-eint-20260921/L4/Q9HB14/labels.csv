@@ -1,0 +1,11 @@
+mol_id,paff,smiles,formal_charge,n_atoms
+19275,7.3372,Nc1nonc1-c1nc2cccc(F)c2n1Cc1ccncn1,0,33
+25543,7.301,Nc1nonc1-c1nc2cccc(F)c2n1Cc1ccnnc1,0,33
+37384,7.4318,Nc1nonc1-c1nc2c(F)ccc(F)c2n1Cc1cccnn1,0,33
+39465,7.4685,Nc1nonc1-c1nc2ccc(F)cc2n1Cc1ccncc1,0,34
+45253,7.3872,Nc1nonc1-c1nc2cccc(F)c2n1Cc1cccnn1,0,33
+46211,7.3372,Nc1nonc1-c1nc2cccc(F)c2n1Cc1ccncc1,0,34
+59899,7.3098,Nc1nonc1-c1nc2cccc(F)c2n1Cc1cncnc1,0,33
+66226,7.3372,Nc1nonc1-c1nc2ccccc2n1Cc1ccncc1,0,34
+71681,7.3768,Nc1nonc1-c1nc2cc(F)ccc2n1Cc1ccncc1,0,34
+74053,7.0506,Cc1nonc1-c1nc2ccccc2n1Cc1ccncc1,0,35

@@ -1,0 +1,16 @@
+{
+  "source": "conservative_automatic_review",
+  "blocked_reason": "Unsupported nearby chemistry",
+  "blockers": [
+    {
+      "residue": "C:578::MG",
+      "name": "MAGNESIUM ION",
+      "distance_to_reference_A": 4.584966412090713,
+      "elements": [
+        "Mg"
+      ],
+      "reason": "nearby metal or metal-containing species requires a dedicated treatment"
+    }
+  ],
+  "excluded_residue_keys": []
+}

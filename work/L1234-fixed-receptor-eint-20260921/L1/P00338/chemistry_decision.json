@@ -1,0 +1,16 @@
+{
+  "source": "reviewed_L1_decision",
+  "excluded_residue_keys": [
+    "E:401::DMS",
+    "F:402::A1AQ0",
+    "G:403::MLI",
+    "Q:401::DMS",
+    "R:402::MLI"
+  ],
+  "exclude_names": [
+    "A1AQ0",
+    "DMS",
+    "MLI"
+  ],
+  "rationale": "Replace deposited inhibitor; omit dimethyl sulfoxide and malonate crystallization additives."
+}

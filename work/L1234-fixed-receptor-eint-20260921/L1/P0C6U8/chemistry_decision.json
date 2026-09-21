@@ -1,0 +1,10 @@
+{
+  "source": "reviewed_L1_decision",
+  "excluded_residue_keys": [
+    "D:301::FHR"
+  ],
+  "exclude_names": [
+    "FHR"
+  ],
+  "rationale": "Replace deposited inhibitor; prepare standard free protein chemistry. Noncovalent scoring does not estimate covalent binding energies."
+}

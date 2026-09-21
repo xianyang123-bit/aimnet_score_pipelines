@@ -1,0 +1,20 @@
+{
+  "layers": [
+    "L1",
+    "L2",
+    "L3",
+    "L4"
+  ],
+  "n_systems": 96,
+  "n_ligands": 917,
+  "input_archive": "/home/xianyang/aimnet2_score_pipelines/work/t3-aimnet-affinity-balanced-poses-and-scores.tar.gz",
+  "archive_sha256": "54cc225d7c57993b107afd95ce98c9d9ef283bd6cd4dc05cc1d8cb2457c4de6f",
+  "model": "/home/xianyang/.cache/aimnet/aimnet2_2025_b973c_d3_0.pt",
+  "model_sha256": "043ed5418a104e31f79462f8e5ebeca64a2d24422174f5d29f894d32271981b5",
+  "docking": "Fresh ETKDGv3/MMFF conformers; SMINA exhaustiveness 8, seed 1, one pose; restored explicit ligand H",
+  "receptor": "Validated complete capped protein residues, explicit H, pH 7.4, integer topology charge; all receptor atoms frozen",
+  "optimization": "Previous ligand all-atom FIRE unchanged; maximum 1000 steps, max force 0.002 eV/A",
+  "score": "Eint = complex - fixed receptor - ligand at its complex geometry; no separately relaxed fragments",
+  "unsupported": "Explicit exclusions; no neutral-charge default or hydrogen-free receptor fallback",
+  "empty_inputs": "The three original empty-pose systems remain documented without inventing replacement cohorts"
+}

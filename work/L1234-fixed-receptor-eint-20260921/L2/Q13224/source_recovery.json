@@ -1,0 +1,108 @@
+{
+  "status": "matched",
+  "reference_sha256": "5e49a9c3da14bbe7ea1322211991fd358b89e9655c655022280a596837a9752d",
+  "candidates": 35,
+  "results": [
+    {
+      "pdb_id": "10EY",
+      "matched_atoms": 0,
+      "reference_atoms": 132,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/Q13224/10EY.cif",
+      "sha256": "78dc3a74b93e1653e1dcfb154eeed5c85a3e837a1e059aced40acb73a3fb5da1"
+    },
+    {
+      "pdb_id": "10EZ",
+      "matched_atoms": 0,
+      "reference_atoms": 132,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/Q13224/10EZ.cif",
+      "sha256": "fb3b23667802aed59d4c4af7211e8dd6c416b7a1dbf6200c299084cf959a6919"
+    },
+    {
+      "pdb_id": "10FD",
+      "matched_atoms": 0,
+      "reference_atoms": 132,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/Q13224/10FD.cif",
+      "sha256": "377d01d6571e158c34a4389ec498854c7a646a8245f1b091f69b0a32e92e0b03"
+    },
+    {
+      "pdb_id": "10FE",
+      "matched_atoms": 0,
+      "reference_atoms": 132,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/Q13224/10FE.cif",
+      "sha256": "a8d8c95e7a101f8af8e175f75b9997d1de46fa45393335a74c4a58fb85d2ece5"
+    },
+    {
+      "pdb_id": "10FF",
+      "matched_atoms": 0,
+      "reference_atoms": 132,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/Q13224/10FF.cif",
+      "sha256": "e88f1abdc3ea9d92e8b9acaecd3a70cefeb4b776be4ff94015aa4a92d7e40442"
+    },
+    {
+      "pdb_id": "10FL",
+      "matched_atoms": 0,
+      "reference_atoms": 132,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/Q13224/10FL.cif",
+      "sha256": "6a7458c435d2171c135219862ac983e7c1ad738526f5a397eaa14972a83af7b7"
+    },
+    {
+      "pdb_id": "10FN",
+      "matched_atoms": 0,
+      "reference_atoms": 132,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/Q13224/10FN.cif",
+      "sha256": "eba76bddc746f017ee7cb97a28a69b018e13cdbcc837188f883a6397b54a7b11"
+    },
+    {
+      "pdb_id": "10FO",
+      "matched_atoms": 0,
+      "reference_atoms": 132,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/Q13224/10FO.cif",
+      "sha256": "40695506c01ccfd360d1de684146bbe234514a0ebebd96b9e677e1b4bb499950"
+    },
+    {
+      "pdb_id": "5EWJ",
+      "matched_atoms": 132,
+      "reference_atoms": 132,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/Q13224/5EWJ.cif",
+      "sha256": "fc1fb0fa668582bc739a570f902cf2068f48481782995ddfb0714be93b841b2d"
+    },
+    {
+      "pdb_id": "5EWL",
+      "matched_atoms": 0,
+      "reference_atoms": 132,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/Q13224/5EWL.cif",
+      "sha256": "0108bd5ebe988351e747fb60b696326fe994b364c091c5ad5e3940bcdf844963"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/Q13224/5EWJ.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "K:501::NA",
+      "name": "SODIUM ION",
+      "distance_to_reference_A": 7.597059102047316,
+      "elements": [
+        "Na"
+      ]
+    },
+    {
+      "residue": "O:503::QEL",
+      "name": "4-[(1R,2S)-2-(4-benzylpiperidin-1-yl)-1-hydroxypropyl]phenol",
+      "distance_to_reference_A": 2.64879802929555,
+      "elements": [
+        "C",
+        "N",
+        "O"
+      ]
+    }
+  ]
+}

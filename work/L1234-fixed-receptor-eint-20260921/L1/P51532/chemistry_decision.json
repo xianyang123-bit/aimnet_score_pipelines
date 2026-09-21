@@ -1,0 +1,10 @@
+{
+  "source": "reviewed_L1_decision",
+  "excluded_residue_keys": [
+    "B:1601::GGU"
+  ],
+  "exclude_names": [
+    "GGU"
+  ],
+  "rationale": "Replace deposited inhibitor."
+}

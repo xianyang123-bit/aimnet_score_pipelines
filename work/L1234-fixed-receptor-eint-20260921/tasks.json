@@ -1,0 +1,2350 @@
+[
+  {
+    "index": 0,
+    "layer": "L1",
+    "uniprot": "O95271",
+    "n_ligands": 10,
+    "mol_ids": [
+      3228,
+      9152,
+      9726,
+      32927,
+      33996,
+      39496,
+      67393,
+      67395,
+      67397,
+      67399
+    ],
+    "input_sha256": {
+      "previous_score.csv": "a0a753c5ab69c9fdede938cd3b4c1d21a122e44d72f326ba51b00368e342db5e",
+      "labels.csv": "1e39812021e59fd93c9deefe512da3f96ee0d5e6d714a0180b6e2c45e7daaa4e",
+      "legacy_pocket.pdb": "0f18913b0661cba42891a6fda1f2ca003429474403d9f272300392652c74e8e9",
+      "original_poses.sdf": "854851b1078014a99d40dc4becdd40d546d634348dea34ed9cf610455100e3e0",
+      "box.json": "2973f6677e5fdaff5bc4d554470514479bfeac88d03a800e15de1440b1094284"
+    }
+  },
+  {
+    "index": 1,
+    "layer": "L1",
+    "uniprot": "P00338",
+    "n_ligands": 10,
+    "mol_ids": [
+      6096,
+      37515,
+      43836,
+      47131,
+      69006,
+      69523,
+      69524,
+      69525,
+      69526,
+      69527
+    ],
+    "input_sha256": {
+      "box.json": "bbd54ac8fb3cbfaa254ef0c28e8a4b9208d431f7d54b9766b50422d69693dd50",
+      "previous_score.csv": "5afd670aec08cd3266490eefea26b4009cd2f8196202d41b65a7f485d35c61b1",
+      "original_poses.sdf": "c74eb81c880d0ca813fdbd8d9f48f95bed0a1a227fd2331499322044c4ab754b",
+      "labels.csv": "8658b19e7b2df30b86edb6f02b3d19b6dd48bd93efef9816f6189472869d62f9",
+      "legacy_pocket.pdb": "25cbcbfa6a89da000255f941422dc71125cd86ad2c1980d96e710de40527c9df"
+    }
+  },
+  {
+    "index": 2,
+    "layer": "L1",
+    "uniprot": "P06239",
+    "n_ligands": 10,
+    "mol_ids": [
+      15824,
+      16292,
+      16940,
+      18189,
+      31540,
+      43152,
+      72037,
+      72174,
+      102288,
+      104832
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "321186f3a6bd674be009a8009bdfe0ab9591a196bca965a601973bb592e36caf",
+      "previous_score.csv": "aaebce8e740d47de16ebe89c5ba1aaa7e1d731eb8ffc9d5203c8a2aff909c6eb",
+      "original_poses.sdf": "6d8c9f979aa2b1f8f6f57ed74d7c92b49c31183af8c7771bbc546c5e7bed1497",
+      "labels.csv": "900e36570c1f2e737c2008ada17541d42dd285850bd7af8880555553f9c9a108",
+      "box.json": "f3b667d50ab03efd0efbf8f22fc1499a36ca2b8152a258fe61ffce1b7a614b7f"
+    }
+  },
+  {
+    "index": 3,
+    "layer": "L1",
+    "uniprot": "P08922",
+    "n_ligands": 10,
+    "mol_ids": [
+      1812,
+      1814,
+      16940,
+      38653,
+      44625,
+      52639,
+      62123,
+      62474,
+      70772,
+      100526
+    ],
+    "input_sha256": {
+      "original_poses.sdf": "1de1479fb253e133445657aada13202c0ccc345972a5bdfe4994b6c1050124ef",
+      "legacy_pocket.pdb": "84a6461290b3aaca2b362bb8ec4ab42856b3ad3641f4853ce4d5b1b953677c27",
+      "previous_score.csv": "39fa0cb8981c06ed6ffd3190de4f5f0aefdba54bab9dbec878ce091157fd1674",
+      "box.json": "f6158f0d8650cda15141143555be1151b91c1c9dc11eea160a81ffc2e0e08d22",
+      "labels.csv": "1b166ec4bc94cae4fd4dd6fb2bd5c7a2147abdd82a9bb9ce97486cfee9dcad81"
+    }
+  },
+  {
+    "index": 4,
+    "layer": "L1",
+    "uniprot": "P0C6U8",
+    "n_ligands": 10,
+    "mol_ids": [
+      20305,
+      20766,
+      34868,
+      48138,
+      52582,
+      56675,
+      60488,
+      72398,
+      85332,
+      93662
+    ],
+    "input_sha256": {
+      "labels.csv": "654adc5de210e53aa30dd61bc96e89ba6682acda56349ffa48c6642c8ff8ae5f",
+      "legacy_pocket.pdb": "34911ea793f51a50859d02f000b9efb09f72143f970e22787ae90ef9c483fd69",
+      "box.json": "2b631e1b5be618a317e310b1f237ed32033b94f8900694cf1eabec290cdc3401",
+      "original_poses.sdf": "0580499b84c9e605961e04ad05ca26cc67b4d191f170377bb95d66ef0ca093e9",
+      "previous_score.csv": "fdf008cad33c952715cbd38b80675b30f6c29294d837b8be339665dc47a8ab64"
+    }
+  },
+  {
+    "index": 5,
+    "layer": "L1",
+    "uniprot": "P33981",
+    "n_ligands": 10,
+    "mol_ids": [
+      13094,
+      17304,
+      24785,
+      29015,
+      69855,
+      100543,
+      110486,
+      124206,
+      125573,
+      137617
+    ],
+    "input_sha256": {
+      "box.json": "b6c6f9bf0c77202198bfe01b2be755ee476682fda3a73fc4835968e026c3eb01",
+      "labels.csv": "e3352d187fa8dd2fae710e32b80d01d19bc07b01a4595f0ac21a872fb511465c",
+      "legacy_pocket.pdb": "0660741ce6a1df4e7b2cc81f36c25b959344b1895250cfa59a8b1a98dd3d1f1c",
+      "original_poses.sdf": "e58fa7a6f59875904bdd89d4eb4d95d57041742fae13640061ab79fd5c2ec035",
+      "previous_score.csv": "f9aec76c0d17147c90a7665f8d82aaff8bc608a008f402033e4fa07fb89ab584"
+    }
+  },
+  {
+    "index": 6,
+    "layer": "L1",
+    "uniprot": "P35354",
+    "n_ligands": 10,
+    "mol_ids": [
+      18361,
+      26932,
+      34171,
+      34316,
+      53979,
+      86098,
+      90716,
+      110734,
+      138737,
+      138741
+    ],
+    "input_sha256": {
+      "previous_score.csv": "198be31726f734f1b15c70a0d3830ee4b8ec1830b8de6bc6a521b13e1b24c708",
+      "original_poses.sdf": "ade0a841eeec645e22de5002d6fed4867fc060835928643c4a89e49cc1117105",
+      "labels.csv": "5eb32e69fb9dd6efdc7455321ea6c2cb3f21160adfc2b8fae2587ab448221a69",
+      "legacy_pocket.pdb": "dabb3cc64388636182f6e56a3947431a5dcac48d1c1a636c60565e656aae0a37",
+      "box.json": "52531e5484016d71fe590f7d19892245d18eb61b52cc1ad81377b9d063231ab7"
+    }
+  },
+  {
+    "index": 7,
+    "layer": "L1",
+    "uniprot": "P49327",
+    "n_ligands": 10,
+    "mol_ids": [
+      11097,
+      14505,
+      28757,
+      41520,
+      47919,
+      74367,
+      90544,
+      111741,
+      114434,
+      141820
+    ],
+    "input_sha256": {
+      "labels.csv": "99112d1a15361de7594938c8b83b48df0353eaa4630e84871cfb3d2b0f3ea0cf",
+      "original_poses.sdf": "72fc2df4a2c3e0dcfdbc76412f43874fb37d4bdcba82bc49973618b04bf6ff49",
+      "previous_score.csv": "a359aab21ec9c33644e06388a28e2f6fc346d06fd2bf2559dcd5a9a1bdd82d9a",
+      "box.json": "489548ac9c16dd3658798b2e97dce2d0bce1eec962c28d00b451f3424467eb88",
+      "legacy_pocket.pdb": "beb9fc0e2217cae12b2f2e06a4a292aebc718627d5a92c065b8ee33015ec6397"
+    }
+  },
+  {
+    "index": 8,
+    "layer": "L1",
+    "uniprot": "P49759",
+    "n_ligands": 10,
+    "mol_ids": [
+      474,
+      1812,
+      1813,
+      1814,
+      4296,
+      60031,
+      94228,
+      114565,
+      135630,
+      142923
+    ],
+    "input_sha256": {
+      "box.json": "976a859950cbcce6a50205f54fff1b720e0b338f2a91af7d8c7faa96d6ba56fa",
+      "labels.csv": "f54727f4e3f36c68cf13a7e311908f0a1b31dff38a2c9d1ff0115bfe6616d85d",
+      "legacy_pocket.pdb": "c4586d03083bf64f870799dbd49b201452e8bfd9c542f10bfbef01a9b5b835cc",
+      "original_poses.sdf": "6bb5d073418e19997611269910d61867b5ebd7e0962e7acaf8355d5b453650ba",
+      "previous_score.csv": "1aac2c5e33cc599daf06ba05d897b279a6ab7a333ec4886ea00cc90f9a63f7a8"
+    }
+  },
+  {
+    "index": 9,
+    "layer": "L1",
+    "uniprot": "P50053",
+    "n_ligands": 10,
+    "mol_ids": [
+      167,
+      19531,
+      24618,
+      54615,
+      64410,
+      75542,
+      97821,
+      107700,
+      132156,
+      139579
+    ],
+    "input_sha256": {
+      "original_poses.sdf": "aef269ef491e8a1bd4751d0f8c169d67f57e3bf6c12723765fb18112706ab6f3",
+      "labels.csv": "c3b7b51e994d6a5590361aa7c285ef9194c86b623eb947be03d9103fe27c1609",
+      "previous_score.csv": "001a2ebfcaf051eb51b9251d466f9771f91851af781542d9f86bfb016b426b98",
+      "legacy_pocket.pdb": "4f86041ed4ecc9d066b421e3965ab1f798cd9984b3aebdd94b20a65085371d38",
+      "box.json": "39c2b9692a39b1b3d49db70424583cca370f717891836b87ece627f6080b9c0a"
+    }
+  },
+  {
+    "index": 10,
+    "layer": "L1",
+    "uniprot": "P51532",
+    "n_ligands": 10,
+    "mol_ids": [
+      13433,
+      20704,
+      31548,
+      35235,
+      35615,
+      57296,
+      78268,
+      93381,
+      130236,
+      143316
+    ],
+    "input_sha256": {
+      "box.json": "17a3799dbaac0269d2abc92f536cdb20ea048f01691041eacb36a30d38eb2673",
+      "labels.csv": "aad3bd5c682e9716ae3cfcc6c116e1b171768562d63fdda208b0b55ffbbde0fc",
+      "legacy_pocket.pdb": "eabb11ca34475918c5c909c5141b814a621c7b37e47fa5654612255d38c5beae",
+      "previous_score.csv": "0528b92f9499859e4942f251c8ad47d1ae9aa9b27f946aac5780cfe4431d12d3",
+      "original_poses.sdf": "2c2e04929d408c61904e315417ae50c130c25797ddedf103356c779fd9c9b13f"
+    }
+  },
+  {
+    "index": 11,
+    "layer": "L1",
+    "uniprot": "P56524",
+    "n_ligands": 10,
+    "mol_ids": [
+      18572,
+      18592,
+      18610,
+      18611,
+      18653,
+      18661,
+      18662,
+      18663,
+      25733,
+      46247
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "025cccb575c24549b02a3e4f31cfa72acafb912389859bf4e2b12574c6ba5196",
+      "box.json": "0a3fc98b39bfb5301144186b1952ba0029e87bffd8341a9e550a6757eee737a8",
+      "labels.csv": "359d83a5841ade1c9aa0165a8508e9012be9c43143e470c1b863025b9db7a354",
+      "previous_score.csv": "4d4574ce243b8dacd8a9ed97f13dd23e8ee3d4ae3b9556b89f62fe5eb489612a",
+      "original_poses.sdf": "ab4a841bd96503a19d512ae62d28747ba6f32f849e64abc885a983492833679c"
+    }
+  },
+  {
+    "index": 12,
+    "layer": "L1",
+    "uniprot": "P62937",
+    "n_ligands": 3,
+    "mol_ids": [
+      19634,
+      58673,
+      69521
+    ],
+    "input_sha256": {
+      "box.json": "29513e69dd1ef6b7f5e1c6a190de455e1e5f087546f497f07326e7dd42864c31",
+      "legacy_pocket.pdb": "d908d611c8592c7b0a15f0e00779314043fd3b354e04e6ae800ea39debe139e0",
+      "labels.csv": "c53ebfc18c86e3df55fa72516427db4813f92627ca15886e21dbfbbdc28d229d",
+      "previous_score.csv": "a0c6f5ab63a8ca3a31e7ee6dcc098998f96771641092e947df884f62dc199f33",
+      "original_poses.sdf": "f5a9ebfd74a88ffb594fd9c1f11977c0ed1927da5b77c4324384aba11e801787"
+    }
+  },
+  {
+    "index": 13,
+    "layer": "L1",
+    "uniprot": "Q06124",
+    "n_ligands": 10,
+    "mol_ids": [
+      1874,
+      26663,
+      32578,
+      39617,
+      53896,
+      82531,
+      95742,
+      118200,
+      125082,
+      129145
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "d8a1c90328fbf727200b737e1eda666a638c52207ec97347ec51dac342f7ab47",
+      "labels.csv": "cb91ad48f016b6095dc062eb55dc34735b524f85c3957c214ac8fabc090669e8",
+      "previous_score.csv": "059b29ba953d59938258e25042148915be14c463ff5a88f0f9694a08e812d2aa",
+      "box.json": "c3fa354696d1099e19e9acabdaa2a34fa541aa74fdbdc60b14b7b05aa0c21ae0",
+      "original_poses.sdf": "81bd332b8d7503206de95907ecd75a1f1c1da50c7ddafe5f9139c7faafc719fc"
+    }
+  },
+  {
+    "index": 14,
+    "layer": "L1",
+    "uniprot": "Q07343",
+    "n_ligands": 9,
+    "mol_ids": [
+      952,
+      49559,
+      52461,
+      55030,
+      81279,
+      88394,
+      95919,
+      109885,
+      138941
+    ],
+    "input_sha256": {
+      "original_poses.sdf": "fe54b3f380a087af32c6413ae3e22f0fe4461a1496aed44439403f3177e94278",
+      "box.json": "25032a6a967d3e0616b0b9a7bf6cc6663ff0195302624795642216889b728b0b",
+      "previous_score.csv": "a264f49e33a692e8f4f086ed10fd7900aaacf2cffa11e651779ceda530aafb86",
+      "labels.csv": "e122e9884940059dc9305d278ff2aeaa522eda5e7fcd1ff5be1a69cfef850ce4",
+      "legacy_pocket.pdb": "729a67bf987794d0e058d49bdbe96ea4141b65a566d2058b6d6e511d9fc301e6"
+    }
+  },
+  {
+    "index": 15,
+    "layer": "L1",
+    "uniprot": "Q08499",
+    "n_ligands": 9,
+    "mol_ids": [
+      1851,
+      41381,
+      65435,
+      99900,
+      113485,
+      120178,
+      125592,
+      138941,
+      145053
+    ],
+    "input_sha256": {
+      "original_poses.sdf": "f0d35bf5200521957a69f626576af6b7babfc136edc95ed93b1d92e488423a7d",
+      "legacy_pocket.pdb": "d9e49ec2808119fd25b075d45aad390da425770e4f827c388a96099de7c51b77",
+      "previous_score.csv": "2202d02d4ad4addef1014b268b60f258cbfbcb8db94dfce13f54746354b2bbc7",
+      "labels.csv": "106356d4c9864beb716d451692616d0cef5a41e0a517aa6f2c5a06bff9389b3e",
+      "box.json": "2a041a2df6fa60b2e67692990e0b20e3a826155f48811a43201aaedf525898dc"
+    }
+  },
+  {
+    "index": 16,
+    "layer": "L1",
+    "uniprot": "Q15059",
+    "n_ligands": 10,
+    "mol_ids": [
+      10104,
+      18952,
+      25231,
+      48671,
+      53300,
+      57289,
+      57291,
+      110525,
+      128831,
+      139243
+    ],
+    "input_sha256": {
+      "previous_score.csv": "d9afcb564fed7ca9e587822c73e11bce753f2a194d730b1f72d1de260b3bc850",
+      "labels.csv": "1c28e0fb24edeb97830763b3b4741b715f80f9cbc89e137c4c225fe5acf3fc2c",
+      "original_poses.sdf": "e9fe90a4ab791c7db5d023a472146692e48c8a72a56bdb4621b5b751a3674128",
+      "box.json": "fa1c21951936943abf3f9b04adcec893eeaa005ab00c869f4062492b5fac3933",
+      "legacy_pocket.pdb": "18c6237e46fcf1f9392183cc14c67ff73372fc0e83ea296d6d49dcd3afb27e7b"
+    }
+  },
+  {
+    "index": 17,
+    "layer": "L1",
+    "uniprot": "Q6GI75",
+    "n_ligands": 10,
+    "mol_ids": [
+      8816,
+      17359,
+      19802,
+      23754,
+      36324,
+      37901,
+      90964,
+      104905,
+      125406,
+      134127
+    ],
+    "input_sha256": {
+      "original_poses.sdf": "2abca06cff603481c387b4fa45731082345b26d9b700b3839ded82b2b2d9e5a5",
+      "legacy_pocket.pdb": "168f6c82263f0c4defe5d7d9e28ce3bf637b39bdcf732c338b3fc3819e9b4510",
+      "previous_score.csv": "f53cdd8c7d256c317f4c9b40da0c5f6bc229afe17b16f7e8eb4e373b5eb8235a",
+      "box.json": "8af8a01388abd403861ba0f8dd850eed4eb53dd883b7ce6f3546765063947425",
+      "labels.csv": "2c98d17493a161df94854db4d61d6266f4b53243e909bd2b651bffdbacb81493"
+    }
+  },
+  {
+    "index": 18,
+    "layer": "L1",
+    "uniprot": "Q86WV6",
+    "n_ligands": 10,
+    "mol_ids": [
+      6252,
+      44378,
+      47502,
+      55811,
+      56848,
+      71154,
+      76654,
+      101630,
+      110106,
+      143720
+    ],
+    "input_sha256": {
+      "labels.csv": "ecd4ab414ce36c55d487952b4e19ebb9a701adaa45a43ea73ec3ce57368c8cd4",
+      "box.json": "74098cb5cf06d0de177370c7beabec97151109dc5195388a8222f6596f1362dc",
+      "legacy_pocket.pdb": "783aaa1cb9e53da34b6c408703432bc69554cb12bc5675ec16c3679fbbde5ad0",
+      "original_poses.sdf": "e1476d2bfcc8320326793101eb713c40e78ff7ddb889531277886f13fad8621a",
+      "previous_score.csv": "9294bdb4ed2e0aa911ae70a801fd55a91daaf3e045f2a42ba9945a212a56a5e5"
+    }
+  },
+  {
+    "index": 19,
+    "layer": "L1",
+    "uniprot": "Q86X55",
+    "n_ligands": 10,
+    "mol_ids": [
+      15830,
+      15838,
+      67197,
+      96489,
+      118699,
+      122709,
+      123696,
+      127043,
+      127161,
+      138520
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "4c06cedb8723326ef89669e53c790abdb6161ae8ccf16c582fdf8b4bb033d1d1",
+      "box.json": "398a19041b2f237ce340a52146cd203b06d9a527a70ae5e2e1e6fb1bf91e1deb",
+      "labels.csv": "3373af6a709d59534ee7fa3e432d62383bd95b8eea2b7790098144a86448bef4",
+      "previous_score.csv": "79781f4365d331aa0163524a928993487ba95ac74be7a213f49cf01fc9375d72",
+      "original_poses.sdf": "e4345acf1c9ccc1eb3c894fdf6a357d5aa51962d03ea7974e80e056828595eb6"
+    }
+  },
+  {
+    "index": 20,
+    "layer": "L1",
+    "uniprot": "Q8N1Q1",
+    "n_ligands": 10,
+    "mol_ids": [
+      35301,
+      35426,
+      35427,
+      35430,
+      35431,
+      35432,
+      35433,
+      35468,
+      35485,
+      85942
+    ],
+    "input_sha256": {
+      "previous_score.csv": "3d9ed22f434255825bec07a0b28e8a19f8bf1aac3f20c762342ccf0124a16340",
+      "box.json": "7d806742dfdf7ab1ef0cc27de41195ae6a707099fb856ed06126ef2ef40fd7c3",
+      "labels.csv": "87b1c0eb1c64d714d1435a6ff91441034613830eca3384203d501f5e28da1c32",
+      "original_poses.sdf": "1ece7a88cac8aaedfec4b3a3e2b3b73bcca02dd26d64bd11d151626161b03d84",
+      "legacy_pocket.pdb": "31ec4894e1bbddceb5ceb0351e26ff19a4b1838adacd476703d1d7d706f3157c"
+    }
+  },
+  {
+    "index": 21,
+    "layer": "L1",
+    "uniprot": "Q92793",
+    "n_ligands": 10,
+    "mol_ids": [
+      6919,
+      25339,
+      32149,
+      37452,
+      46896,
+      62803,
+      73412,
+      95108,
+      111632,
+      136992
+    ],
+    "input_sha256": {
+      "labels.csv": "8b1f334ad83e0c633af58b52078f6fda9f7a99496c93add9271a5c16072c74fd",
+      "box.json": "4b7c03fb656016da7ca1a101a4f1cd771b6f33290983aab0ab2235c8d1238b24",
+      "original_poses.sdf": "ea955a021e570a4a6ea57eb07c0dddc3f8306622506c4eba84755bb5d72388f1",
+      "previous_score.csv": "2060aa75b63394e967a912de11d49523f1b67be049cedf9f40a98589c95619da",
+      "legacy_pocket.pdb": "4ff9bfb3839b3044eb3d4ff33514a2693e7d5758983479f1de221ce535c8ea5f"
+    }
+  },
+  {
+    "index": 22,
+    "layer": "L1",
+    "uniprot": "Q96MU7",
+    "n_ligands": 10,
+    "mol_ids": [
+      23658,
+      24173,
+      43216,
+      58793,
+      73954,
+      75808,
+      76036,
+      88977,
+      110901,
+      140320
+    ],
+    "input_sha256": {
+      "previous_score.csv": "358a312c807edae86f83d071a97629bef77c8f841d2611f398ca5e063817a980",
+      "original_poses.sdf": "c5d808413f8feffee61130bab21d90587aaae9cff4c87344c9aa574b4b4a250e",
+      "labels.csv": "c8d2b4955d54872c97ae745b9687c918a1e2fd1052144f01f12e07d8a894f179",
+      "box.json": "a6bfc672e197e6423b2205f698e98a0a8cfe2f5342cec999161eb7437d9c80a5",
+      "legacy_pocket.pdb": "d841c6c0954000ef28f80ce5a176ef0bc1b4f00ad7a2a3a7cd35eccb0c642a0f"
+    }
+  },
+  {
+    "index": 23,
+    "layer": "L1",
+    "uniprot": "Q9UBN7",
+    "n_ligands": 10,
+    "mol_ids": [
+      18571,
+      27234,
+      29334,
+      42051,
+      43508,
+      67143,
+      83097,
+      92479,
+      133621,
+      143030
+    ],
+    "input_sha256": {
+      "box.json": "3b1a34dfa0f28bf8bde6105fc97886bc937fefbda65352fc8671d470541194f5",
+      "labels.csv": "44174c0a68d92a3626d5499719776d59170e3b0af76e3970e55fce3da4df5aa3",
+      "legacy_pocket.pdb": "656b1f0ca4022d2a253652a7fcfbf381f1afb40b135d9a4f6236b9e669744a85",
+      "previous_score.csv": "9e80b4d2b4f60faba906c06c9f04a7ea234d6cec97cdcb000ad5cf1bfd932302",
+      "original_poses.sdf": "ed4cf53e6a3e7127d9ad6aad4164299fa0fe65c3bb3cd08d0234e7ed3035a041"
+    }
+  },
+  {
+    "index": 24,
+    "layer": "L2",
+    "uniprot": "O14757",
+    "n_ligands": 10,
+    "mol_ids": [
+      4906,
+      10681,
+      55958,
+      60774,
+      60923,
+      64281,
+      72416,
+      111705,
+      124280,
+      126650
+    ],
+    "input_sha256": {
+      "box.json": "776ca9816260cd107fe34c69a380a4a89524a8b6dce1cd36a613cd560c3123eb",
+      "previous_score.csv": "5e7b06c1e61a557fd1a903d0fc02e10e19cda08670648fa4c4193aabe27be4b7",
+      "legacy_pocket.pdb": "cd33db18aade3bd156c289907485cd911d10d9c190e7adf97749be133a3916a7",
+      "labels.csv": "ee688766f735289941329d7b65b1441e631d7a83f0e3a45c6a6ed0241bd41b9b",
+      "original_poses.sdf": "7804ec9ed1031f9860cdad12311e59a9c88b79667758fc110a70469a066c00e4"
+    }
+  },
+  {
+    "index": 25,
+    "layer": "L2",
+    "uniprot": "O43318",
+    "n_ligands": 10,
+    "mol_ids": [
+      8508,
+      16877,
+      31974,
+      62528,
+      73366,
+      76262,
+      79851,
+      115639,
+      135321,
+      144881
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "ac0fd5a76397bf21d94c5bd96da85480ef640b348a8e0e8cfc3e21c95ec89062",
+      "box.json": "0b1bf2a5b8b49e83ffa7fe6a475b8f7c30e58e64bf8d8adf878e765785fc9624",
+      "original_poses.sdf": "75b6bc45664ef89e2b97f6dcc89c9767b2b96a0e0cb4ac8cdfa00a9fac6f0297",
+      "labels.csv": "b5151f105b2e5dce23eaf02611c774486fcb1e2cbfad8db21230d7f85831f4c0",
+      "previous_score.csv": "d57de8ad6dfe37290532104b8161beff4dca6aedff939a12d33f2ea99e9dcf5d"
+    }
+  },
+  {
+    "index": 26,
+    "layer": "L2",
+    "uniprot": "O75460",
+    "n_ligands": 10,
+    "mol_ids": [
+      4142,
+      6730,
+      14710,
+      25683,
+      48303,
+      72342,
+      84980,
+      96586,
+      100233,
+      127767
+    ],
+    "input_sha256": {
+      "original_poses.sdf": "9d32b1fc8ad6a2d26fe27b00c710281c28cf6d921f2b02179e4a89e798926bce",
+      "box.json": "3a6d12c3f8515ea902232cd023a3dee3d8c6e67def8092ce4254206ed8041181",
+      "previous_score.csv": "5ec5e77121823ffac395074057a7fe96c12bf4f133195b5e64c27eef197f88ac",
+      "legacy_pocket.pdb": "f1eacbc9f5501028c8ecd0f17f126a42392cae9179a627c75c9292b3b4a12db4",
+      "labels.csv": "274fe74054f81f4cd4b7ea81e6a2a7748b046138a61bfb32db3d4f4e72786b35"
+    }
+  },
+  {
+    "index": 27,
+    "layer": "L2",
+    "uniprot": "O95819",
+    "n_ligands": 10,
+    "mol_ids": [
+      11547,
+      16994,
+      17170,
+      35616,
+      48976,
+      51207,
+      84031,
+      99264,
+      104627,
+      140980
+    ],
+    "input_sha256": {
+      "previous_score.csv": "ee9079c4d12f42d8ac890bc176bc1b54d1493ac103a784b16ca4e4b92d67dba7",
+      "original_poses.sdf": "460e9e667e65a68115dc84a3e369acf787e8107d7a87539925aa3b6b1059af2e",
+      "legacy_pocket.pdb": "87dcdf5e9ea05d42a8c38ff756c69755952a468c2a901b67654f8860985a2ce1",
+      "box.json": "7ddf6dfc495a2016953d306e7819ce837fcd6e33b1dcf7428302a075117c3b88",
+      "labels.csv": "1441c592d575ea9012662fcdf61b846bc826e5b3cef4abcc6932c0b5e5e58f91"
+    }
+  },
+  {
+    "index": 28,
+    "layer": "L2",
+    "uniprot": "P05177",
+    "n_ligands": 10,
+    "mol_ids": [
+      10077,
+      25940,
+      26843,
+      30538,
+      41092,
+      64085,
+      78823,
+      105080,
+      111016,
+      132735
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "24afef5a97c772f2ca66802170e4c6cfd87b43742ac397583676d2346c549487",
+      "labels.csv": "c5cdaa5bb0da9f2a1225ff3b2c2a0d2005aba5e7302c0325d8fbbbc4c5439fd5",
+      "box.json": "54ea639517a6e4a49af45ad2890f2b5b75dba098a4b43feeba1888a3981b6fbc",
+      "previous_score.csv": "c92a381fa17b0da8548f62408e4b849e3b79dc3e55dd4845e8f974d4858f92f3",
+      "original_poses.sdf": "d9500e810dca30ba9f9d4879332d2096834c8a798331dcd6a77794189a4579ec"
+    }
+  },
+  {
+    "index": 29,
+    "layer": "L2",
+    "uniprot": "P06730",
+    "n_ligands": 10,
+    "mol_ids": [
+      5837,
+      24263,
+      37435,
+      52994,
+      81910,
+      102901,
+      112781,
+      119182,
+      138367,
+      141611
+    ],
+    "input_sha256": {
+      "original_poses.sdf": "67d37d96d9d77abcec24242c6dd426bce8280b22feb6d8fecbb711e048c92b58",
+      "previous_score.csv": "428908e242e4787249680387dd1f9bae2bd9ce5a3689ec11acaa178b133ac5d9",
+      "box.json": "e4fde39aed5303870ecb230f2555dd072516232d29668bf62cf1709bee114416",
+      "labels.csv": "ad77bf940a9b17d70ddde408fb7b355f931e35242a02144c3861147202241233",
+      "legacy_pocket.pdb": "188a857d7d2d8487796a815b136dc9e5a03349bd9f27f3772b9fdff1d53e9466"
+    }
+  },
+  {
+    "index": 30,
+    "layer": "L2",
+    "uniprot": "P08254",
+    "n_ligands": 10,
+    "mol_ids": [
+      6098,
+      37405,
+      39528,
+      45129,
+      92266,
+      100282,
+      106630,
+      116620,
+      126317,
+      140178
+    ],
+    "input_sha256": {
+      "previous_score.csv": "e3bf01d7a0f9661187954af63e6108bfa8ba998b7e2b7a0303ffc572f8fde8bc",
+      "original_poses.sdf": "e7fac59720fabecf524041675c66120e91bfcce89cec85e141217281c3f3076f",
+      "box.json": "4fc43fc27f942370cdf9960e655058ff6f01314901e88ae28a29bb86fe7c3275",
+      "legacy_pocket.pdb": "151b09fd36d5eb08bbe9c8b7c8fc088c072a3395e25d5d0a66a98fad5b6aae83",
+      "labels.csv": "61831c04bdaca72befd076c044a9f6a38ba2687f01d3e766230f4834f49a9a3e"
+    }
+  },
+  {
+    "index": 31,
+    "layer": "L2",
+    "uniprot": "P18825",
+    "n_ligands": 10,
+    "mol_ids": [
+      14322,
+      42511,
+      61015,
+      66479,
+      93624,
+      126879,
+      129391,
+      134891,
+      136971,
+      144176
+    ],
+    "input_sha256": {
+      "original_poses.sdf": "22fc594540996dd3e1a944fce4ae6878fd0bab62f8e8386a3ed80be21fb1d920",
+      "previous_score.csv": "1764ef010f6905849d5c8df2e0bd8a15c05b0f84ffde0ce0b1de7422408679e2",
+      "box.json": "d38b1bdcc6ce6e2ecb3446570c84129e0a0ae66eb17732fe4e1922364eb6c47f",
+      "labels.csv": "bae7c2a5d840ac682ccf720de819fd1bfeea2e14f5797b9a0451da1ba6e1af98",
+      "legacy_pocket.pdb": "5bb58309d4891f8f31dfb2fbc5465883a0ded48ac67be3bc1bf3d9f796d0f54e"
+    }
+  },
+  {
+    "index": 32,
+    "layer": "L2",
+    "uniprot": "P31153",
+    "n_ligands": 10,
+    "mol_ids": [
+      17983,
+      23451,
+      23669,
+      34605,
+      41758,
+      87187,
+      92789,
+      116220,
+      116245,
+      135356
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "a739d81f8e5a2497f7265e475ee60b8a30d50c0e46e74c8db05bf6447658e7bb",
+      "previous_score.csv": "317fd661f2855f222cb7b033ada78e7a987b1f46f40c3557b1e6c7ecb226364e",
+      "labels.csv": "70455ece53677c6344cb1b8c72a74eb42e34d9e2a56fbf5e92295d7f71670576",
+      "original_poses.sdf": "91f0beefb1ff86e6e78a103ccb9403fb904c969e1de3729d5629de636bdd70c3",
+      "box.json": "66c19b9e80b314cfe1a6ed91ba0a8ff670bc3c5e039664ec32cfa29f9705cfe4"
+    }
+  },
+  {
+    "index": 33,
+    "layer": "L2",
+    "uniprot": "P31645",
+    "n_ligands": 10,
+    "mol_ids": [
+      2227,
+      24100,
+      33467,
+      67792,
+      76063,
+      78423,
+      96347,
+      103500,
+      103879,
+      122886
+    ],
+    "input_sha256": {
+      "labels.csv": "10696b37bcc376f529c301c995ef2f52576d66e303db15bc55afc9876a0826b9",
+      "original_poses.sdf": "4cd01d8fecac5d099d4d0a9014a76e34d3e5933d64f4b1b0f4691bf8593578e3",
+      "previous_score.csv": "9913f7dd3c10ec8eb5c541c0f0e178daf8698395d62cc1846cf9aca2a0cd0f65",
+      "box.json": "d0b464a9397aab01bb0a0e1adfc5de2d59d86c7871149461a2c0b710b2e55d9f",
+      "legacy_pocket.pdb": "7db704d4aae32489a1d3efa8d21cf03625353a76b7ae5d1b0a1d7601d7e7e7f0"
+    }
+  },
+  {
+    "index": 34,
+    "layer": "L2",
+    "uniprot": "P36897",
+    "n_ligands": 10,
+    "mol_ids": [
+      3771,
+      32660,
+      43953,
+      50724,
+      77306,
+      93720,
+      102780,
+      105371,
+      108760,
+      109621
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "99c61234ed992d5a1e06ea8c104d38d7bed10e16867c28f2444a1c21743c3104",
+      "original_poses.sdf": "c1301d0c49a6f4bab230e3b8c9f362fc9623ecf37648c1cef7538b62f4596f8d",
+      "box.json": "3ce31796a7020845936d446be257251d3c7d62fba67455c013ce819f52829116",
+      "previous_score.csv": "5f29d68229afbfdf52e108a897e606afc52b85380fb8638f862152f700bb2d45",
+      "labels.csv": "238e8f55c05b64967b627ba08bd90121080f0711d793cbabf70a6110f20d74a6"
+    }
+  },
+  {
+    "index": 35,
+    "layer": "L2",
+    "uniprot": "P41143",
+    "n_ligands": 6,
+    "mol_ids": [
+      25790,
+      28940,
+      31551,
+      64116,
+      82509,
+      85390
+    ],
+    "input_sha256": {
+      "original_poses.sdf": "abd87aab6a7b6acefc64f921646792dea8174bd37a40599630a8bee8250c9ce9",
+      "previous_score.csv": "22749c4414080166e2dad04853f5107d2fd7679fcace03e0650f6a4bdda3084e",
+      "labels.csv": "0552dc48b1fc0a5ae78187e7dcd1afab02fbb74153152432ed001233e4a58fc0",
+      "legacy_pocket.pdb": "3b10cb1bdbc74b5423241cfc1ece755218d056c37edf5404c2b890dc145598c1",
+      "box.json": "3eac2521b142e0eb91f55bf0ee01bc48e1c0fbb02b6674688b0f84d9457c0e82"
+    }
+  },
+  {
+    "index": 36,
+    "layer": "L2",
+    "uniprot": "P43166",
+    "n_ligands": 10,
+    "mol_ids": [
+      14372,
+      14743,
+      19893,
+      34535,
+      47972,
+      68862,
+      105530,
+      106434,
+      124508,
+      133999
+    ],
+    "input_sha256": {
+      "box.json": "df6bf2d1e9ef221f47a59bfebc82d8827950ef8acb3da7f0eb154f268c350923",
+      "labels.csv": "ef630b481db6fb13fa441b8a9757c40f00539c74f42b72f5a4bb923685fcf7bb",
+      "original_poses.sdf": "eb552c7f8bd67331324513b113b4d7eebef094671f8310cf3de686dc49656d5c",
+      "legacy_pocket.pdb": "b32f330199d3c9837b53166e2161cae34666e1e4076239e4d39fda1b623fd7c5",
+      "previous_score.csv": "35333333f0db0ec7d172ccf598a18b5303930c67b6ded04a3ce8797a2cb5e61e"
+    }
+  },
+  {
+    "index": 37,
+    "layer": "L2",
+    "uniprot": "P43405",
+    "n_ligands": 10,
+    "mol_ids": [
+      458,
+      7613,
+      16711,
+      33947,
+      40410,
+      67215,
+      73311,
+      91792,
+      113757,
+      130651
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "2c1b75ad9d2156a6e2cbacdcf78623843624e87632ce69b159c250ebe699ea89",
+      "box.json": "001e3429a4a1385dbc2241e4193bf53bc9b5d9b4734a632896f8fe36c62170e3",
+      "previous_score.csv": "b06355b0df1dce7ec5d8bc863c8d66bb7f6e72fae0010c1b3d811e66ee8d36a2",
+      "original_poses.sdf": "858a21eec76db47ca2e9549d0d94f6248859a61748f6e6c6cb2a923b0b0a074f",
+      "labels.csv": "23822c21a100c2b5838b46a829a4d1a54c1b754ed27683c1e4ab02f791c1bcfa"
+    }
+  },
+  {
+    "index": 38,
+    "layer": "L2",
+    "uniprot": "P56817",
+    "n_ligands": 10,
+    "mol_ids": [
+      9611,
+      13349,
+      17219,
+      37944,
+      46757,
+      66568,
+      67242,
+      84180,
+      97357,
+      107160
+    ],
+    "input_sha256": {
+      "previous_score.csv": "424ae0d8ec6de34ecf12a6a54029c5d18bbe573ae4aef254e372b3bedb81789f",
+      "original_poses.sdf": "3356b5458ae26776841ecee263a3fc3fe2bca58ab5cbb0ef8ef5c35b7d926b2d",
+      "box.json": "302d6a7e3ef043e8e38faff3c24a71ac06d0d67e8b13b4f5e710d8ee404ce8c0",
+      "legacy_pocket.pdb": "bd2f84ebc2df4ff6f59e95d89ba67daca09c8704b521db19b1275cf419578c6e",
+      "labels.csv": "fa2208e884f83d340d0d167ad84c253d82d6605dc2447481f3c4813e5f8f3a27"
+    }
+  },
+  {
+    "index": 39,
+    "layer": "L2",
+    "uniprot": "Q06187",
+    "n_ligands": 10,
+    "mol_ids": [
+      9210,
+      21421,
+      89453,
+      108091,
+      114484,
+      118980,
+      133412,
+      133702,
+      140872,
+      146414
+    ],
+    "input_sha256": {
+      "original_poses.sdf": "61b6363271433801faf891f3345b6df1180ceffbb9033aa099d4ddf640dccfad",
+      "labels.csv": "879831e692a02eb88d545a7ad983ca7e23e69dca7597fe2ed887e40a2a767d7d",
+      "previous_score.csv": "3e701cb3e845f552630ba408f7df953c7437c82b5b1317f45690686e3f6fc1af",
+      "box.json": "4af7e7963fed76d150fc6828670e86c89db2938197fdb1a60d7e1fd1da7405c2",
+      "legacy_pocket.pdb": "6c6e12634dfd39a8b6b34e1f90df5f6d2f8ae1c706a2345e5c30eaa1468e7dcd"
+    }
+  },
+  {
+    "index": 40,
+    "layer": "L2",
+    "uniprot": "Q13224",
+    "n_ligands": 10,
+    "mol_ids": [
+      1856,
+      6980,
+      15517,
+      23218,
+      28425,
+      63129,
+      82186,
+      89442,
+      110926,
+      142921
+    ],
+    "input_sha256": {
+      "labels.csv": "1dd73ba265e9e6afea7e4d7ee08f0890c4421b0125dbfcfbd48bdb6e2a0571e7",
+      "original_poses.sdf": "a111fa07d45c33f0aed9e62c7d85264560d9a5efa36a68f0e4b780605f91ae6d",
+      "box.json": "661ba6d3ff8686ac35499a830aacff149f61be68860c568c928532d7d0948c37",
+      "previous_score.csv": "1f320e7c1bcac137ec1b89db5cbaec3390f3e332f36d389e7da0ec0306e5ce4f",
+      "legacy_pocket.pdb": "5e49a9c3da14bbe7ea1322211991fd358b89e9655c655022280a596837a9752d"
+    }
+  },
+  {
+    "index": 41,
+    "layer": "L2",
+    "uniprot": "Q13822",
+    "n_ligands": 10,
+    "mol_ids": [
+      409,
+      31043,
+      47947,
+      62797,
+      67279,
+      81133,
+      90721,
+      98140,
+      104039,
+      136645
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "c07585250dcfc5e7673596c44c35c322091e2273a908ffae4086774b23bebfec",
+      "previous_score.csv": "9903bf4f559aa711bbaf1ba890bb483404ea061d5bb74c6a8af09526442c4f26",
+      "original_poses.sdf": "7d5ab966c4e584b0c445fe9ac022627de31735fdc443a5f972d786bc2f62bf85",
+      "box.json": "81f81993598dd628b409a526d19f3c3582b051553c1c8076ad82287a85824b95",
+      "labels.csv": "dd293b913ebcec76665edd54f090839b1d1d825f44605d86a53793700a0de863"
+    }
+  },
+  {
+    "index": 42,
+    "layer": "L2",
+    "uniprot": "Q14145",
+    "n_ligands": 10,
+    "mol_ids": [
+      1372,
+      15758,
+      16948,
+      41332,
+      62918,
+      64270,
+      77634,
+      83648,
+      122553,
+      143441
+    ],
+    "input_sha256": {
+      "labels.csv": "23d53a8dc6598aa09a66aad0c6b27117d00815939630c678db0fc95777d2ddd1",
+      "legacy_pocket.pdb": "450c49a35999264df36b2af141efb5f6424112a4f550b1b0b5a5c10184ed1439",
+      "box.json": "2575c3ff646b18e88cd90b7afe4d03b255e797eec799d003d50454f3ddbb5797",
+      "original_poses.sdf": "f537d87b9fdd80f0d2e103e62fb57a3266cd192d2a5df43eaf0a7d4c16ae728f",
+      "previous_score.csv": "cb2a307ef2503f46e687883489015c9c8d547966aeee0bd6b3b08bb065ec23ef"
+    }
+  },
+  {
+    "index": 43,
+    "layer": "L2",
+    "uniprot": "Q15119",
+    "n_ligands": 10,
+    "mol_ids": [
+      3680,
+      9129,
+      12707,
+      27781,
+      59648,
+      82397,
+      112986,
+      113276,
+      120756,
+      122387
+    ],
+    "input_sha256": {
+      "box.json": "ae79ee7e3d3ed19442c5a252833f37a0508a8233fd7ab9226e9d3a634ab230b4",
+      "legacy_pocket.pdb": "fe8976503b358b13dd4df4c7f6762de826308aef7d60f7ab611e5f8e4c89c2d3",
+      "labels.csv": "0c52661da35e8221b6d7ec86f163adb9fe3af43d736e6883a8910e77b5dc024d",
+      "previous_score.csv": "c44c9b55552c1bc72ce5870b201fac5e5c8ddef8342182033111283a7f73d1da",
+      "original_poses.sdf": "12bb44d4cce0a47d1bbf9e373a3c7e01e62b7b20a61c16ba1abd6153ac0311c5"
+    }
+  },
+  {
+    "index": 44,
+    "layer": "L2",
+    "uniprot": "Q6P179",
+    "n_ligands": 10,
+    "mol_ids": [
+      6435,
+      11256,
+      27411,
+      75054,
+      75377,
+      78121,
+      98715,
+      110306,
+      113843,
+      129105
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "68141349d4f82302c7ab90ddc53a6b2d1505556d187a40374e132ebac25fb374",
+      "box.json": "5d4145e9707ad11b9281cc04574cd088b589205c290b3cd61b3e171809a4c633",
+      "labels.csv": "179fa9d6450f0520525055b92d1faf3c67ec3e627aeeeb924e9c20f500f2d0c8",
+      "previous_score.csv": "f9f27e20fd73c8e1311d4bbfaaa7fa0cc2db3ebc8a4eaa7208f573e59953ee5e",
+      "original_poses.sdf": "49208e06a124025a1fee88574b444af3b5ef720a30ff50b7a06f9beae713ccd1"
+    }
+  },
+  {
+    "index": 45,
+    "layer": "L2",
+    "uniprot": "Q8NER1",
+    "n_ligands": 10,
+    "mol_ids": [
+      27152,
+      35078,
+      38542,
+      52263,
+      62450,
+      119254,
+      125391,
+      131041,
+      132261,
+      140296
+    ],
+    "input_sha256": {
+      "original_poses.sdf": "6ef1836f1553569cc54ecc3899b746b1452b9cb169cdf63e4bd363542993a3f4",
+      "labels.csv": "f4eae68a089e21c365d527fa1641004d6d1010062f7af09314ebd1c9a2f0d79e",
+      "previous_score.csv": "89a6dd0f1875d5c2a9d7c6c338a71789132607a1e2b0792897be795741813e07",
+      "legacy_pocket.pdb": "04fac721f62e474704db9d350c23cbbee1b3a07ca2025a6988603db9d0d5a697",
+      "box.json": "e3de6b105f10e4b3a745147446b6ef3a3b3934897a315815d9f7c0cd1d93777a"
+    }
+  },
+  {
+    "index": 46,
+    "layer": "L2",
+    "uniprot": "Q92793",
+    "n_ligands": 10,
+    "mol_ids": [
+      7699,
+      30981,
+      46473,
+      56089,
+      74284,
+      92633,
+      99659,
+      104318,
+      113888,
+      128208
+    ],
+    "input_sha256": {
+      "labels.csv": "61c5cf522f010c264970ec6c5782d9be57b863aaa967d36fb59353bf1dc31393",
+      "legacy_pocket.pdb": "4ff9bfb3839b3044eb3d4ff33514a2693e7d5758983479f1de221ce535c8ea5f",
+      "original_poses.sdf": "f399c8ccf1c542d98c66aec454d77c0512d649a5aec090b3d06799c01556112f",
+      "box.json": "4b7c03fb656016da7ca1a101a4f1cd771b6f33290983aab0ab2235c8d1238b24",
+      "previous_score.csv": "b167511bd04b918f7ce456d44f92df3efcb6c5ded25d17ffa0800e5c43ef08d2"
+    }
+  },
+  {
+    "index": 47,
+    "layer": "L2",
+    "uniprot": "Q9Y5Z0",
+    "n_ligands": 10,
+    "mol_ids": [
+      10341,
+      49521,
+      51240,
+      67242,
+      82278,
+      87330,
+      92673,
+      104482,
+      110437,
+      113205
+    ],
+    "input_sha256": {
+      "box.json": "a096d44c63ece2c54820a8ac5ae13f3e2b88a0635fdc6a8e27985620632fc51a",
+      "previous_score.csv": "f2a1e0dc95e4fb8c7dbd1fb3b9b615a864a7fc22038d3e30983a145859560e67",
+      "original_poses.sdf": "b75303e93ffc38540d5102b8b3dc4952753cd3da81b7581497f3f4ba0f259f6a",
+      "labels.csv": "0b7e389b9364dcf0a5227965fc9508f3df851400d584f6831a4c6fdea64ff0cc",
+      "legacy_pocket.pdb": "5bfcd7bc1b931973ffe5aa99388c526bd5243ae100203036678838ddfb9b3e36"
+    }
+  },
+  {
+    "index": 48,
+    "layer": "L3",
+    "uniprot": "A0A1D8PKB4",
+    "n_ligands": 10,
+    "mol_ids": [
+      1740,
+      3477,
+      10448,
+      21866,
+      38545,
+      65458,
+      66338,
+      69135,
+      121070,
+      127503
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "168704f0c62ffbc23e86bd920a8f24307dfff9b7b097a25ca71838bb92f64731",
+      "previous_score.csv": "f80476d16abcba5cc14d2b9a5b09be0ebcea4ed515ec0f56ded58950e4f5932d",
+      "box.json": "340f920487d5dd98ffe6710ae2844a2c1ca8660f4dbb5de34a278ba71a0df16b",
+      "original_poses.sdf": "e360f4b2d37e80798658f2ca20c200e73b8c7aa7e5b32a25bf2a032085958ac9",
+      "labels.csv": "182e9899fd62d6f7f238d9413a091151a3d52976207c01ab8d57a80aedae8dc2"
+    }
+  },
+  {
+    "index": 49,
+    "layer": "L3",
+    "uniprot": "O14638",
+    "n_ligands": 10,
+    "mol_ids": [
+      6340,
+      28298,
+      75632,
+      85481,
+      87321,
+      98405,
+      119261,
+      128168,
+      130558,
+      138317
+    ],
+    "input_sha256": {
+      "labels.csv": "2ba69f62b85c10e672c3dcb8df8e98fedc4a5d7cb54230a09a8e12807afeafbe",
+      "legacy_pocket.pdb": "6d8cbf074a8bde7caef9dd9f94b655c31c585e48e27bc8a2f66a593555f4160c",
+      "previous_score.csv": "d47f7cab1c80a0be1a4e6954126fdad4ecb83178c4716b8ae619c6f1be4ebfe5",
+      "original_poses.sdf": "b2aaed88358fb12762b6a0fcff52508ae1e36eba0edb440801722fc54ad5160a",
+      "box.json": "9404e7e837f17b68214387613fb09fecda3cf0e68d5cd5847fe779f0fe790286"
+    }
+  },
+  {
+    "index": 50,
+    "layer": "L3",
+    "uniprot": "P05556",
+    "n_ligands": 10,
+    "mol_ids": [
+      6155,
+      22350,
+      37092,
+      48770,
+      52854,
+      84044,
+      91140,
+      92903,
+      127413,
+      139427
+    ],
+    "input_sha256": {
+      "previous_score.csv": "9ff294cc6a0543196a88c0ce8b2b80b942b45567b9cb4f8298280113be71cb4a",
+      "original_poses.sdf": "980bc1448590fff22320e6614aa954dcf6ef070541bb631f9913a347086081aa",
+      "legacy_pocket.pdb": "a122c48733527a4e350530474f980ac34f12e5a2be59ee544f413493ad1d7148",
+      "box.json": "90e5c4e66961a8d4e3f34ae3015f1c65da94458968d48a5edebe9f1deee75849",
+      "labels.csv": "68920039e9fa2a35a31ac51ee2013c53bb4cab43d141e5e40a5b73438c01bca3"
+    }
+  },
+  {
+    "index": 51,
+    "layer": "L3",
+    "uniprot": "P05622",
+    "n_ligands": 10,
+    "mol_ids": [
+      30567,
+      35180,
+      65602,
+      82843,
+      98621,
+      113810,
+      114084,
+      123867,
+      133204,
+      141441
+    ],
+    "input_sha256": {
+      "original_poses.sdf": "6f3cd27ef1db8d3544ad0b40eb6288ca120e0e2b5b6f0cf52199d4500e8ec670",
+      "previous_score.csv": "0f32b2c18e992036a21c0cf85690a6d68bcfa0fb7aa5b13c1e57375c55f779e5",
+      "labels.csv": "23c593cd589751ea4f8c3c5a4b8a97d21dae6ec05d89e5486bc999ac60317da7",
+      "legacy_pocket.pdb": "fc98f59bb396cf437a9cabc2da19cbe21ac3215401b97bb60e9d1122ac1365aa",
+      "box.json": "83db733f303047dffe32302143e2b3bb5f3f55a6dd086896e228c0a91f97043e"
+    }
+  },
+  {
+    "index": 52,
+    "layer": "L3",
+    "uniprot": "P11926",
+    "n_ligands": 10,
+    "mol_ids": [
+      2548,
+      8731,
+      23558,
+      27708,
+      42749,
+      47655,
+      65302,
+      70512,
+      88775,
+      145066
+    ],
+    "input_sha256": {
+      "labels.csv": "9303aee57cb375961d79e457c584e6d5a24ce282eca6717f5820d977786161c0",
+      "box.json": "eee3ae40789574853c8117585b5eda71924b8878392d16252bce5a77dea13524",
+      "original_poses.sdf": "3033ef8d854bdeb89ec4439d3d7b9061c68508a46d870ab62f24aaed2fd3a2b2",
+      "legacy_pocket.pdb": "ac7b1f5ee8fcde317be1d1e68adf9447598f66960ada1e13f645054d5034e68a",
+      "previous_score.csv": "7ab00db765ab77a26e6d95725e8184c8be91d558c751769e5e5e8d54e850a418"
+    }
+  },
+  {
+    "index": 53,
+    "layer": "L3",
+    "uniprot": "P18564",
+    "n_ligands": 0,
+    "mol_ids": [],
+    "input_sha256": {
+      "box.json": "be4969e94be9f858794ce6166f679da10c43b6f8f43593ba1f126dda790d8783",
+      "original_poses.sdf": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "legacy_pocket.pdb": "1a8e3f163a234c32209b866243df07711c7ebb90f2dde824bb0556e7a2534418"
+    }
+  },
+  {
+    "index": 54,
+    "layer": "L3",
+    "uniprot": "P28347",
+    "n_ligands": 10,
+    "mol_ids": [
+      28596,
+      30720,
+      52030,
+      64839,
+      76968,
+      101735,
+      107616,
+      138257,
+      144852,
+      145084
+    ],
+    "input_sha256": {
+      "labels.csv": "356c9f8dbf42d17b6291d9a30802b09f64247a4ec6dbd760a2322a2b7d7eb234",
+      "box.json": "c065c3065f051fe3ca0122da623758eb58d3042c7a4f8c8cdf6388400c85d6f8",
+      "previous_score.csv": "f07aa89da99db8eeaa7bce40f55f8267447e2727caacf67e605913e112bcfd9a",
+      "legacy_pocket.pdb": "942d89b8e70e84ae7b572280f52e2ce7378e5cdb9bf92054e4ba0b828435f9f1",
+      "original_poses.sdf": "2a64eb76186d1b4e9bd0eb809be82a8f0aaedb7809ba42be315303473e2419db"
+    }
+  },
+  {
+    "index": 55,
+    "layer": "L3",
+    "uniprot": "P40879",
+    "n_ligands": 10,
+    "mol_ids": [
+      14931,
+      35122,
+      53728,
+      81480,
+      105680,
+      109901,
+      111688,
+      116771,
+      121141,
+      145984
+    ],
+    "input_sha256": {
+      "box.json": "82d8d12efb8fdd266f46d837a59725fcc564a6d4a8075b84c32c24deae9876cd",
+      "labels.csv": "894f440b046f5e6a89b1bab0dab6d87fb7f7df66ac1c87fec2367b264c99aaff",
+      "original_poses.sdf": "dc8da152dfdc9a0cc4ab5317a069330e88e89abda71656b26dd4b3530b5ce02a",
+      "legacy_pocket.pdb": "f2ed1a51cb2e46e1d1dba53572c2c703d5ab66df8e1bf23ebda011c4b10b3a09",
+      "previous_score.csv": "934562348275ccb374d0a789b115df1ebb87833b7cde165ae3b5c80f86043568"
+    }
+  },
+  {
+    "index": 56,
+    "layer": "L3",
+    "uniprot": "P43250",
+    "n_ligands": 10,
+    "mol_ids": [
+      19366,
+      24299,
+      49258,
+      49900,
+      52327,
+      62496,
+      63987,
+      91322,
+      100564,
+      123039
+    ],
+    "input_sha256": {
+      "labels.csv": "eee965d070f10f053a5607b58df90ce47ffb5b1306c8e8e370c3d90cc3229c18",
+      "original_poses.sdf": "186ccb5a34da16f6fdaf70796503908e20f2f5de78ba1873132a6e23265bc3ee",
+      "previous_score.csv": "e1e6b426c6dfebf8b8fc8c54e62626c4024c6e101e0438bab0c45befd76202e5",
+      "box.json": "e2b1ffff98712e518a497245d1e6efdb8d97647911cf06c2c6db68c3fe869008",
+      "legacy_pocket.pdb": "6de905bcf2ee646af58f0e8fc0296f93c26ed5c2ce124c04b0305a06148dd3cf"
+    }
+  },
+  {
+    "index": 57,
+    "layer": "L3",
+    "uniprot": "P51684",
+    "n_ligands": 10,
+    "mol_ids": [
+      32975,
+      47306,
+      76144,
+      84621,
+      87993,
+      107869,
+      108629,
+      114389,
+      127076,
+      135852
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "0259af995851ab6a30687e07664cdc2937a06bf760a368722ca61b6a8621db40",
+      "box.json": "9c06162f0855629913cd0adc934f0b18b653d4c03e7d868a3042c2f7a593f551",
+      "labels.csv": "f90ef0e218063b1bf3b992440b9b6ba344396532eec1c7d91c3b5d4dc8ad5c97",
+      "original_poses.sdf": "a748d89a521d00dcc9905898bc4ee2258398022e755c93c524efdef4cbb0fafe",
+      "previous_score.csv": "da76a288f7973115943ac0fda57d8bc63a5b21ba76d8f22d734e86a6d6d25e0a"
+    }
+  },
+  {
+    "index": 58,
+    "layer": "L3",
+    "uniprot": "P56528",
+    "n_ligands": 10,
+    "mol_ids": [
+      16609,
+      20833,
+      36530,
+      36737,
+      39146,
+      40236,
+      61898,
+      81023,
+      112975,
+      146465
+    ],
+    "input_sha256": {
+      "labels.csv": "148367b34aab17b0f9dc0044a82485df63ac17050f9a4ff5b0b9b23a8033032b",
+      "box.json": "4826fcd21df4985964e97d204d4400c1bf0fef985f7748ae2a220b2380cfd362",
+      "original_poses.sdf": "8dd49cdcc2f66baad65c494de7675413ab276bdb2fe93e41060973ca940011dd",
+      "previous_score.csv": "ebe7852e187af6e9ba70953e2a08c60154ac267fd32caa95521d9c6548b668a8",
+      "legacy_pocket.pdb": "973480b3ce2e67781bf575c2630807ea75832bc037ffbb3fee020148764f7b03"
+    }
+  },
+  {
+    "index": 59,
+    "layer": "L3",
+    "uniprot": "Q00959",
+    "n_ligands": 10,
+    "mol_ids": [
+      2221,
+      24323,
+      43699,
+      68311,
+      88721,
+      89763,
+      103070,
+      132547,
+      132866,
+      139001
+    ],
+    "input_sha256": {
+      "labels.csv": "5d9c33da861afe3191b1cdb8d829622292bfe9ca4b10a1cbb57c34d4988c49ac",
+      "legacy_pocket.pdb": "4bcd4b88d28818df3911cba5e0ffb79eb7dce19818a4ad59f57a27417c1bbac7",
+      "box.json": "5ed7d62fbb905e1f1e11d76f7124bca22766aabe6ad0a70a001d645e2977f014",
+      "original_poses.sdf": "d90c1f2cde99d1531246cc0ab90352b517fdf5559d89c515399d9b5c6733ef0d",
+      "previous_score.csv": "4403ffbafb40e7d6cb10c75c6bbed12ce68dd47c0c55ca1f416bddd1dfcb88bb"
+    }
+  },
+  {
+    "index": 60,
+    "layer": "L3",
+    "uniprot": "Q00961",
+    "n_ligands": 10,
+    "mol_ids": [
+      7921,
+      43719,
+      53381,
+      69000,
+      88925,
+      89763,
+      93521,
+      103070,
+      108874,
+      135025
+    ],
+    "input_sha256": {
+      "box.json": "caae324d5672f07f7960e184179c79c9e3bfb5515fbeb69c76182b6b43b050cf",
+      "legacy_pocket.pdb": "228b204df6e34d37b738e1fd1a7b524126856b7688d5c5731a40114e73da074b",
+      "labels.csv": "5afeef7c5e89695dd113090c690d2829954daff10033aadc196180f41d67a1b4",
+      "original_poses.sdf": "68ae4a806ddab7ae399984b9ac1fd8931c602b7bf3da9291f0dd8549d6430b98",
+      "previous_score.csv": "4279ffb54a00d561a1f8df7e17ce8f422410fe6eff575ffee06a280e825fd0fd"
+    }
+  },
+  {
+    "index": 61,
+    "layer": "L3",
+    "uniprot": "Q15878",
+    "n_ligands": 10,
+    "mol_ids": [
+      4124,
+      12360,
+      19284,
+      45224,
+      57801,
+      67332,
+      76146,
+      84015,
+      107192,
+      123336
+    ],
+    "input_sha256": {
+      "previous_score.csv": "8395932701507882cda7894ba47e91106be670c16ea4c8eed3e55a0a319de230",
+      "original_poses.sdf": "0f4677383f9f10179f0f636deef7c77e2a4567377ef9becb1779d34026d93c4c",
+      "labels.csv": "9e2d062b149ebe5bc203c28588109d1e8ee0f983ba3adcd859be8e69b021cf1e",
+      "box.json": "50272bbbe3c70f367b282fdef32edfbb70472a7f574c2097d5392bd2bbb98dbc",
+      "legacy_pocket.pdb": "1d93cb69ee93429ff15f053bde6b95fd11730df6cf6de2af88eb274baa2f83e6"
+    }
+  },
+  {
+    "index": 62,
+    "layer": "L3",
+    "uniprot": "Q16665",
+    "n_ligands": 10,
+    "mol_ids": [
+      22959,
+      27688,
+      30911,
+      61553,
+      93926,
+      100430,
+      102927,
+      117443,
+      123239,
+      126029
+    ],
+    "input_sha256": {
+      "previous_score.csv": "67fbd1e89ba6bf6e4b7a4d2abb5923d8beba4c5582971c69f2468e9dd843aebd",
+      "original_poses.sdf": "39c99015025d62c1daed2ce467760da3dd76e36a5acb75744b18eb11ea456e4b",
+      "legacy_pocket.pdb": "6e6abefe3507385be9f394480dc585dcc0a879b32f6bbe24e686d24470d75602",
+      "box.json": "73bb9cd41eb2fb038611bd1b4f59d7e25feaf64eb83ff2c7fbf501cd4582dc1c",
+      "labels.csv": "6960eda40fb78fccaae8dab3e022519535b07b3e6e629637c3871a29a6a1ee8e"
+    }
+  },
+  {
+    "index": 63,
+    "layer": "L3",
+    "uniprot": "Q62645",
+    "n_ligands": 10,
+    "mol_ids": [
+      2221,
+      24323,
+      38593,
+      43699,
+      53381,
+      68311,
+      69000,
+      103070,
+      108874,
+      134390
+    ],
+    "input_sha256": {
+      "labels.csv": "27bc320fb04a02b8f103aa88802edfe263a3f8a8198794ed730f7c7dec782ebb",
+      "box.json": "8f0e5f589fe94f90e43fa76dc6ba2691266ac59f3322467ee2c28b4eaf4a9aef",
+      "original_poses.sdf": "f16e5d493f5c7f365925b737934a40cdd63878c4c2c62e0dec26bca66cc0af24",
+      "previous_score.csv": "05d4eef6022519bd482554d9785a567c611027bbaa0e15df6d37cdd04e0604dc",
+      "legacy_pocket.pdb": "98c612b3c07767b9f3e301e1baddc75054552df1d6c879d6649719937da76ac3"
+    }
+  },
+  {
+    "index": 64,
+    "layer": "L3",
+    "uniprot": "Q92830",
+    "n_ligands": 10,
+    "mol_ids": [
+      12327,
+      23850,
+      30945,
+      31993,
+      45193,
+      53417,
+      71683,
+      78328,
+      125008,
+      127198
+    ],
+    "input_sha256": {
+      "previous_score.csv": "85d1f11c26fc3a6c813b644279fe036055f3bfca33924f7d6679db3a26bfdf85",
+      "legacy_pocket.pdb": "d4e6428c1197ec84f24814bff8526276d93aeb0cef6f0d6cca56be6c9b297604",
+      "original_poses.sdf": "29f1436da2e5bda105759a5650ee5eb51f894cdae1ab61bd30fb455ce4252681",
+      "labels.csv": "9c27514c1dfd2afc99df392cc031f0e1dd0af5cd34abc2daa9c21975cb1c7d7f",
+      "box.json": "54a7530b3b5fcc739cb1ed6a14ff4c737106c51a17c9c0b0e82a6529677cfd51"
+    }
+  },
+  {
+    "index": 65,
+    "layer": "L3",
+    "uniprot": "Q96LB1",
+    "n_ligands": 10,
+    "mol_ids": [
+      11497,
+      38418,
+      39087,
+      43063,
+      78428,
+      82343,
+      115856,
+      128174,
+      129454,
+      145185
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "ee3e51c5606cacbc6b9bf04a67f0378eba764eba662f1aed7130388330bef958",
+      "original_poses.sdf": "d0302ee4b5272528d922f2ba17c73df3fe79fe58cbab1aac10d7deb55d30c177",
+      "previous_score.csv": "3b111958cb5237aa77f777ad83523410483dee0dad292ae657d5b03ad306a7bb",
+      "box.json": "36373212066213a3796c9abbfe67d7b3e91457f8cddd41794be26c4c38b2a9d4",
+      "labels.csv": "7d552396ba0e71d7b20447999c8dea43e44a5e582160d699d5dc54e3ec599093"
+    }
+  },
+  {
+    "index": 66,
+    "layer": "L3",
+    "uniprot": "Q9HCR9",
+    "n_ligands": 10,
+    "mol_ids": [
+      10956,
+      12928,
+      68226,
+      78593,
+      90524,
+      96622,
+      113370,
+      121641,
+      134889,
+      140686
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "6b2c668aa841f7113ca5ccdc7c2250d982df91e17e8a70e9f02c4d8ba420d9e2",
+      "labels.csv": "e2f1b7f604919a4b119063b13a82b99071aad5f480d0db8f9219b79d5ad0a804",
+      "original_poses.sdf": "1290c51112dcf4226dc9e5ed77c566866db3da81d99ab773e95df9a7130378f8",
+      "previous_score.csv": "8a52e248a1aaf1ec444faad4d698ad8dfa237b57d4d2f54b23c563904b131a96",
+      "box.json": "7095ef35442a180cf1c4f62d821a7706e053df221d95fc8e829392e143971afb"
+    }
+  },
+  {
+    "index": 67,
+    "layer": "L3",
+    "uniprot": "Q9NPC1",
+    "n_ligands": 10,
+    "mol_ids": [
+      16466,
+      18761,
+      21838,
+      72366,
+      75604,
+      92711,
+      119020,
+      131764,
+      132810,
+      145653
+    ],
+    "input_sha256": {
+      "original_poses.sdf": "194b1dfe81bd036ce3670cee4f32db110b099036e60c4a51012ef4d1bb29b1c8",
+      "previous_score.csv": "947ce42afd546cf38c3e00d5bd328a4519fa29812bd2018c4652a92b36a926ba",
+      "legacy_pocket.pdb": "fc322b25548ec2ecae7bd46c1ff347af1253fb03252f57f8b79a94ed34eae7f2",
+      "box.json": "4db63f219e76151347976b2ccab1edadcaf1bf41b7d7ea9e8b0c229330138370",
+      "labels.csv": "0f7a7fb734cfb23a11759044cfffef019ec03bfc39a8d65611925bf988be6a1b"
+    }
+  },
+  {
+    "index": 68,
+    "layer": "L3",
+    "uniprot": "Q9NR22",
+    "n_ligands": 10,
+    "mol_ids": [
+      6438,
+      15841,
+      30312,
+      47363,
+      50566,
+      93482,
+      98130,
+      123696,
+      131437,
+      144261
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "6dfa5bb24afe70a836924aef189c4e2fa04e67f5ab35176da46130659498f567",
+      "box.json": "45398516e9e80f43fada6ca39fa0ab04f3419e1d0dd3773f3ccd245f875691e7",
+      "previous_score.csv": "0561775f2d9fe8ad1a4e29763edda3d7625aeaf3176927512090bf9b1dd70fc8",
+      "original_poses.sdf": "1dd1297f56d5c821bc405206128a24a7ef44b756fbe500f961425132ee7fc763",
+      "labels.csv": "c9c83919837b0a31343e38bb8049b666e25fa962ab0b56df1baa88fb89ce5bc2"
+    }
+  },
+  {
+    "index": 69,
+    "layer": "L3",
+    "uniprot": "Q9UKS7",
+    "n_ligands": 10,
+    "mol_ids": [
+      12820,
+      18889,
+      40995,
+      42683,
+      54563,
+      70489,
+      77037,
+      89119,
+      132016,
+      142702
+    ],
+    "input_sha256": {
+      "box.json": "ea5d1992a43799a741e8b5b7c836a2da80e0f27fb4e873ffb6e05cd0e6b93fa2",
+      "legacy_pocket.pdb": "fa42e8bcc3f70b4dd9b572b8dcbcfda35b02b5292aaefb316ae2a290ca826258",
+      "previous_score.csv": "8e0ffdae65bc331d1658b084eb77c747a2ddb9bbd01ea9dfd39bf8652de0c302",
+      "labels.csv": "87b9c6e4de27bbdf23b7652f19a4e6b34996c37ad53009ade5e70476315efb9d",
+      "original_poses.sdf": "1aab763018df21e826343457caa9fcdc6004abe3d1406e5ff02ea15bbb2a4ed7"
+    }
+  },
+  {
+    "index": 70,
+    "layer": "L3",
+    "uniprot": "Q9Y4K4",
+    "n_ligands": 10,
+    "mol_ids": [
+      1811,
+      1812,
+      1813,
+      16994,
+      45281,
+      64956,
+      109204,
+      115639,
+      136517,
+      140016
+    ],
+    "input_sha256": {
+      "labels.csv": "16dd495616311709ede444b61d529c9e60bb2af3145fe904392b3960993bfc1e",
+      "original_poses.sdf": "6c6a82ee3ce6456cb122985cd329fffaaa2dc8eedff88e68b768c5f5c3b6342e",
+      "previous_score.csv": "b921d0a46b5fae8c3f702e6c9dc86c7c468465985fb5a2a57155de4e072c8dde",
+      "legacy_pocket.pdb": "b99c28a6d84862de9923a5228916c1ec9500e6e209dc5261ef16b3f08e4be58e",
+      "box.json": "3eff69375c07486b9666174cf19b4454c59e722d5ef0c5659e8e760992bd23a9"
+    }
+  },
+  {
+    "index": 71,
+    "layer": "L3",
+    "uniprot": "Q9Y6M4",
+    "n_ligands": 10,
+    "mol_ids": [
+      6175,
+      10544,
+      19862,
+      28224,
+      72738,
+      73293,
+      87012,
+      95594,
+      100681,
+      136524
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "4024371e49a779ae4c0c2efa5c0897120575bf8ae8200a7a2f4c38e9faf9f144",
+      "previous_score.csv": "60f8528d7cd55fd1fdd53d50ee20b92c27d86abdb41d01588dcd9e85323be621",
+      "original_poses.sdf": "b5032f90a808ba1bdbd7d38be1cd7cc1e5cbe30426fc53dfb87189eb19b09e9f",
+      "labels.csv": "98ac111254b63781a6de6e183cda6c23bd3f89ed08cf082b07c3daef9377dd01",
+      "box.json": "0963ccfa82fa0d3b9709623390711b4b118aabfff0938bce918463aa2b9c656f"
+    }
+  },
+  {
+    "index": 72,
+    "layer": "L4",
+    "uniprot": "O00767",
+    "n_ligands": 10,
+    "mol_ids": [
+      6702,
+      41603,
+      50261,
+      77625,
+      78807,
+      95360,
+      96016,
+      130232,
+      131697,
+      138397
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "87a1ae5810ca8e2b97b738bcfbeff2c51c358fa144d122ba3adc6cc94fb096fe",
+      "labels.csv": "270460ca6a92a98b93ebf42359caf48b95ef6e92eded439256d10a7e2cca7294",
+      "original_poses.sdf": "51a89eb44ea080e9d336b402d796180b78cee99152524124f27ddb1669a5194a",
+      "previous_score.csv": "03b8c13c9f1ec4d12faedab4a9597ea5c23affa71835ef634ba20f85c7d9af1b",
+      "box.json": "6e840d4d36df7afec2f2a12f878b7b7579de4da9907884f7bda00845ef7da8cd"
+    }
+  },
+  {
+    "index": 73,
+    "layer": "L4",
+    "uniprot": "O75747",
+    "n_ligands": 10,
+    "mol_ids": [
+      107,
+      31150,
+      31847,
+      46977,
+      51496,
+      79072,
+      83896,
+      119464,
+      124841,
+      143865
+    ],
+    "input_sha256": {
+      "box.json": "47a963010c5a12a7f7752b32c4889d9159a77dfee990f61ac8154d7f27c9ca74",
+      "previous_score.csv": "6b2d830499197da5bbc2e2fb0a33ccc219147eb74da523491b7e3da5a186bb93",
+      "original_poses.sdf": "b206144b6cb45fbac4bbac0d0903d6cecb623d554209ee205df0a7bfd7448b33",
+      "legacy_pocket.pdb": "9c65c0c55fead2d6dd8d8576866dca358f5df47211d0c6ccceb3d2303b1a4d85",
+      "labels.csv": "9278beded86da63cb7a33699b8e0b13d345f412122c87b84b57563a4063d0137"
+    }
+  },
+  {
+    "index": 74,
+    "layer": "L4",
+    "uniprot": "O94782",
+    "n_ligands": 10,
+    "mol_ids": [
+      44583,
+      55799,
+      63266,
+      82334,
+      82471,
+      104572,
+      107087,
+      114317,
+      117314,
+      140915
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "5871fd5cddd1fe3b79981f9d802cb37e3d41fa5c03753281fa56e1038f15249c",
+      "labels.csv": "a32c7dd893ba429badc847f718c91cd5ff7c82c1fe60dbe6f52128e22e5b3be4",
+      "box.json": "4ffc6b2fffd0d6fe749ebebef914678187d01bef7c4311823f1b7bb1bad9ab6d",
+      "previous_score.csv": "f0d48af8cda9e52de5a619bc7236dd616952b43f3018c3f203196215b5f47a40",
+      "original_poses.sdf": "b2eb45f90ecf905b9ebc4e61cbb92605d69eafd7c19360ba05daa3645878c9b6"
+    }
+  },
+  {
+    "index": 75,
+    "layer": "L4",
+    "uniprot": "P09871",
+    "n_ligands": 10,
+    "mol_ids": [
+      18813,
+      27252,
+      31406,
+      58779,
+      70932,
+      76886,
+      77799,
+      81308,
+      102062,
+      116768
+    ],
+    "input_sha256": {
+      "box.json": "f5ea52604016557750e7c6aa8e59abb93636daadc172a66bc3cbf54e169619ff",
+      "labels.csv": "7e4a37290628d81de05dd84cb4fe7ca4041d0de1dcb0d90eed50de05636b9212",
+      "legacy_pocket.pdb": "eec7948967970bcce5df510b700e8faf720484eb0a0264c3e5eeaa9003f8e8e8",
+      "previous_score.csv": "390d48848a47cce675ac72070c43fa4f4b5dea59149e4072ae28f8626f50adc4",
+      "original_poses.sdf": "efde635f9d46f82db4723e04fbb2d843d3da9dde4ee983a941583f474a0ea31c"
+    }
+  },
+  {
+    "index": 76,
+    "layer": "L4",
+    "uniprot": "P24863",
+    "n_ligands": 10,
+    "mol_ids": [
+      474,
+      2823,
+      12108,
+      25945,
+      41173,
+      52297,
+      69432,
+      99633,
+      108418,
+      134993
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "537b9ffb9d1465c1bc9e637768bf636a86c2848eae6d58217c339527664402ea",
+      "original_poses.sdf": "f4f951c43340fafa2627f0789e7f0a4c5a4ecbd3066b8ad5551cd1bfda5160a6",
+      "previous_score.csv": "56e7d16886f992735cf0d94a879d7234c54cae2998aa9036f66ec777353a8359",
+      "box.json": "599b4272c49b1c93ae4268c4c9ac7807333746cf94b2fe00686fdddef83dcf5f",
+      "labels.csv": "9e427c546028ed6ee11022af13951ea2378269a3c0dacfb4a1f62565d4a41033"
+    }
+  },
+  {
+    "index": 77,
+    "layer": "L4",
+    "uniprot": "P37059",
+    "n_ligands": 10,
+    "mol_ids": [
+      23441,
+      25302,
+      28513,
+      33315,
+      33829,
+      63739,
+      74096,
+      76666,
+      129246,
+      136390
+    ],
+    "input_sha256": {
+      "labels.csv": "3f36b8ce2150709736b08f3975884ea83355697863e422e5e89d1950eb60c470",
+      "box.json": "8850e5159a996f08d1e961a5234a97314b74b10294c1ce6d5e0b3b88ea8fd508",
+      "original_poses.sdf": "db81ef2df3e2e06477b8dc0506b83a145658de460af0af81e4387c52e103e0c2",
+      "previous_score.csv": "204bfcecdf72218a7615748ebfd120d1f1c5fcc59222c7b3036bf2622d504f11",
+      "legacy_pocket.pdb": "3977507cefd049fbebb7d3b7bb0f3751a6da18cab7a9534746394e2658f09c0b"
+    }
+  },
+  {
+    "index": 78,
+    "layer": "L4",
+    "uniprot": "P42226",
+    "n_ligands": 10,
+    "mol_ids": [
+      11604,
+      24276,
+      26786,
+      41686,
+      89566,
+      94248,
+      115838,
+      120290,
+      125214,
+      143645
+    ],
+    "input_sha256": {
+      "box.json": "3d87002904ecdf87f9d1436893c73d5ff808a985126d601b8337e029245fd51f",
+      "legacy_pocket.pdb": "73c3b182153129f2a2bc3a8b13e10dbf781fb18b18a87dce66c14600685b8ace",
+      "original_poses.sdf": "3ea5011c5646bb442eeab4e6d90940cefa9596ed03ef0af6e4f9c5f53897bb3f",
+      "labels.csv": "746ada7672d4f275db1ca6067ccc324491d40787ba9eb84eeda86ace19c38186",
+      "previous_score.csv": "933419d8a37005afb7aea50da4dd148d0f3de0aa34dfc286547996aae0fefdde"
+    }
+  },
+  {
+    "index": 79,
+    "layer": "L4",
+    "uniprot": "P43341",
+    "n_ligands": 10,
+    "mol_ids": [
+      5828,
+      40675,
+      62829,
+      71794,
+      115767,
+      120455,
+      129151,
+      131205,
+      132318,
+      138164
+    ],
+    "input_sha256": {
+      "labels.csv": "76743e3d1cefe80ce796e478885da4e847505a97c9660dc7326c59850821cdaa",
+      "original_poses.sdf": "3826df4a06e05acca36948ab963dc3fb3187e6a69140c3ed49d4f1cf48a2557e",
+      "previous_score.csv": "c08e096ba339f59ce25f00f0c6031ce9c227c0fb24dab4f1ad564fc6b8f5a692",
+      "legacy_pocket.pdb": "80848792dc7b2066664ef048a301594032d1180b8cb2fa5c70bfe8dd540fb7af",
+      "box.json": "4b970cda462e891b2a17a2c77f821ac124f0925ef7ecf6e6a97d5c198fe2cdcd"
+    }
+  },
+  {
+    "index": 80,
+    "layer": "L4",
+    "uniprot": "P50052",
+    "n_ligands": 10,
+    "mol_ids": [
+      13708,
+      15042,
+      16998,
+      38303,
+      46537,
+      60167,
+      70458,
+      99833,
+      110461,
+      128818
+    ],
+    "input_sha256": {
+      "box.json": "033348142ba531bc198f9d2687bb2f6d2ef810f80629be94602e02480632e3ac",
+      "previous_score.csv": "ecb408ad8fe79e73b21d9e339d41a1e9895541fbe7618f6d0b097c666bc8c04d",
+      "original_poses.sdf": "a805b47df877e781a0b02f27f371a36e5317d2ab67402872c75bf6a003ac6b6f",
+      "labels.csv": "acfa415f4cd760b39f3a15fb122875c1829892b3d131b172484a16e856dc1fba",
+      "legacy_pocket.pdb": "ea1c4a8bbec82e096a7b6ca30d89e6a172dfdac1f63bd6b023160944c69a2254"
+    }
+  },
+  {
+    "index": 81,
+    "layer": "L4",
+    "uniprot": "Q08211",
+    "n_ligands": 10,
+    "mol_ids": [
+      11473,
+      21889,
+      22694,
+      29796,
+      38600,
+      42196,
+      46584,
+      64036,
+      115743,
+      134241
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "aa6687410072dd3433e6811e37bba950ec6d50a499638150809014d901f5af6e",
+      "labels.csv": "02c6c1c8ce1fc50c9fa2942606ee2bd13a9001529711ed0ace0e0b7cd7504e9a",
+      "original_poses.sdf": "9a0fb6e8273d7f0177e21ed24545a3d583d225b852a484e3c8004f336b054f87",
+      "previous_score.csv": "17d072ec63b590f2787776a65ec74abbb943ab4994014a5c2446ff0cc8b6eb59",
+      "box.json": "45c378a29ed656d8ebf1d69b40da09b37175d3f33bf611fd10993e3c2c49221a"
+    }
+  },
+  {
+    "index": 82,
+    "layer": "L4",
+    "uniprot": "Q08828",
+    "n_ligands": 10,
+    "mol_ids": [
+      5257,
+      8454,
+      58941,
+      60610,
+      64492,
+      67558,
+      74153,
+      81371,
+      84111,
+      97025
+    ],
+    "input_sha256": {
+      "labels.csv": "8fb1232acabc6a4ff223c34186806fb457477311d280b03533bc31f7b320e658",
+      "legacy_pocket.pdb": "6a6f69a82423f1f13ff17d2c62139d94fdcce5db112c7de6a2d492892806d78d",
+      "previous_score.csv": "4d3571f62dc5f6bca18a4a6b60b8f73843c8db84f8a8a8fd2af8eb54a5249b48",
+      "box.json": "499816c7bfc1b3ce5adc1c71af3fe28095b5f2602bff1d844e8dd7dcf589782d",
+      "original_poses.sdf": "3984c238075dc287a24a3e6334610f2b24ada307c3b2c5618d43e44d8130d4b0"
+    }
+  },
+  {
+    "index": 83,
+    "layer": "L4",
+    "uniprot": "Q13094",
+    "n_ligands": 10,
+    "mol_ids": [
+      2037,
+      10005,
+      14800,
+      21300,
+      32544,
+      34941,
+      55190,
+      118817,
+      128356,
+      144515
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "ad6864f4a5e7bf16a9542eb3bb564d608b228e192b616ba793492f228d47ff83",
+      "labels.csv": "a62053213258d21c0525009f6fa798801cc4ae560501c429e980c6bb44012ebd",
+      "original_poses.sdf": "6ac2c10b304a1fb05b9cf6526179243db7e878f9b7b30cd9ca91a61c0cb4e2b7",
+      "previous_score.csv": "5bbfa3c59a8cbbf47e6831c8a02e4058dac98e29b7c9a5782cca739c2ec04fa6",
+      "box.json": "b5f36933acda91d98582c55852bba2a65a0b313f584c10eb7b9c4e7450a2ca91"
+    }
+  },
+  {
+    "index": 84,
+    "layer": "L4",
+    "uniprot": "Q13724",
+    "n_ligands": 10,
+    "mol_ids": [
+      112,
+      24305,
+      30752,
+      47527,
+      84736,
+      84780,
+      100492,
+      113723,
+      118056,
+      142820
+    ],
+    "input_sha256": {
+      "labels.csv": "61fd6a3e63170c04d056ed2bd702ca393bcd8bf80f0fe7e131dd4987db3e896e",
+      "legacy_pocket.pdb": "eff8c5321a86328ce2beb13a65d24cd94a5605423344db92bea561d351bfa17c",
+      "original_poses.sdf": "ec20300508bc5e8c3c4f77310cd2f1401c22df3cbdf672975b6b66c115858ca9",
+      "box.json": "bf3fe578b7f51456ff7e38c1f896dc415ca47177cc1b3b83c43062c764053c68",
+      "previous_score.csv": "8a681e60a03b23355ec6470fdc5b942e21d025dcdd5189725a2139f7cebd4eae"
+    }
+  },
+  {
+    "index": 85,
+    "layer": "L4",
+    "uniprot": "Q15726",
+    "n_ligands": 0,
+    "mol_ids": [],
+    "input_sha256": {
+      "box.json": "8d86daa70277f031d508fac2e9deeb811e031b6543d31f65dced488c3c92e333",
+      "original_poses.sdf": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "legacy_pocket.pdb": "4b3503379d34c1684d8c467c1b1c44f5c4ab9d9d18b4ea98bcd5add7859f6a16"
+    }
+  },
+  {
+    "index": 86,
+    "layer": "L4",
+    "uniprot": "Q6SZW1",
+    "n_ligands": 10,
+    "mol_ids": [
+      5536,
+      12531,
+      20829,
+      22712,
+      37606,
+      80793,
+      94916,
+      121886,
+      129162,
+      129698
+    ],
+    "input_sha256": {
+      "labels.csv": "b5910d18081dc5f1441f74faef3fee844d622e8f9788730bd1e7213ea86e5740",
+      "box.json": "5822fc6025e8bb196983ded2231b8d15e447df43ebb7bac86182322dda1f7e66",
+      "legacy_pocket.pdb": "64e6a87d641ec763429a5646170843e618da852584d1e3f5498489f0d7fa214a",
+      "previous_score.csv": "bd400a91719fd01bc448b32a424fc9dbb9df1f5a5621578726071291857d3859",
+      "original_poses.sdf": "14de2de03907373c2e38054facebc1c1a8757d65e0dca9e9e01a9c78ad5403b1"
+    }
+  },
+  {
+    "index": 87,
+    "layer": "L4",
+    "uniprot": "Q70CQ3",
+    "n_ligands": 10,
+    "mol_ids": [
+      11758,
+      50763,
+      56067,
+      83746,
+      83823,
+      84276,
+      88746,
+      91823,
+      98772,
+      122285
+    ],
+    "input_sha256": {
+      "labels.csv": "2a2ad8c4b051241c1a5d7a564482cc2f9bb4a32764bc6846640256c27c5d0ef2",
+      "legacy_pocket.pdb": "451e80c1898a73daf43ff68b57729a91a630823145b7797927a1ed6f35079a87",
+      "original_poses.sdf": "31071a91a5ecb3f51a0e2bf09e86424aff010adaddfe1c92245fcf2aba518c20",
+      "box.json": "dc521072ae16908f871502b83631b4b11e811c7d2cb0d56ee71b07062bd55cbc",
+      "previous_score.csv": "ba9e38f520ac7c9a70bb0e02eafaf1b440f9c4b43d16cca691afdabb6f6475bd"
+    }
+  },
+  {
+    "index": 88,
+    "layer": "L4",
+    "uniprot": "Q8TDU9",
+    "n_ligands": 0,
+    "mol_ids": [],
+    "input_sha256": {
+      "original_poses.sdf": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "legacy_pocket.pdb": "030e7194cb28caab624b0d035c70de1dc54428b346f442fdcee707f97729f0e2",
+      "box.json": "0dd1d86a403fbf1aadcbb6b241f61548a78f24db492f65763170668f40968500"
+    }
+  },
+  {
+    "index": 89,
+    "layer": "L4",
+    "uniprot": "Q96PC2",
+    "n_ligands": 10,
+    "mol_ids": [
+      47771,
+      56692,
+      78778,
+      90170,
+      90556,
+      92446,
+      100001,
+      120558,
+      126242,
+      128854
+    ],
+    "input_sha256": {
+      "original_poses.sdf": "77b19d12747afb441e5b8f96242f89bc2212a55bfc934f228d6655730ccfd265",
+      "labels.csv": "59e14b22c2a20b70205fd454d0640937c119bdb797f1e9ff747a02d3c0515893",
+      "previous_score.csv": "1b3a2d0e1a9354a3bf977019f569e9be21f33be93e155e194da2dd915aa5e03c",
+      "legacy_pocket.pdb": "989ad0543bc3a8d2f26e03aab9e8c762f0b984e5b5bb2e6b68b1d4cf8178afc5",
+      "box.json": "de6e70842fa88012e0385c36972cef46b2197dec0b59398f07a37827e8830355"
+    }
+  },
+  {
+    "index": 90,
+    "layer": "L4",
+    "uniprot": "Q99705",
+    "n_ligands": 10,
+    "mol_ids": [
+      17978,
+      30174,
+      54330,
+      55671,
+      66091,
+      87356,
+      93256,
+      106648,
+      121682,
+      124879
+    ],
+    "input_sha256": {
+      "box.json": "8f3b81fa0536cb19d1c4c5d4f47e74a4fba2c3bb8e786a83f351b71ae0e6b75b",
+      "original_poses.sdf": "a07df459c2b2610c61dc3da86dd06fb8fb376241138367ea313c6996bc1635fe",
+      "legacy_pocket.pdb": "7abb67af8858cd0d8d884410eb088f03f6511c1c6a7d2aa9e0b4397472716324",
+      "previous_score.csv": "62633ece2b90ed054920e0617bb35df8e0c5a2696f6cbc811e0c5b76242d9988",
+      "labels.csv": "dd3710389a70beb46f997c1bfd0229877d3ed3328e2fb26ee6ddc258f29a5c35"
+    }
+  },
+  {
+    "index": 91,
+    "layer": "L4",
+    "uniprot": "Q9GZQ6",
+    "n_ligands": 10,
+    "mol_ids": [
+      19156,
+      23598,
+      28767,
+      33055,
+      39435,
+      40290,
+      51831,
+      120906,
+      134132,
+      142060
+    ],
+    "input_sha256": {
+      "labels.csv": "4630e5829204f24c48eba671c2f7469fe339489d321343f6f022456b81b4034d",
+      "legacy_pocket.pdb": "c470a9d1598c3ac8ddfbf8a0cc85960383e49a3f16cc5f3be575450fab964103",
+      "previous_score.csv": "5e10a982548867173b563cd009550fd37e1700504784d426fe65b3ad0f9c59a9",
+      "original_poses.sdf": "bec4129dc7b5fc72df64b6bcd5810f55d0c7ec18014c27284ff60729ccee5e22",
+      "box.json": "303116f2e634a65e6ab15d4316a4f024f91a26fc8130e2e2d85113344c08b4ac"
+    }
+  },
+  {
+    "index": 92,
+    "layer": "L4",
+    "uniprot": "Q9HB14",
+    "n_ligands": 10,
+    "mol_ids": [
+      19275,
+      25543,
+      37384,
+      39465,
+      45253,
+      46211,
+      59899,
+      66226,
+      71681,
+      74053
+    ],
+    "input_sha256": {
+      "box.json": "76de8eab374ff42ec216e885c390d944699343d47ef43a631bc3db95df90c088",
+      "legacy_pocket.pdb": "8d1bd1614245e6ff15d574fc95cdb181baa254baf9228c11e29321d8e54ca8c8",
+      "original_poses.sdf": "3d94d16139efb0a11e49e15984215b44935436ba9ab36657194e362a37db70da",
+      "previous_score.csv": "025af4f387ebaa4b456d4bda21076981d618ae4fa9ca05a29626c66153eff67f",
+      "labels.csv": "174a420ebfe1d58fdbab20ac7a734c2cc3530e430e0b5bb7df58c77b3f50f836"
+    }
+  },
+  {
+    "index": 93,
+    "layer": "L4",
+    "uniprot": "Q9NY59",
+    "n_ligands": 10,
+    "mol_ids": [
+      26994,
+      30532,
+      33891,
+      55082,
+      80097,
+      95666,
+      119566,
+      129489,
+      145307,
+      146204
+    ],
+    "input_sha256": {
+      "previous_score.csv": "07e30bfb6d295735974336b96936c61de2a3cead2cee664ea389a933599ca05c",
+      "original_poses.sdf": "29072652bf61743fe609d3289273cb1e2be7ca2872863c0f537966e59065ab8a",
+      "box.json": "4e0faef36ac3d1bff35c6c835c264f24c5443d66fa518b7aa6c53c1367ad8c10",
+      "labels.csv": "eb8c5fdeb01e7d071f58b9119e5e6fa2c7622770b0b1fc6f0975465716511cd3",
+      "legacy_pocket.pdb": "0a946db17e80e5dae1d0f47bc2124cdb5eca32249cd605fa124a1fd7d52a8c0b"
+    }
+  },
+  {
+    "index": 94,
+    "layer": "L4",
+    "uniprot": "Q9Y239",
+    "n_ligands": 10,
+    "mol_ids": [
+      17646,
+      21844,
+      49132,
+      77159,
+      87531,
+      100708,
+      132103,
+      136815,
+      144318,
+      145351
+    ],
+    "input_sha256": {
+      "legacy_pocket.pdb": "001fc8550e2194d4548cce9197816bbcfe416c15904199d8fab1177764bb722d",
+      "original_poses.sdf": "ba9caa02527ecfb040bb9dce5c591b4dc46412883dd8e4fe908d3305903a4517",
+      "box.json": "ce6e80c5e98954ee7c150d44a6243f96de2b48a7ba994c21a541c99634611b2d",
+      "previous_score.csv": "c4961ebe4d46bbdc7c548fa7499c388a11c542d2c732bd36a8ffe924b1217bf2",
+      "labels.csv": "4b3d2fe2ddf08524a17fc9e3198fc22415292fa9eb14a06af99b261e6ccc721a"
+    }
+  },
+  {
+    "index": 95,
+    "layer": "L4",
+    "uniprot": "Q9Y4K0",
+    "n_ligands": 10,
+    "mol_ids": [
+      8598,
+      25837,
+      45467,
+      49858,
+      54489,
+      82563,
+      99310,
+      99356,
+      143994,
+      146616
+    ],
+    "input_sha256": {
+      "original_poses.sdf": "c5e7b56988ff05c7d77287a29be61408c22fa445b46d927dd8c9b4b31a255f84",
+      "legacy_pocket.pdb": "e68fce9a9e8378ac7967fdfc8187abdfca27707f3b35e45978eca79b1083e563",
+      "previous_score.csv": "3a27dca3b6e38a39689aede6835a8fa07b711b13197c4642a47407ea42b89c13",
+      "labels.csv": "d8da217865558680edb4d4097c7d85d42164a661da72f6854205ed9e46909e87",
+      "box.json": "99f7582faab2d17d62d425e0d96489c4195201397d9df2d828b9a40aa4706ac9"
+    }
+  }
+]

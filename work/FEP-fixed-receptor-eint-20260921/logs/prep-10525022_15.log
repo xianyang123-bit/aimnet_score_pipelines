@@ -1,0 +1,3 @@
+/home/xianyang/aimnet2_score_pipelines/work/pocket-correction-20260921/deps/openmm/app/internal/pdbstructure.py:538: UserWarning: WARNING: duplicate atom (HETATM 6049  HO  TLA A 502      31.563  11.171  -6.667  1.00  0.00           H  , HETATM 6047  HO  TLA A 502      30.643   8.634  -5.889  1.00  0.00           H  )
+  warnings.warn("WARNING: duplicate atom (%s, %s)" % (atom, old_atom._pdb_string(old_atom.serial_number, atom.alternate_location_indicator)))
+bace preparation_failed

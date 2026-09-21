@@ -1,0 +1,11 @@
+mol_id,paff,smiles,formal_charge,n_atoms
+30567,7.8239,CC(C)c1cnn2c3nc(nc12)NCC1(CCCCc2ccccc2CN3)CCCNC1,0,67
+35180,6.0,Cc1c(C(=O)Oc2ccc(CN[C@@H](CO)C(=O)O)c(OCc3cccc(C#N)c3)c2)cccc1-c1ccccc1,0,68
+65602,6.7258,CCN(CC)C(=O)CCOc1cccc(-c2cccc(COc3cc(OCc4ccc5nonc5c4)c(CN[C@H](CO)C(=O)O)cc3Cl)c2Cl)c1,0,89
+82843,6.8447,CC[C@H](CO)Nc3nc(NCc1ccccc1)c2ncn(C(C)C)c2n3,0,52
+98621,6.5272,COc1ccc2c(c1)CNc1nc(nc3c(C(C)C)cnn13)NCC1(CCCCCO2)CCNCC1,0,75
+113810,8.0,CNCC1(COc2cc3c(N[C@H](C)c4cc(N)cc(C(F)(F)F)c4)nc(C)nc3cc2OC)CC1,0,65
+114084,7.0362,CC(C)c1cnn2c3nc(nc12)N(CC1CCNCC1)CCCCCOc1ccc(C(F)(F)F)cc1CN3,0,74
+123867,8.1739,COc1cc2nccc(N[C@H](C)c3cccc(C(F)F)c3F)c2cc1O[C@H]1CCOC1,0,54
+133204,7.6198,Cc1c(C(=O)Oc2ccc(CN[C@H](CO)C(=O)O)c(OCc3cccc(C#N)c3)c2)cccc1-c1ccccc1,0,68
+141441,6.1273,C[C@@H]1COCCN1c1cc(C2(S(=O)(=O)N(C)C)CC2)nc(-c2cccc3[nH]ccc23)n1,0,58

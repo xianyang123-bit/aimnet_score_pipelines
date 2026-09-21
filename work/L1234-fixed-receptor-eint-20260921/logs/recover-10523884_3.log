@@ -1,0 +1,105 @@
+L1 P08922 matched
+L1 P56524 checked 2 / 19
+L1 P56524 matched
+L1 Q86X55 checked 2 / 31
+L1 Q86X55 checked 4 / 31
+L1 Q86X55 checked 6 / 31
+L1 Q86X55 checked 8 / 31
+L1 Q86X55 checked 10 / 31
+L1 Q86X55 matched
+L2 O95819 checked 2 / 18
+L2 O95819 checked 4 / 18
+L2 O95819 checked 6 / 18
+L2 O95819 checked 8 / 18
+L2 O95819 checked 10 / 18
+L2 O95819 checked 12 / 18
+L2 O95819 checked 14 / 18
+L2 O95819 checked 16 / 18
+L2 O95819 matched
+Traceback (most recent call last):
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/urllib/request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/http/client.py", line 1351, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/http/client.py", line 1397, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/http/client.py", line 1346, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/http/client.py", line 1106, in _send_output
+    self.send(msg)
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/http/client.py", line 1044, in send
+    self.connect()
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/http/client.py", line 1516, in connect
+    super().connect()
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/http/client.py", line 1010, in connect
+    self.sock = self._create_connection(
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/socket.py", line 839, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/socket.py", line 974, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xianyang/aimnet2_score_pipelines/work/eint_pipeline/run.py", line 142, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/home/xianyang/aimnet2_score_pipelines/work/eint_pipeline/run.py", line 134, in main
+    if args.stage=='recover':recover(root,task)
+                             ^^^^^^^^^^^^^^^^^^
+  File "/home/xianyang/aimnet2_score_pipelines/work/eint_pipeline/run.py", line 93, in recover
+    if not cache.exists():cache.write_bytes(get('https://rest.uniprot.org/uniprotkb/'+task['uniprot']+'.json'))
+                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/xianyang/aimnet2_score_pipelines/work/eint_pipeline/run.py", line 24, in get
+    with urllib.request.urlopen(req,timeout=45) as f:return f.read()
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/urllib/request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/urllib/request.py", line 519, in open
+    response = self._open(req, data)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/urllib/request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/urllib/request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/urllib/request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno -2] Name or service not known>
+L2 Q15119 checked 2 / 38
+L2 Q15119 checked 4 / 38
+L2 Q15119 checked 6 / 38
+L2 Q15119 checked 8 / 38
+L2 Q15119 checked 10 / 38
+L2 Q15119 checked 12 / 38
+L2 Q15119 checked 14 / 38
+L2 Q15119 checked 16 / 38
+L2 Q15119 checked 18 / 38
+L2 Q15119 checked 20 / 38
+L2 Q15119 matched
+L3 P05622 checked 2 / 2
+L3 P05622 source_not_recovered
+L3 Q00959 matched
+L3 Q9NPC1 source_not_recovered
+L4 P09871 checked 2 / 14
+L4 P09871 checked 4 / 14
+L4 P09871 checked 6 / 14
+L4 P09871 checked 8 / 14
+L4 P09871 checked 10 / 14
+L4 P09871 matched
+L4 Q13094 checked 2 / 5
+L4 Q13094 checked 4 / 5
+L4 Q13094 checked 5 / 5
+L4 Q13094 source_not_recovered
+L4 Q9GZQ6 checked 2 / 4
+L4 Q9GZQ6 checked 4 / 4
+L4 Q9GZQ6 source_not_recovered

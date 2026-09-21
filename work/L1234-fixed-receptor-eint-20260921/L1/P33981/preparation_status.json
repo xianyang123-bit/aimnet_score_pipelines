@@ -1,0 +1,5 @@
+{
+  "status": "excluded_chemistry",
+  "source": "reviewed_L1_decision",
+  "blocked_reason": "Nearby phosphorylated THR (A:686 TPO, 3.18 A) and sodium; standard-residue preparation cannot retain this chemistry."
+}

@@ -1,0 +1,67 @@
+{
+  "uniprot": "A0A1D8PKB4",
+  "layer": "L3",
+  "candidates": 6,
+  "checked": 6,
+  "reference_sha256": "168704f0c62ffbc23e86bd920a8f24307dfff9b7b097a25ca71838bb92f64731",
+  "exact_matches": [
+    {
+      "pdb_id": "9EDV",
+      "matched_atoms": 193,
+      "reference_atoms": 193,
+      "exact_match": true,
+      "source": "pocket-correction-20260921/recovered/L3/A0A1D8PKB4/9EDV.cif",
+      "source_sha256": "e7f523c698d835d34ffb2208035d909469e47a295e5f28494b5859cdc1b224e4"
+    }
+  ],
+  "results": [
+    {
+      "pdb_id": "6U69",
+      "matched_atoms": 0,
+      "reference_atoms": 193,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L3/A0A1D8PKB4/6U69.cif",
+      "source_sha256": "f121220288d2fa0bb0d68ef2d3c62549ddcae691451f99c5d562e816bda98a0e"
+    },
+    {
+      "pdb_id": "6U6A",
+      "matched_atoms": 0,
+      "reference_atoms": 193,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L3/A0A1D8PKB4/6U6A.cif",
+      "source_sha256": "6d0950279e5b721cd528d14c2774224f5fc9677ea6113683ddc9916d106131be"
+    },
+    {
+      "pdb_id": "9EDV",
+      "matched_atoms": 193,
+      "reference_atoms": 193,
+      "exact_match": true,
+      "source": "pocket-correction-20260921/recovered/L3/A0A1D8PKB4/9EDV.cif",
+      "source_sha256": "e7f523c698d835d34ffb2208035d909469e47a295e5f28494b5859cdc1b224e4"
+    },
+    {
+      "pdb_id": "9EDW",
+      "matched_atoms": 0,
+      "reference_atoms": 193,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L3/A0A1D8PKB4/9EDW.cif",
+      "source_sha256": "d01d9b8cbf0a2de17176464acfb3c88ffa66eb7dca53244dd2aea1d5b8b589bd"
+    },
+    {
+      "pdb_id": "9EDX",
+      "matched_atoms": 0,
+      "reference_atoms": 193,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L3/A0A1D8PKB4/9EDX.cif",
+      "source_sha256": "b6a2d0d04a4dfe6f219610730214c1eb0423cd2d4b9565701a34fa644074ae6e"
+    },
+    {
+      "pdb_id": "9EDY",
+      "matched_atoms": 0,
+      "reference_atoms": 193,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L3/A0A1D8PKB4/9EDY.cif",
+      "source_sha256": "efc16eaf2b50276046221427a39bc347a7f7e199a99d164db63287e6f0241e62"
+    }
+  ]
+}

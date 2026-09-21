@@ -1,0 +1,13 @@
+{
+  "dataset": "/home/xianyang/LigUnity-official/test_datasets/FEP",
+  "n_systems": 16,
+  "n_ligands": 461,
+  "pose": "Deposited receptor-aligned FEP SDF coordinates; no redocking",
+  "mapping": "Benchmark SMILES topology plus r_exp_dg-derived pAffinity; first source record retained for duplicate deposited protomer/mapping variants",
+  "receptor": "Complete residues within 6 A of any series ligand, one-residue padding, ACE/NME caps, Amber14 protonation at pH 7.4, explicit H and validated integer charge",
+  "optimization": "Existing ligand all-atom FIRE; receptor fixed; fmax 0.002 eV/A; 1000 steps",
+  "score": "Eint = E(complex) - E(fixed receptor) - E(ligand at bound geometry)",
+  "model": "/home/xianyang/.cache/aimnet/aimnet2_2025_b973c_d3_0.pt",
+  "model_sha256": "043ed5418a104e31f79462f8e5ebeca64a2d24422174f5d29f894d32271981b5",
+  "unsupported": "Nearby metals, modified residues and cofactors excluded rather than assigned neutral charge"
+}

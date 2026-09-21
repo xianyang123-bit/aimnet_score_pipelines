@@ -1,0 +1,107 @@
+{
+  "status": "matched",
+  "reference_sha256": "aa6687410072dd3433e6811e37bba950ec6d50a499638150809014d901f5af6e",
+  "candidates": 6,
+  "results": [
+    {
+      "pdb_id": "3LLM",
+      "matched_atoms": 0,
+      "reference_atoms": 201,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q08211/3LLM.cif",
+      "sha256": "18c2d1b9a027bff7837bc5dacda7be1989a4d042ff915df0ce834aa0d701ad41"
+    },
+    {
+      "pdb_id": "3VYX",
+      "matched_atoms": 0,
+      "reference_atoms": 201,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q08211/3VYX.cif",
+      "sha256": "ad27a22a2c681ab099941f7e567356917bee6532d656ac2a797404da8f734f75"
+    },
+    {
+      "pdb_id": "3VYY",
+      "matched_atoms": 0,
+      "reference_atoms": 201,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q08211/3VYY.cif",
+      "sha256": "9516582e34b0ce181681599ab344cccc13df65eddeb326e2c05b9b3b828fef0b"
+    },
+    {
+      "pdb_id": "8SZP",
+      "matched_atoms": 0,
+      "reference_atoms": 201,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q08211/8SZP.cif",
+      "sha256": "cd2d2e10377bd65f6544860e4a66233e6472097011f030224b566e61a5018574"
+    },
+    {
+      "pdb_id": "9MFO",
+      "matched_atoms": 0,
+      "reference_atoms": 201,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q08211/9MFO.cif",
+      "sha256": "c0f51c6c76290cdb189a02bf3ae137bbadb5dee8914eafa329e0ff5036e2ee61"
+    },
+    {
+      "pdb_id": "9MFT",
+      "matched_atoms": 201,
+      "reference_atoms": 201,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q08211/9MFT.cif",
+      "sha256": "3b8bf1355ac415438fe7cc6a32be6b2b0247940f433031888c374533949341fa"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q08211/9MFT.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "B:1201::A1BKX",
+      "name": "(4M)-N-[3-chloro-5-(methanesulfonamido)phenyl]-4-(3-methylpyridin-2-yl)thiophene-2-carboxamide",
+      "distance_to_reference_A": 2.458649426006078,
+      "elements": [
+        "C",
+        "Cl",
+        "N",
+        "O",
+        "S"
+      ]
+    },
+    {
+      "residue": "C:1202::ADP",
+      "name": "ADENOSINE-5'-DIPHOSPHATE",
+      "distance_to_reference_A": 8.898993819528142,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "P"
+      ]
+    },
+    {
+      "residue": "D:1203::MG",
+      "name": "MAGNESIUM ION",
+      "distance_to_reference_A": 9.759016548812692,
+      "elements": [
+        "Mg"
+      ]
+    },
+    {
+      "residue": "E:1204::EDO",
+      "name": "1,2-ETHANEDIOL",
+      "distance_to_reference_A": 5.473751912536774,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "G:1206::SO4",
+      "name": "SULFATE ION",
+      "distance_to_reference_A": 2.7493108227335794,
+      "elements": [
+        "O",
+        "S"
+      ]
+    }
+  ]
+}

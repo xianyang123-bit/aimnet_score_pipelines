@@ -1,0 +1,86 @@
+{
+  "status": "matched",
+  "reference_sha256": "1d93cb69ee93429ff15f053bde6b95fd11730df6cf6de2af88eb274baa2f83e6",
+  "candidates": 5,
+  "results": [
+    {
+      "pdb_id": "3BXL",
+      "matched_atoms": 0,
+      "reference_atoms": 197,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q15878/3BXL.cif",
+      "sha256": "00222598525f4c4ccd33ad1f2554e10336544688218d65f40854ab23cc54124d"
+    },
+    {
+      "pdb_id": "7XLQ",
+      "matched_atoms": 0,
+      "reference_atoms": 197,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q15878/7XLQ.cif",
+      "sha256": "5d87e1fc92554d2cf5ae3e7723c43eedb3cdb62895e412bb35b4bbc368bfdf1d"
+    },
+    {
+      "pdb_id": "7YG5",
+      "matched_atoms": 197,
+      "reference_atoms": 197,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q15878/7YG5.cif",
+      "sha256": "f484bccf031813738ec8357aab463e66a7345bfd4eacd10b26b5d9c99048a89a"
+    },
+    {
+      "pdb_id": "8EPL",
+      "matched_atoms": 0,
+      "reference_atoms": 197,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q15878/8EPL.cif",
+      "sha256": "72560bcc5d4f89953489fbfa7a9ad1c94aa740f8a5de4fd23b42ab1201cf43d2"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q15878/7YG5.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "I:2403::R16",
+      "name": "HEXADECANE",
+      "distance_to_reference_A": 9.338285977629951,
+      "elements": [
+        "C"
+      ]
+    },
+    {
+      "residue": "L:2406::Y01",
+      "name": "CHOLESTEROL HEMISUCCINATE",
+      "distance_to_reference_A": 11.112262865861338,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "M:2407::R16",
+      "name": "HEXADECANE",
+      "distance_to_reference_A": 11.251789813180851,
+      "elements": [
+        "C"
+      ]
+    },
+    {
+      "residue": "V:2416::TOR",
+      "name": "[(3aS,5aR,8aR,8bS)-2,2,7,7-tetramethyltetrahydro-3aH-bis[1,3]dioxolo[4,5-b:4',5'-d]pyran-3a-yl]methyl sulfamate",
+      "distance_to_reference_A": 2.4633091563991765,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "S"
+      ]
+    },
+    {
+      "residue": "Y:2419::R16",
+      "name": "HEXADECANE",
+      "distance_to_reference_A": 4.659736795141958,
+      "elements": [
+        "C"
+      ]
+    }
+  ]
+}

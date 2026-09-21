@@ -1,0 +1,125 @@
+{
+  "L1/O95271": {
+    "exclude_names": [
+      "JKN"
+    ],
+    "rationale": "Co-crystallized inhibitor is replaced by each benchmark ligand; reuse validated pilot."
+  },
+  "L1/P00338": {
+    "exclude_names": [
+      "A1AQ0",
+      "DMS",
+      "MLI"
+    ],
+    "rationale": "Replace deposited inhibitor; omit dimethyl sulfoxide and malonate crystallization additives."
+  },
+  "L1/P06239": {
+    "exclude_names": [
+      "STU",
+      "SO4"
+    ],
+    "rationale": "Replace staurosporine; omit sulfate crystallization ion. Phosphotyrosine must not be removed if selected or proximal to the selected cluster."
+  },
+  "L1/P08922": {
+    "exclude_names": [
+      "5P8"
+    ],
+    "rationale": "Replace deposited macrocyclic inhibitor."
+  },
+  "L1/P0C6U8": {
+    "exclude_names": [
+      "FHR"
+    ],
+    "rationale": "Replace deposited inhibitor; prepare standard free protein chemistry. Noncovalent scoring does not estimate covalent binding energies."
+  },
+  "L1/P33981": {
+    "blocked_reason": "Nearby phosphorylated THR (A:686 TPO, 3.18 A) and sodium; standard-residue preparation cannot retain this chemistry."
+  },
+  "L1/P35354": {
+    "blocked_reason": "Nearby cobalt protoporphyrin COH (2.62 A); porphyrin/metal-aware preparation required."
+  },
+  "L1/P49327": {
+    "blocked_reason": "Nearby NADPH cofactor NDP (2.37 A); validated cofactor retention and protonation required."
+  },
+  "L1/P49759": {
+    "exclude_names": [
+      "Q7K",
+      "EDO"
+    ],
+    "rationale": "Replace deposited inhibitor; omit ethylene glycol crystallization/cryoprotection additive."
+  },
+  "L1/P50053": {
+    "exclude_names": [
+      "S6S",
+      "SO4"
+    ],
+    "rationale": "Replace deposited inhibitor; omit sulfate crystallization ions."
+  },
+  "L1/P51532": {
+    "exclude_names": [
+      "GGU"
+    ],
+    "rationale": "Replace deposited inhibitor."
+  },
+  "L1/P56524": {
+    "blocked_reason": "Catalytic zinc (1.94 A) and nearby potassium; metal-aware preparation required."
+  },
+  "L1/P62937": {
+    "exclude_names": [
+      "SFA"
+    ],
+    "rationale": "Replace deposited sanglifehrin ligands."
+  },
+  "L1/Q06124": {
+    "padding_residues": 0,
+    "padding_rationale": "One-residue padding reaches the unresolved chain break before GLN245. Use complete reference residues with no extra flanking residues and neutral caps from available adjacent backbone; all reference heavy atoms still required.",
+    "exclude_names": [
+      "4Q4",
+      "CL"
+    ],
+    "rationale": "Replace deposited inhibitor; omit chloride crystallization ion."
+  },
+  "L1/Q07343": {
+    "blocked_reason": "Nearby catalytic zinc and magnesium (2.15/2.06 A); metal-aware preparation required."
+  },
+  "L1/Q08499": {
+    "blocked_reason": "Nearby zinc and magnesium (2.07/4.14 A); metal-aware preparation required."
+  },
+  "L1/Q15059": {
+    "exclude_names": [
+      "VYJ"
+    ],
+    "rationale": "Replace deposited inhibitor."
+  },
+  "L1/Q6GI75": {
+    "blocked_reason": "Nearby NADP-like cofactor 0WD (2.75 A); validated cofactor retention and protonation required."
+  },
+  "L1/Q86WV6": {
+    "exclude_names": [
+      "QB7"
+    ],
+    "rationale": "Replace deposited ligands; retain all matched protein chains in dimer pocket."
+  },
+  "L1/Q86X55": {
+    "blocked_reason": "Nearby S-adenosyl-homocysteine SAH (2.78 A); validated cofactor retention and protonation required."
+  },
+  "L1/Q8N1Q1": {
+    "blocked_reason": "Nearby catalytic zinc (1.98 A); metal-aware preparation required."
+  },
+  "L1/Q92793": {
+    "exclude_names": [
+      "YRI"
+    ],
+    "rationale": "Replace deposited inhibitor."
+  },
+  "L1/Q96MU7": {
+    "exclude_names": [
+      "JBD",
+      "SO4"
+    ],
+    "rationale": "Replace deposited inhibitor; omit sulfate crystallization ions."
+  },
+  "L1/Q9UBN7": {
+    "blocked_reason": "Nearby zinc ions, including one 2.29 A from reference; metal-aware preparation required."
+  }
+}

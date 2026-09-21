@@ -1,0 +1,115 @@
+{
+  "status": "matched",
+  "reference_sha256": "eec7948967970bcce5df510b700e8faf720484eb0a0264c3e5eeaa9003f8e8e8",
+  "candidates": 14,
+  "results": [
+    {
+      "pdb_id": "1ELV",
+      "matched_atoms": 0,
+      "reference_atoms": 200,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P09871/1ELV.cif",
+      "sha256": "afb0497f076f26be0bebc42d991cd68dd79d9ce5861e65a8dbd202a5641f1e0a"
+    },
+    {
+      "pdb_id": "1NZI",
+      "matched_atoms": 0,
+      "reference_atoms": 200,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P09871/1NZI.cif",
+      "sha256": "26d41a74450bc7dafcdcc4a077358d8c5f16f2c4aa91118fd2e701a3bf4aea25"
+    },
+    {
+      "pdb_id": "4J1Y",
+      "matched_atoms": 0,
+      "reference_atoms": 200,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P09871/4J1Y.cif",
+      "sha256": "b9917cf8cce1fb7410e17a36350c09c200250b92159cc003f7e0aeb36083a3cc"
+    },
+    {
+      "pdb_id": "4LMF",
+      "matched_atoms": 0,
+      "reference_atoms": 200,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P09871/4LMF.cif",
+      "sha256": "1d9b10a262b7c7e153762705892ca1703da9da446aa5aed05c521cdcfca03d43"
+    },
+    {
+      "pdb_id": "4LOR",
+      "matched_atoms": 0,
+      "reference_atoms": 200,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P09871/4LOR.cif",
+      "sha256": "15fa8e8f7c500398d3ce2412a515612f4bc7d6702c8f0b60eaf5647f36d87d88"
+    },
+    {
+      "pdb_id": "4LOS",
+      "matched_atoms": 0,
+      "reference_atoms": 200,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P09871/4LOS.cif",
+      "sha256": "fd1d5907026e812cf1b46e241593fcf1e72688af8b3c95e7ac8c04883b894fdc"
+    },
+    {
+      "pdb_id": "4LOT",
+      "matched_atoms": 0,
+      "reference_atoms": 200,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P09871/4LOT.cif",
+      "sha256": "de184f49eac0715ee5d24cd5c5292ac474bdbd82e866f474f12ba6b8d20d8514"
+    },
+    {
+      "pdb_id": "5UBM",
+      "matched_atoms": 0,
+      "reference_atoms": 200,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P09871/5UBM.cif",
+      "sha256": "46cd41c7b427394ea0efe46f678a699ca926324f2439ab113749e883f0aa081e"
+    },
+    {
+      "pdb_id": "6F1C",
+      "matched_atoms": 0,
+      "reference_atoms": 200,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P09871/6F1C.cif",
+      "sha256": "b2d0b4771253cd4cc92f96d8de52a3a2c8b8005b351bacd846aa2d0114333cdc"
+    },
+    {
+      "pdb_id": "6F1H",
+      "matched_atoms": 0,
+      "reference_atoms": 200,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P09871/6F1H.cif",
+      "sha256": "901cbcabcd5318d0cc7f64b157a42fe4e2093631e9e04a4e8b0b2d7875132dfb"
+    },
+    {
+      "pdb_id": "8GMN",
+      "matched_atoms": 0,
+      "reference_atoms": 200,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P09871/8GMN.cif",
+      "sha256": "ae0a27aeb5eaf302e6bae1b1d4624961abba6820ed6fc9fd0d93e1e7c1409dda"
+    },
+    {
+      "pdb_id": "8TYP",
+      "matched_atoms": 200,
+      "reference_atoms": 200,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P09871/8TYP.cif",
+      "sha256": "ad31c1facc22a32d2101f2dbd0aff4c38fc54f491a08da857e9c7ab8b3327c88"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P09871/8TYP.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "C:701::SQT",
+      "name": "6-(4-phenylpiperazin-1-yl)pyridine-3-carboximidamide",
+      "distance_to_reference_A": 2.7541078410258373,
+      "elements": [
+        "C",
+        "N"
+      ]
+    }
+  ]
+}

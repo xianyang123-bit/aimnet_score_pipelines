@@ -1,0 +1,101 @@
+{
+  "status": "matched",
+  "reference_sha256": "6d8cbf074a8bde7caef9dd9f94b655c31c585e48e27bc8a2f66a593555f4160c",
+  "candidates": 3,
+  "results": [
+    {
+      "pdb_id": "6C01",
+      "matched_atoms": 0,
+      "reference_atoms": 225,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/O14638/6C01.cif",
+      "sha256": "50e7579fd71630df82327c54077d0920223ce1baff7b858551ca9507d4016848"
+    },
+    {
+      "pdb_id": "6C02",
+      "matched_atoms": 0,
+      "reference_atoms": 225,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/O14638/6C02.cif",
+      "sha256": "8929cfeb594c25a5182c0fc9b07a8e2dc6b0e4fd432eea267a96aa4e444dd9eb"
+    },
+    {
+      "pdb_id": "9NIR",
+      "matched_atoms": 225,
+      "reference_atoms": 225,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/O14638/9NIR.cif",
+      "sha256": "0c9f4e89f84edab50bade5e08415d2aa04bcebf0b8c47ee9b9877adb9712fad7"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/O14638/9NIR.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "B:1::NAG",
+      "name": "2-acetamido-2-deoxy-beta-D-glucopyranose",
+      "distance_to_reference_A": 10.883301750847497,
+      "elements": [
+        "C",
+        "N",
+        "O"
+      ]
+    },
+    {
+      "residue": "D:1::NAG",
+      "name": "2-acetamido-2-deoxy-beta-D-glucopyranose",
+      "distance_to_reference_A": 6.224215131243456,
+      "elements": [
+        "C",
+        "N",
+        "O"
+      ]
+    },
+    {
+      "residue": "D:2::NAG",
+      "name": "2-acetamido-2-deoxy-beta-D-glucopyranose",
+      "distance_to_reference_A": 11.574037022577732,
+      "elements": [
+        "C",
+        "N",
+        "O"
+      ]
+    },
+    {
+      "residue": "I:1::NAG",
+      "name": "2-acetamido-2-deoxy-beta-D-glucopyranose",
+      "distance_to_reference_A": 11.756459926355392,
+      "elements": [
+        "C",
+        "N",
+        "O"
+      ]
+    },
+    {
+      "residue": "J:901::A1BYU",
+      "name": "{2-[1-(8-methoxyquinazolin-4-yl)piperidin-4-yl]ethyl}phosphonic acid",
+      "distance_to_reference_A": 2.4232855795386548,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "P"
+      ]
+    },
+    {
+      "residue": "K:902::ZN",
+      "name": "ZINC ION",
+      "distance_to_reference_A": 2.0410678577646544,
+      "elements": [
+        "Zn"
+      ]
+    },
+    {
+      "residue": "L:903::ZN",
+      "name": "ZINC ION",
+      "distance_to_reference_A": 1.935638654294752,
+      "elements": [
+        "Zn"
+      ]
+    }
+  ]
+}

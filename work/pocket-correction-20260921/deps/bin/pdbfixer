@@ -1,0 +1,6 @@
+#!/home/xianyang/miniconda3/envs/t3-aimnet/bin/python
+import sys
+from pdbfixer.pdbfixer import main
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(main())

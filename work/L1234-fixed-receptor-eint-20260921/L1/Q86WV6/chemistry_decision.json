@@ -1,0 +1,11 @@
+{
+  "source": "reviewed_L1_decision",
+  "excluded_residue_keys": [
+    "C:401::QB7",
+    "D:401::QB7"
+  ],
+  "exclude_names": [
+    "QB7"
+  ],
+  "rationale": "Replace deposited ligands; retain all matched protein chains in dimer pocket."
+}

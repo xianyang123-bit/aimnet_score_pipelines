@@ -1,0 +1,16 @@
+{
+  "source": "conservative_automatic_review",
+  "blocked_reason": "Unsupported nearby chemistry",
+  "blockers": [
+    {
+      "residue": "U:1220::NA",
+      "name": "SODIUM ION",
+      "distance_to_reference_A": 2.4438406249180833,
+      "elements": [
+        "Na"
+      ],
+      "reason": "nearby metal or metal-containing species requires a dedicated treatment"
+    }
+  ],
+  "excluded_residue_keys": []
+}

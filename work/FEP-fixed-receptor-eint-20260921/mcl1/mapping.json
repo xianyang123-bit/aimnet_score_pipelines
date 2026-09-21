@@ -1,0 +1,439 @@
+{
+  "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/mcl1_extra_flips_ligands.sdf",
+  "source_sha256": "cdef5551f313ab9f304af77b33ead5577d1ecdd1e37d8544739e95cec2345ea4",
+  "records_in_source": 69,
+  "selected": 42,
+  "mapping": [
+    {
+      "mol_id": 0,
+      "source_index": 0,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 6.473606982404691,
+      "source_r_exp_dg": -8.83,
+      "formal_charge": -1,
+      "n_atoms": 43
+    },
+    {
+      "mol_id": 1,
+      "source_index": 2,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 6.041055550586511,
+      "source_r_exp_dg": -8.24,
+      "formal_charge": -1,
+      "n_atoms": 43
+    },
+    {
+      "mol_id": 2,
+      "source_index": 4,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 4.48680343548387,
+      "source_r_exp_dg": -6.12,
+      "formal_charge": -1,
+      "n_atoms": 38
+    },
+    {
+      "mol_id": 3,
+      "source_index": 5,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 4.853372350439882,
+      "source_r_exp_dg": -6.62,
+      "formal_charge": -1,
+      "n_atoms": 41
+    },
+    {
+      "mol_id": 4,
+      "source_index": 7,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 5.087976581378299,
+      "source_r_exp_dg": -6.94,
+      "formal_charge": -1,
+      "n_atoms": 41
+    },
+    {
+      "mol_id": 5,
+      "source_index": 9,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 5.7551318951612895,
+      "source_r_exp_dg": -7.85,
+      "formal_charge": -1,
+      "n_atoms": 41
+    },
+    {
+      "mol_id": 6,
+      "source_index": 11,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 5.8064516686217,
+      "source_r_exp_dg": -7.92,
+      "formal_charge": -1,
+      "n_atoms": 41
+    },
+    {
+      "mol_id": 7,
+      "source_index": 13,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 4.824046865102639,
+      "source_r_exp_dg": -6.58,
+      "formal_charge": -1,
+      "n_atoms": 41
+    },
+    {
+      "mol_id": 8,
+      "source_index": 14,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 5.043988353372434,
+      "source_r_exp_dg": -6.88,
+      "formal_charge": -1,
+      "n_atoms": 38
+    },
+    {
+      "mol_id": 9,
+      "source_index": 15,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 5.036656807917888,
+      "source_r_exp_dg": -6.87,
+      "formal_charge": -1,
+      "n_atoms": 41
+    },
+    {
+      "mol_id": 10,
+      "source_index": 16,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 6.458944589442814,
+      "source_r_exp_dg": -8.81,
+      "formal_charge": -1,
+      "n_atoms": 41
+    },
+    {
+      "mol_id": 11,
+      "source_index": 18,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 5.99706767228739,
+      "source_r_exp_dg": -8.18,
+      "formal_charge": -1,
+      "n_atoms": 44
+    },
+    {
+      "mol_id": 12,
+      "source_index": 20,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 6.561583437683284,
+      "source_r_exp_dg": -8.95,
+      "formal_charge": -1,
+      "n_atoms": 44
+    },
+    {
+      "mol_id": 13,
+      "source_index": 21,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 5.146627552052785,
+      "source_r_exp_dg": -7.02,
+      "formal_charge": -1,
+      "n_atoms": 48
+    },
+    {
+      "mol_id": 14,
+      "source_index": 23,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 5.153959098240469,
+      "source_r_exp_dg": -7.03,
+      "formal_charge": -1,
+      "n_atoms": 48
+    },
+    {
+      "mol_id": 15,
+      "source_index": 24,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 5.315249266862169,
+      "source_r_exp_dg": -7.25,
+      "formal_charge": -1,
+      "n_atoms": 49
+    },
+    {
+      "mol_id": 16,
+      "source_index": 26,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 5.227272810850439,
+      "source_r_exp_dg": -7.13,
+      "formal_charge": -1,
+      "n_atoms": 49
+    },
+    {
+      "mol_id": 17,
+      "source_index": 28,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 6.524926406891495,
+      "source_r_exp_dg": -8.9,
+      "formal_charge": -1,
+      "n_atoms": 44
+    },
+    {
+      "mol_id": 18,
+      "source_index": 30,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 5.153959098240469,
+      "source_r_exp_dg": -7.03,
+      "formal_charge": -1,
+      "n_atoms": 44
+    },
+    {
+      "mol_id": 19,
+      "source_index": 32,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 6.356305041055719,
+      "source_r_exp_dg": -8.67,
+      "formal_charge": -1,
+      "n_atoms": 44
+    },
+    {
+      "mol_id": 20,
+      "source_index": 34,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 6.561583437683284,
+      "source_r_exp_dg": -8.95,
+      "formal_charge": -1,
+      "n_atoms": 48
+    },
+    {
+      "mol_id": 21,
+      "source_index": 36,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 5.571847437683284,
+      "source_r_exp_dg": -7.6,
+      "formal_charge": -1,
+      "n_atoms": 45
+    },
+    {
+      "mol_id": 22,
+      "source_index": 38,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 4.23753681085044,
+      "source_r_exp_dg": -5.78,
+      "formal_charge": -1,
+      "n_atoms": 43
+    },
+    {
+      "mol_id": 23,
+      "source_index": 40,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 4.882697835043988,
+      "source_r_exp_dg": -6.66,
+      "formal_charge": -1,
+      "n_atoms": 42
+    },
+    {
+      "mol_id": 24,
+      "source_index": 42,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 6.12903200659824,
+      "source_r_exp_dg": -8.36,
+      "formal_charge": -1,
+      "n_atoms": 41
+    },
+    {
+      "mol_id": 25,
+      "source_index": 44,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 6.8401758973607025,
+      "source_r_exp_dg": -9.33,
+      "formal_charge": -1,
+      "n_atoms": 44
+    },
+    {
+      "mol_id": 26,
+      "source_index": 45,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 6.195014522727272,
+      "source_r_exp_dg": -8.45,
+      "formal_charge": -1,
+      "n_atoms": 44
+    },
+    {
+      "mol_id": 27,
+      "source_index": 47,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 6.76686183431085,
+      "source_r_exp_dg": -9.23,
+      "formal_charge": -1,
+      "n_atoms": 41
+    },
+    {
+      "mol_id": 28,
+      "source_index": 49,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.302052813782991,
+      "source_r_exp_dg": -9.96,
+      "formal_charge": -1,
+      "n_atoms": 44
+    },
+    {
+      "mol_id": 29,
+      "source_index": 50,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 7.170087780791788,
+      "source_r_exp_dg": -9.78,
+      "formal_charge": -1,
+      "n_atoms": 44
+    },
+    {
+      "mol_id": 30,
+      "source_index": 52,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 6.788856472873899,
+      "source_r_exp_dg": -9.26,
+      "formal_charge": -1,
+      "n_atoms": 47
+    },
+    {
+      "mol_id": 31,
+      "source_index": 53,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 6.627565954545454,
+      "source_r_exp_dg": -9.04,
+      "formal_charge": -1,
+      "n_atoms": 47
+    },
+    {
+      "mol_id": 32,
+      "source_index": 55,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 6.898826867302052,
+      "source_r_exp_dg": -9.41,
+      "formal_charge": -1,
+      "n_atoms": 47
+    },
+    {
+      "mol_id": 33,
+      "source_index": 56,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 6.539589498533725,
+      "source_r_exp_dg": -8.92,
+      "formal_charge": -1,
+      "n_atoms": 43
+    },
+    {
+      "mol_id": 34,
+      "source_index": 57,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 5.923753609970674,
+      "source_r_exp_dg": -8.08,
+      "formal_charge": -1,
+      "n_atoms": 43
+    },
+    {
+      "mol_id": 35,
+      "source_index": 58,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 5.8357771539589445,
+      "source_r_exp_dg": -7.96,
+      "formal_charge": -1,
+      "n_atoms": 43
+    },
+    {
+      "mol_id": 36,
+      "source_index": 60,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 6.6422290469208205,
+      "source_r_exp_dg": -9.06,
+      "formal_charge": -1,
+      "n_atoms": 43
+    },
+    {
+      "mol_id": 37,
+      "source_index": 61,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 6.964809384164222,
+      "source_r_exp_dg": -9.5,
+      "formal_charge": -1,
+      "n_atoms": 43
+    },
+    {
+      "mol_id": 38,
+      "source_index": 63,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 6.165689037390028,
+      "source_r_exp_dg": -8.41,
+      "formal_charge": -1,
+      "n_atoms": 43
+    },
+    {
+      "mol_id": 39,
+      "source_index": 64,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 6.180352129765396,
+      "source_r_exp_dg": -8.43,
+      "formal_charge": -1,
+      "n_atoms": 43
+    },
+    {
+      "mol_id": 40,
+      "source_index": 66,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 5.557184695014662,
+      "source_r_exp_dg": -7.58,
+      "formal_charge": -1,
+      "n_atoms": 43
+    },
+    {
+      "mol_id": 41,
+      "source_index": 67,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 5.637829953812316,
+      "source_r_exp_dg": -7.69,
+      "formal_charge": -1,
+      "n_atoms": 43
+    }
+  ],
+  "reference": {
+    "cutoff_A": 6.0,
+    "n_residues": 34,
+    "n_heavy_atoms": 262
+  },
+  "initial_min_heavy_contact_A": {
+    "min": 1.1816896970017072,
+    "median": 2.7395649758088543,
+    "max": 3.0646820291834542,
+    "n_below_1A": 0
+  }
+}

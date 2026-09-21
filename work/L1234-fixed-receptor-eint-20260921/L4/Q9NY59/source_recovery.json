@@ -1,0 +1,15 @@
+{
+  "status": "source_not_recovered",
+  "reference_sha256": "0a946db17e80e5dae1d0f47bc2124cdb5eca32249cd605fa124a1fd7d52a8c0b",
+  "candidates": 1,
+  "results": [
+    {
+      "pdb_id": "5UVG",
+      "matched_atoms": 0,
+      "reference_atoms": 116,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q9NY59/5UVG.cif",
+      "sha256": "e049620daa2f1fba59105fe93b85000b628193c392c46962d9e921e348c90144"
+    }
+  ]
+}

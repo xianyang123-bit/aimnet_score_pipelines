@@ -1,0 +1,96 @@
+{
+  "status": "matched",
+  "reference_sha256": "d4e6428c1197ec84f24814bff8526276d93aeb0cef6f0d6cca56be6c9b297604",
+  "candidates": 14,
+  "results": [
+    {
+      "pdb_id": "1F68",
+      "error": "ValueError('Unknown atom H1 in residue GLY 730 for model 2')"
+    },
+    {
+      "pdb_id": "1Z4R",
+      "matched_atoms": 0,
+      "reference_atoms": 144,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q92830/1Z4R.cif",
+      "sha256": "ca0552639767f62266fe16e46157526fcf775b58905d2cfd74dc334b872ec0b8"
+    },
+    {
+      "pdb_id": "3D7C",
+      "matched_atoms": 0,
+      "reference_atoms": 144,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q92830/3D7C.cif",
+      "sha256": "c5504a58f3e985022c5e5e41e6f57583324e64a48773eadd605354b041a3a254"
+    },
+    {
+      "pdb_id": "5H84",
+      "matched_atoms": 0,
+      "reference_atoms": 144,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q92830/5H84.cif",
+      "sha256": "c0e1c3d82bcf8346acf2c3a142436763398bb45c4748cf44c9996144da039e5a"
+    },
+    {
+      "pdb_id": "5H86",
+      "matched_atoms": 0,
+      "reference_atoms": 144,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q92830/5H86.cif",
+      "sha256": "f970187bc8c8a00cb9cd0c77fe3c1e8e025161be3b46e616f6403c9d9474194e"
+    },
+    {
+      "pdb_id": "5MLJ",
+      "matched_atoms": 0,
+      "reference_atoms": 144,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q92830/5MLJ.cif",
+      "sha256": "63ee1ab38dd6510e635ffa760575fad598779ce0233173ad765a3992401be289"
+    },
+    {
+      "pdb_id": "5TRL",
+      "matched_atoms": 0,
+      "reference_atoms": 144,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q92830/5TRL.cif",
+      "sha256": "d39f2f09298059442df673e50311d7b09ae0cef851ca3060ed0fc43c114a9e27"
+    },
+    {
+      "pdb_id": "5TRM",
+      "matched_atoms": 0,
+      "reference_atoms": 144,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q92830/5TRM.cif",
+      "sha256": "9ac2389a5ad9f45e64cecd391a92ae968c28495c2fe1ecaabb51fd61f4514453"
+    },
+    {
+      "pdb_id": "6J3P",
+      "matched_atoms": 144,
+      "reference_atoms": 144,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q92830/6J3P.cif",
+      "sha256": "a07a4ff63bb71af25fb33b5d633fa5e5b5f482ade424047cdceab777f93416ac"
+    },
+    {
+      "pdb_id": "8E6O",
+      "matched_atoms": 0,
+      "reference_atoms": 144,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q92830/8E6O.cif",
+      "sha256": "4f322e19b3e216c02be9079f268e11c75b805756da8c9b7ab4ce2015222aeaba"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q92830/6J3P.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "C:900::B8O",
+      "name": "2-{[(3R,5R)-5-(2,3-dihydro-1,4-benzodioxin-6-yl)-1-methylpiperidin-3-yl]amino}-3-methyl-3,5-dihydro-4H-pyrrolo[3,2-d]pyrimidin-4-one",
+      "distance_to_reference_A": 2.80571220904782,
+      "elements": [
+        "C",
+        "N",
+        "O"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "source": "conservative_automatic_review",
+  "blocked_reason": "Unsupported nearby chemistry",
+  "blockers": [
+    {
+      "residue": "B:401::ZN",
+      "name": "ZINC ION",
+      "distance_to_reference_A": 2.0836971948918066,
+      "elements": [
+        "Zn"
+      ],
+      "reason": "nearby metal or metal-containing species requires a dedicated treatment"
+    },
+    {
+      "residue": "C:402::ZN",
+      "name": "ZINC ION",
+      "distance_to_reference_A": 2.0422206051257095,
+      "elements": [
+        "Zn"
+      ],
+      "reason": "nearby metal or metal-containing species requires a dedicated treatment"
+    },
+    {
+      "residue": "D:403::ST9",
+      "name": "STEAROYL-COENZYME A",
+      "distance_to_reference_A": 2.3415710538012626,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "P",
+        "S"
+      ],
+      "reason": "nearby cofactor requires validated retention and protonation"
+    }
+  ],
+  "excluded_residue_keys": []
+}

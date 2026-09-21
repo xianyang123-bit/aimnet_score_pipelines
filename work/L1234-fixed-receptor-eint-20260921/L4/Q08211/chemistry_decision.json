@@ -1,0 +1,28 @@
+{
+  "source": "conservative_automatic_review",
+  "blocked_reason": "Unsupported nearby chemistry",
+  "blockers": [
+    {
+      "residue": "C:1202::ADP",
+      "name": "ADENOSINE-5'-DIPHOSPHATE",
+      "distance_to_reference_A": 8.898993819528142,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "P"
+      ],
+      "reason": "nearby cofactor requires validated retention and protonation"
+    },
+    {
+      "residue": "D:1203::MG",
+      "name": "MAGNESIUM ION",
+      "distance_to_reference_A": 9.759016548812692,
+      "elements": [
+        "Mg"
+      ],
+      "reason": "nearby metal or metal-containing species requires a dedicated treatment"
+    }
+  ],
+  "excluded_residue_keys": []
+}

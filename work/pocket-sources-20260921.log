@@ -1,0 +1,139 @@
+total 35053
+drwxr-xr-x 3 xianyang xianyang       15 Sep  3 21:07 .
+drwxr-xr-x 6 xianyang xianyang       14 Aug 30 22:17 ..
+-rw-r--r-- 1 xianyang xianyang      163 Aug 30 22:16 ._actives.csv.gz
+-rw-r--r-- 1 xianyang xianyang      163 Aug 30 22:16 ._decoys.csv.gz
+-rw-r--r-- 1 xianyang xianyang      163 Aug 30 22:16 ._manifest.json
+-rw-r--r-- 1 xianyang xianyang      163 Aug 30 22:16 ._molecules.csv.gz
+-rw-r--r-- 1 xianyang xianyang      163 Aug 30 22:16 ._pockets_6A.tar.gz
+-rw-r--r-- 1 xianyang xianyang      163 Aug 30 22:16 ._targets.csv.gz
+-rw-r--r-- 1 xianyang xianyang   902587 Aug 30 22:16 actives.csv.gz
+-rw-r--r-- 1 xianyang xianyang 25519710 Aug 30 22:16 decoys.csv.gz
+-rw-r--r-- 1 xianyang xianyang      532 Aug 30 22:16 manifest.json
+-rw-r--r-- 1 xianyang xianyang  5465702 Aug 30 22:16 molecules.csv.gz
+drwxr-xr-x 6 xianyang xianyang        6 Sep  3 21:07 pockets_6A
+-rw-r--r-- 1 xianyang xianyang  3336091 Aug 30 22:16 pockets_6A.tar.gz
+-rw-r--r-- 1 xianyang xianyang     7587 Aug 30 22:16 targets.csv.gz
+/data/user_data/xianyang/t3-aimnet-full
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O14929
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O14929/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O14929/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O14929/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00748
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00748/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00748/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00748/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O75365
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O75365/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O75365/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O75365/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/I6WXK4
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/I6WXK4/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/I6WXK4/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/I6WXK4/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/J9SQF3
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/J9SQF3/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/J9SQF3/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/J9SQF3/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O75106
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O75106/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O75106/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O75106/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O75143
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O75143/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O75143/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O75143/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/B4RNM9
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/B4RNM9/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/B4RNM9/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/B4RNM9/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00767
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00767/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00767/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00767/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O54890
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O54890/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O54890/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O54890/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00411
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00411/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00411/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00411/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00187
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00187/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00187/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00187/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O14874
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O14874/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O14874/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O14874/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O60427
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O60427/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O60427/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O60427/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00750
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00750/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00750/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00750/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O14578
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O14578/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O14578/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O14578/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O42275
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O42275/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O42275/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O42275/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00443
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00443/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00443/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O00443/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O15393
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O15393/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O15393/logs
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O15393/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O14980
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O14980/status
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O14980/chunks
+/data/user_data/xianyang/t3-aimnet-full/full-dock-L4/O14980/logs
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/scripts_full
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/scripts_full/eval
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/raw_scores
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/dataset
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/dataset/pockets_6A
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/dataset/pockets_6A/L2
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/dataset/pockets_6A/L1
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/dataset/pockets_6A/L4
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/dataset/pockets_6A/L3
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/code_and_docs
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/code_and_docs/standard
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/code_and_docs/timesplit
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/code_and_docs/timesplit/runners
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/code_and_docs/timesplit/build
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/code_and_docs/timesplit/analysis
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/code_and_docs/timesplit/structure
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/code_and_docs/env
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/code_and_docs/tasks
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/code_and_docs/physics
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/code_and_docs/eval
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/code_and_docs/figures
+/data/user_data/xianyang/t3-aimnet-full/vs-benchmark/code_and_docs/results
+total 593
+drwxr-xr-x  2 xianyang xianyang    17 Sep  4 23:46 .
+drwxr-xr-x 26 xianyang xianyang    26 Sep  4 23:15 ..
+-rw-r--r--  1 xianyang xianyang   809 Sep  4 23:15 actives.csv
+-rw-r--r--  1 xianyang xianyang  3174 Sep  6 20:30 aimnet2_score.csv
+-rw-r--r--  1 xianyang xianyang   426 Sep  6 20:30 aimnet2_score.summary.json
+-rw-r--r--  1 xianyang xianyang  1917 Sep  6 20:30 aimnet_interaction.csv
+-rw-r--r--  1 xianyang xianyang   142 Sep  4 23:15 box.json
+-rw-r--r--  1 xianyang xianyang   368 Sep  4 23:38 dock_failures.csv
+-rw-r--r--  1 xianyang xianyang   341 Sep  4 23:44 dock_status.json
+-rw-r--r--  1 xianyang xianyang 43324 Sep  4 23:40 input_3d.sdf
+-rw-r--r--  1 xianyang xianyang   250 Sep  4 23:15 obabel.log
+-rw-r--r--  1 xianyang xianyang    24 Sep  4 23:44 obabel_ligand_h.log
+-rw-r--r--  1 xianyang xianyang 15646 Sep  4 23:15 pocket.pdb
+-rw-r--r--  1 xianyang xianyang 21984 Sep  4 23:15 pocket.pdbqt
+-rw-r--r--  1 xianyang xianyang 46171 Sep  4 23:44 poses.hydrogenated.sdf
+-rw-r--r--  1 xianyang xianyang 43719 Sep  4 23:44 poses.sdf
+-rw-r--r--  1 xianyang xianyang  4798 Sep  4 23:44 smina.log

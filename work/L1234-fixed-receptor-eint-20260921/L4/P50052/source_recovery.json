@@ -1,0 +1,37 @@
+{
+  "status": "matched",
+  "reference_sha256": "ea1c4a8bbec82e096a7b6ca30d89e6a172dfdac1f63bd6b023160944c69a2254",
+  "candidates": 7,
+  "results": [
+    {
+      "pdb_id": "5UNF",
+      "matched_atoms": 317,
+      "reference_atoms": 317,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P50052/5UNF.cif",
+      "sha256": "a849f86befd752804e111d168de600446663ad7e8a2edd4c7eba1a9b53577663"
+    },
+    {
+      "pdb_id": "5UNG",
+      "matched_atoms": 0,
+      "reference_atoms": 317,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P50052/5UNG.cif",
+      "sha256": "43237b7ae3f9a1189fca826113154c79e32afd2a5ea7e8b8245e5561ea40332d"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P50052/5UNF.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "D:1201::8ES",
+      "name": "N-benzyl-N-(2-ethyl-4-oxo-3-{[2'-(2H-tetrazol-5-yl)[1,1'-biphenyl]-4-yl]methyl}-3,4-dihydroquinazolin-6-yl)thiophene-2-carboxamide",
+      "distance_to_reference_A": 2.8457057121213367,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "S"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "status": "matched",
+  "reference_sha256": "228b204df6e34d37b738e1fd1a7b524126856b7688d5c5731a40114e73da074b",
+  "candidates": 4,
+  "results": [
+    {
+      "pdb_id": "7YFG",
+      "matched_atoms": 141,
+      "reference_atoms": 141,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q00961/7YFG.cif",
+      "sha256": "cce79f5fb74528477ef645e05e3883fff96b362f83a265aad2414f7fe661ad9e"
+    },
+    {
+      "pdb_id": "7YFH",
+      "matched_atoms": 0,
+      "reference_atoms": 141,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q00961/7YFH.cif",
+      "sha256": "f7e6bf543ea826dc2241698f5871a526b502b189979101d0d083c137131d7c8c"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q00961/7YFG.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "IA:901::NAG",
+      "name": "2-acetamido-2-deoxy-beta-D-glucopyranose",
+      "distance_to_reference_A": 1.437537825589292,
+      "elements": [
+        "C",
+        "N",
+        "O"
+      ]
+    }
+  ]
+}

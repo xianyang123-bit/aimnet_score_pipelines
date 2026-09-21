@@ -1,0 +1,99 @@
+{
+  "removed_at_utc": "2026-09-21T22:30:47.294141+00:00",
+  "preserved": [
+    "work/L1234-fixed-receptor-eint-20260921",
+    "work/eint_pipeline",
+    "work/pocket-correction-20260921/deps"
+  ],
+  "removed": [
+    {
+      "path": "work/L1-corrected-rerank-20260921",
+      "directory": true,
+      "files": 1411,
+      "bytes": 754158227
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921",
+      "directory": true,
+      "files": 1167,
+      "bytes": 15446821
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921",
+      "directory": true,
+      "files": 477,
+      "bytes": 18005935
+    },
+    {
+      "path": "work/run_pocket_pilot.py",
+      "bytes": 4771,
+      "sha256": "297b6a4903d13e299338fca5cabe83c637a0dfcc23543e4b5b10c13ee36c84ac"
+    },
+    {
+      "path": "work/run_pocket_pilot.sbatch",
+      "bytes": 557,
+      "sha256": "53d041f1054a36f09c58810a5bd0d831afcd9ffb3ebe918981e8ef1a4c4bb2e9"
+    },
+    {
+      "path": "work/rescue_pocket_pilot.py",
+      "bytes": 5535,
+      "sha256": "eaa4d53dc4d0f270e67e2247b7d400f9141baec039d500a04688b560b20a3dd0"
+    },
+    {
+      "path": "work/test_pocket_preparation.py",
+      "bytes": 5644,
+      "sha256": "748b851b12a779c0830462163cda84a15a026b0d7b3442aba057cc4777a48fa0"
+    },
+    {
+      "path": "work/audit_pocket_correction.py",
+      "bytes": 2368,
+      "sha256": "48c4ad670b524d5e7a60072170f630154d1099f210d986b92f5ed7f234e53dc1"
+    },
+    {
+      "path": "work/finalize_pocket_correction.py",
+      "bytes": 5468,
+      "sha256": "f753255ac1f7331fda081ed8ab01028fdac95e76ccceb06a5189fe36c17fb219"
+    },
+    {
+      "path": "work/install_pocket_guards.py",
+      "bytes": 6851,
+      "sha256": "63568fcbb688b71ef6bd8eebde3c34afd9c40f9d41d5196eb6419d8bec008aa0"
+    },
+    {
+      "path": "work/pocket-correction-20260921/recovered/L1/O95271",
+      "directory": true,
+      "files": 70,
+      "bytes": 30518733
+    },
+    {
+      "path": "work/pocket-correction-20260921/tests.log",
+      "bytes": 916,
+      "sha256": "3dd03591829cae9e1f6a65016fe9ba597828e28343b2b2d0fb020d2d26c44f72"
+    },
+    {
+      "path": "work/pocket-correction-20260921/pilot-10522079.log",
+      "bytes": 70765,
+      "sha256": "a758ee8fe03f9e522c6dab05a25f43fa815710648c27c87b0a5d183e2993e9ac"
+    },
+    {
+      "path": "work/pocket-correction-20260921/recovery-O95271-login.log",
+      "bytes": 525,
+      "sha256": "f8a5930a3fb9bf64f3b32ee16c8c9eb730ee21e2fd536f862e305679ddab9b6d"
+    },
+    {
+      "path": "work/pocket-correction-20260921/recovery-O95271.log",
+      "bytes": 374,
+      "sha256": "b705c61774647ceba1540d6e7e2c768079cf6379896cb4ee6ac884d246c5cf2f"
+    },
+    {
+      "path": "work/pocket-correction-20260921/rescue-10522172.log",
+      "bytes": 70672,
+      "sha256": "1ebcaf7365c61dd3033a67a94cbd04daebbfe92c6e321f1788f81abbecd1c9a5"
+    },
+    {
+      "path": "work/pocket-correction-20260921/pocket-correction-evidence.zip",
+      "bytes": 671019,
+      "sha256": "0d8832535212fcd6ac1bd8f7350990a2a95d19d2a85a31617471ec64fa950a94"
+    }
+  ]
+}

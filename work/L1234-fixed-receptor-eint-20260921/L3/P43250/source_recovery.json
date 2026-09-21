@@ -1,0 +1,45 @@
+{
+  "status": "matched",
+  "reference_sha256": "6de905bcf2ee646af58f0e8fc0296f93c26ed5c2ce124c04b0305a06148dd3cf",
+  "candidates": 3,
+  "results": [
+    {
+      "pdb_id": "2ACX",
+      "matched_atoms": 201,
+      "reference_atoms": 201,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/P43250/2ACX.cif",
+      "sha256": "7ed4f13724d45fa7e63dc11dda48c937f180be8c5b1c6d4a06ebe433f02c11ca"
+    },
+    {
+      "pdb_id": "3NYN",
+      "matched_atoms": 0,
+      "reference_atoms": 201,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/P43250/3NYN.cif",
+      "sha256": "e89c8f4704b540d48642bb9c75b43448e8a1e0e6717993775a446661a8347fd8"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/P43250/2ACX.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "C:578::MG",
+      "name": "MAGNESIUM ION",
+      "distance_to_reference_A": 4.584966412090713,
+      "elements": [
+        "Mg"
+      ]
+    },
+    {
+      "residue": "E:577::ANP",
+      "name": "PHOSPHOAMINOPHOSPHONIC ACID-ADENYLATE ESTER",
+      "distance_to_reference_A": 2.46584143853574,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "P"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "source": "conservative_automatic_review",
+  "blocked_reason": "Unsupported nearby chemistry",
+  "blockers": [
+    {
+      "residue": "L:501::CA",
+      "name": "CALCIUM ION",
+      "distance_to_reference_A": 2.389705211945606,
+      "elements": [
+        "Ca"
+      ],
+      "reason": "nearby metal or metal-containing species requires a dedicated treatment"
+    },
+    {
+      "residue": "M:502::CA",
+      "name": "CALCIUM ION",
+      "distance_to_reference_A": 2.2993897016382547,
+      "elements": [
+        "Ca"
+      ],
+      "reason": "nearby metal or metal-containing species requires a dedicated treatment"
+    }
+  ],
+  "excluded_residue_keys": []
+}

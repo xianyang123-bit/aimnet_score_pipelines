@@ -1,0 +1,4 @@
+L1 P06239 preparation_failed
+L1 Q86WV6 preparation_failed
+L2 P36897 prepared
+[2026-09-21T17:25:39.547] error: *** JOB 10524048 ON babel-x5-20 CANCELLED AT 2026-09-21T17:25:39 DUE to SIGNAL Terminated ***

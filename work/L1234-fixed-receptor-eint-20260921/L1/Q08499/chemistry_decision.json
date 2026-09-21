@@ -1,0 +1,5 @@
+{
+  "source": "reviewed_L1_decision",
+  "excluded_residue_keys": [],
+  "blocked_reason": "Nearby zinc and magnesium (2.07/4.14 A); metal-aware preparation required."
+}

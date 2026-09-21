@@ -1,0 +1,17 @@
+{
+  "status": "excluded_chemistry",
+  "source": "conservative_automatic_review",
+  "blocked_reason": "Unsupported nearby chemistry",
+  "blockers": [
+    {
+      "residue": "M:511::K",
+      "name": "POTASSIUM ION",
+      "distance_to_reference_A": 11.763003442998743,
+      "elements": [
+        "K"
+      ],
+      "reason": "nearby metal or metal-containing species requires a dedicated treatment"
+    }
+  ],
+  "excluded_residue_keys": []
+}

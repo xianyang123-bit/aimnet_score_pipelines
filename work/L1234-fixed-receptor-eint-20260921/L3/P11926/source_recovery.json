@@ -1,0 +1,81 @@
+{
+  "status": "matched",
+  "reference_sha256": "ac7b1f5ee8fcde317be1d1e68adf9447598f66960ada1e13f645054d5034e68a",
+  "candidates": 11,
+  "results": [
+    {
+      "pdb_id": "1D7K",
+      "matched_atoms": 0,
+      "reference_atoms": 180,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/P11926/1D7K.cif",
+      "sha256": "67dd59ede88144d6bc0bbd833769c8fd1d42ad5ad582426727e4d11de2f66823"
+    },
+    {
+      "pdb_id": "2ON3",
+      "matched_atoms": 0,
+      "reference_atoms": 180,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/P11926/2ON3.cif",
+      "sha256": "a29adbbd10e7604a64eb91d979ab8312f026cb65d3e41e5ea9b505754582157c"
+    },
+    {
+      "pdb_id": "2OO0",
+      "matched_atoms": 180,
+      "reference_atoms": 180,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/P11926/2OO0.cif",
+      "sha256": "797a6219cd190e6bb1a2aee14afa4dace6832b26f62e34d42374ebc70fe2866f"
+    },
+    {
+      "pdb_id": "4ZGY",
+      "matched_atoms": 0,
+      "reference_atoms": 180,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/P11926/4ZGY.cif",
+      "sha256": "e60e0cb498f723acb007d7b4bdc74615e5c3ba510568aa80f55f248ef0ba734d"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/P11926/2OO0.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "D:802::ACT",
+      "name": "ACETATE ION",
+      "distance_to_reference_A": 9.030943527671955,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "I:600::PLP",
+      "name": "PYRIDOXAL-5'-PHOSPHATE",
+      "distance_to_reference_A": 2.5872406150182505,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "P"
+      ]
+    },
+    {
+      "residue": "J:601::XAP",
+      "name": "3-AMINOOXY-1-AMINOPROPANE",
+      "distance_to_reference_A": 3.2136553953403224,
+      "elements": [
+        "C",
+        "N",
+        "O"
+      ]
+    },
+    {
+      "residue": "K:700::N2P",
+      "name": "PENTANE-1,5-DIAMINE",
+      "distance_to_reference_A": 3.6384109168701655,
+      "elements": [
+        "C",
+        "N"
+      ]
+    }
+  ]
+}

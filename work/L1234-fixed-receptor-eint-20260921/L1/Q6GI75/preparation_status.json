@@ -1,0 +1,5 @@
+{
+  "status": "excluded_chemistry",
+  "source": "reviewed_L1_decision",
+  "blocked_reason": "Nearby NADP-like cofactor 0WD (2.75 A); validated cofactor retention and protonation required."
+}

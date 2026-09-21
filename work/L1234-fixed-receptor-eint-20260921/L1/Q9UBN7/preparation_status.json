@@ -1,0 +1,5 @@
+{
+  "status": "excluded_chemistry",
+  "source": "reviewed_L1_decision",
+  "blocked_reason": "Nearby zinc ions, including one 2.29 A from reference; metal-aware preparation required."
+}

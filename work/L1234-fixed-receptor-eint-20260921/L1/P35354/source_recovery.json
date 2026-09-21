@@ -1,0 +1,66 @@
+{
+  "status": "matched",
+  "reference_sha256": "dabb3cc64388636182f6e56a3947431a5dcac48d1c1a636c60565e656aae0a37",
+  "candidates": 7,
+  "results": [
+    {
+      "pdb_id": "5F19",
+      "matched_atoms": 0,
+      "reference_atoms": 221,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P35354/5F19.cif",
+      "sha256": "d9086d24782c178d8c4c3a1c12a8c6d4b617a4af21d2d01156a4835c3c1f51b9"
+    },
+    {
+      "pdb_id": "5F1A",
+      "matched_atoms": 0,
+      "reference_atoms": 221,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P35354/5F1A.cif",
+      "sha256": "093160269c4fe90474b85aa7f362dce9650ed8790dd31df82f90302ce2a93454"
+    },
+    {
+      "pdb_id": "5IKQ",
+      "matched_atoms": 221,
+      "reference_atoms": 221,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P35354/5IKQ.cif",
+      "sha256": "4764a3478de024444af5a63f6b5100dc6e7e275c80d08f1101dc50215c98693f"
+    },
+    {
+      "pdb_id": "5IKR",
+      "matched_atoms": 0,
+      "reference_atoms": 221,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P35354/5IKR.cif",
+      "sha256": "a4a20672b28f87d32a4cdff8ae7dbdbe4c94af40bc86d4b7caf0122d860cf472"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P35354/5IKQ.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "F:602::JMS",
+      "name": "2-[(2,6-dichloro-3-methyl-phenyl)amino]benzoic acid",
+      "distance_to_reference_A": 2.490372662875988,
+      "elements": [
+        "C",
+        "Cl",
+        "H",
+        "N",
+        "O"
+      ]
+    },
+    {
+      "residue": "I:609::COH",
+      "name": "PROTOPORPHYRIN IX CONTAINING CO",
+      "distance_to_reference_A": 2.618446104085396,
+      "elements": [
+        "C",
+        "Co",
+        "H",
+        "N",
+        "O"
+      ]
+    }
+  ]
+}

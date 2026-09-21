@@ -1,0 +1,15 @@
+{
+  "source": "reviewed_L1_decision",
+  "excluded_residue_keys": [
+    "E:603::SO4",
+    "H:601::JBD",
+    "J:603::SO4",
+    "K:604::SO4",
+    "L:605::SO4"
+  ],
+  "exclude_names": [
+    "JBD",
+    "SO4"
+  ],
+  "rationale": "Replace deposited inhibitor; omit sulfate crystallization ions."
+}

@@ -1,0 +1,334 @@
+{
+  "status": "matched",
+  "reference_sha256": "d908d611c8592c7b0a15f0e00779314043fd3b354e04e6ae800ea39debe139e0",
+  "candidates": 201,
+  "results": [
+    {
+      "pdb_id": "1AK4",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1AK4.cif",
+      "sha256": "7595b96d1703403f31d7ea2e471ba16551f45a9ae64f98e68397ad41c6247192"
+    },
+    {
+      "pdb_id": "1AWQ",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1AWQ.cif",
+      "sha256": "eba8b0fd193db162ac66530a0e297cdffe6f9d9db51fa2b9bb96bfb8bed639d6"
+    },
+    {
+      "pdb_id": "1AWR",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1AWR.cif",
+      "sha256": "ff2b21812420a73e909984d4a8ec29094c9b4590b58e5dbfa002397eb5bb6081"
+    },
+    {
+      "pdb_id": "1AWS",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1AWS.cif",
+      "sha256": "a49e7724b1d4ed760a84720bf304db13f99513f83dfac76f22333e2c33e7d642"
+    },
+    {
+      "pdb_id": "1AWT",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1AWT.cif",
+      "sha256": "03c6c4dfe7583478e53f2f4261d86b349b6bef7c3e5123fc8102ec5ccf78bbf6"
+    },
+    {
+      "pdb_id": "1AWU",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1AWU.cif",
+      "sha256": "b4459295199d1a85e286570f4c63131249d1209c971dca5b5efb28db2db9e31b"
+    },
+    {
+      "pdb_id": "1AWV",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1AWV.cif",
+      "sha256": "ec419a7594dc20dea3ccb1b70838fbc9fa6c0b03b30f63cd718362dc8c488849"
+    },
+    {
+      "pdb_id": "1BCK",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1BCK.cif",
+      "sha256": "ad50370958f16d77a412090ecf728c1236693632c99abc2273f63c671e915129"
+    },
+    {
+      "pdb_id": "1CWA",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1CWA.cif",
+      "sha256": "d6f6284b8293034160c8307babc9f626f2f077375fd116ddc314c4974b9f226b"
+    },
+    {
+      "pdb_id": "1CWB",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1CWB.cif",
+      "sha256": "60df08ffe016e32d6aa637e0eb0c0df2a4b0b6893343c12a400ce1bd348a23a7"
+    },
+    {
+      "pdb_id": "1CWC",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1CWC.cif",
+      "sha256": "0dc509dd60567fb045bebf7234c67786b21af95cd6c26bc0e0b89b5104132549"
+    },
+    {
+      "pdb_id": "1CWF",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1CWF.cif",
+      "sha256": "afb64645fa16ad98adb1e859dcf74511309fa5477bb47622dd79111dabb417fa"
+    },
+    {
+      "pdb_id": "1CWH",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1CWH.cif",
+      "sha256": "834df1dcea0fff72b6aa6b021aaf9288f7a3d3e439c5805757f8e15696c42333"
+    },
+    {
+      "pdb_id": "1CWI",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1CWI.cif",
+      "sha256": "200cf4d41ee5a6b3ce8239dcdb64ad9d91523a5e5b6fffaaad2ae9f841ea8560"
+    },
+    {
+      "pdb_id": "1CWJ",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1CWJ.cif",
+      "sha256": "3a592e32dc8a641231b012991cad014b15fdb5bb08785ee9266855a9c7bf925e"
+    },
+    {
+      "pdb_id": "1CWK",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1CWK.cif",
+      "sha256": "6b6b8dbb4e997764cc3a68814cddb799f4de68dda79996e7ca0cfd2e865d9f58"
+    },
+    {
+      "pdb_id": "1CWL",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1CWL.cif",
+      "sha256": "7ff492a8ff17d04d2454261f2f54ae121876be298b309bfed8862279a33b61b5"
+    },
+    {
+      "pdb_id": "1CWM",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1CWM.cif",
+      "sha256": "243d3d6d850f0705d9bf1b86712c74ac3b9462650edca1ac1071c5a684eb1080"
+    },
+    {
+      "pdb_id": "1CWO",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1CWO.cif",
+      "sha256": "7d23f7d87cddb36af5994ec8b33985b6031d1593255ca5a914292f94773e6eed"
+    },
+    {
+      "pdb_id": "1FGL",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1FGL.cif",
+      "sha256": "0df68412fb964e57bc0fdc46a00e9728338a07091af213cf0d66c0f277692b2e"
+    },
+    {
+      "pdb_id": "1M63",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1M63.cif",
+      "sha256": "5e44aed3d4d817db399737f41aac826cd07342d45be75c8acef4469fcc727b43"
+    },
+    {
+      "pdb_id": "1M9C",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1M9C.cif",
+      "sha256": "f1cbca0b28e4436d3733143fe66ad3852d49c0a6f62cb4885f0612203ec211e6"
+    },
+    {
+      "pdb_id": "1M9D",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1M9D.cif",
+      "sha256": "05c4df1188341667cf4b37f7c50260f417aed0ce844cb0b9ef859bde193db981"
+    },
+    {
+      "pdb_id": "1M9E",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1M9E.cif",
+      "sha256": "8dc572b81724f89be8c3c4bfc52ce1db8cb7eb98f8c20720ac14e8d5edb1127c"
+    },
+    {
+      "pdb_id": "1M9F",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1M9F.cif",
+      "sha256": "242204d68eb1c7a7f89784420016459e37dfee47d5ef4810263db748954e0f95"
+    },
+    {
+      "pdb_id": "1M9X",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1M9X.cif",
+      "sha256": "b5d78e730e8c7b3f577360d323c128f7671fc800808151ebe89c2f7f7c49d961"
+    },
+    {
+      "pdb_id": "1M9Y",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1M9Y.cif",
+      "sha256": "66f104199c36048648da803abf9e7bd811196d650272fdc7eeed2a7677b7fe2e"
+    },
+    {
+      "pdb_id": "1MF8",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1MF8.cif",
+      "sha256": "4bdf603ddb10e9074575edf8f69759e667cea2ddc9df970b31700bd92c7a0d1d"
+    },
+    {
+      "pdb_id": "1MIK",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1MIK.cif",
+      "sha256": "ba76526c09074678279fd3d6300b4b4bc0188f2a6b57c1d9fddad8a6d1511bf9"
+    },
+    {
+      "pdb_id": "1NMK",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1NMK.cif",
+      "sha256": "0cdcc42614f7400bfb7471fe309673ae4fd1d3caa5cb0daad3e0868b8bd385ff"
+    },
+    {
+      "pdb_id": "1OCA",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1OCA.cif",
+      "sha256": "a8ca49203d8bc48b0e1da0796e799f848da05f67e870ae8f2c5f029b767cde04"
+    },
+    {
+      "pdb_id": "1RMH",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1RMH.cif",
+      "sha256": "6157fd63eac0d5000d7f756852e3060abf12867faf06852a8c6ea0cd96dde681"
+    },
+    {
+      "pdb_id": "1VBS",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1VBS.cif",
+      "sha256": "4f9237ea7cbf9beffe77e3f6dfb757fc73c95d9f1023d7960d378481595fc67e"
+    },
+    {
+      "pdb_id": "1VBT",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1VBT.cif",
+      "sha256": "f5d2f8c51cb3a1a6c65bb92c104b4e24ff02a054a0c92eae6a38005bb4a67de5"
+    },
+    {
+      "pdb_id": "1W8L",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1W8L.cif",
+      "sha256": "9f51c67855fa861943f0908ce493211e73ad20dd93b62539f88ec637871255f7"
+    },
+    {
+      "pdb_id": "1W8M",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1W8M.cif",
+      "sha256": "7b5b383442e9a19735c50c019deb4acb8f538ce1a0fb420c0f06f8b92e58715c"
+    },
+    {
+      "pdb_id": "1W8V",
+      "matched_atoms": 0,
+      "reference_atoms": 273,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1W8V.cif",
+      "sha256": "d67808d416948fccce1a0402b12a03114cb79d870ffa78f2f6f121090847136e"
+    },
+    {
+      "pdb_id": "1YND",
+      "matched_atoms": 273,
+      "reference_atoms": 273,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1YND.cif",
+      "sha256": "7cd0bac3a7137a3bb44e3f275e4076ffbd6c4450fcb858dd071cdf20565cbf9e"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P62937/1YND.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "C:401::SFA",
+      "name": "SANGLIFEHRIN A",
+      "distance_to_reference_A": 2.7107617010722342,
+      "elements": [
+        "C",
+        "N",
+        "O"
+      ]
+    },
+    {
+      "residue": "D:402::SFA",
+      "name": "SANGLIFEHRIN A",
+      "distance_to_reference_A": 2.8522399969147103,
+      "elements": [
+        "C",
+        "N",
+        "O"
+      ]
+    }
+  ]
+}

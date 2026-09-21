@@ -1,0 +1,11 @@
+mol_id,paff,smiles,formal_charge,n_atoms
+2221,7.2441,CCc1ccccc1-c1ccc(C(=O)NC[C@@H](N)C(=O)O)s1,0,40
+24323,6.0,NCC(=O)O,0,10
+43699,7.7447,N[C@H](CNC(=O)c1cc(Br)c(-c2ccccc2Br)s1)C(=O)O,0,34
+68311,6.9914,N[C@H](CNC(=O)c1ccc(-c2cccc3ccccc23)s1)C(=O)O,0,40
+88721,6.7375,c1cc(cc(c1)Cl)C(COc2cnc(cn2)C(=O)NC3(CC3)c4cnccn4)(F)F,0,46
+89763,7.3565,Cc1nc(C(=O)NCc2cccnc2)cnc1OCC(F)(F)c1cc(Cl)ccn1,0,45
+103070,6.8239,N[C@H](CNC(=O)c1ccc(-c2ccccc2C(F)(F)F)s1)C(=O)O,0,37
+132547,6.5376,COc1cccc(F)c1-c1ccc(C(=O)NC[C@@H](N)C(=O)O)s1,0,38
+132866,6.2676,CCc1ccccc1-c1ccc(o1)C(=O)NC[C@@H](N)C(O)=O |r|,0,40
+139001,7.6021,Cc1c(ncc(n1)C(=O)NCc2cccnc2)OCS(=O)(=O)c3cccc(c3)Cl,0,46

@@ -1,0 +1,15 @@
+{
+  "status": "source_not_recovered",
+  "reference_sha256": "973480b3ce2e67781bf575c2630807ea75832bc037ffbb3fee020148764f7b03",
+  "candidates": 1,
+  "results": [
+    {
+      "pdb_id": "2EG9",
+      "matched_atoms": 0,
+      "reference_atoms": 175,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/P56528/2EG9.cif",
+      "sha256": "91fb99bfdaf4f78f92aa19312bd7cbf9d10c8f8c7b56c2f6f6bd0581ef715a39"
+    }
+  ]
+}

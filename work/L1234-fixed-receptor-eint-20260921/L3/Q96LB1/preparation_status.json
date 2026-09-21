@@ -1,0 +1,8 @@
+{
+  "status": "prepared",
+  "n_atoms": 746,
+  "n_hydrogens": 361,
+  "net_charge": -4,
+  "modeled_sidechain_atoms": 0,
+  "decision_source": "conservative_automatic_review"
+}

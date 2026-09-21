@@ -1,0 +1,12 @@
+{
+  "n_systems": 16,
+  "n_prepared": 14,
+  "n_evaluable": 14,
+  "n_ligands_scored": 403,
+  "mean_post_spearman": 0.49918347289536663,
+  "median_post_spearman": 0.559219396319437,
+  "mean_pre_spearman": 0.2712888112539564,
+  "n_errors": 0,
+  "n_converged": 396,
+  "max_decomposition_error_kcal_mol": 2.852388547580631e-09
+}

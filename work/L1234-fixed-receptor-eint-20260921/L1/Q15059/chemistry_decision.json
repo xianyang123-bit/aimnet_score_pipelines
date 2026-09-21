@@ -1,0 +1,10 @@
+{
+  "source": "reviewed_L1_decision",
+  "excluded_residue_keys": [
+    "C:201::VYJ"
+  ],
+  "exclude_names": [
+    "VYJ"
+  ],
+  "rationale": "Replace deposited inhibitor."
+}

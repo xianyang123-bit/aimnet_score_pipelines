@@ -1,0 +1,118 @@
+{
+  "status": "matched",
+  "reference_sha256": "729a67bf987794d0e058d49bdbe96ea4141b65a566d2058b6d6e511d9fc301e6",
+  "candidates": 42,
+  "results": [
+    {
+      "pdb_id": "1F0J",
+      "matched_atoms": 0,
+      "reference_atoms": 231,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q07343/1F0J.cif",
+      "sha256": "d062c698f631ea89dca4aac12b0952d391d691433a839079ad24e1e47d67f0f6"
+    },
+    {
+      "pdb_id": "1RO6",
+      "matched_atoms": 0,
+      "reference_atoms": 231,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q07343/1RO6.cif",
+      "sha256": "70ab5800de8d2772cf6519bb0116f301156d17e715e739d2d68b7d0e1cebcb98"
+    },
+    {
+      "pdb_id": "1RO9",
+      "matched_atoms": 0,
+      "reference_atoms": 231,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q07343/1RO9.cif",
+      "sha256": "ada5e3bea3fb52c5af0b76a56f33c6c4f8c129a99a66a6b86939c3bc1b93c29a"
+    },
+    {
+      "pdb_id": "1ROR",
+      "matched_atoms": 0,
+      "reference_atoms": 231,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q07343/1ROR.cif",
+      "sha256": "dc218a486143c926454644711c04152f3c6319937a7f36d37cf3ef970506b1d5"
+    },
+    {
+      "pdb_id": "1TB5",
+      "matched_atoms": 0,
+      "reference_atoms": 231,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q07343/1TB5.cif",
+      "sha256": "8720f76e688b2a57f36449360bcdad26f0f4d45da5e93eaddbd2b25ba25063a7"
+    },
+    {
+      "pdb_id": "1XLX",
+      "matched_atoms": 0,
+      "reference_atoms": 231,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q07343/1XLX.cif",
+      "sha256": "c3c6a191d991cedc639b0eb7a0d2a04ffa8cd315bd5d7d3d3fc697d6075bb86d"
+    },
+    {
+      "pdb_id": "1XLZ",
+      "matched_atoms": 0,
+      "reference_atoms": 231,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q07343/1XLZ.cif",
+      "sha256": "42f32dc70c7ef8907a94f3f18000591d0f760702f3a358e495ce25cfc283bd88"
+    },
+    {
+      "pdb_id": "1XM4",
+      "matched_atoms": 0,
+      "reference_atoms": 231,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q07343/1XM4.cif",
+      "sha256": "ed47e9f31156eae43b50dc39681e5bc17c946883b56a902a80331d0c8c8489e9"
+    },
+    {
+      "pdb_id": "1XM6",
+      "matched_atoms": 0,
+      "reference_atoms": 231,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q07343/1XM6.cif",
+      "sha256": "51db42d860eb46c998ca8b37a0e92f7bb8a11a3ac51058dd9bc19371379f1fe7"
+    },
+    {
+      "pdb_id": "1XMU",
+      "matched_atoms": 231,
+      "reference_atoms": 231,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q07343/1XMU.cif",
+      "sha256": "df092313b90d4933e2df5ced155ccdf6639045dd8d971146e11ccaa91c3f99cc"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q07343/1XMU.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "F:1001::ZN",
+      "name": "ZINC ION",
+      "distance_to_reference_A": 2.1513656128143364,
+      "elements": [
+        "Zn"
+      ]
+    },
+    {
+      "residue": "G:1002::MG",
+      "name": "MAGNESIUM ION",
+      "distance_to_reference_A": 2.0576246013303785,
+      "elements": [
+        "Mg"
+      ]
+    },
+    {
+      "residue": "H:102::ROF",
+      "name": "3-(CYCLOPROPYLMETHOXY)-N-(3,5-DICHLOROPYRIDIN-4-YL)-4-(DIFLUOROMETHOXY)BENZAMIDE",
+      "distance_to_reference_A": 3.161697803396135,
+      "elements": [
+        "C",
+        "Cl",
+        "F",
+        "N",
+        "O"
+      ]
+    }
+  ]
+}

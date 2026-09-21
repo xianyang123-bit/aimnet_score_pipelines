@@ -1,0 +1,130 @@
+[
+  {
+    "index": 0,
+    "system": "tnks2",
+    "uniprot": "Q9H2K2",
+    "n_ligands": 27,
+    "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/tnks2_fullmap_ligands.sdf",
+    "source_protein": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/tnks2_fullmap_protein.pdb"
+  },
+  {
+    "index": 1,
+    "system": "p38",
+    "uniprot": "Q16539",
+    "n_ligands": 34,
+    "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/p38_ligands.sdf",
+    "source_protein": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/p38_protein.pdb"
+  },
+  {
+    "index": 2,
+    "system": "hif2a",
+    "uniprot": "Q99814",
+    "n_ligands": 41,
+    "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/hif2a_automap_ligands.sdf",
+    "source_protein": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/hif2a_automap_protein.pdb"
+  },
+  {
+    "index": 3,
+    "system": "mcl1",
+    "uniprot": "Q07820",
+    "n_ligands": 42,
+    "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/mcl1_extra_flips_ligands.sdf",
+    "source_protein": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/mcl1_extra_flips_protein.pdb"
+  },
+  {
+    "index": 4,
+    "system": "cdk8",
+    "uniprot": "P49336",
+    "n_ligands": 32,
+    "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/cdk8_5cei_new_helix_loop_extra_ligands.sdf",
+    "source_protein": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/cdk8_5cei_new_helix_loop_extra_protein.pdb"
+  },
+  {
+    "index": 5,
+    "system": "cmet",
+    "uniprot": "P08581",
+    "n_ligands": 24,
+    "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/cmet_ligands.sdf",
+    "source_protein": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/cmet_protein.pdb"
+  },
+  {
+    "index": 6,
+    "system": "tyk2",
+    "uniprot": "P29597",
+    "n_ligands": 16,
+    "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/tyk2_ligands.sdf",
+    "source_protein": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/tyk2_protein.pdb"
+  },
+  {
+    "index": 7,
+    "system": "thrombin",
+    "uniprot": "P00734",
+    "n_ligands": 11,
+    "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/thrombin_core_ligands.sdf",
+    "source_protein": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/thrombin_core_protein.pdb"
+  },
+  {
+    "index": 8,
+    "system": "eg5",
+    "uniprot": "P52732",
+    "n_ligands": 28,
+    "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/eg5_extraprotomers_ligands.sdf",
+    "source_protein": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/eg5_extraprotomers_protein.pdb"
+  },
+  {
+    "index": 9,
+    "system": "syk",
+    "uniprot": "P43405",
+    "n_ligands": 44,
+    "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/syk_4puz_fullmap_ligands.sdf",
+    "source_protein": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/syk_4puz_fullmap_protein.pdb"
+  },
+  {
+    "index": 10,
+    "system": "pfkfb3",
+    "uniprot": "Q16875",
+    "n_ligands": 40,
+    "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/pfkfb3_automap_ligands.sdf",
+    "source_protein": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/pfkfb3_automap_protein.pdb"
+  },
+  {
+    "index": 11,
+    "system": "cdk2",
+    "uniprot": "P24941",
+    "n_ligands": 16,
+    "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/cdk2_ligands.sdf",
+    "source_protein": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/cdk2_protein.pdb"
+  },
+  {
+    "index": 12,
+    "system": "ptp1b",
+    "uniprot": "P18031",
+    "n_ligands": 23,
+    "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/ptp1b_ligands.sdf",
+    "source_protein": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/ptp1b_protein.pdb"
+  },
+  {
+    "index": 13,
+    "system": "jnk1",
+    "uniprot": "P45983",
+    "n_ligands": 21,
+    "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/jnk1_manual_flips_ligands.sdf",
+    "source_protein": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/jnk1_manual_flips_protein.pdb"
+  },
+  {
+    "index": 14,
+    "system": "shp2",
+    "uniprot": "Q06124",
+    "n_ligands": 26,
+    "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/shp2_ligands.sdf",
+    "source_protein": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/shp2_protein.pdb"
+  },
+  {
+    "index": 15,
+    "system": "bace",
+    "uniprot": "P56817",
+    "n_ligands": 36,
+    "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/bace_ligands.sdf",
+    "source_protein": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/bace_protein.pdb"
+  }
+]

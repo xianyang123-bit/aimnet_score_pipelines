@@ -1,0 +1,25 @@
+{
+  "source": "conservative_automatic_review",
+  "blocked_reason": "Unsupported nearby chemistry",
+  "blockers": [
+    {
+      "residue": "C:903::ZN",
+      "name": "ZINC ION",
+      "distance_to_reference_A": 7.482899237595011,
+      "elements": [
+        "Zn"
+      ],
+      "reason": "nearby metal or metal-containing species requires a dedicated treatment"
+    },
+    {
+      "residue": "D:904::ZN",
+      "name": "ZINC ION",
+      "distance_to_reference_A": 5.7843480185756455,
+      "elements": [
+        "Zn"
+      ],
+      "reason": "nearby metal or metal-containing species requires a dedicated treatment"
+    }
+  ],
+  "excluded_residue_keys": []
+}

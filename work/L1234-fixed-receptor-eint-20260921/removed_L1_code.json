@@ -1,0 +1,429 @@
+{
+  "removed_files": [
+    {
+      "path": "work/aimnet_hydrogen_only.py",
+      "sha256": "2ac95b0a3d28589a2736f45a3b4622cd425ae881fb1b684da218957f47e30be1"
+    },
+    {
+      "path": "work/l1_fresh_dock.py",
+      "sha256": "3fa4161b5e3a1686fb55a3b5a9643f7bcdb6886cda4433f042a7c6249c0de8bf"
+    },
+    {
+      "path": "work/l1_fresh_report.py",
+      "sha256": "305a78261a90da9adef3992ef7816c159a6de0c78ee8960909f713931f631032"
+    },
+    {
+      "path": "work/l1_fresh_score.py",
+      "sha256": "1dc2a40e9e988b2db9994ebc4265856fd9b858d7b3a752d12fbd4192c588a78c"
+    },
+    {
+      "path": "work/l1_fresh_summarize.py",
+      "sha256": "6729394914940f54de18b5d09e66a22c51a4f5f417368d762c13d772356f27ca"
+    },
+    {
+      "path": "work/l1_honly_report.py",
+      "sha256": "d08a250991df6717698fc98f16fcdb7b7027f3c54933cf60c945966019298fc7"
+    },
+    {
+      "path": "work/l1_honly_run.py",
+      "sha256": "f6d5586d4e1278f256638f47bb1c6a0d02329348e02fec4ea19a2936e1d0530a"
+    },
+    {
+      "path": "work/l1_honly_summarize.py",
+      "sha256": "3376da5181dfca07340e22f9a4334500e118899b123f4d4ddc0cb4fb6833bd8f"
+    },
+    {
+      "path": "work/test_hydrogen_only.py",
+      "sha256": "e634693c356e57282d985bf2fffa395f9194f4d70e76e8d68f283ce88057ad6b"
+    },
+    {
+      "path": "work/rerank_l1_prepare.py",
+      "sha256": "6d3cf8975e86713eeee8353283863b397a8ae060c4a431a45777c47845480f0d"
+    },
+    {
+      "path": "work/rerank_l1_recover.py",
+      "sha256": "b1c6bbbcc5f151dd56d5714c51fa7edb94ebf4749164131628f3df8f14e5b14e"
+    },
+    {
+      "path": "work/rerank_l1_report.py",
+      "sha256": "dbcb8ffedfc3870e62e011b966b193f7575cb35ce0bb334d4bef5e374f4df962"
+    },
+    {
+      "path": "work/rerank_l1_score.py",
+      "sha256": "f2cca7817733a35a1fefcdf7c23997217f55a19bf8f1ad67c9ae3a6a44033492"
+    },
+    {
+      "path": "work/rerank_l1_stage.py",
+      "sha256": "2e6dbeaa1b3df4adfe006c6256ede4bf68aa0e31f2141d1a118c274dd491b104"
+    },
+    {
+      "path": "work/rerank_l1_summarize.py",
+      "sha256": "f5c68871c8d4c1c2877c232334a330677c419f46b223ae40e9b1fbfe554ed5f4"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/__pycache__/aimnet_casf_interaction.cpython-311.pyc",
+      "sha256": "2b4685f63275d27870583f48ec49baf1327155ab4381f3a045d11aaaaad9d563"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/__pycache__/aimnet_interaction_calculator.cpython-311.pyc",
+      "sha256": "135185df9e052169f5dd9ed222737aa9f7a3c42815657479c7862df466ffa256"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/__pycache__/aimnet_safe_calculator.cpython-311.pyc",
+      "sha256": "abc829f29bfb3dffce7955974d1ea9dd0b803535ba171d91c36080aaa1895cbe"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/__pycache__/pocket_geometry.cpython-311.pyc",
+      "sha256": "23364627dc0b799fa0e246b7a719350944931a242dc9262d91b789776e0aaa9f"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/__pycache__/prepare_aimnet_pocket.cpython-311.pyc",
+      "sha256": "7f4495de75743a1c101232c8b5940de06fa1f724f3e9dc1ce8d2bd5fc4e0f356"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/__pycache__/prepared_pocket.cpython-311.pyc",
+      "sha256": "7a2422366dd938faaad4b98241a085f614673ce8a9298c2db56a8abe12ce43a5"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/__pycache__/recover_pocket_sources.cpython-311.pyc",
+      "sha256": "2a5b75bbab2300c51858edea2d9ca671d62b7f1a3c86742f1663f8185f13758a"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/__pycache__/rerank_l1_recover.cpython-311.pyc",
+      "sha256": "e4889f550eeb132cdcfbee67e04a742773759c9e5cf2d71012aa66cfee964716"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/aimnet2_composite_smoke.py",
+      "sha256": "5e5bbabe733bbaf5a30e6fa968aef7540c035dfef26bb4feafa44c167a1ba59a"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/aimnet_casf_interaction.py",
+      "sha256": "883abf777be4c6aba06ff14c1b357d9ee0b98ff94e9633d09850aa5f47a25eb6"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/aimnet_interaction_calculator.py",
+      "sha256": "109a0487d1a6ee215aa0e223774c6d9293b1d67128d8e03ef57c9f8dee3b232f"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/aimnet_safe_calculator.py",
+      "sha256": "bfe1d5034d6d010f796b2b47de02c97647447b88db5311b365005bb7d653e534"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/pocket_geometry.py",
+      "sha256": "d5a357189bef3510f106b3a42fae8a1f5dd7a7da6d23e69255632cecee08491d"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/prepare_aimnet_pocket.py",
+      "sha256": "7403a49915d970ca7b949d17c96f20ff9c9b09cf13603d490a016ffca7f8ee73"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/prepared_pocket.py",
+      "sha256": "6e5af7c1bbd61d82c582483977e05b2ad988c6620b98fbbbe9faa907063fd2d7"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/recover_pocket_sources.py",
+      "sha256": "02556c0455ee461c259ff7883f753b7a30f4efa8987739f71af2af7b943eae9b"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/rerank_l1_prepare.py",
+      "sha256": "6d3cf8975e86713eeee8353283863b397a8ae060c4a431a45777c47845480f0d"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/rerank_l1_recover.py",
+      "sha256": "b1c6bbbcc5f151dd56d5714c51fa7edb94ebf4749164131628f3df8f14e5b14e"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/rerank_l1_report.py",
+      "sha256": "dbcb8ffedfc3870e62e011b966b193f7575cb35ce0bb334d4bef5e374f4df962"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/rerank_l1_score.py",
+      "sha256": "f2cca7817733a35a1fefcdf7c23997217f55a19bf8f1ad67c9ae3a6a44033492"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/rerank_l1_stage.final.py",
+      "sha256": "2e6dbeaa1b3df4adfe006c6256ede4bf68aa0e31f2141d1a118c274dd491b104"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/rerank_l1_stage.py",
+      "sha256": "8d5430da3127963461375fb50ca6ca5b954f885bc1556c96814aef4ddf4578cc"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/rerank_l1_summarize.py",
+      "sha256": "f5c68871c8d4c1c2877c232334a330677c419f46b223ae40e9b1fbfe554ed5f4"
+    },
+    {
+      "path": "work/L1-corrected-rerank-20260921/code/test_pocket_preparation.py",
+      "sha256": "748b851b12a779c0830462163cda84a15a026b0d7b3442aba057cc4777a48fa0"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/code/l1_fresh_dock.py",
+      "sha256": "3fa4161b5e3a1686fb55a3b5a9643f7bcdb6886cda4433f042a7c6249c0de8bf"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/code/l1_fresh_report.py",
+      "sha256": "305a78261a90da9adef3992ef7816c159a6de0c78ee8960909f713931f631032"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/code/l1_fresh_score.py",
+      "sha256": "1dc2a40e9e988b2db9994ebc4265856fd9b858d7b3a752d12fbd4192c588a78c"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/code/l1_fresh_summarize.py",
+      "sha256": "6729394914940f54de18b5d09e66a22c51a4f5f417368d762c13d772356f27ca"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/__pycache__/aimnet_casf_interaction.cpython-311.pyc",
+      "sha256": "2b4685f63275d27870583f48ec49baf1327155ab4381f3a045d11aaaaad9d563"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/__pycache__/aimnet_interaction_calculator.cpython-311.pyc",
+      "sha256": "135185df9e052169f5dd9ed222737aa9f7a3c42815657479c7862df466ffa256"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/__pycache__/aimnet_safe_calculator.cpython-311.pyc",
+      "sha256": "abc829f29bfb3dffce7955974d1ea9dd0b803535ba171d91c36080aaa1895cbe"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/__pycache__/pocket_geometry.cpython-311.pyc",
+      "sha256": "23364627dc0b799fa0e246b7a719350944931a242dc9262d91b789776e0aaa9f"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/__pycache__/prepare_aimnet_pocket.cpython-311.pyc",
+      "sha256": "7f4495de75743a1c101232c8b5940de06fa1f724f3e9dc1ce8d2bd5fc4e0f356"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/__pycache__/prepared_pocket.cpython-311.pyc",
+      "sha256": "7a2422366dd938faaad4b98241a085f614673ce8a9298c2db56a8abe12ce43a5"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/__pycache__/recover_pocket_sources.cpython-311.pyc",
+      "sha256": "2a5b75bbab2300c51858edea2d9ca671d62b7f1a3c86742f1663f8185f13758a"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/__pycache__/rerank_l1_recover.cpython-311.pyc",
+      "sha256": "e4889f550eeb132cdcfbee67e04a742773759c9e5cf2d71012aa66cfee964716"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/aimnet2_composite_smoke.py",
+      "sha256": "5e5bbabe733bbaf5a30e6fa968aef7540c035dfef26bb4feafa44c167a1ba59a"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/aimnet_casf_interaction.py",
+      "sha256": "883abf777be4c6aba06ff14c1b357d9ee0b98ff94e9633d09850aa5f47a25eb6"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/aimnet_interaction_calculator.py",
+      "sha256": "109a0487d1a6ee215aa0e223774c6d9293b1d67128d8e03ef57c9f8dee3b232f"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/aimnet_safe_calculator.py",
+      "sha256": "bfe1d5034d6d010f796b2b47de02c97647447b88db5311b365005bb7d653e534"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/pocket_geometry.py",
+      "sha256": "d5a357189bef3510f106b3a42fae8a1f5dd7a7da6d23e69255632cecee08491d"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/prepare_aimnet_pocket.py",
+      "sha256": "7403a49915d970ca7b949d17c96f20ff9c9b09cf13603d490a016ffca7f8ee73"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/prepared_pocket.py",
+      "sha256": "6e5af7c1bbd61d82c582483977e05b2ad988c6620b98fbbbe9faa907063fd2d7"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/recover_pocket_sources.py",
+      "sha256": "02556c0455ee461c259ff7883f753b7a30f4efa8987739f71af2af7b943eae9b"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/rerank_l1_prepare.py",
+      "sha256": "6d3cf8975e86713eeee8353283863b397a8ae060c4a431a45777c47845480f0d"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/rerank_l1_recover.py",
+      "sha256": "b1c6bbbcc5f151dd56d5714c51fa7edb94ebf4749164131628f3df8f14e5b14e"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/rerank_l1_report.py",
+      "sha256": "dbcb8ffedfc3870e62e011b966b193f7575cb35ce0bb334d4bef5e374f4df962"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/rerank_l1_score.py",
+      "sha256": "f2cca7817733a35a1fefcdf7c23997217f55a19bf8f1ad67c9ae3a6a44033492"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/rerank_l1_stage.final.py",
+      "sha256": "2e6dbeaa1b3df4adfe006c6256ede4bf68aa0e31f2141d1a118c274dd491b104"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/rerank_l1_stage.py",
+      "sha256": "8d5430da3127963461375fb50ca6ca5b954f885bc1556c96814aef4ddf4578cc"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/rerank_l1_summarize.py",
+      "sha256": "f5c68871c8d4c1c2877c232334a330677c419f46b223ae40e9b1fbfe554ed5f4"
+    },
+    {
+      "path": "work/L1-fresh-docking-20260921/score_code/test_pocket_preparation.py",
+      "sha256": "748b851b12a779c0830462163cda84a15a026b0d7b3442aba057cc4777a48fa0"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/code/__pycache__/aimnet_hydrogen_only.cpython-311.pyc",
+      "sha256": "a81f37f4a0393779716498c2ee8a732ab471a177d5a6d6c732057d4ce5cdeacc"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/code/__pycache__/aimnet_interaction_calculator.cpython-311.pyc",
+      "sha256": "0e321c312caed1cb00a72e6e2899f53b147cbc7e9a47c4665ea75e24f20a96ff"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/code/__pycache__/aimnet_safe_calculator.cpython-311.pyc",
+      "sha256": "27de7a95c436b896633d45166f4cbf2a31f0e6e61803fbc88c3931ed339c9d1f"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/code/__pycache__/l1_honly_run.cpython-311.pyc",
+      "sha256": "50983d20d91c818eb1994a06dd1d7cf24ffb6f23f976bccb09341b58a0e1a06e"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/code/__pycache__/pocket_geometry.cpython-311.pyc",
+      "sha256": "30b817466aea0ae0ad030be5bec406372415f110e395460bda9b83ef2b1af473"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/code/__pycache__/prepared_pocket.cpython-311.pyc",
+      "sha256": "e3f22cc227c7f4fe5a934a8b85c61cfc7270b1dc4e77ea39e4478b4b6fbd6a5c"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/code/aimnet_hydrogen_only.py",
+      "sha256": "2ac95b0a3d28589a2736f45a3b4622cd425ae881fb1b684da218957f47e30be1"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/code/aimnet_interaction_calculator.py",
+      "sha256": "109a0487d1a6ee215aa0e223774c6d9293b1d67128d8e03ef57c9f8dee3b232f"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/code/aimnet_safe_calculator.py",
+      "sha256": "bfe1d5034d6d010f796b2b47de02c97647447b88db5311b365005bb7d653e534"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/code/l1_honly_report.py",
+      "sha256": "d08a250991df6717698fc98f16fcdb7b7027f3c54933cf60c945966019298fc7"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/code/l1_honly_run.py",
+      "sha256": "f6d5586d4e1278f256638f47bb1c6a0d02329348e02fec4ea19a2936e1d0530a"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/code/l1_honly_summarize.py",
+      "sha256": "3376da5181dfca07340e22f9a4334500e118899b123f4d4ddc0cb4fb6833bd8f"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/code/pocket_geometry.py",
+      "sha256": "d5a357189bef3510f106b3a42fae8a1f5dd7a7da6d23e69255632cecee08491d"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/code/prepared_pocket.py",
+      "sha256": "6e5af7c1bbd61d82c582483977e05b2ad988c6620b98fbbbe9faa907063fd2d7"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/code/test_hydrogen_only.py",
+      "sha256": "e634693c356e57282d985bf2fffa395f9194f4d70e76e8d68f283ce88057ad6b"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/__pycache__/aimnet_casf_interaction.cpython-311.pyc",
+      "sha256": "2b4685f63275d27870583f48ec49baf1327155ab4381f3a045d11aaaaad9d563"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/__pycache__/aimnet_interaction_calculator.cpython-311.pyc",
+      "sha256": "135185df9e052169f5dd9ed222737aa9f7a3c42815657479c7862df466ffa256"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/__pycache__/aimnet_safe_calculator.cpython-311.pyc",
+      "sha256": "abc829f29bfb3dffce7955974d1ea9dd0b803535ba171d91c36080aaa1895cbe"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/__pycache__/pocket_geometry.cpython-311.pyc",
+      "sha256": "23364627dc0b799fa0e246b7a719350944931a242dc9262d91b789776e0aaa9f"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/__pycache__/prepare_aimnet_pocket.cpython-311.pyc",
+      "sha256": "7f4495de75743a1c101232c8b5940de06fa1f724f3e9dc1ce8d2bd5fc4e0f356"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/__pycache__/prepared_pocket.cpython-311.pyc",
+      "sha256": "7a2422366dd938faaad4b98241a085f614673ce8a9298c2db56a8abe12ce43a5"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/__pycache__/recover_pocket_sources.cpython-311.pyc",
+      "sha256": "2a5b75bbab2300c51858edea2d9ca671d62b7f1a3c86742f1663f8185f13758a"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/__pycache__/rerank_l1_recover.cpython-311.pyc",
+      "sha256": "e4889f550eeb132cdcfbee67e04a742773759c9e5cf2d71012aa66cfee964716"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/aimnet2_composite_smoke.py",
+      "sha256": "5e5bbabe733bbaf5a30e6fa968aef7540c035dfef26bb4feafa44c167a1ba59a"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/aimnet_casf_interaction.py",
+      "sha256": "883abf777be4c6aba06ff14c1b357d9ee0b98ff94e9633d09850aa5f47a25eb6"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/aimnet_interaction_calculator.py",
+      "sha256": "109a0487d1a6ee215aa0e223774c6d9293b1d67128d8e03ef57c9f8dee3b232f"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/aimnet_safe_calculator.py",
+      "sha256": "bfe1d5034d6d010f796b2b47de02c97647447b88db5311b365005bb7d653e534"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/pocket_geometry.py",
+      "sha256": "d5a357189bef3510f106b3a42fae8a1f5dd7a7da6d23e69255632cecee08491d"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/prepare_aimnet_pocket.py",
+      "sha256": "7403a49915d970ca7b949d17c96f20ff9c9b09cf13603d490a016ffca7f8ee73"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/prepared_pocket.py",
+      "sha256": "6e5af7c1bbd61d82c582483977e05b2ad988c6620b98fbbbe9faa907063fd2d7"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/recover_pocket_sources.py",
+      "sha256": "02556c0455ee461c259ff7883f753b7a30f4efa8987739f71af2af7b943eae9b"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/rerank_l1_prepare.py",
+      "sha256": "6d3cf8975e86713eeee8353283863b397a8ae060c4a431a45777c47845480f0d"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/rerank_l1_recover.py",
+      "sha256": "b1c6bbbcc5f151dd56d5714c51fa7edb94ebf4749164131628f3df8f14e5b14e"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/rerank_l1_report.py",
+      "sha256": "dbcb8ffedfc3870e62e011b966b193f7575cb35ce0bb334d4bef5e374f4df962"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/rerank_l1_score.py",
+      "sha256": "f2cca7817733a35a1fefcdf7c23997217f55a19bf8f1ad67c9ae3a6a44033492"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/rerank_l1_stage.final.py",
+      "sha256": "2e6dbeaa1b3df4adfe006c6256ede4bf68aa0e31f2141d1a118c274dd491b104"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/rerank_l1_stage.py",
+      "sha256": "8d5430da3127963461375fb50ca6ca5b954f885bc1556c96814aef4ddf4578cc"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/rerank_l1_summarize.py",
+      "sha256": "f5c68871c8d4c1c2877c232334a330677c419f46b223ae40e9b1fbfe554ed5f4"
+    },
+    {
+      "path": "work/L1-hydrogen-only-20260921/reference_code/test_pocket_preparation.py",
+      "sha256": "748b851b12a779c0830462163cda84a15a026b0d7b3442aba057cc4777a48fa0"
+    }
+  ],
+  "active_replacement": "work/eint_pipeline"
+}

@@ -1,0 +1,13 @@
+{
+  "reason": "No template found for residue 4 (GLU).  The set of heavy atoms matches ALA, but the residue is missing 1 H atom.  You may be able to add it with Modeller.addHydrogens().  For more information, see https://github.com/openmm/openmm/wiki/Frequently-Asked-Questions#template",
+  "reviewed_exclusions": [
+    "B:301::5UY",
+    "C:302::5UY",
+    "D:303::EDO",
+    "E:304::EDO",
+    "F:305::EDO",
+    "G:306::EDO",
+    "H:307::GOL",
+    "I:308::GOL"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "source": "reviewed_L1_decision",
+  "excluded_residue_keys": [
+    "B:501::Q7K",
+    "D:503::EDO",
+    "E:504::EDO",
+    "F:505::EDO",
+    "G:506::EDO",
+    "H:507::EDO",
+    "I:508::EDO",
+    "J:509::EDO"
+  ],
+  "exclude_names": [
+    "Q7K",
+    "EDO"
+  ],
+  "rationale": "Replace deposited inhibitor; omit ethylene glycol crystallization/cryoprotection additive."
+}

@@ -1,0 +1,10 @@
+{
+  "source": "reviewed_L1_decision",
+  "excluded_residue_keys": [
+    "B:3230::5P8"
+  ],
+  "exclude_names": [
+    "5P8"
+  ],
+  "rationale": "Replace deposited macrocyclic inhibitor."
+}

@@ -1,0 +1,52 @@
+{
+  "source": "conservative_automatic_review",
+  "blocked_reason": "Unsupported nearby chemistry",
+  "blockers": [
+    {
+      "residue": "B:1::CA",
+      "name": "CALCIUM ION",
+      "distance_to_reference_A": 8.858689914428659,
+      "elements": [
+        "Ca"
+      ],
+      "reason": "nearby metal or metal-containing species requires a dedicated treatment"
+    },
+    {
+      "residue": "C:2::CA",
+      "name": "CALCIUM ION",
+      "distance_to_reference_A": 9.25615400692966,
+      "elements": [
+        "Ca"
+      ],
+      "reason": "nearby metal or metal-containing species requires a dedicated treatment"
+    },
+    {
+      "residue": "D:3::CA",
+      "name": "CALCIUM ION",
+      "distance_to_reference_A": 2.312609348766021,
+      "elements": [
+        "Ca"
+      ],
+      "reason": "nearby metal or metal-containing species requires a dedicated treatment"
+    },
+    {
+      "residue": "E:4::ZN",
+      "name": "ZINC ION",
+      "distance_to_reference_A": 2.103335684098,
+      "elements": [
+        "Zn"
+      ],
+      "reason": "nearby metal or metal-containing species requires a dedicated treatment"
+    },
+    {
+      "residue": "F:5::ZN",
+      "name": "ZINC ION",
+      "distance_to_reference_A": 2.117974504095836,
+      "elements": [
+        "Zn"
+      ],
+      "reason": "nearby metal or metal-containing species requires a dedicated treatment"
+    }
+  ],
+  "excluded_residue_keys": []
+}

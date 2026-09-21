@@ -1,0 +1,85 @@
+{
+  "status": "matched",
+  "reference_sha256": "ac0fd5a76397bf21d94c5bd96da85480ef640b348a8e0e8cfc3e21c95ec89062",
+  "candidates": 25,
+  "results": [
+    {
+      "pdb_id": "2EVA",
+      "matched_atoms": 0,
+      "reference_atoms": 248,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/O43318/2EVA.cif",
+      "sha256": "94509e26d15327b05d6da4b645fa7f3d33b2cb132a56b09336c6dfa2b2101495"
+    },
+    {
+      "pdb_id": "2YIY",
+      "matched_atoms": 0,
+      "reference_atoms": 248,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/O43318/2YIY.cif",
+      "sha256": "2fc0f91ae29b40db89ccd3a0ea3402db0df446f9a0a511cc334a7e5f39f9ee43"
+    },
+    {
+      "pdb_id": "4GS6",
+      "matched_atoms": 0,
+      "reference_atoms": 248,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/O43318/4GS6.cif",
+      "sha256": "4cccd26a69ed95d48b734dc6527d270e790e19b0cfac1f1669408332c2da516a"
+    },
+    {
+      "pdb_id": "4L3P",
+      "matched_atoms": 0,
+      "reference_atoms": 248,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/O43318/4L3P.cif",
+      "sha256": "9818fb04eb6e87731779ab0cf645ebce626a57e838bda33d3d9931355c5338fb"
+    },
+    {
+      "pdb_id": "4L52",
+      "matched_atoms": 0,
+      "reference_atoms": 248,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/O43318/4L52.cif",
+      "sha256": "937fe6af00600e5ff83d0e43ca326770bc6f34d2b6615e928d7a0321c8c2c2ec"
+    },
+    {
+      "pdb_id": "4L53",
+      "matched_atoms": 0,
+      "reference_atoms": 248,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/O43318/4L53.cif",
+      "sha256": "9a6455e31a4bb323752044ef39b72ab7ea9b60abf538713c05b3e8a3e2ee4bce"
+    },
+    {
+      "pdb_id": "4O91",
+      "matched_atoms": 248,
+      "reference_atoms": 248,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/O43318/4O91.cif",
+      "sha256": "c0807c073aaca067682b3eabb926531cdcbb728d2c6415f0964dfc595edd45a7"
+    },
+    {
+      "pdb_id": "5E7R",
+      "matched_atoms": 0,
+      "reference_atoms": 248,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/O43318/5E7R.cif",
+      "sha256": "5ef581962335598e077eb2917ed824157805761f512ae331db661f7ec8561a06"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/O43318/4O91.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "B:601::NG2",
+      "name": "N-{4-[(4-ethylpiperazin-1-yl)methyl]-3-(trifluoromethyl)phenyl}-4-methyl-3-(1H-pyrrolo[2,3-b]pyridin-4-yloxy)benzamide",
+      "distance_to_reference_A": 2.543429377828289,
+      "elements": [
+        "C",
+        "F",
+        "N",
+        "O"
+      ]
+    }
+  ]
+}

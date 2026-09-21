@@ -1,0 +1,56 @@
+{
+  "status": "matched",
+  "reference_sha256": "31ec4894e1bbddceb5ceb0351e26ff19a4b1838adacd476703d1d7d706f3157c",
+  "candidates": 18,
+  "results": [
+    {
+      "pdb_id": "3CZV",
+      "matched_atoms": 169,
+      "reference_atoms": 169,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q8N1Q1/3CZV.cif",
+      "sha256": "c602c8a86e722ebf729fcd929050575ddd7b6121fd78ebfc9b8f373a1425a055"
+    },
+    {
+      "pdb_id": "3D0N",
+      "matched_atoms": 0,
+      "reference_atoms": 169,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q8N1Q1/3D0N.cif",
+      "sha256": "96ca07b27bd0888e1a2fd5d47044b1bb04830b4ccad0a2f6112c606a711a5461"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q8N1Q1/3CZV.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "D:263::AZM",
+      "name": "5-ACETAMIDO-1,3,4-THIADIAZOLE-2-SULFONAMIDE",
+      "distance_to_reference_A": 6.507291756176298,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "S"
+      ]
+    },
+    {
+      "residue": "E:262::ZN",
+      "name": "ZINC ION",
+      "distance_to_reference_A": 1.977609162600127,
+      "elements": [
+        "Zn"
+      ]
+    },
+    {
+      "residue": "F:263::AZM",
+      "name": "5-ACETAMIDO-1,3,4-THIADIAZOLE-2-SULFONAMIDE",
+      "distance_to_reference_A": 2.733582447997503,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "S"
+      ]
+    }
+  ]
+}

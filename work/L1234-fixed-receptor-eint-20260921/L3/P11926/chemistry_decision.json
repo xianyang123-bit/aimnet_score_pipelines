@@ -1,0 +1,19 @@
+{
+  "source": "conservative_automatic_review",
+  "blocked_reason": "Unsupported nearby chemistry",
+  "blockers": [
+    {
+      "residue": "I:600::PLP",
+      "name": "PYRIDOXAL-5'-PHOSPHATE",
+      "distance_to_reference_A": 2.5872406150182505,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "P"
+      ],
+      "reason": "nearby cofactor requires validated retention and protonation"
+    }
+  ],
+  "excluded_residue_keys": []
+}

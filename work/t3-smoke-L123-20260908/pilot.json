@@ -1,9 +1,0 @@
-{
-  "status": "passed",
-  "layer": "L1",
-  "target": "C7C422",
-  "n": 2,
-  "elapsed_seconds": 99.03836750984192,
-  "gpu": "NVIDIA L40",
-  "note": "Two-ligand functionality check, not a performance estimate."
-}

@@ -1,0 +1,8 @@
+{
+  "source": "conservative_automatic_review",
+  "excluded_residue_keys": [
+    "G:501::CL",
+    "H:502::A1IHH"
+  ],
+  "rationale": "Nearby nonprotein species classified as replaceable deposited ligand/additive; no metal, modified amino acid, or recognized cofactor detected."
+}

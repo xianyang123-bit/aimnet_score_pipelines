@@ -1,0 +1,55 @@
+{
+  "status": "source_not_recovered",
+  "reference_sha256": "001fc8550e2194d4548cce9197816bbcfe416c15904199d8fab1177764bb722d",
+  "candidates": 6,
+  "results": [
+    {
+      "pdb_id": "2B1W",
+      "matched_atoms": 0,
+      "reference_atoms": 274,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q9Y239/2B1W.cif",
+      "sha256": "f5519a67b992a794c100f6f55aa5336f2b043c0fd25aeca37b66645f74950a42"
+    },
+    {
+      "pdb_id": "2DBD",
+      "matched_atoms": 0,
+      "reference_atoms": 274,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q9Y239/2DBD.cif",
+      "sha256": "1692d6f4eb571766087f67e230abfd870f02b4996ff39be350b251222ed9f67d"
+    },
+    {
+      "pdb_id": "2NSN",
+      "matched_atoms": 0,
+      "reference_atoms": 274,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q9Y239/2NSN.cif",
+      "sha256": "2aa2e9401961a77f5d1ac37f8cf4aa4fae0530437774d77152f4630e0531fc2d"
+    },
+    {
+      "pdb_id": "2NZ7",
+      "matched_atoms": 0,
+      "reference_atoms": 274,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q9Y239/2NZ7.cif",
+      "sha256": "d58808e55613d637aea230864fa55e6a8d044ea8d1cefaf181789dd4b82c2e13"
+    },
+    {
+      "pdb_id": "4E9M",
+      "matched_atoms": 0,
+      "reference_atoms": 274,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q9Y239/4E9M.cif",
+      "sha256": "5c00bf3a7cc19f8e57740142e117d3e2c83a0b2b23c88533c5cdad26de89b95d"
+    },
+    {
+      "pdb_id": "4JQW",
+      "matched_atoms": 0,
+      "reference_atoms": 274,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q9Y239/4JQW.cif",
+      "sha256": "6cff31a7a9326ec4e5d78b5d44b968bdd5e4be56bc2a1218b0a19b54b3b5a3ed"
+    }
+  ]
+}

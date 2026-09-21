@@ -1,0 +1,68 @@
+{
+  "status": "matched",
+  "reference_sha256": "ee3e51c5606cacbc6b9bf04a67f0378eba764eba662f1aed7130388330bef958",
+  "candidates": 14,
+  "results": [
+    {
+      "pdb_id": "7S8L",
+      "matched_atoms": 0,
+      "reference_atoms": 164,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q96LB1/7S8L.cif",
+      "sha256": "77fc28bdc9050d2774964c11c2be42983c6dc7d7080a393de03d246bc9d795a9"
+    },
+    {
+      "pdb_id": "7S8M",
+      "matched_atoms": 0,
+      "reference_atoms": 164,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q96LB1/7S8M.cif",
+      "sha256": "ae6f387999a050c57a4921fbe0e5a437be91aa8e709e06b44331be9cfe8a4024"
+    },
+    {
+      "pdb_id": "7S8N",
+      "matched_atoms": 0,
+      "reference_atoms": 164,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q96LB1/7S8N.cif",
+      "sha256": "5a2fc8c44aa2b0bb844bd3ed12c991d5b616d2cc95714f3a4af75cdb36c2b1bc"
+    },
+    {
+      "pdb_id": "7S8O",
+      "matched_atoms": 0,
+      "reference_atoms": 164,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q96LB1/7S8O.cif",
+      "sha256": "75445a102560e1db313400f84d25abd16cc864e86834bc138a800ce5f87ab898"
+    },
+    {
+      "pdb_id": "7VDH",
+      "matched_atoms": 164,
+      "reference_atoms": 164,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q96LB1/7VDH.cif",
+      "sha256": "dc93fb40ab62c766b95777fa9d710a322100d9c050bc49bf01601eeb775a0d4f"
+    },
+    {
+      "pdb_id": "7VDL",
+      "matched_atoms": 0,
+      "reference_atoms": 164,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q96LB1/7VDL.cif",
+      "sha256": "b58cac192da4c2412638aef6572341a3fbfdaff67c81470392038a276392ed6f"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q96LB1/7VDH.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "G:402::6IB",
+      "name": "2-[4-methoxy-3-[[2-methoxy-3-[[2-methoxy-5-[2-(methylamino)ethyl]phenyl]methyl]-5-[2-(methylamino)ethyl]phenyl]methyl]phenyl]-~{N}-methyl-ethanamine",
+      "distance_to_reference_A": 3.0369040156053577,
+      "elements": [
+        "C",
+        "N",
+        "O"
+      ]
+    }
+  ]
+}

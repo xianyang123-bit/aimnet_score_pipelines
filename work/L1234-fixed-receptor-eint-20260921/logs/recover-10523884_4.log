@@ -1,0 +1,184 @@
+L1 P0C6U8 checked 2 / 140
+L1 P0C6U8 checked 4 / 140
+L1 P0C6U8 checked 6 / 140
+L1 P0C6U8 checked 8 / 140
+L1 P0C6U8 checked 10 / 140
+L1 P0C6U8 checked 12 / 140
+L1 P0C6U8 checked 14 / 140
+L1 P0C6U8 checked 16 / 140
+L1 P0C6U8 checked 18 / 140
+L1 P0C6U8 checked 20 / 140
+L1 P0C6U8 checked 22 / 140
+L1 P0C6U8 checked 24 / 140
+L1 P0C6U8 checked 26 / 140
+L1 P0C6U8 checked 28 / 140
+L1 P0C6U8 checked 30 / 140
+L1 P0C6U8 checked 32 / 140
+L1 P0C6U8 checked 34 / 140
+L1 P0C6U8 checked 36 / 140
+L1 P0C6U8 checked 38 / 140
+L1 P0C6U8 checked 40 / 140
+L1 P0C6U8 checked 42 / 140
+L1 P0C6U8 checked 44 / 140
+L1 P0C6U8 checked 46 / 140
+L1 P0C6U8 checked 48 / 140
+L1 P0C6U8 checked 50 / 140
+L1 P0C6U8 checked 52 / 140
+L1 P0C6U8 checked 54 / 140
+L1 P0C6U8 checked 56 / 140
+L1 P0C6U8 checked 58 / 140
+L1 P0C6U8 checked 60 / 140
+L1 P0C6U8 checked 62 / 140
+L1 P0C6U8 checked 64 / 140
+L1 P0C6U8 checked 66 / 140
+L1 P0C6U8 checked 68 / 140
+L1 P0C6U8 checked 70 / 140
+L1 P0C6U8 checked 72 / 140
+L1 P0C6U8 checked 74 / 140
+L1 P0C6U8 checked 76 / 140
+L1 P0C6U8 checked 78 / 140
+L1 P0C6U8 checked 80 / 140
+L1 P0C6U8 checked 82 / 140
+L1 P0C6U8 checked 84 / 140
+L1 P0C6U8 checked 86 / 140
+L1 P0C6U8 checked 88 / 140
+L1 P0C6U8 checked 90 / 140
+L1 P0C6U8 checked 92 / 140
+L1 P0C6U8 checked 94 / 140
+L1 P0C6U8 checked 96 / 140
+L1 P0C6U8 checked 98 / 140
+L1 P0C6U8 checked 100 / 140
+L1 P0C6U8 checked 102 / 140
+L1 P0C6U8 checked 104 / 140
+L1 P0C6U8 checked 106 / 140
+L1 P0C6U8 checked 108 / 140
+L1 P0C6U8 checked 110 / 140
+L1 P0C6U8 checked 112 / 140
+L1 P0C6U8 checked 114 / 140
+L1 P0C6U8 checked 116 / 140
+L1 P0C6U8 checked 118 / 140
+L1 P0C6U8 checked 120 / 140
+L1 P0C6U8 checked 122 / 140
+L1 P0C6U8 checked 124 / 140
+L1 P0C6U8 checked 126 / 140
+L1 P0C6U8 checked 128 / 140
+L1 P0C6U8 checked 130 / 140
+L1 P0C6U8 checked 132 / 140
+L1 P0C6U8 checked 134 / 140
+L1 P0C6U8 checked 136 / 140
+L1 P0C6U8 matched
+L1 P62937 checked 2 / 201
+L1 P62937 checked 4 / 201
+L1 P62937 checked 6 / 201
+L1 P62937 checked 8 / 201
+L1 P62937 checked 10 / 201
+L1 P62937 checked 12 / 201
+L1 P62937 checked 14 / 201
+L1 P62937 checked 16 / 201
+L1 P62937 checked 18 / 201
+L1 P62937 checked 20 / 201
+L1 P62937 checked 22 / 201
+L1 P62937 checked 24 / 201
+L1 P62937 checked 26 / 201
+L1 P62937 checked 28 / 201
+L1 P62937 checked 30 / 201
+L1 P62937 checked 32 / 201
+L1 P62937 checked 34 / 201
+L1 P62937 checked 36 / 201
+L1 P62937 matched
+L1 Q8N1Q1 matched
+L2 P05177 matched
+L2 P43166 matched
+L2 Q6P179 checked 2 / 14
+L2 Q6P179 checked 4 / 14
+L2 Q6P179 checked 6 / 14
+L2 Q6P179 checked 8 / 14
+L2 Q6P179 checked 10 / 14
+L2 Q6P179 checked 12 / 14
+L2 Q6P179 matched
+Traceback (most recent call last):
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/urllib/request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/http/client.py", line 1351, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/http/client.py", line 1397, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/http/client.py", line 1346, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/http/client.py", line 1106, in _send_output
+    self.send(msg)
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/http/client.py", line 1044, in send
+    self.connect()
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/http/client.py", line 1516, in connect
+    super().connect()
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/http/client.py", line 1010, in connect
+    self.sock = self._create_connection(
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/socket.py", line 839, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/socket.py", line 974, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xianyang/aimnet2_score_pipelines/work/eint_pipeline/run.py", line 142, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/home/xianyang/aimnet2_score_pipelines/work/eint_pipeline/run.py", line 134, in main
+    if args.stage=='recover':recover(root,task)
+                             ^^^^^^^^^^^^^^^^^^
+  File "/home/xianyang/aimnet2_score_pipelines/work/eint_pipeline/run.py", line 93, in recover
+    if not cache.exists():cache.write_bytes(get('https://rest.uniprot.org/uniprotkb/'+task['uniprot']+'.json'))
+                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/xianyang/aimnet2_score_pipelines/work/eint_pipeline/run.py", line 24, in get
+    with urllib.request.urlopen(req,timeout=45) as f:return f.read()
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/urllib/request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/urllib/request.py", line 519, in open
+    response = self._open(req, data)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/urllib/request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/urllib/request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/xianyang/miniconda3/envs/t3-aimnet/lib/python3.11/urllib/request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno -2] Name or service not known>
+L3 Q00961 matched
+L3 Q9NR22 checked 2 / 2
+L3 Q9NR22 source_not_recovered
+L4 P24863 checked 2 / 36
+L4 P24863 checked 4 / 36
+L4 P24863 checked 6 / 36
+L4 P24863 checked 8 / 36
+L4 P24863 checked 10 / 36
+L4 P24863 checked 12 / 36
+L4 P24863 checked 14 / 36
+L4 P24863 checked 16 / 36
+L4 P24863 checked 18 / 36
+L4 P24863 checked 20 / 36
+L4 P24863 checked 22 / 36
+L4 P24863 checked 24 / 36
+L4 P24863 checked 26 / 36
+L4 P24863 checked 28 / 36
+L4 P24863 checked 30 / 36
+L4 P24863 checked 32 / 36
+L4 P24863 checked 34 / 36
+L4 P24863 checked 36 / 36
+L4 P24863 source_not_recovered
+L4 Q13724 source_not_recovered
+L4 Q9HB14 checked 2 / 14
+L4 Q9HB14 checked 4 / 14
+L4 Q9HB14 checked 6 / 14
+L4 Q9HB14 matched

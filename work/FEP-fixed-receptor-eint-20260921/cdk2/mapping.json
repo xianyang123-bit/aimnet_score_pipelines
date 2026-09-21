@@ -1,0 +1,179 @@
+{
+  "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/cdk2_ligands.sdf",
+  "source_sha256": "06f3e239c52531d34405162cf6f68b5bc6de864fee7e73b27bf9b9887b48e040",
+  "records_in_source": 16,
+  "selected": 16,
+  "mapping": [
+    {
+      "mol_id": 0,
+      "source_index": 0,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 5.161290294613656,
+      "source_r_exp_dg": -7.04,
+      "formal_charge": 0,
+      "n_atoms": 45
+    },
+    {
+      "mol_id": 1,
+      "source_index": 1,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 8.145161038619682,
+      "source_r_exp_dg": -11.11,
+      "formal_charge": 0,
+      "n_atoms": 53
+    },
+    {
+      "mol_id": 2,
+      "source_index": 2,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 5.762463440992964,
+      "source_r_exp_dg": -7.86,
+      "formal_charge": 0,
+      "n_atoms": 49
+    },
+    {
+      "mol_id": 3,
+      "source_index": 3,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.1920824190738255,
+      "source_r_exp_dg": -9.81,
+      "formal_charge": 0,
+      "n_atoms": 51
+    },
+    {
+      "mol_id": 4,
+      "source_index": 4,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 5.623167211359197,
+      "source_r_exp_dg": -7.67,
+      "formal_charge": 0,
+      "n_atoms": 45
+    },
+    {
+      "mol_id": 5,
+      "source_index": 5,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 8.247800586510264,
+      "source_r_exp_dg": -11.25,
+      "formal_charge": 0,
+      "n_atoms": 50
+    },
+    {
+      "mol_id": 6,
+      "source_index": 6,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 5.740469152277166,
+      "source_r_exp_dg": -7.83,
+      "formal_charge": 0,
+      "n_atoms": 49
+    },
+    {
+      "mol_id": 7,
+      "source_index": 7,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.17741932687172,
+      "source_r_exp_dg": -9.79,
+      "formal_charge": 0,
+      "n_atoms": 49
+    },
+    {
+      "mol_id": 8,
+      "source_index": 8,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 6.656891439667195,
+      "source_r_exp_dg": -9.08,
+      "formal_charge": 0,
+      "n_atoms": 50
+    },
+    {
+      "mol_id": 9,
+      "source_index": 9,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 6.994134869393714,
+      "source_r_exp_dg": -9.54,
+      "formal_charge": 0,
+      "n_atoms": 50
+    },
+    {
+      "mol_id": 10,
+      "source_index": 10,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.243401843431758,
+      "source_r_exp_dg": -9.88,
+      "formal_charge": 0,
+      "n_atoms": 56
+    },
+    {
+      "mol_id": 11,
+      "source_index": 11,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 6.180352129894267,
+      "source_r_exp_dg": -8.43,
+      "formal_charge": 0,
+      "n_atoms": 49
+    },
+    {
+      "mol_id": 12,
+      "source_index": 12,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.140762295541175,
+      "source_r_exp_dg": -9.74,
+      "formal_charge": 0,
+      "n_atoms": 46
+    },
+    {
+      "mol_id": 13,
+      "source_index": 13,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 6.392962072601765,
+      "source_r_exp_dg": -8.72,
+      "formal_charge": 0,
+      "n_atoms": 49
+    },
+    {
+      "mol_id": 14,
+      "source_index": 14,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.148093841642228,
+      "source_r_exp_dg": -9.75,
+      "formal_charge": 0,
+      "n_atoms": 54
+    },
+    {
+      "mol_id": 15,
+      "source_index": 15,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 5.997067672416262,
+      "source_r_exp_dg": -8.18,
+      "formal_charge": 0,
+      "n_atoms": 45
+    }
+  ],
+  "reference": {
+    "cutoff_A": 6.0,
+    "n_residues": 27,
+    "n_heavy_atoms": 216
+  },
+  "initial_min_heavy_contact_A": {
+    "min": 1.3333715573687643,
+    "median": 2.410465632733467,
+    "max": 2.6684681111079405,
+    "n_below_1A": 0
+  }
+}

@@ -1,0 +1,97 @@
+index,layer,uniprot,n_requested,preparation,docking,scoring,exclusion_reason,n_scored,n_converged,eint_rho,smina_rho
+0,L1,O95271,10,prepared,ready,ready,,10,10,0.12884405501936821,0.34971957790971375
+1,L1,P00338,10,prepared,ready,ready,,10,9,0.4061811972299616,0.5222329678670935
+2,L1,P06239,10,prepared,ready,ready,,10,9,0.24618298195866545,-0.09231861823449954
+3,L1,P08922,10,prepared,ready,ready,,10,9,-0.09203146787097732,0.6687619998624351
+4,L1,P0C6U8,10,prepared,ready,ready,,10,9,-0.44788647697208955,0.30155130896849885
+5,L1,P33981,10,excluded_chemistry,not_prepared,not_docked,"Nearby phosphorylated THR (A:686 TPO, 3.18 A) and sodium; standard-residue preparation cannot retain this chemistry.",0,0,,
+6,L1,P35354,10,excluded_chemistry,not_prepared,not_docked,Nearby cobalt protoporphyrin COH (2.62 A); porphyrin/metal-aware preparation required.,0,0,,
+7,L1,P49327,10,excluded_chemistry,not_prepared,not_docked,Nearby NADPH cofactor NDP (2.37 A); validated cofactor retention and protonation required.,0,0,,
+8,L1,P49759,10,prepared,ready,ready,,10,10,-0.23780929899445064,0.16463720699615814
+9,L1,P50053,10,prepared,ready,ready,,10,10,-0.10303030303030303,0.22424242424242422
+10,L1,P51532,10,prepared,ready,ready,,10,10,-0.04242424242424241,0.5393939393939393
+11,L1,P56524,10,excluded_chemistry,not_prepared,not_docked,Catalytic zinc (1.94 A) and nearby potassium; metal-aware preparation required.,0,0,,
+12,L1,P62937,3,prepared,ready,ready,,3,1,-0.5,0.5
+13,L1,Q06124,10,prepared,ready,ready,,10,10,-0.13939393939393938,0.01818181818181818
+14,L1,Q07343,9,excluded_chemistry,not_prepared,not_docked,Nearby catalytic zinc and magnesium (2.15/2.06 A); metal-aware preparation required.,0,0,,
+15,L1,Q08499,9,excluded_chemistry,not_prepared,not_docked,Nearby zinc and magnesium (2.07/4.14 A); metal-aware preparation required.,0,0,,
+16,L1,Q15059,10,prepared,ready,ready,,10,10,-0.29179466096643103,0.14589733048321551
+17,L1,Q6GI75,10,excluded_chemistry,not_prepared,not_docked,Nearby NADP-like cofactor 0WD (2.75 A); validated cofactor retention and protonation required.,0,0,,
+18,L1,Q86WV6,10,prepared,ready,ready,,10,10,0.2727272727272727,0.2606060606060606
+19,L1,Q86X55,10,excluded_chemistry,not_prepared,not_docked,Nearby S-adenosyl-homocysteine SAH (2.78 A); validated cofactor retention and protonation required.,0,0,,
+20,L1,Q8N1Q1,10,excluded_chemistry,not_prepared,not_docked,Nearby catalytic zinc (1.98 A); metal-aware preparation required.,0,0,,
+21,L1,Q92793,10,prepared,ready,ready,,10,10,-0.42553388057604524,0.19452977397762067
+22,L1,Q96MU7,10,prepared,ready,ready,,10,10,-0.3988030274409017,-0.5460533760344654
+23,L1,Q9UBN7,10,excluded_chemistry,not_prepared,not_docked,"Nearby zinc ions, including one 2.29 A from reference; metal-aware preparation required.",0,0,,
+24,L2,O14757,10,prepared,ready,ready,,10,10,0.0790277206784084,-0.4559291577600484
+25,L2,O43318,10,preparation_failed,not_prepared,not_docked,ValueError('No cap geometry or explicit terminal OXT after A:177::GLY'),0,0,,
+26,L2,O75460,10,prepared,ready,ready,,10,10,-0.3939393939393939,-0.4545454545454545
+27,L2,O95819,10,prepared,ready,ready,,10,10,0.23636363636363633,0.29696969696969694
+28,L2,P05177,10,excluded_chemistry,not_prepared,not_docked,Unsupported nearby chemistry: B:900::HEM,0,0,,
+29,L2,P06730,10,preparation_failed,not_prepared,not_docked,ValueError('Unresolved chain break before B:89::CYS; no safe cap geometry'),0,0,,
+30,L2,P08254,10,excluded_chemistry,not_prepared,not_docked,"Unsupported nearby chemistry: B:1::CA, C:2::CA, D:3::CA, E:4::ZN, F:5::ZN",0,0,,
+31,L2,P18825,10,prepared,ready,ready,,10,8,-0.6808542089216724,0.08510677611520905
+32,L2,P31153,10,prepared,ready,ready,,10,10,0.14589733048321551,-0.1580554413568168
+33,L2,P31645,10,prepared,ready,ready,,10,7,-0.09847319278346618,-0.14155521462623263
+34,L2,P36897,10,prepared,ready,ready,,10,9,0.22424242424242422,0.18787878787878787
+35,L2,P41143,6,excluded_chemistry,not_prepared,not_docked,Unsupported nearby chemistry: U:1220::NA,0,0,,
+36,L2,P43166,10,excluded_chemistry,not_prepared,not_docked,Unsupported nearby chemistry: B:263::ZN,0,0,,
+37,L2,P43405,10,prepared,ready,ready,,10,10,0.44377104688644714,0.23100410659842457
+38,L2,P56817,10,prepared,ready,ready,,10,10,0.43769199144964654,-0.26747843921922837
+39,L2,Q06187,10,prepared,ready,ready,,10,9,-0.14817355731532722,-0.7038243972478043
+40,L2,Q13224,10,excluded_chemistry,not_prepared,not_docked,Unsupported nearby chemistry: K:501::NA,0,0,,
+41,L2,Q13822,10,excluded_chemistry,not_prepared,not_docked,"Unsupported nearby chemistry: C:903::ZN, D:904::ZN",0,0,,
+42,L2,Q14145,10,prepared,ready,ready,,10,10,-0.3618136134933163,-0.12060453783110543
+43,L2,Q15119,10,preparation_failed,not_prepared,not_docked,ValueError('No cap geometry or explicit terminal OXT after B:310::THR'),0,0,,
+44,L2,Q6P179,10,excluded_chemistry,not_prepared,not_docked,Unsupported nearby chemistry: I:1001::ZN,0,0,,
+45,L2,Q8NER1,10,prepared,ready,ready,,10,9,0.5757575757575757,0.09090909090909088
+46,L2,Q92793,10,prepared,ready,ready,,10,10,0.5273209527017643,-0.0195304056556209
+47,L2,Q9Y5Z0,10,preparation_failed,not_prepared,not_docked,ValueError('Unresolved chain break before A:27::GLY; no safe cap geometry'),0,0,,
+48,L3,A0A1D8PKB4,10,prepared,ready,ready,,10,10,-0.38298049251844074,0.3100318272768329
+49,L3,O14638,10,excluded_chemistry,not_prepared,not_docked,"Unsupported nearby chemistry: K:902::ZN, L:903::ZN",0,0,,
+50,L3,P05556,10,excluded_chemistry,not_prepared,not_docked,"Unsupported nearby chemistry: L:501::CA, M:502::CA",0,0,,
+51,L3,P05622,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+52,L3,P11926,10,excluded_chemistry,not_prepared,not_docked,Unsupported nearby chemistry: I:600::PLP,0,0,,
+53,L3,P18564,0,empty_original_cohort,not_prepared,not_docked,Original benchmark pose input was empty,0,0,,
+54,L3,P28347,10,prepared,ready,ready,,10,8,0.29696969696969694,0.33333333333333326
+55,L3,P40879,10,prepared,ready,ready,,10,10,0.01818181818181818,0.07878787878787878
+56,L3,P43250,10,excluded_chemistry,not_prepared,not_docked,Unsupported nearby chemistry: C:578::MG,0,0,,
+57,L3,P51684,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+58,L3,P56528,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+59,L3,Q00959,10,prepared,ready,ready,,10,10,0.3939393939393939,0.24848484848484845
+60,L3,Q00961,10,prepared,ready,ready,,10,10,0.2553203283456271,-0.43769199144964654
+61,L3,Q15878,10,prepared,ready,ready,,10,10,-0.3696969696969697,-0.32121212121212117
+62,L3,Q16665,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+63,L3,Q62645,10,prepared,ready,ready,,10,10,-0.07878787878787878,-0.4424242424242424
+64,L3,Q92830,10,prepared,ready,ready,,10,7,0.0790277206784084,0.480245379507251
+65,L3,Q96LB1,10,prepared,ready,ready,,10,10,0.35757575757575755,0.406060606060606
+66,L3,Q9HCR9,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+67,L3,Q9NPC1,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+68,L3,Q9NR22,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+69,L3,Q9UKS7,10,excluded_chemistry,not_prepared,not_docked,Unsupported nearby chemistry: Q:201::ZN,0,0,,
+70,L3,Q9Y4K4,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+71,L3,Q9Y6M4,10,preparation_failed,not_prepared,not_docked,ValueError('No cap geometry or explicit terminal OXT after A:334::VAL'),0,0,,
+72,L4,O00767,10,excluded_chemistry,not_prepared,not_docked,"Unsupported nearby chemistry: B:401::ZN, C:402::ZN, D:403::ST9",0,0,,
+73,L4,O75747,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+74,L4,O94782,10,preparation_failed,not_prepared,not_docked,ValueError('No cap geometry or explicit terminal OXT after C:164::LEU'),0,0,,
+75,L4,P09871,10,prepared,ready,ready,,10,10,-0.058025885318565944,0.4061811972299616
+76,L4,P24863,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+77,L4,P37059,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+78,L4,P42226,10,prepared,ready,ready,,10,10,-0.07878787878787878,0.38181818181818183
+79,L4,P43341,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+80,L4,P50052,10,prepared,ready,ready,,10,10,0.04242424242424241,0.23636363636363633
+81,L4,Q08211,10,excluded_chemistry,not_prepared,not_docked,"Unsupported nearby chemistry: C:1202::ADP, D:1203::MG",0,0,,
+82,L4,Q08828,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+83,L4,Q13094,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+84,L4,Q13724,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+85,L4,Q15726,0,empty_original_cohort,not_prepared,not_docked,Original benchmark pose input was empty,0,0,,
+86,L4,Q6SZW1,10,prepared,ready,ready,,10,10,-0.14155521462623263,-0.6339211785435636
+87,L4,Q70CQ3,10,preparation_failed,not_prepared,not_docked,ValueError('Unresolved chain break before A:161::ASP; no safe cap geometry'),0,0,,
+88,L4,Q8TDU9,0,empty_original_cohort,not_prepared,not_docked,Original benchmark pose input was empty,0,0,,
+89,L4,Q96PC2,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+90,L4,Q99705,10,prepared,ready,ready,,10,9,0.5592731001856595,0.03647433262080388
+91,L4,Q9GZQ6,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+92,L4,Q9HB14,10,excluded_chemistry,not_prepared,not_docked,Unsupported nearby chemistry: M:511::K,0,0,,
+93,L4,Q9NY59,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+94,L4,Q9Y239,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,
+95,L4,Q9Y4K0,10,source_not_recovered,not_prepared,not_docked,Exact residue-labelled source structure was not recovered,0,0,,

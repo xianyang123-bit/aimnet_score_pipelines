@@ -1,0 +1,12 @@
+{
+  "source": "reviewed_L1_decision",
+  "excluded_residue_keys": [
+    "B:901::SO4",
+    "C:902::STU"
+  ],
+  "exclude_names": [
+    "STU",
+    "SO4"
+  ],
+  "rationale": "Replace staurosporine; omit sulfate crystallization ion. Phosphotyrosine must not be removed if selected or proximal to the selected cluster."
+}

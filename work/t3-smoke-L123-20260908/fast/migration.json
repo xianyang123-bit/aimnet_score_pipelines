@@ -1,8 +1,0 @@
-{
-  "completed_chunks_preserved": 26,
-  "docked_chunks_recovered": 7,
-  "n_chunks": 8180,
-  "cpu_workers": 16,
-  "gpu_workers": 8,
-  "excluded_gpu_node": "babel-x5-20"
-}

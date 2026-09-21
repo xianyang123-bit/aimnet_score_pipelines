@@ -1,0 +1,15 @@
+{
+  "status": "source_not_recovered",
+  "reference_sha256": "e68fce9a9e8378ac7967fdfc8187abdfca27707f3b35e45978eca79b1083e563",
+  "candidates": 1,
+  "results": [
+    {
+      "pdb_id": "5ZE3",
+      "matched_atoms": 0,
+      "reference_atoms": 124,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q9Y4K0/5ZE3.cif",
+      "sha256": "ef5ec2034e238072f931f13911d2070828004cc2f0ec60da1f13d18f17196b8e"
+    }
+  ]
+}

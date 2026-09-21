@@ -1,0 +1,5 @@
+{
+  "source": "reviewed_L1_decision",
+  "excluded_residue_keys": [],
+  "blocked_reason": "Catalytic zinc (1.94 A) and nearby potassium; metal-aware preparation required."
+}

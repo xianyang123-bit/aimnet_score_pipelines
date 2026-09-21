@@ -1,0 +1,56 @@
+{
+  "n_requested_systems": 96,
+  "n_requested_ligands": 917,
+  "n_scored_systems": 41,
+  "n_scored_ligands": 403,
+  "layers": [
+    {
+      "layer": "L1",
+      "n_systems": 14,
+      "n_evaluable": 14,
+      "n_ligands": 133,
+      "mean_eint_rho": -0.11605512790957946,
+      "mean_smina_rho": 0.2322416010157152
+    },
+    {
+      "layer": "L2",
+      "n_systems": 13,
+      "n_evaluable": 13,
+      "n_ligands": 130,
+      "mean_eint_rho": 0.07590913170076477,
+      "mean_smina_rho": -0.10997342998239246
+    },
+    {
+      "layer": "L3",
+      "n_systems": 9,
+      "n_evaluable": 9,
+      "n_ligands": 90,
+      "mean_eint_rho": 0.063283263854157,
+      "mean_smina_rho": 0.07284616870719336
+    },
+    {
+      "layer": "L4",
+      "n_systems": 5,
+      "n_evaluable": 5,
+      "n_ligands": 50,
+      "mean_eint_rho": 0.06466567277544491,
+      "mean_smina_rho": 0.08538323389780403
+    }
+  ],
+  "preparation_status": {
+    "prepared": 41,
+    "excluded_chemistry": 25,
+    "source_not_recovered": 20,
+    "preparation_failed": 7,
+    "empty_original_cohort": 3
+  },
+  "validation": {
+    "n_scoring_errors": 0,
+    "n_converged": 383,
+    "n_nonconverged": 20,
+    "max_decomposition_error_kcal_mol": 2.684600985958241e-09,
+    "n_final_complex_energy_increases": 0,
+    "minimum_initial_heavy_contact_A": 2.3876266683951464,
+    "minimum_final_heavy_contact_A": 2.4179420476585314
+  }
+}

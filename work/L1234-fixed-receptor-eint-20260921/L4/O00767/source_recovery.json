@@ -1,0 +1,55 @@
+{
+  "status": "matched",
+  "reference_sha256": "87a1ae5810ca8e2b97b738bcfbeff2c51c358fa144d122ba3adc6cc94fb096fe",
+  "candidates": 1,
+  "results": [
+    {
+      "pdb_id": "4ZYO",
+      "matched_atoms": 463,
+      "reference_atoms": 463,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/O00767/4ZYO.cif",
+      "sha256": "15c20ff8067f41bd9c4f95d70fb144912156ad9f2c4e698a5b7af292a317eaca"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/O00767/4ZYO.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "B:401::ZN",
+      "name": "ZINC ION",
+      "distance_to_reference_A": 2.0836971948918066,
+      "elements": [
+        "Zn"
+      ]
+    },
+    {
+      "residue": "C:402::ZN",
+      "name": "ZINC ION",
+      "distance_to_reference_A": 2.0422206051257095,
+      "elements": [
+        "Zn"
+      ]
+    },
+    {
+      "residue": "D:403::ST9",
+      "name": "STEAROYL-COENZYME A",
+      "distance_to_reference_A": 2.3415710538012626,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "P",
+        "S"
+      ]
+    },
+    {
+      "residue": "E:404::LMT",
+      "name": "DODECYL-BETA-D-MALTOSIDE",
+      "distance_to_reference_A": 3.1630821993745206,
+      "elements": [
+        "C",
+        "O"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "nearby": [
+    {
+      "residue": "A:602: :POP",
+      "resname": "POP",
+      "distance_A": 2.468743405054469,
+      "elements": [
+        "H",
+        "O",
+        "P"
+      ]
+    }
+  ],
+  "blockers": [
+    {
+      "residue": "A:602: :POP",
+      "resname": "POP",
+      "distance_A": 2.468743405054469,
+      "elements": [
+        "H",
+        "O",
+        "P"
+      ],
+      "reason": "cofactor/substrate requires dedicated treatment"
+    }
+  ],
+  "ignored_as_nonessential": []
+}

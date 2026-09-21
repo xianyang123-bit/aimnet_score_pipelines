@@ -1,0 +1,14 @@
+{
+  "source": "reviewed_L1_decision",
+  "excluded_residue_keys": [
+    "C:601::4Q4",
+    "E:603::CL"
+  ],
+  "padding_residues": 0,
+  "padding_rationale": "One-residue padding reaches the unresolved chain break before GLN245. Use complete reference residues with no extra flanking residues and neutral caps from available adjacent backbone; all reference heavy atoms still required.",
+  "exclude_names": [
+    "4Q4",
+    "CL"
+  ],
+  "rationale": "Replace deposited inhibitor; omit chloride crystallization ion."
+}

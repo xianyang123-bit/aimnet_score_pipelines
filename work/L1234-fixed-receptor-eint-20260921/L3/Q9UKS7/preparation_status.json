@@ -1,0 +1,17 @@
+{
+  "status": "excluded_chemistry",
+  "source": "conservative_automatic_review",
+  "blocked_reason": "Unsupported nearby chemistry",
+  "blockers": [
+    {
+      "residue": "Q:201::ZN",
+      "name": "ZINC ION",
+      "distance_to_reference_A": 2.30284063712624,
+      "elements": [
+        "Zn"
+      ],
+      "reason": "nearby metal or metal-containing species requires a dedicated treatment"
+    }
+  ],
+  "excluded_residue_keys": []
+}

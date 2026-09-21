@@ -1,0 +1,15 @@
+{
+  "status": "source_not_recovered",
+  "reference_sha256": "9c65c0c55fead2d6dd8d8576866dca358f5df47211d0c6ccceb3d2303b1a4d85",
+  "candidates": 1,
+  "results": [
+    {
+      "pdb_id": "2WWE",
+      "matched_atoms": 0,
+      "reference_atoms": 199,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/O75747/2WWE.cif",
+      "sha256": "c0fdf94ce66c3b35fdeafe9c765b78b259c356e1d45d07f777e261066e07d27f"
+    }
+  ]
+}

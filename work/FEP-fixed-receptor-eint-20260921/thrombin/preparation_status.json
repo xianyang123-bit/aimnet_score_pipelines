@@ -1,0 +1,10 @@
+{
+  "status": "excluded_chemistry",
+  "blockers": [
+    {
+      "residue": "H:2002::NA",
+      "distance_A": 2.49,
+      "reason": "nearby sodium ion requires dedicated treatment"
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "source_sdf": "/home/xianyang/LigUnity-official/test_datasets/FEP/structures/hif2a_automap_ligands.sdf",
+  "source_sha256": "9bd5adfb323a33c972e9ddb4a070ac47b3c9772cbea9c8aafd8edee0fccf46c7",
+  "records_in_source": 51,
+  "selected": 41,
+  "mapping": [
+    {
+      "mol_id": 0,
+      "source_index": 0,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.887484391064238,
+      "source_r_exp_dg": -10.7585,
+      "formal_charge": 0,
+      "n_atoms": 37
+    },
+    {
+      "mol_id": 1,
+      "source_index": 1,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 6.377905345032991,
+      "source_r_exp_dg": -8.69946,
+      "formal_charge": 0,
+      "n_atoms": 34
+    },
+    {
+      "mol_id": 2,
+      "source_index": 2,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.421559252697001,
+      "source_r_exp_dg": -10.123,
+      "formal_charge": 0,
+      "n_atoms": 37
+    },
+    {
+      "mol_id": 3,
+      "source_index": 3,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.586399481093778,
+      "source_r_exp_dg": -10.3478,
+      "formal_charge": 0,
+      "n_atoms": 38
+    },
+    {
+      "mol_id": 4,
+      "source_index": 4,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.7461294414710435,
+      "source_r_exp_dg": -10.5657,
+      "formal_charge": 0,
+      "n_atoms": 31
+    },
+    {
+      "mol_id": 5,
+      "source_index": 5,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 8.302532682670526,
+      "source_r_exp_dg": -11.3247,
+      "formal_charge": 0,
+      "n_atoms": 37
+    },
+    {
+      "mol_id": 6,
+      "source_index": 6,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.001267150699917,
+      "source_r_exp_dg": -9.54973,
+      "formal_charge": 0,
+      "n_atoms": 38
+    },
+    {
+      "mol_id": 7,
+      "source_index": 7,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.887484391064238,
+      "source_r_exp_dg": -10.7585,
+      "formal_charge": 0,
+      "n_atoms": 38
+    },
+    {
+      "mol_id": 8,
+      "source_index": 8,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.722644162667462,
+      "source_r_exp_dg": -10.5337,
+      "formal_charge": 0,
+      "n_atoms": 40
+    },
+    {
+      "mol_id": 9,
+      "source_index": 9,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.421559252697001,
+      "source_r_exp_dg": -10.123,
+      "formal_charge": 0,
+      "n_atoms": 41
+    },
+    {
+      "mol_id": 10,
+      "source_index": 10,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.457281487428547,
+      "source_r_exp_dg": -10.1717,
+      "formal_charge": 0,
+      "n_atoms": 32
+    },
+    {
+      "mol_id": 11,
+      "source_index": 11,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.137969092539677,
+      "source_r_exp_dg": -9.73619,
+      "formal_charge": 0,
+      "n_atoms": 38
+    },
+    {
+      "mol_id": 12,
+      "source_index": 12,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 6.482659197273142,
+      "source_r_exp_dg": -8.84235,
+      "formal_charge": 0,
+      "n_atoms": 34
+    },
+    {
+      "mol_id": 13,
+      "source_index": 13,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 8.001447772700066,
+      "source_r_exp_dg": -10.914,
+      "formal_charge": 0,
+      "n_atoms": 38
+    },
+    {
+      "mol_id": 14,
+      "source_index": 14,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 7.4102766702601635,
+      "source_r_exp_dg": -10.1076,
+      "formal_charge": 0,
+      "n_atoms": 37
+    },
+    {
+      "mol_id": 15,
+      "source_index": 15,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.825324961866451,
+      "source_r_exp_dg": -10.6737,
+      "formal_charge": 0,
+      "n_atoms": 38
+    },
+    {
+      "mol_id": 16,
+      "source_index": 16,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 6.77077651373452,
+      "source_r_exp_dg": -9.23534,
+      "formal_charge": 0,
+      "n_atoms": 39
+    },
+    {
+      "mol_id": 17,
+      "source_index": 17,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 7.1752239182547735,
+      "source_r_exp_dg": -9.78701,
+      "formal_charge": 0,
+      "n_atoms": 33
+    },
+    {
+      "mol_id": 18,
+      "source_index": 18,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 5.421197659109344,
+      "source_r_exp_dg": -7.39451,
+      "formal_charge": 0,
+      "n_atoms": 40
+    },
+    {
+      "mol_id": 19,
+      "source_index": 19,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 6.825143640691583,
+      "source_r_exp_dg": -9.3095,
+      "formal_charge": 0,
+      "n_atoms": 36
+    },
+    {
+      "mol_id": 20,
+      "source_index": 20,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.77095713573467,
+      "source_r_exp_dg": -10.5996,
+      "formal_charge": 0,
+      "n_atoms": 38
+    },
+    {
+      "mol_id": 21,
+      "source_index": 21,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.825324961866451,
+      "source_r_exp_dg": -10.6737,
+      "formal_charge": 0,
+      "n_atoms": 38
+    },
+    {
+      "mol_id": 22,
+      "source_index": 22,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 6.554028155866606,
+      "source_r_exp_dg": -8.93969,
+      "formal_charge": 0,
+      "n_atoms": 34
+    },
+    {
+      "mol_id": 23,
+      "source_index": 23,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.120475041901261,
+      "source_r_exp_dg": -9.71233,
+      "formal_charge": 0,
+      "n_atoms": 37
+    },
+    {
+      "mol_id": 24,
+      "source_index": 24,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.2019631561995245,
+      "source_r_exp_dg": -9.82348,
+      "formal_charge": 0,
+      "n_atoms": 37
+    },
+    {
+      "mol_id": 25,
+      "source_index": 25,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.7461294414710435,
+      "source_r_exp_dg": -10.5657,
+      "formal_charge": 0,
+      "n_atoms": 39
+    },
+    {
+      "mol_id": 26,
+      "source_index": 26,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.700363561904325,
+      "source_r_exp_dg": -10.5033,
+      "formal_charge": 0,
+      "n_atoms": 38
+    },
+    {
+      "mol_id": 27,
+      "source_index": 27,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 4.9595049749022,
+      "source_r_exp_dg": -6.76476,
+      "formal_charge": 0,
+      "n_atoms": 39
+    },
+    {
+      "mol_id": 28,
+      "source_index": 28,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 7.329228336860007,
+      "source_r_exp_dg": -9.99707,
+      "formal_charge": 0,
+      "n_atoms": 40
+    },
+    {
+      "mol_id": 29,
+      "source_index": 29,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.082203616145069,
+      "source_r_exp_dg": -9.66013,
+      "formal_charge": 0,
+      "n_atoms": 37
+    },
+    {
+      "mol_id": 30,
+      "source_index": 30,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 5.553847184279097,
+      "source_r_exp_dg": -7.57545,
+      "formal_charge": 0,
+      "n_atoms": 33
+    },
+    {
+      "mol_id": 31,
+      "source_index": 31,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.001267150699917,
+      "source_r_exp_dg": -9.54973,
+      "formal_charge": 0,
+      "n_atoms": 40
+    },
+    {
+      "mol_id": 32,
+      "source_index": 32,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 5.181393665302534,
+      "source_r_exp_dg": -7.06742,
+      "formal_charge": 0,
+      "n_atoms": 38
+    },
+    {
+      "mol_id": 33,
+      "source_index": 33,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.509997163699868,
+      "source_r_exp_dg": -10.2436,
+      "formal_charge": 0,
+      "n_atoms": 39
+    },
+    {
+      "mol_id": 34,
+      "source_index": 34,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.825324961866451,
+      "source_r_exp_dg": -10.6737,
+      "formal_charge": 0,
+      "n_atoms": 36
+    },
+    {
+      "mol_id": 35,
+      "source_index": 35,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 7.109191760289703,
+      "source_r_exp_dg": -9.69694,
+      "formal_charge": 0,
+      "n_atoms": 33
+    },
+    {
+      "mol_id": 36,
+      "source_index": 36,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 7.3481172410623765,
+      "source_r_exp_dg": -10.0228,
+      "formal_charge": 0,
+      "n_atoms": 38
+    },
+    {
+      "mol_id": 37,
+      "source_index": 37,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 8.098375762312992,
+      "source_r_exp_dg": -11.0462,
+      "formal_charge": 0,
+      "n_atoms": 38
+    },
+    {
+      "mol_id": 38,
+      "source_index": 38,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 7.421559252697001,
+      "source_r_exp_dg": -10.123,
+      "formal_charge": 0,
+      "n_atoms": 32
+    },
+    {
+      "mol_id": 39,
+      "source_index": 39,
+      "n_candidates": 2,
+      "topology_match": true,
+      "paff": 7.538966069822786,
+      "source_r_exp_dg": -10.2831,
+      "formal_charge": 0,
+      "n_atoms": 36
+    },
+    {
+      "mol_id": 40,
+      "source_index": 40,
+      "n_candidates": 1,
+      "topology_match": true,
+      "paff": 8.072042045705128,
+      "source_r_exp_dg": -11.0103,
+      "formal_charge": 0,
+      "n_atoms": 38
+    }
+  ],
+  "reference": {
+    "cutoff_A": 6.0,
+    "n_residues": 43,
+    "n_heavy_atoms": 350
+  },
+  "initial_min_heavy_contact_A": {
+    "min": 2.100778151066885,
+    "median": 2.7650012169979257,
+    "max": 3.0526311994736615,
+    "n_below_1A": 0
+  }
+}

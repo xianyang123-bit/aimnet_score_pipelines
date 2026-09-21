@@ -1,0 +1,979 @@
+{
+  "uniprot": "O14757",
+  "layer": "L2",
+  "candidates": 163,
+  "checked": 120,
+  "reference_sha256": "cd33db18aade3bd156c289907485cd911d10d9c190e7adf97749be133a3916a7",
+  "exact_matches": [
+    {
+      "pdb_id": "5F4N",
+      "matched_atoms": 170,
+      "reference_atoms": 170,
+      "exact_match": true,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/5F4N.cif",
+      "source_sha256": "4a4b1785d8002676f749d53371da72044737e34dc1c73af4ae6a5eb72ff81aab"
+    }
+  ],
+  "results": [
+    {
+      "pdb_id": "10HY",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/10HY.cif",
+      "source_sha256": "5d97cdc5a0385f34827b2785334d8676dc3b85bddda5f5a2ac13b2411041d178"
+    },
+    {
+      "pdb_id": "10HZ",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/10HZ.cif",
+      "source_sha256": "88caf97ead63581406fd248f6b02795e23c25d0e89443476625d71ae3db24fed"
+    },
+    {
+      "pdb_id": "10IA",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/10IA.cif",
+      "source_sha256": "164baabb9da170258056ecc3c75ca94eb25c8274b94e4e389df7dc516c8c31e9"
+    },
+    {
+      "pdb_id": "1IA8",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/1IA8.cif",
+      "source_sha256": "f5a071607557f6be2c8cdc68a89672a7530a29c167e895608fd2c92534a1f08e"
+    },
+    {
+      "pdb_id": "1NVQ",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/1NVQ.cif",
+      "source_sha256": "12f2d8f510fb894381264a86ef117f7b83205c4ba9e6cc9d103c66ee1d1443b6"
+    },
+    {
+      "pdb_id": "1NVR",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/1NVR.cif",
+      "source_sha256": "dcc675f88f769cf470f8f01b63881ca28d5504569b3fef1ecebd8e1161570ddd"
+    },
+    {
+      "pdb_id": "1NVS",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/1NVS.cif",
+      "source_sha256": "d33a11f95ab1750a0714ae57aa2f971bfc6c267de6500db8ba15c4bde1517f12"
+    },
+    {
+      "pdb_id": "1ZLT",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/1ZLT.cif",
+      "source_sha256": "9d0deda232f1efb182d18ecfc34848d9ad4d06f481fc858d28b97bc45c63a6a8"
+    },
+    {
+      "pdb_id": "1ZYS",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/1ZYS.cif",
+      "source_sha256": "42545aa87cd50c14f1d84fa951c2be6e6013ccc3a4d5792c5af0ee23617690d4"
+    },
+    {
+      "pdb_id": "2AYP",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2AYP.cif",
+      "source_sha256": "b5a669e430ad54bcf12648cf42f87560ff06c69801529da21745269d304f7808"
+    },
+    {
+      "pdb_id": "2BR1",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2BR1.cif",
+      "source_sha256": "932ccf21d2e77cd47b1cdd880d8604b042721ed7ad5527922e2c64accebf5fbe"
+    },
+    {
+      "pdb_id": "2BRB",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2BRB.cif",
+      "source_sha256": "e05debf1d74f960eb69e5393a781fc6620065960ff09698fc02cb53ed25b5042"
+    },
+    {
+      "pdb_id": "2BRG",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2BRG.cif",
+      "source_sha256": "57eaf53aba77a432695d15f9f88c8d6971fb4a21b40d7aa867d0c6e18bdb515f"
+    },
+    {
+      "pdb_id": "2BRH",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2BRH.cif",
+      "source_sha256": "9ce98a2fb6971cc6b289621979c2a3d8220220c5f0596069ec255c9b9c6406fd"
+    },
+    {
+      "pdb_id": "2BRM",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2BRM.cif",
+      "source_sha256": "c1d4d17ea300c0b0768f31511f1bef634ae3b024dc83b5db5ec4f1b77aee71dc"
+    },
+    {
+      "pdb_id": "2BRN",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2BRN.cif",
+      "source_sha256": "6914683e398158ef24078c92f6900e04b073089a52bbe81d28f6e1bd29fd6a15"
+    },
+    {
+      "pdb_id": "2BRO",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2BRO.cif",
+      "source_sha256": "6c535a639f393b58c3ab0d0118c40bc9709724e250d4d60cec699fe595b92b1e"
+    },
+    {
+      "pdb_id": "2C3J",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2C3J.cif",
+      "source_sha256": "6d1fa476cadfc0cbe42194ac277a7f9748b7edba26269bfa733728db274e66dc"
+    },
+    {
+      "pdb_id": "2C3K",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2C3K.cif",
+      "source_sha256": "e7eeabc76cd272eb2e488a3744c82509d6e00431b0b94c12c076cd42d92cb6d9"
+    },
+    {
+      "pdb_id": "2C3L",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2C3L.cif",
+      "source_sha256": "72141f1cc61e30f73694397ab164bcea3d0411da121040e9376b984b10e0c404"
+    },
+    {
+      "pdb_id": "2CGU",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2CGU.cif",
+      "source_sha256": "4fb6ef97cb3e8f80d65001f4db16e6d88385e45a31a10b54dfe21ad40cc1ff31"
+    },
+    {
+      "pdb_id": "2CGV",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2CGV.cif",
+      "source_sha256": "e3664fbd48d482f6f0dff24c31f411f4f137e158a2883b0dab83c18af2fb14e2"
+    },
+    {
+      "pdb_id": "2CGW",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2CGW.cif",
+      "source_sha256": "8da9743663cc7b7c68c984b97a5e9faaf75f93448d6f8e08e0f6b2d4b79115d3"
+    },
+    {
+      "pdb_id": "2CGX",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2CGX.cif",
+      "source_sha256": "5365d849343139b5e9fb34d32302697600aae4408fead1283ece8f6eb78493f1"
+    },
+    {
+      "pdb_id": "2E9N",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2E9N.cif",
+      "source_sha256": "ba829a5d1b4a14d9552df3aeefc2eee4339597d8f842db709e81d973768097a5"
+    },
+    {
+      "pdb_id": "2E9O",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2E9O.cif",
+      "source_sha256": "5b92f3e6f1d80b9a26f10528f8601b7c8b78fa4306e37d04514f39773872126c"
+    },
+    {
+      "pdb_id": "2E9P",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2E9P.cif",
+      "source_sha256": "34e4fac679372e55faa44f156dc720b92b942caa1fc617f6f4bf679fdc1cfd30"
+    },
+    {
+      "pdb_id": "2E9U",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2E9U.cif",
+      "source_sha256": "d38a01721f56a6669600804fc83194b49c949f2d7de2c98aafcb7bc372de79b9"
+    },
+    {
+      "pdb_id": "2E9V",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2E9V.cif",
+      "source_sha256": "c6999eb2a8127bdc2228bd1207e4a6e59ee93a072a4b36c3745e0f68d51d5612"
+    },
+    {
+      "pdb_id": "2GDO",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2GDO.cif",
+      "source_sha256": "9e23889fbe0e1c764a047d8e53be1a1c4ffcb3924cf803da98b7e6dbed02c317"
+    },
+    {
+      "pdb_id": "2GHG",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2GHG.cif",
+      "source_sha256": "955607e3d757ebea21b2bbf0eeddd9891bbe6ee8c659be932f96e0c87482f66e"
+    },
+    {
+      "pdb_id": "2HOG",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2HOG.cif",
+      "source_sha256": "07dfe55e4adf690d801cad0061423cb27a6d5263d3b56beaf1360dc52851f8d3"
+    },
+    {
+      "pdb_id": "2HXL",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2HXL.cif",
+      "source_sha256": "4641ef8343dcf470162e690c5bade92f930a206f9fb9bd2fa51693405dd10862"
+    },
+    {
+      "pdb_id": "2HXQ",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2HXQ.cif",
+      "source_sha256": "65b45196a7873852b6214e85a644f927ca3a96409de4de2c32ab111fd8d5d6ee"
+    },
+    {
+      "pdb_id": "2HY0",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2HY0.cif",
+      "source_sha256": "176ec0b75f9c6b270565a8affc525895f623ba96b549e6829d8fd1a6a529e08c"
+    },
+    {
+      "pdb_id": "2QHM",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2QHM.cif",
+      "source_sha256": "811141ca0a8f7fcbb035323c44c021a71837f604b02f028ec9448e4f8b849bd4"
+    },
+    {
+      "pdb_id": "2QHN",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2QHN.cif",
+      "source_sha256": "01475ecbde80eb697f776adcc3cd819d956addb6350dd16003c6c4fbf9b8ae7a"
+    },
+    {
+      "pdb_id": "2R0U",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2R0U.cif",
+      "source_sha256": "aac0a28136f0de35bf5c97a5541bc7694d345047b604bb669947be9846bf6f55"
+    },
+    {
+      "pdb_id": "2WMQ",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2WMQ.cif",
+      "source_sha256": "14c80e1eec6a4fd13799f5d2ba224cb2156250cf6ea57f2593d050a83fab14c0"
+    },
+    {
+      "pdb_id": "2WMR",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2WMR.cif",
+      "source_sha256": "fc997058a234217132f4e72f4f7feb95f9bbbfcfc92c8cef9dd5e7d8e1d38690"
+    },
+    {
+      "pdb_id": "2WMS",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2WMS.cif",
+      "source_sha256": "7bc665e0a5d88410e2539380a83cf22fc38b1430d48030c5871eba807c06d7b3"
+    },
+    {
+      "pdb_id": "2WMT",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2WMT.cif",
+      "source_sha256": "7c90fa69623b837b3b6c5d9b791a6bbd61c9b2c139990bc043bca8aec1fddd23"
+    },
+    {
+      "pdb_id": "2WMU",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2WMU.cif",
+      "source_sha256": "e9acd059a8b1fea506486b840f6cbdc649fdfd428fbd03e5976e46857e400d0e"
+    },
+    {
+      "pdb_id": "2WMV",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2WMV.cif",
+      "source_sha256": "883429f95dfb71931a1ddbae7174e5d4597b62a3fd1f0a3b2c2d6079aaeadf49"
+    },
+    {
+      "pdb_id": "2WMW",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2WMW.cif",
+      "source_sha256": "d6c67b5b91c4a76d365c569589aa8e7349005c6b608d438371f0eaad6c40a72e"
+    },
+    {
+      "pdb_id": "2WMX",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2WMX.cif",
+      "source_sha256": "27bcce8644054a2296f37928496338a413ccc66151af7940afe9b553a84c3502"
+    },
+    {
+      "pdb_id": "2X8D",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2X8D.cif",
+      "source_sha256": "26d57cefc1a72e517e6cb896f1dabb7889c224e1a1bc9574397c25dd9844ef6f"
+    },
+    {
+      "pdb_id": "2X8E",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2X8E.cif",
+      "source_sha256": "bcad994dc56e9794eaea4e1fe648f530d049ace1c0bcf679d8c4498ec413689b"
+    },
+    {
+      "pdb_id": "2X8I",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2X8I.cif",
+      "source_sha256": "ebb44092b4eba77ec7ee29399bb6c41786bd642d79ad7e758cd390966c1d353d"
+    },
+    {
+      "pdb_id": "2XEY",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2XEY.cif",
+      "source_sha256": "ad49800622781f9a3ca2aa1f6bcdd6cdb5007ced6c4a7314cd4b27e0d2876f08"
+    },
+    {
+      "pdb_id": "2XEZ",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2XEZ.cif",
+      "source_sha256": "f5950658cd83f9cde2d5d0ca8ac52cd92295085663e418805826266f8e8e5a0f"
+    },
+    {
+      "pdb_id": "2XF0",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2XF0.cif",
+      "source_sha256": "a9a9d1bd86a4f6bb0e51a570b9900fd9b34701fa0cb770e545afa6ed66bd1e78"
+    },
+    {
+      "pdb_id": "2YDI",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2YDI.cif",
+      "source_sha256": "3919f6bac8982734df56c9c4db63907e196188a9f56378199b019d5c9509f53d"
+    },
+    {
+      "pdb_id": "2YDJ",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2YDJ.cif",
+      "source_sha256": "9188480cd381563ca24ed91145e07599173b144230f07332d1d1a74883fc90a5"
+    },
+    {
+      "pdb_id": "2YDK",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2YDK.cif",
+      "source_sha256": "895aab03d1378d36c6adf681273c9c4e0ee0c3a0c1a4cc3fd15436563e2d3dc4"
+    },
+    {
+      "pdb_id": "2YER",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2YER.cif",
+      "source_sha256": "9aa42308a44205b1a9690f7949a8ca4ab25dcf79a12ff5a552db32c2c8ab48e6"
+    },
+    {
+      "pdb_id": "2YEX",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2YEX.cif",
+      "source_sha256": "a0b72f6984c8140264454736231e30172043416c1eec17018de3df7e9f5192f8"
+    },
+    {
+      "pdb_id": "2YM3",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2YM3.cif",
+      "source_sha256": "b725f0654b9a02ec3ba8f2b8e2ed33a60196d4c2aff16cc20eb880c8732ff381"
+    },
+    {
+      "pdb_id": "2YM4",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2YM4.cif",
+      "source_sha256": "af9c58dfaab0f2e0dc7a1f20c87fae86b923e369ee1d7da2dba0295483ebd759"
+    },
+    {
+      "pdb_id": "2YM5",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2YM5.cif",
+      "source_sha256": "cf431cc9de5c7835eac984ca44f2435d615cfbf80554fa88845607d72e016679"
+    },
+    {
+      "pdb_id": "2YM6",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2YM6.cif",
+      "source_sha256": "294f1e62535404a64eec620a4914e3401b7b7c4c56a049e50519ef91ca7cea40"
+    },
+    {
+      "pdb_id": "2YM7",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2YM7.cif",
+      "source_sha256": "f5b3ed1e368df631d3406479efc09b69dc67a0b0cfaee3d750a1dd548cfd7e0e"
+    },
+    {
+      "pdb_id": "2YM8",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2YM8.cif",
+      "source_sha256": "44b7371d2fcaac771f18f5dd59f0254793fc2d9df201f8aed69720d7d59a3ff0"
+    },
+    {
+      "pdb_id": "2YWP",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/2YWP.cif",
+      "source_sha256": "ea2a664e802b443b0ce96c3e4f4a65dab0749d5c6fd29f8e0a4548dbd939ccda"
+    },
+    {
+      "pdb_id": "3F9N",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/3F9N.cif",
+      "source_sha256": "301856f339735394225eec9c99bcdbf6cb879089dde30592954717a356872bd8"
+    },
+    {
+      "pdb_id": "3JVR",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/3JVR.cif",
+      "source_sha256": "833b72662fc250be0ac0054ca0d9f1ff537b6bb7f31403ed668fc2e1a0ffee4f"
+    },
+    {
+      "pdb_id": "3JVS",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/3JVS.cif",
+      "source_sha256": "3dc9700a9129123972b6bf95c0184e6c8f3b3f64885f4b573408bd4e3fe6d301"
+    },
+    {
+      "pdb_id": "3NLB",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/3NLB.cif",
+      "source_sha256": "6d7ea75d06b5c12a592c10f6006af7bab6dd467b7a1195632b09d6bcef4d4483"
+    },
+    {
+      "pdb_id": "3OT3",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/3OT3.cif",
+      "source_sha256": "59adf24355ba1d0c55d38c15af7698af6c33a1e0d0531f44fadd398951bd2b7a"
+    },
+    {
+      "pdb_id": "3OT8",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/3OT8.cif",
+      "source_sha256": "c62dc35cfa0715dc8da4887bec8d74c94137263e7173099500e1439aa4e4e6a2"
+    },
+    {
+      "pdb_id": "3PA3",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/3PA3.cif",
+      "source_sha256": "39c8322bfc27858d6a8a33f870743bf11f9bc7ab7887f49862aae70b3a5b495a"
+    },
+    {
+      "pdb_id": "3PA4",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/3PA4.cif",
+      "source_sha256": "9358377216fd8e2ecafc6a4455b44145875a1c46c57cd45af23b99411a76ddeb"
+    },
+    {
+      "pdb_id": "3PA5",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/3PA5.cif",
+      "source_sha256": "38be7ba49bacb79a498b3e74cc85c0ff3dc0665d359ac790c9215b64c728982a"
+    },
+    {
+      "pdb_id": "3TKH",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/3TKH.cif",
+      "source_sha256": "14459482fe2d6e4fbde26539a83cd43a1a746498c1266eb8edf266277f80b254"
+    },
+    {
+      "pdb_id": "3TKI",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/3TKI.cif",
+      "source_sha256": "5c353fbda0d7f8da9beb1ec98fe51f5965e788f76733a6efe99338f610cdb217"
+    },
+    {
+      "pdb_id": "3U9N",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/3U9N.cif",
+      "source_sha256": "e6c3229609dabc62a121cf19dafcfb186c52438c4ba8d2ec0467c15b02267a28"
+    },
+    {
+      "pdb_id": "4FSM",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FSM.cif",
+      "source_sha256": "cebf020a0976d7eaaca4b883cf9a432cba5a6e28e85668d83824d51698fa44ce"
+    },
+    {
+      "pdb_id": "4FSN",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FSN.cif",
+      "source_sha256": "4ac48e3ca0848867061e3efe67b365456661850edbe0cc91377923bdf6827127"
+    },
+    {
+      "pdb_id": "4FSQ",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FSQ.cif",
+      "source_sha256": "29fa30359e026417fe70c41d14d31c960f7a5b5798afaa39ce3818196bfe4caf"
+    },
+    {
+      "pdb_id": "4FSR",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FSR.cif",
+      "source_sha256": "22a18a5f98d356af0d5822d78d9a800032e4704a93bc686caec2467a0a2952fb"
+    },
+    {
+      "pdb_id": "4FST",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FST.cif",
+      "source_sha256": "c78785a34fb4e1a085fd00af78ceb19719a87bfaf10e8dc1cc7014f8aceff32b"
+    },
+    {
+      "pdb_id": "4FSU",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FSU.cif",
+      "source_sha256": "733c5d6f0c11be4998b30b664a00778e6c68d8d3a95bb7f3e5137ff41fbc1b6c"
+    },
+    {
+      "pdb_id": "4FSW",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FSW.cif",
+      "source_sha256": "c04e9e6bc7062ad41b6b36fcfb74b9559f8f617c5693bd03103cb44604b44937"
+    },
+    {
+      "pdb_id": "4FSY",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FSY.cif",
+      "source_sha256": "bdfc287c535ef0033156905279e26950dd79795dac5a96fc8da6dcfb9e2d1991"
+    },
+    {
+      "pdb_id": "4FSZ",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FSZ.cif",
+      "source_sha256": "ef40c400b9d4bd47aa836ecd7f01eaae20e198c54db37fd8a8e88fc493b07f0d"
+    },
+    {
+      "pdb_id": "4FT0",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FT0.cif",
+      "source_sha256": "c9a90eac1f4224381d99a862f1d619904afd988ded92a1196fab58848629de18"
+    },
+    {
+      "pdb_id": "4FT3",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FT3.cif",
+      "source_sha256": "d035721c422d4a2c1978b516f83686c5699f2db1da6efa267084cc900e78a6d0"
+    },
+    {
+      "pdb_id": "4FT5",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FT5.cif",
+      "source_sha256": "f2154ff48799ac491efe1518c861c41f43a702f68717ff8a6fa11536c4378a54"
+    },
+    {
+      "pdb_id": "4FT7",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FT7.cif",
+      "source_sha256": "9e344673be149cbf0222554167c8198121d354dfc982ba35e4b1e20ef36a9470"
+    },
+    {
+      "pdb_id": "4FT9",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FT9.cif",
+      "source_sha256": "ac50bb2b62742b7624f6ae1c3705a86741f0ac3893d20cee7cb2b7aa6849d24a"
+    },
+    {
+      "pdb_id": "4FTA",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FTA.cif",
+      "source_sha256": "b80615b66d84ec22507c0a406dc28ba4527135fc42c237541811416cf50baec6"
+    },
+    {
+      "pdb_id": "4FTC",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FTC.cif",
+      "source_sha256": "07777739e08b5c121c1a5660640894c7d011d2caeb9c480b8167701374a7c350"
+    },
+    {
+      "pdb_id": "4FTI",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FTI.cif",
+      "source_sha256": "7cb705528f17a8440b3249088363fcd6e2d2081cf50e8c6d1fafd6d1d872ae74"
+    },
+    {
+      "pdb_id": "4FTJ",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FTJ.cif",
+      "source_sha256": "486c2c38eecda1ccd1c0ac53918a78acefaa52b9f07f670925502469f40c399b"
+    },
+    {
+      "pdb_id": "4FTK",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FTK.cif",
+      "source_sha256": "47e72f6e11bd92fc7f581598bf9388cf947ad67c2a0e5cd5ec88f45a17d24a00"
+    },
+    {
+      "pdb_id": "4FTL",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FTL.cif",
+      "source_sha256": "6e0685793df43f978ab524d828a54630ec93a25e7432598d30cb7ab852e03462"
+    },
+    {
+      "pdb_id": "4FTM",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FTM.cif",
+      "source_sha256": "9456dc63ecdfacd42a1d430f7fe93f297810efb1e42bc7dace93b9c05b0cae75"
+    },
+    {
+      "pdb_id": "4FTN",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FTN.cif",
+      "source_sha256": "69b4385ef9191dcf19c7dd21265df7e6f45484a8c57a4f6777966d169e1774d1"
+    },
+    {
+      "pdb_id": "4FTO",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FTO.cif",
+      "source_sha256": "56f7a54ab12fb1cdd18d5df1335f17c3952b3f1dfac56e4149c183110cd5b8f5"
+    },
+    {
+      "pdb_id": "4FTQ",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FTQ.cif",
+      "source_sha256": "28f3d595294420794547ebf874dbcf5abf1e3863c73f6a08cccead7dc0ec554f"
+    },
+    {
+      "pdb_id": "4FTR",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FTR.cif",
+      "source_sha256": "0fc9663670393016846f2cd6790880e00bc7aaa2d6ba2bf0f318173e4705747c"
+    },
+    {
+      "pdb_id": "4FTT",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FTT.cif",
+      "source_sha256": "d42338a56eb566ced261bf6196c616a24d476de4d88948e905627cd5c1db2d9a"
+    },
+    {
+      "pdb_id": "4FTU",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4FTU.cif",
+      "source_sha256": "1a4eba03b229adcb6770323f580b2a0fefd6a661213bfb38e827f3fcc6346ef1"
+    },
+    {
+      "pdb_id": "4GH2",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4GH2.cif",
+      "source_sha256": "4e18688b2725a9cd73012e9a231cf7a2a4800d8dd73dc50022c66f5bf5de1e2e"
+    },
+    {
+      "pdb_id": "4HYH",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4HYH.cif",
+      "source_sha256": "eb3a51fa1cc2120843ddc365ac8c71100c6917ddf1c9f0dc10a53571634e653b"
+    },
+    {
+      "pdb_id": "4HYI",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4HYI.cif",
+      "source_sha256": "a20602d366c1d1e065407ea6635bb662505f338698b0494b004e346fb58bc824"
+    },
+    {
+      "pdb_id": "4JIK",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4JIK.cif",
+      "source_sha256": "8170ec63f56099f4c4e2f4939d8fb96bc92bfaf7cb72c4e3f737009218d1c807"
+    },
+    {
+      "pdb_id": "4QYE",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4QYE.cif",
+      "source_sha256": "b3e15ffbfb7d3b94a4d869f4316afefa4e1ff9e296d45dff5bfe0adcbb9879c4"
+    },
+    {
+      "pdb_id": "4QYF",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4QYF.cif",
+      "source_sha256": "b4469fcd8cdf8e457e9485d0edace9dafc9b63f2ed215660645b2ad9e9dca5b9"
+    },
+    {
+      "pdb_id": "4QYG",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4QYG.cif",
+      "source_sha256": "7ebd1de16841d4a6c331ce3c2ff54fb61315988bd707ff1878167896005a9afa"
+    },
+    {
+      "pdb_id": "4QYH",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4QYH.cif",
+      "source_sha256": "b5a0d5d8341b60c4fd46052960fc4984d2202d69386fd59cd42c0481edde23cf"
+    },
+    {
+      "pdb_id": "4RVK",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4RVK.cif",
+      "source_sha256": "e36e41f91e00b03ed1fc67e3406977653913f1e118be03dbd7e71151cb55805b"
+    },
+    {
+      "pdb_id": "4RVL",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4RVL.cif",
+      "source_sha256": "693a20771eb8547921e042eb1dc1285e8c6f98d9a51056d63469b91981c4f108"
+    },
+    {
+      "pdb_id": "4RVM",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/4RVM.cif",
+      "source_sha256": "bcab5d5f59097fab6d94abf27705a3f67584de81323ab52b36c021135a9bd175"
+    },
+    {
+      "pdb_id": "5DLS",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/5DLS.cif",
+      "source_sha256": "4dfc390fce1f48b418fee50e9a5317d1cbb89ae9f8610028c365ecddb6b66cda"
+    },
+    {
+      "pdb_id": "5F4N",
+      "matched_atoms": 170,
+      "reference_atoms": 170,
+      "exact_match": true,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/5F4N.cif",
+      "source_sha256": "4a4b1785d8002676f749d53371da72044737e34dc1c73af4ae6a5eb72ff81aab"
+    },
+    {
+      "pdb_id": "5OOP",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/5OOP.cif",
+      "source_sha256": "fad8d5bfc0cbfc1cbe301b796818d81ae723984ccb2a0aaef897df25646ad135"
+    },
+    {
+      "pdb_id": "5OOR",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/5OOR.cif",
+      "source_sha256": "2f7543348454309e6eb046d20eeb465f8ecf7cec91ffc07cc797a39b34829c2f"
+    },
+    {
+      "pdb_id": "5OOT",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/5OOT.cif",
+      "source_sha256": "6601d043a77c2d5a517303a99de90bbb9f4e0c76f54d21e29aa6f66d7ae820ae"
+    },
+    {
+      "pdb_id": "5OP2",
+      "matched_atoms": 0,
+      "reference_atoms": 170,
+      "exact_match": false,
+      "source": "pocket-correction-20260921/recovered/L2/O14757/5OP2.cif",
+      "source_sha256": "9a27e0ddd75a1d1d4400c3105609e5db25fdbc24ce8b4219b653623d105700f4"
+    }
+  ]
+}

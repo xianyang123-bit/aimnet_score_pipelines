@@ -13,23 +13,7 @@ EV_TO_KCAL_MOL = 23.060547830619
 RDLogger.DisableLog("rdApp.*")
 
 
-def read_pocket(path: Path):
-    coords, numbers = [], []
-    charge = 0
-    periodic = Chem.GetPeriodicTable()
-    for line in path.read_text().splitlines():
-        if not line.startswith(("ATOM  ", "HETATM")):
-            continue
-        symbol = line[76:78].strip()
-        if not symbol:
-            atom_name = "".join(c for c in line[12:16] if c.isalpha()).upper()
-            symbol = atom_name[0] if atom_name else "C"
-        coords.append([float(line[30:38]), float(line[38:46]), float(line[46:54])])
-        numbers.append(periodic.GetAtomicNumber(symbol.title()))
-        formal_charge = line[78:80].strip()
-        if formal_charge:
-            charge += int(formal_charge[0]) * (1 if formal_charge[-1] == "+" else -1)
-    return np.asarray(coords, np.float32), np.asarray(numbers, np.int64), charge
+from prepared_pocket import read_pocket
 
 
 def eval_systems(calc, systems):

@@ -1,0 +1,3123 @@
+{
+  "schema": "aimnet_prepared_pocket_v1",
+  "status": "validated",
+  "source_structure": "/home/xianyang/aimnet2_score_pipelines/work/FEP-fixed-receptor-eint-20260921/tnks2/source_protein.pdb",
+  "source_sha256": "ea16e8660cb1ed185e133a8bc9347024654bd10f4b3bec79fae5e7fefef5849d",
+  "reference_pocket": "/home/xianyang/aimnet2_score_pipelines/work/FEP-fixed-receptor-eint-20260921/tnks2/legacy_pocket.pdb",
+  "reference_sha256": "702f85f168ddd83fc1e5a1edb063ef0eec24944c246413b9ca8a12895793dc95",
+  "source_match_max_distance_A": 7.32410687763558e-15,
+  "reference_atoms": 233,
+  "ph": 7.4,
+  "seed": 20260921,
+  "forcefield": "amber14/protein.ff14SB.xml",
+  "openmm_version": "8.6.1",
+  "charge_method": "integer sum of Amber topology charges; AIMNet still predicts its own atomic charges",
+  "net_charge": -1,
+  "topology_charge_sum": -0.9999999999999974,
+  "residue_charge_sums": [
+    {
+      "residue_index": 0,
+      "name": "ACE",
+      "charge_sum": 0.0
+    },
+    {
+      "residue_index": 1,
+      "name": "LEU",
+      "charge_sum": 2.7755575615628914e-17
+    },
+    {
+      "residue_index": 2,
+      "name": "PHE",
+      "charge_sum": 2.7755575615628914e-17
+    },
+    {
+      "residue_index": 3,
+      "name": "HIS",
+      "charge_sum": 0.0
+    },
+    {
+      "residue_index": 4,
+      "name": "GLY",
+      "charge_sum": 1.1102230246251565e-16
+    },
+    {
+      "residue_index": 5,
+      "name": "SER",
+      "charge_sum": 1.1102230246251565e-16
+    },
+    {
+      "residue_index": 6,
+      "name": "PRO",
+      "charge_sum": -4.163336342344337e-17
+    },
+    {
+      "residue_index": 7,
+      "name": "PHE",
+      "charge_sum": 2.7755575615628914e-17
+    },
+    {
+      "residue_index": 8,
+      "name": "VAL",
+      "charge_sum": 1.1102230246251565e-16
+    },
+    {
+      "residue_index": 9,
+      "name": "NME",
+      "charge_sum": -2.7755575615628914e-17
+    },
+    {
+      "residue_index": 10,
+      "name": "ACE",
+      "charge_sum": 0.0
+    },
+    {
+      "residue_index": 11,
+      "name": "GLU",
+      "charge_sum": -0.9999999999999999
+    },
+    {
+      "residue_index": 12,
+      "name": "ARG",
+      "charge_sum": 0.9999999999999998
+    },
+    {
+      "residue_index": 13,
+      "name": "HIS",
+      "charge_sum": 0.0
+    },
+    {
+      "residue_index": 14,
+      "name": "ALA",
+      "charge_sum": 4.163336342344337e-17
+    },
+    {
+      "residue_index": 15,
+      "name": "TYR",
+      "charge_sum": 0.0
+    },
+    {
+      "residue_index": 16,
+      "name": "ILE",
+      "charge_sum": 3.469446951953614e-17
+    },
+    {
+      "residue_index": 17,
+      "name": "GLY",
+      "charge_sum": 1.1102230246251565e-16
+    },
+    {
+      "residue_index": 18,
+      "name": "GLY",
+      "charge_sum": 1.1102230246251565e-16
+    },
+    {
+      "residue_index": 19,
+      "name": "MET",
+      "charge_sum": 8.326672684688674e-17
+    },
+    {
+      "residue_index": 20,
+      "name": "PHE",
+      "charge_sum": 2.7755575615628914e-17
+    },
+    {
+      "residue_index": 21,
+      "name": "NME",
+      "charge_sum": -2.7755575615628914e-17
+    },
+    {
+      "residue_index": 22,
+      "name": "ACE",
+      "charge_sum": 0.0
+    },
+    {
+      "residue_index": 23,
+      "name": "ILE",
+      "charge_sum": 3.469446951953614e-17
+    },
+    {
+      "residue_index": 24,
+      "name": "TYR",
+      "charge_sum": 0.0
+    },
+    {
+      "residue_index": 25,
+      "name": "PHE",
+      "charge_sum": 2.7755575615628914e-17
+    },
+    {
+      "residue_index": 26,
+      "name": "ALA",
+      "charge_sum": 4.163336342344337e-17
+    },
+    {
+      "residue_index": 27,
+      "name": "GLU",
+      "charge_sum": -0.9999999999999999
+    },
+    {
+      "residue_index": 28,
+      "name": "ASN",
+      "charge_sum": 0.0
+    },
+    {
+      "residue_index": 29,
+      "name": "SER",
+      "charge_sum": 1.1102230246251565e-16
+    },
+    {
+      "residue_index": 30,
+      "name": "SER",
+      "charge_sum": 1.1102230246251565e-16
+    },
+    {
+      "residue_index": 31,
+      "name": "LYS",
+      "charge_sum": 1.0
+    },
+    {
+      "residue_index": 32,
+      "name": "SER",
+      "charge_sum": 1.1102230246251565e-16
+    },
+    {
+      "residue_index": 33,
+      "name": "ASN",
+      "charge_sum": 0.0
+    },
+    {
+      "residue_index": 34,
+      "name": "GLN",
+      "charge_sum": 0.0
+    },
+    {
+      "residue_index": 35,
+      "name": "TYR",
+      "charge_sum": 0.0
+    },
+    {
+      "residue_index": 36,
+      "name": "VAL",
+      "charge_sum": 1.1102230246251565e-16
+    },
+    {
+      "residue_index": 37,
+      "name": "TYR",
+      "charge_sum": 0.0
+    },
+    {
+      "residue_index": 38,
+      "name": "GLY",
+      "charge_sum": 1.1102230246251565e-16
+    },
+    {
+      "residue_index": 39,
+      "name": "ILE",
+      "charge_sum": 3.469446951953614e-17
+    },
+    {
+      "residue_index": 40,
+      "name": "GLY",
+      "charge_sum": 1.1102230246251565e-16
+    },
+    {
+      "residue_index": 41,
+      "name": "NME",
+      "charge_sum": -2.7755575615628914e-17
+    },
+    {
+      "residue_index": 42,
+      "name": "ACE",
+      "charge_sum": 0.0
+    },
+    {
+      "residue_index": 43,
+      "name": "GLN",
+      "charge_sum": 0.0
+    },
+    {
+      "residue_index": 44,
+      "name": "LEU",
+      "charge_sum": 2.7755575615628914e-17
+    },
+    {
+      "residue_index": 45,
+      "name": "LEU",
+      "charge_sum": 2.7755575615628914e-17
+    },
+    {
+      "residue_index": 46,
+      "name": "NME",
+      "charge_sum": -2.7755575615628914e-17
+    },
+    {
+      "residue_index": 47,
+      "name": "ACE",
+      "charge_sum": 0.0
+    },
+    {
+      "residue_index": 48,
+      "name": "LEU",
+      "charge_sum": 2.7755575615628914e-17
+    },
+    {
+      "residue_index": 49,
+      "name": "ALA",
+      "charge_sum": 4.163336342344337e-17
+    },
+    {
+      "residue_index": 50,
+      "name": "GLU",
+      "charge_sum": -0.9999999999999999
+    },
+    {
+      "residue_index": 51,
+      "name": "TYR",
+      "charge_sum": 0.0
+    },
+    {
+      "residue_index": 52,
+      "name": "VAL",
+      "charge_sum": 1.1102230246251565e-16
+    },
+    {
+      "residue_index": 53,
+      "name": "NME",
+      "charge_sum": -2.7755575615628914e-17
+    }
+  ],
+  "n_atoms": 753,
+  "n_hydrogens": 372,
+  "selected_source_residues": [
+    "A:1029: :LEU",
+    "A:1030: :PHE",
+    "A:1031: :HIS",
+    "A:1032: :GLY",
+    "A:1033: :SER",
+    "A:1034: :PRO",
+    "A:1035: :PHE",
+    "A:1036: :VAL",
+    "A:1046: :GLU",
+    "A:1047: :ARG",
+    "A:1048: :HIS",
+    "A:1049: :ALA",
+    "A:1050: :TYR",
+    "A:1051: :ILE",
+    "A:1052: :GLY",
+    "A:1053: :GLY",
+    "A:1054: :MET",
+    "A:1055: :PHE",
+    "A:1059: :ILE",
+    "A:1060: :TYR",
+    "A:1061: :PHE",
+    "A:1062: :ALA",
+    "A:1063: :GLU",
+    "A:1064: :ASN",
+    "A:1065: :SER",
+    "A:1066: :SER",
+    "A:1067: :LYS",
+    "A:1068: :SER",
+    "A:1069: :ASN",
+    "A:1070: :GLN",
+    "A:1071: :TYR",
+    "A:1072: :VAL",
+    "A:1073: :TYR",
+    "A:1074: :GLY",
+    "A:1075: :ILE",
+    "A:1076: :GLY",
+    "A:1095: :GLN",
+    "A:1096: :LEU",
+    "A:1097: :LEU",
+    "C:1136: :LEU",
+    "C:1137: :ALA",
+    "C:1138: :GLU",
+    "C:1139: :TYR",
+    "C:1140: :VAL"
+  ],
+  "original_pocket_residues": 28,
+  "padding_residues": 1,
+  "caps": [
+    {
+      "type": "ACE",
+      "source": "A:1028: :MET"
+    },
+    {
+      "type": "NME",
+      "source": "A:1037: :ASN"
+    },
+    {
+      "type": "ACE",
+      "source": "A:1045: :ASP"
+    },
+    {
+      "type": "NME",
+      "source": "A:1056: :GLY"
+    },
+    {
+      "type": "ACE",
+      "source": "A:1058: :GLY"
+    },
+    {
+      "type": "NME",
+      "source": "A:1077: :GLY"
+    },
+    {
+      "type": "ACE",
+      "source": "A:1094: :ARG"
+    },
+    {
+      "type": "NME",
+      "source": "A:1098: :PHE"
+    },
+    {
+      "type": "ACE",
+      "source": "C:1135: :ALA"
+    },
+    {
+      "type": "NME",
+      "source": "C:1141: :ILE"
+    }
+  ],
+  "protonation_variants": [
+    null,
+    null,
+    null,
+    "HID",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "HID",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "protonation_overrides": {},
+  "excluded_nearby_heterogens": [
+    {
+      "residue": "A:2114: :SO4",
+      "distance_A": 2.86326195099226
+    }
+  ],
+  "water_policy": "waters omitted; evaluate conserved waters separately",
+  "heavy_atom_max_displacement_A": 0.0,
+  "atom_provenance": [
+    {
+      "source_atom_index": 1246,
+      "source_residue": "A:1028: :MET",
+      "output_residue_index": 0,
+      "output_atom_name": "CH3",
+      "cap": true
+    },
+    {
+      "source_atom_index": 1247,
+      "source_residue": "A:1028: :MET",
+      "output_residue_index": 0,
+      "output_atom_name": "C",
+      "cap": true
+    },
+    {
+      "source_atom_index": 1248,
+      "source_residue": "A:1028: :MET",
+      "output_residue_index": 0,
+      "output_atom_name": "O",
+      "cap": true
+    },
+    {
+      "source_atom_index": 1262,
+      "source_residue": "A:1029: :LEU",
+      "output_residue_index": 1,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1263,
+      "source_residue": "A:1029: :LEU",
+      "output_residue_index": 1,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1264,
+      "source_residue": "A:1029: :LEU",
+      "output_residue_index": 1,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1265,
+      "source_residue": "A:1029: :LEU",
+      "output_residue_index": 1,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1266,
+      "source_residue": "A:1029: :LEU",
+      "output_residue_index": 1,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1267,
+      "source_residue": "A:1029: :LEU",
+      "output_residue_index": 1,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1268,
+      "source_residue": "A:1029: :LEU",
+      "output_residue_index": 1,
+      "output_atom_name": "CD1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1269,
+      "source_residue": "A:1029: :LEU",
+      "output_residue_index": 1,
+      "output_atom_name": "CD2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1281,
+      "source_residue": "A:1030: :PHE",
+      "output_residue_index": 2,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1282,
+      "source_residue": "A:1030: :PHE",
+      "output_residue_index": 2,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1283,
+      "source_residue": "A:1030: :PHE",
+      "output_residue_index": 2,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1284,
+      "source_residue": "A:1030: :PHE",
+      "output_residue_index": 2,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1285,
+      "source_residue": "A:1030: :PHE",
+      "output_residue_index": 2,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1286,
+      "source_residue": "A:1030: :PHE",
+      "output_residue_index": 2,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1287,
+      "source_residue": "A:1030: :PHE",
+      "output_residue_index": 2,
+      "output_atom_name": "CD1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1288,
+      "source_residue": "A:1030: :PHE",
+      "output_residue_index": 2,
+      "output_atom_name": "CD2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1289,
+      "source_residue": "A:1030: :PHE",
+      "output_residue_index": 2,
+      "output_atom_name": "CE1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1290,
+      "source_residue": "A:1030: :PHE",
+      "output_residue_index": 2,
+      "output_atom_name": "CE2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1291,
+      "source_residue": "A:1030: :PHE",
+      "output_residue_index": 2,
+      "output_atom_name": "CZ",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1301,
+      "source_residue": "A:1031: :HIS",
+      "output_residue_index": 3,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1302,
+      "source_residue": "A:1031: :HIS",
+      "output_residue_index": 3,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1303,
+      "source_residue": "A:1031: :HIS",
+      "output_residue_index": 3,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1304,
+      "source_residue": "A:1031: :HIS",
+      "output_residue_index": 3,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1305,
+      "source_residue": "A:1031: :HIS",
+      "output_residue_index": 3,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1306,
+      "source_residue": "A:1031: :HIS",
+      "output_residue_index": 3,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1307,
+      "source_residue": "A:1031: :HIS",
+      "output_residue_index": 3,
+      "output_atom_name": "ND1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1308,
+      "source_residue": "A:1031: :HIS",
+      "output_residue_index": 3,
+      "output_atom_name": "CD2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1309,
+      "source_residue": "A:1031: :HIS",
+      "output_residue_index": 3,
+      "output_atom_name": "CE1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1310,
+      "source_residue": "A:1031: :HIS",
+      "output_residue_index": 3,
+      "output_atom_name": "NE2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1318,
+      "source_residue": "A:1032: :GLY",
+      "output_residue_index": 4,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1319,
+      "source_residue": "A:1032: :GLY",
+      "output_residue_index": 4,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1320,
+      "source_residue": "A:1032: :GLY",
+      "output_residue_index": 4,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1321,
+      "source_residue": "A:1032: :GLY",
+      "output_residue_index": 4,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1325,
+      "source_residue": "A:1033: :SER",
+      "output_residue_index": 5,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1326,
+      "source_residue": "A:1033: :SER",
+      "output_residue_index": 5,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1327,
+      "source_residue": "A:1033: :SER",
+      "output_residue_index": 5,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1328,
+      "source_residue": "A:1033: :SER",
+      "output_residue_index": 5,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1329,
+      "source_residue": "A:1033: :SER",
+      "output_residue_index": 5,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1330,
+      "source_residue": "A:1033: :SER",
+      "output_residue_index": 5,
+      "output_atom_name": "OG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1336,
+      "source_residue": "A:1034: :PRO",
+      "output_residue_index": 6,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1337,
+      "source_residue": "A:1034: :PRO",
+      "output_residue_index": 6,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1338,
+      "source_residue": "A:1034: :PRO",
+      "output_residue_index": 6,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1339,
+      "source_residue": "A:1034: :PRO",
+      "output_residue_index": 6,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1340,
+      "source_residue": "A:1034: :PRO",
+      "output_residue_index": 6,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1341,
+      "source_residue": "A:1034: :PRO",
+      "output_residue_index": 6,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1342,
+      "source_residue": "A:1034: :PRO",
+      "output_residue_index": 6,
+      "output_atom_name": "CD",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1350,
+      "source_residue": "A:1035: :PHE",
+      "output_residue_index": 7,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1351,
+      "source_residue": "A:1035: :PHE",
+      "output_residue_index": 7,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1352,
+      "source_residue": "A:1035: :PHE",
+      "output_residue_index": 7,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1353,
+      "source_residue": "A:1035: :PHE",
+      "output_residue_index": 7,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1354,
+      "source_residue": "A:1035: :PHE",
+      "output_residue_index": 7,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1355,
+      "source_residue": "A:1035: :PHE",
+      "output_residue_index": 7,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1356,
+      "source_residue": "A:1035: :PHE",
+      "output_residue_index": 7,
+      "output_atom_name": "CD1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1357,
+      "source_residue": "A:1035: :PHE",
+      "output_residue_index": 7,
+      "output_atom_name": "CD2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1358,
+      "source_residue": "A:1035: :PHE",
+      "output_residue_index": 7,
+      "output_atom_name": "CE1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1359,
+      "source_residue": "A:1035: :PHE",
+      "output_residue_index": 7,
+      "output_atom_name": "CE2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1360,
+      "source_residue": "A:1035: :PHE",
+      "output_residue_index": 7,
+      "output_atom_name": "CZ",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1370,
+      "source_residue": "A:1036: :VAL",
+      "output_residue_index": 8,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1371,
+      "source_residue": "A:1036: :VAL",
+      "output_residue_index": 8,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1372,
+      "source_residue": "A:1036: :VAL",
+      "output_residue_index": 8,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1373,
+      "source_residue": "A:1036: :VAL",
+      "output_residue_index": 8,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1374,
+      "source_residue": "A:1036: :VAL",
+      "output_residue_index": 8,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1375,
+      "source_residue": "A:1036: :VAL",
+      "output_residue_index": 8,
+      "output_atom_name": "CG1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1376,
+      "source_residue": "A:1036: :VAL",
+      "output_residue_index": 8,
+      "output_atom_name": "CG2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1386,
+      "source_residue": "A:1037: :ASN",
+      "output_residue_index": 9,
+      "output_atom_name": "N",
+      "cap": true
+    },
+    {
+      "source_atom_index": 1387,
+      "source_residue": "A:1037: :ASN",
+      "output_residue_index": 9,
+      "output_atom_name": "C",
+      "cap": true
+    },
+    {
+      "source_atom_index": 1515,
+      "source_residue": "A:1045: :ASP",
+      "output_residue_index": 10,
+      "output_atom_name": "CH3",
+      "cap": true
+    },
+    {
+      "source_atom_index": 1516,
+      "source_residue": "A:1045: :ASP",
+      "output_residue_index": 10,
+      "output_atom_name": "C",
+      "cap": true
+    },
+    {
+      "source_atom_index": 1517,
+      "source_residue": "A:1045: :ASP",
+      "output_residue_index": 10,
+      "output_atom_name": "O",
+      "cap": true
+    },
+    {
+      "source_atom_index": 1526,
+      "source_residue": "A:1046: :GLU",
+      "output_residue_index": 11,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1527,
+      "source_residue": "A:1046: :GLU",
+      "output_residue_index": 11,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1528,
+      "source_residue": "A:1046: :GLU",
+      "output_residue_index": 11,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1529,
+      "source_residue": "A:1046: :GLU",
+      "output_residue_index": 11,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1530,
+      "source_residue": "A:1046: :GLU",
+      "output_residue_index": 11,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1531,
+      "source_residue": "A:1046: :GLU",
+      "output_residue_index": 11,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1532,
+      "source_residue": "A:1046: :GLU",
+      "output_residue_index": 11,
+      "output_atom_name": "CD",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1533,
+      "source_residue": "A:1046: :GLU",
+      "output_residue_index": 11,
+      "output_atom_name": "OE1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1534,
+      "source_residue": "A:1046: :GLU",
+      "output_residue_index": 11,
+      "output_atom_name": "OE2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1541,
+      "source_residue": "A:1047: :ARG",
+      "output_residue_index": 12,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1542,
+      "source_residue": "A:1047: :ARG",
+      "output_residue_index": 12,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1543,
+      "source_residue": "A:1047: :ARG",
+      "output_residue_index": 12,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1544,
+      "source_residue": "A:1047: :ARG",
+      "output_residue_index": 12,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1545,
+      "source_residue": "A:1047: :ARG",
+      "output_residue_index": 12,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1546,
+      "source_residue": "A:1047: :ARG",
+      "output_residue_index": 12,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1547,
+      "source_residue": "A:1047: :ARG",
+      "output_residue_index": 12,
+      "output_atom_name": "CD",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1548,
+      "source_residue": "A:1047: :ARG",
+      "output_residue_index": 12,
+      "output_atom_name": "NE",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1549,
+      "source_residue": "A:1047: :ARG",
+      "output_residue_index": 12,
+      "output_atom_name": "CZ",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1550,
+      "source_residue": "A:1047: :ARG",
+      "output_residue_index": 12,
+      "output_atom_name": "NH1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1551,
+      "source_residue": "A:1047: :ARG",
+      "output_residue_index": 12,
+      "output_atom_name": "NH2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1565,
+      "source_residue": "A:1048: :HIS",
+      "output_residue_index": 13,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1566,
+      "source_residue": "A:1048: :HIS",
+      "output_residue_index": 13,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1567,
+      "source_residue": "A:1048: :HIS",
+      "output_residue_index": 13,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1568,
+      "source_residue": "A:1048: :HIS",
+      "output_residue_index": 13,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1569,
+      "source_residue": "A:1048: :HIS",
+      "output_residue_index": 13,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1570,
+      "source_residue": "A:1048: :HIS",
+      "output_residue_index": 13,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1571,
+      "source_residue": "A:1048: :HIS",
+      "output_residue_index": 13,
+      "output_atom_name": "ND1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1572,
+      "source_residue": "A:1048: :HIS",
+      "output_residue_index": 13,
+      "output_atom_name": "CD2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1573,
+      "source_residue": "A:1048: :HIS",
+      "output_residue_index": 13,
+      "output_atom_name": "CE1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1574,
+      "source_residue": "A:1048: :HIS",
+      "output_residue_index": 13,
+      "output_atom_name": "NE2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1582,
+      "source_residue": "A:1049: :ALA",
+      "output_residue_index": 14,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1583,
+      "source_residue": "A:1049: :ALA",
+      "output_residue_index": 14,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1584,
+      "source_residue": "A:1049: :ALA",
+      "output_residue_index": 14,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1585,
+      "source_residue": "A:1049: :ALA",
+      "output_residue_index": 14,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1586,
+      "source_residue": "A:1049: :ALA",
+      "output_residue_index": 14,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1592,
+      "source_residue": "A:1050: :TYR",
+      "output_residue_index": 15,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1593,
+      "source_residue": "A:1050: :TYR",
+      "output_residue_index": 15,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1594,
+      "source_residue": "A:1050: :TYR",
+      "output_residue_index": 15,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1595,
+      "source_residue": "A:1050: :TYR",
+      "output_residue_index": 15,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1596,
+      "source_residue": "A:1050: :TYR",
+      "output_residue_index": 15,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1597,
+      "source_residue": "A:1050: :TYR",
+      "output_residue_index": 15,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1598,
+      "source_residue": "A:1050: :TYR",
+      "output_residue_index": 15,
+      "output_atom_name": "CD1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1599,
+      "source_residue": "A:1050: :TYR",
+      "output_residue_index": 15,
+      "output_atom_name": "CD2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1600,
+      "source_residue": "A:1050: :TYR",
+      "output_residue_index": 15,
+      "output_atom_name": "CE1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1601,
+      "source_residue": "A:1050: :TYR",
+      "output_residue_index": 15,
+      "output_atom_name": "CE2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1602,
+      "source_residue": "A:1050: :TYR",
+      "output_residue_index": 15,
+      "output_atom_name": "CZ",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1603,
+      "source_residue": "A:1050: :TYR",
+      "output_residue_index": 15,
+      "output_atom_name": "OH",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1613,
+      "source_residue": "A:1051: :ILE",
+      "output_residue_index": 16,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1614,
+      "source_residue": "A:1051: :ILE",
+      "output_residue_index": 16,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1615,
+      "source_residue": "A:1051: :ILE",
+      "output_residue_index": 16,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1616,
+      "source_residue": "A:1051: :ILE",
+      "output_residue_index": 16,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1617,
+      "source_residue": "A:1051: :ILE",
+      "output_residue_index": 16,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1618,
+      "source_residue": "A:1051: :ILE",
+      "output_residue_index": 16,
+      "output_atom_name": "CG1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1619,
+      "source_residue": "A:1051: :ILE",
+      "output_residue_index": 16,
+      "output_atom_name": "CG2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1620,
+      "source_residue": "A:1051: :ILE",
+      "output_residue_index": 16,
+      "output_atom_name": "CD1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1632,
+      "source_residue": "A:1052: :GLY",
+      "output_residue_index": 17,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1633,
+      "source_residue": "A:1052: :GLY",
+      "output_residue_index": 17,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1634,
+      "source_residue": "A:1052: :GLY",
+      "output_residue_index": 17,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1635,
+      "source_residue": "A:1052: :GLY",
+      "output_residue_index": 17,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1639,
+      "source_residue": "A:1053: :GLY",
+      "output_residue_index": 18,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1640,
+      "source_residue": "A:1053: :GLY",
+      "output_residue_index": 18,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1641,
+      "source_residue": "A:1053: :GLY",
+      "output_residue_index": 18,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1642,
+      "source_residue": "A:1053: :GLY",
+      "output_residue_index": 18,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1646,
+      "source_residue": "A:1054: :MET",
+      "output_residue_index": 19,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1647,
+      "source_residue": "A:1054: :MET",
+      "output_residue_index": 19,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1648,
+      "source_residue": "A:1054: :MET",
+      "output_residue_index": 19,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1649,
+      "source_residue": "A:1054: :MET",
+      "output_residue_index": 19,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1650,
+      "source_residue": "A:1054: :MET",
+      "output_residue_index": 19,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1651,
+      "source_residue": "A:1054: :MET",
+      "output_residue_index": 19,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1652,
+      "source_residue": "A:1054: :MET",
+      "output_residue_index": 19,
+      "output_atom_name": "SD",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1653,
+      "source_residue": "A:1054: :MET",
+      "output_residue_index": 19,
+      "output_atom_name": "CE",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1663,
+      "source_residue": "A:1055: :PHE",
+      "output_residue_index": 20,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1664,
+      "source_residue": "A:1055: :PHE",
+      "output_residue_index": 20,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1665,
+      "source_residue": "A:1055: :PHE",
+      "output_residue_index": 20,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1666,
+      "source_residue": "A:1055: :PHE",
+      "output_residue_index": 20,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1667,
+      "source_residue": "A:1055: :PHE",
+      "output_residue_index": 20,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1668,
+      "source_residue": "A:1055: :PHE",
+      "output_residue_index": 20,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1669,
+      "source_residue": "A:1055: :PHE",
+      "output_residue_index": 20,
+      "output_atom_name": "CD1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1670,
+      "source_residue": "A:1055: :PHE",
+      "output_residue_index": 20,
+      "output_atom_name": "CD2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1671,
+      "source_residue": "A:1055: :PHE",
+      "output_residue_index": 20,
+      "output_atom_name": "CE1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1672,
+      "source_residue": "A:1055: :PHE",
+      "output_residue_index": 20,
+      "output_atom_name": "CE2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1673,
+      "source_residue": "A:1055: :PHE",
+      "output_residue_index": 20,
+      "output_atom_name": "CZ",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1683,
+      "source_residue": "A:1056: :GLY",
+      "output_residue_index": 21,
+      "output_atom_name": "N",
+      "cap": true
+    },
+    {
+      "source_atom_index": 1684,
+      "source_residue": "A:1056: :GLY",
+      "output_residue_index": 21,
+      "output_atom_name": "C",
+      "cap": true
+    },
+    {
+      "source_atom_index": 1701,
+      "source_residue": "A:1058: :GLY",
+      "output_residue_index": 22,
+      "output_atom_name": "CH3",
+      "cap": true
+    },
+    {
+      "source_atom_index": 1702,
+      "source_residue": "A:1058: :GLY",
+      "output_residue_index": 22,
+      "output_atom_name": "C",
+      "cap": true
+    },
+    {
+      "source_atom_index": 1703,
+      "source_residue": "A:1058: :GLY",
+      "output_residue_index": 22,
+      "output_atom_name": "O",
+      "cap": true
+    },
+    {
+      "source_atom_index": 1707,
+      "source_residue": "A:1059: :ILE",
+      "output_residue_index": 23,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1708,
+      "source_residue": "A:1059: :ILE",
+      "output_residue_index": 23,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1709,
+      "source_residue": "A:1059: :ILE",
+      "output_residue_index": 23,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1710,
+      "source_residue": "A:1059: :ILE",
+      "output_residue_index": 23,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1711,
+      "source_residue": "A:1059: :ILE",
+      "output_residue_index": 23,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1712,
+      "source_residue": "A:1059: :ILE",
+      "output_residue_index": 23,
+      "output_atom_name": "CG1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1713,
+      "source_residue": "A:1059: :ILE",
+      "output_residue_index": 23,
+      "output_atom_name": "CG2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1714,
+      "source_residue": "A:1059: :ILE",
+      "output_residue_index": 23,
+      "output_atom_name": "CD1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1726,
+      "source_residue": "A:1060: :TYR",
+      "output_residue_index": 24,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1727,
+      "source_residue": "A:1060: :TYR",
+      "output_residue_index": 24,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1728,
+      "source_residue": "A:1060: :TYR",
+      "output_residue_index": 24,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1729,
+      "source_residue": "A:1060: :TYR",
+      "output_residue_index": 24,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1730,
+      "source_residue": "A:1060: :TYR",
+      "output_residue_index": 24,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1731,
+      "source_residue": "A:1060: :TYR",
+      "output_residue_index": 24,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1732,
+      "source_residue": "A:1060: :TYR",
+      "output_residue_index": 24,
+      "output_atom_name": "CD1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1733,
+      "source_residue": "A:1060: :TYR",
+      "output_residue_index": 24,
+      "output_atom_name": "CD2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1734,
+      "source_residue": "A:1060: :TYR",
+      "output_residue_index": 24,
+      "output_atom_name": "CE1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1735,
+      "source_residue": "A:1060: :TYR",
+      "output_residue_index": 24,
+      "output_atom_name": "CE2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1736,
+      "source_residue": "A:1060: :TYR",
+      "output_residue_index": 24,
+      "output_atom_name": "CZ",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1737,
+      "source_residue": "A:1060: :TYR",
+      "output_residue_index": 24,
+      "output_atom_name": "OH",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1747,
+      "source_residue": "A:1061: :PHE",
+      "output_residue_index": 25,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1748,
+      "source_residue": "A:1061: :PHE",
+      "output_residue_index": 25,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1749,
+      "source_residue": "A:1061: :PHE",
+      "output_residue_index": 25,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1750,
+      "source_residue": "A:1061: :PHE",
+      "output_residue_index": 25,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1751,
+      "source_residue": "A:1061: :PHE",
+      "output_residue_index": 25,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1752,
+      "source_residue": "A:1061: :PHE",
+      "output_residue_index": 25,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1753,
+      "source_residue": "A:1061: :PHE",
+      "output_residue_index": 25,
+      "output_atom_name": "CD1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1754,
+      "source_residue": "A:1061: :PHE",
+      "output_residue_index": 25,
+      "output_atom_name": "CD2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1755,
+      "source_residue": "A:1061: :PHE",
+      "output_residue_index": 25,
+      "output_atom_name": "CE1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1756,
+      "source_residue": "A:1061: :PHE",
+      "output_residue_index": 25,
+      "output_atom_name": "CE2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1757,
+      "source_residue": "A:1061: :PHE",
+      "output_residue_index": 25,
+      "output_atom_name": "CZ",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1767,
+      "source_residue": "A:1062: :ALA",
+      "output_residue_index": 26,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1768,
+      "source_residue": "A:1062: :ALA",
+      "output_residue_index": 26,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1769,
+      "source_residue": "A:1062: :ALA",
+      "output_residue_index": 26,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1770,
+      "source_residue": "A:1062: :ALA",
+      "output_residue_index": 26,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1771,
+      "source_residue": "A:1062: :ALA",
+      "output_residue_index": 26,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1777,
+      "source_residue": "A:1063: :GLU",
+      "output_residue_index": 27,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1778,
+      "source_residue": "A:1063: :GLU",
+      "output_residue_index": 27,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1779,
+      "source_residue": "A:1063: :GLU",
+      "output_residue_index": 27,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1780,
+      "source_residue": "A:1063: :GLU",
+      "output_residue_index": 27,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1781,
+      "source_residue": "A:1063: :GLU",
+      "output_residue_index": 27,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1782,
+      "source_residue": "A:1063: :GLU",
+      "output_residue_index": 27,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1783,
+      "source_residue": "A:1063: :GLU",
+      "output_residue_index": 27,
+      "output_atom_name": "CD",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1784,
+      "source_residue": "A:1063: :GLU",
+      "output_residue_index": 27,
+      "output_atom_name": "OE1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1785,
+      "source_residue": "A:1063: :GLU",
+      "output_residue_index": 27,
+      "output_atom_name": "OE2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1792,
+      "source_residue": "A:1064: :ASN",
+      "output_residue_index": 28,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1793,
+      "source_residue": "A:1064: :ASN",
+      "output_residue_index": 28,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1794,
+      "source_residue": "A:1064: :ASN",
+      "output_residue_index": 28,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1795,
+      "source_residue": "A:1064: :ASN",
+      "output_residue_index": 28,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1796,
+      "source_residue": "A:1064: :ASN",
+      "output_residue_index": 28,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1797,
+      "source_residue": "A:1064: :ASN",
+      "output_residue_index": 28,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1798,
+      "source_residue": "A:1064: :ASN",
+      "output_residue_index": 28,
+      "output_atom_name": "OD1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1799,
+      "source_residue": "A:1064: :ASN",
+      "output_residue_index": 28,
+      "output_atom_name": "ND2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1806,
+      "source_residue": "A:1065: :SER",
+      "output_residue_index": 29,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1807,
+      "source_residue": "A:1065: :SER",
+      "output_residue_index": 29,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1808,
+      "source_residue": "A:1065: :SER",
+      "output_residue_index": 29,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1809,
+      "source_residue": "A:1065: :SER",
+      "output_residue_index": 29,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1810,
+      "source_residue": "A:1065: :SER",
+      "output_residue_index": 29,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1811,
+      "source_residue": "A:1065: :SER",
+      "output_residue_index": 29,
+      "output_atom_name": "OG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1817,
+      "source_residue": "A:1066: :SER",
+      "output_residue_index": 30,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1818,
+      "source_residue": "A:1066: :SER",
+      "output_residue_index": 30,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1819,
+      "source_residue": "A:1066: :SER",
+      "output_residue_index": 30,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1820,
+      "source_residue": "A:1066: :SER",
+      "output_residue_index": 30,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1821,
+      "source_residue": "A:1066: :SER",
+      "output_residue_index": 30,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1822,
+      "source_residue": "A:1066: :SER",
+      "output_residue_index": 30,
+      "output_atom_name": "OG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1828,
+      "source_residue": "A:1067: :LYS",
+      "output_residue_index": 31,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1829,
+      "source_residue": "A:1067: :LYS",
+      "output_residue_index": 31,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1830,
+      "source_residue": "A:1067: :LYS",
+      "output_residue_index": 31,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1831,
+      "source_residue": "A:1067: :LYS",
+      "output_residue_index": 31,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1832,
+      "source_residue": "A:1067: :LYS",
+      "output_residue_index": 31,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1833,
+      "source_residue": "A:1067: :LYS",
+      "output_residue_index": 31,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1834,
+      "source_residue": "A:1067: :LYS",
+      "output_residue_index": 31,
+      "output_atom_name": "CD",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1835,
+      "source_residue": "A:1067: :LYS",
+      "output_residue_index": 31,
+      "output_atom_name": "CE",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1836,
+      "source_residue": "A:1067: :LYS",
+      "output_residue_index": 31,
+      "output_atom_name": "NZ",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1850,
+      "source_residue": "A:1068: :SER",
+      "output_residue_index": 32,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1851,
+      "source_residue": "A:1068: :SER",
+      "output_residue_index": 32,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1852,
+      "source_residue": "A:1068: :SER",
+      "output_residue_index": 32,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1853,
+      "source_residue": "A:1068: :SER",
+      "output_residue_index": 32,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1854,
+      "source_residue": "A:1068: :SER",
+      "output_residue_index": 32,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1855,
+      "source_residue": "A:1068: :SER",
+      "output_residue_index": 32,
+      "output_atom_name": "OG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1861,
+      "source_residue": "A:1069: :ASN",
+      "output_residue_index": 33,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1862,
+      "source_residue": "A:1069: :ASN",
+      "output_residue_index": 33,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1863,
+      "source_residue": "A:1069: :ASN",
+      "output_residue_index": 33,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1864,
+      "source_residue": "A:1069: :ASN",
+      "output_residue_index": 33,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1865,
+      "source_residue": "A:1069: :ASN",
+      "output_residue_index": 33,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1866,
+      "source_residue": "A:1069: :ASN",
+      "output_residue_index": 33,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1867,
+      "source_residue": "A:1069: :ASN",
+      "output_residue_index": 33,
+      "output_atom_name": "OD1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1868,
+      "source_residue": "A:1069: :ASN",
+      "output_residue_index": 33,
+      "output_atom_name": "ND2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1875,
+      "source_residue": "A:1070: :GLN",
+      "output_residue_index": 34,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1876,
+      "source_residue": "A:1070: :GLN",
+      "output_residue_index": 34,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1877,
+      "source_residue": "A:1070: :GLN",
+      "output_residue_index": 34,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1878,
+      "source_residue": "A:1070: :GLN",
+      "output_residue_index": 34,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1879,
+      "source_residue": "A:1070: :GLN",
+      "output_residue_index": 34,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1880,
+      "source_residue": "A:1070: :GLN",
+      "output_residue_index": 34,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1881,
+      "source_residue": "A:1070: :GLN",
+      "output_residue_index": 34,
+      "output_atom_name": "CD",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1882,
+      "source_residue": "A:1070: :GLN",
+      "output_residue_index": 34,
+      "output_atom_name": "OE1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1883,
+      "source_residue": "A:1070: :GLN",
+      "output_residue_index": 34,
+      "output_atom_name": "NE2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1892,
+      "source_residue": "A:1071: :TYR",
+      "output_residue_index": 35,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1893,
+      "source_residue": "A:1071: :TYR",
+      "output_residue_index": 35,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1894,
+      "source_residue": "A:1071: :TYR",
+      "output_residue_index": 35,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1895,
+      "source_residue": "A:1071: :TYR",
+      "output_residue_index": 35,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1896,
+      "source_residue": "A:1071: :TYR",
+      "output_residue_index": 35,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1897,
+      "source_residue": "A:1071: :TYR",
+      "output_residue_index": 35,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1898,
+      "source_residue": "A:1071: :TYR",
+      "output_residue_index": 35,
+      "output_atom_name": "CD1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1899,
+      "source_residue": "A:1071: :TYR",
+      "output_residue_index": 35,
+      "output_atom_name": "CD2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1900,
+      "source_residue": "A:1071: :TYR",
+      "output_residue_index": 35,
+      "output_atom_name": "CE1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1901,
+      "source_residue": "A:1071: :TYR",
+      "output_residue_index": 35,
+      "output_atom_name": "CE2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1902,
+      "source_residue": "A:1071: :TYR",
+      "output_residue_index": 35,
+      "output_atom_name": "CZ",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1903,
+      "source_residue": "A:1071: :TYR",
+      "output_residue_index": 35,
+      "output_atom_name": "OH",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1913,
+      "source_residue": "A:1072: :VAL",
+      "output_residue_index": 36,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1914,
+      "source_residue": "A:1072: :VAL",
+      "output_residue_index": 36,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1915,
+      "source_residue": "A:1072: :VAL",
+      "output_residue_index": 36,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1916,
+      "source_residue": "A:1072: :VAL",
+      "output_residue_index": 36,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1917,
+      "source_residue": "A:1072: :VAL",
+      "output_residue_index": 36,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1918,
+      "source_residue": "A:1072: :VAL",
+      "output_residue_index": 36,
+      "output_atom_name": "CG1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1919,
+      "source_residue": "A:1072: :VAL",
+      "output_residue_index": 36,
+      "output_atom_name": "CG2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1929,
+      "source_residue": "A:1073: :TYR",
+      "output_residue_index": 37,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1930,
+      "source_residue": "A:1073: :TYR",
+      "output_residue_index": 37,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1931,
+      "source_residue": "A:1073: :TYR",
+      "output_residue_index": 37,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1932,
+      "source_residue": "A:1073: :TYR",
+      "output_residue_index": 37,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1933,
+      "source_residue": "A:1073: :TYR",
+      "output_residue_index": 37,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1934,
+      "source_residue": "A:1073: :TYR",
+      "output_residue_index": 37,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1935,
+      "source_residue": "A:1073: :TYR",
+      "output_residue_index": 37,
+      "output_atom_name": "CD1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1936,
+      "source_residue": "A:1073: :TYR",
+      "output_residue_index": 37,
+      "output_atom_name": "CD2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1937,
+      "source_residue": "A:1073: :TYR",
+      "output_residue_index": 37,
+      "output_atom_name": "CE1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1938,
+      "source_residue": "A:1073: :TYR",
+      "output_residue_index": 37,
+      "output_atom_name": "CE2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1939,
+      "source_residue": "A:1073: :TYR",
+      "output_residue_index": 37,
+      "output_atom_name": "CZ",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1940,
+      "source_residue": "A:1073: :TYR",
+      "output_residue_index": 37,
+      "output_atom_name": "OH",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1950,
+      "source_residue": "A:1074: :GLY",
+      "output_residue_index": 38,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1951,
+      "source_residue": "A:1074: :GLY",
+      "output_residue_index": 38,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1952,
+      "source_residue": "A:1074: :GLY",
+      "output_residue_index": 38,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1953,
+      "source_residue": "A:1074: :GLY",
+      "output_residue_index": 38,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1957,
+      "source_residue": "A:1075: :ILE",
+      "output_residue_index": 39,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1958,
+      "source_residue": "A:1075: :ILE",
+      "output_residue_index": 39,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1959,
+      "source_residue": "A:1075: :ILE",
+      "output_residue_index": 39,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1960,
+      "source_residue": "A:1075: :ILE",
+      "output_residue_index": 39,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1961,
+      "source_residue": "A:1075: :ILE",
+      "output_residue_index": 39,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1962,
+      "source_residue": "A:1075: :ILE",
+      "output_residue_index": 39,
+      "output_atom_name": "CG1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1963,
+      "source_residue": "A:1075: :ILE",
+      "output_residue_index": 39,
+      "output_atom_name": "CG2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1964,
+      "source_residue": "A:1075: :ILE",
+      "output_residue_index": 39,
+      "output_atom_name": "CD1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1976,
+      "source_residue": "A:1076: :GLY",
+      "output_residue_index": 40,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1977,
+      "source_residue": "A:1076: :GLY",
+      "output_residue_index": 40,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1978,
+      "source_residue": "A:1076: :GLY",
+      "output_residue_index": 40,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1979,
+      "source_residue": "A:1076: :GLY",
+      "output_residue_index": 40,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 1983,
+      "source_residue": "A:1077: :GLY",
+      "output_residue_index": 41,
+      "output_atom_name": "N",
+      "cap": true
+    },
+    {
+      "source_atom_index": 1984,
+      "source_residue": "A:1077: :GLY",
+      "output_residue_index": 41,
+      "output_atom_name": "C",
+      "cap": true
+    },
+    {
+      "source_atom_index": 2222,
+      "source_residue": "A:1094: :ARG",
+      "output_residue_index": 42,
+      "output_atom_name": "CH3",
+      "cap": true
+    },
+    {
+      "source_atom_index": 2223,
+      "source_residue": "A:1094: :ARG",
+      "output_residue_index": 42,
+      "output_atom_name": "C",
+      "cap": true
+    },
+    {
+      "source_atom_index": 2224,
+      "source_residue": "A:1094: :ARG",
+      "output_residue_index": 42,
+      "output_atom_name": "O",
+      "cap": true
+    },
+    {
+      "source_atom_index": 2245,
+      "source_residue": "A:1095: :GLN",
+      "output_residue_index": 43,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2246,
+      "source_residue": "A:1095: :GLN",
+      "output_residue_index": 43,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2247,
+      "source_residue": "A:1095: :GLN",
+      "output_residue_index": 43,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2248,
+      "source_residue": "A:1095: :GLN",
+      "output_residue_index": 43,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2249,
+      "source_residue": "A:1095: :GLN",
+      "output_residue_index": 43,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2250,
+      "source_residue": "A:1095: :GLN",
+      "output_residue_index": 43,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2251,
+      "source_residue": "A:1095: :GLN",
+      "output_residue_index": 43,
+      "output_atom_name": "CD",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2252,
+      "source_residue": "A:1095: :GLN",
+      "output_residue_index": 43,
+      "output_atom_name": "OE1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2253,
+      "source_residue": "A:1095: :GLN",
+      "output_residue_index": 43,
+      "output_atom_name": "NE2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2262,
+      "source_residue": "A:1096: :LEU",
+      "output_residue_index": 44,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2263,
+      "source_residue": "A:1096: :LEU",
+      "output_residue_index": 44,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2264,
+      "source_residue": "A:1096: :LEU",
+      "output_residue_index": 44,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2265,
+      "source_residue": "A:1096: :LEU",
+      "output_residue_index": 44,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2266,
+      "source_residue": "A:1096: :LEU",
+      "output_residue_index": 44,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2267,
+      "source_residue": "A:1096: :LEU",
+      "output_residue_index": 44,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2268,
+      "source_residue": "A:1096: :LEU",
+      "output_residue_index": 44,
+      "output_atom_name": "CD1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2269,
+      "source_residue": "A:1096: :LEU",
+      "output_residue_index": 44,
+      "output_atom_name": "CD2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2281,
+      "source_residue": "A:1097: :LEU",
+      "output_residue_index": 45,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2282,
+      "source_residue": "A:1097: :LEU",
+      "output_residue_index": 45,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2283,
+      "source_residue": "A:1097: :LEU",
+      "output_residue_index": 45,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2284,
+      "source_residue": "A:1097: :LEU",
+      "output_residue_index": 45,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2285,
+      "source_residue": "A:1097: :LEU",
+      "output_residue_index": 45,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2286,
+      "source_residue": "A:1097: :LEU",
+      "output_residue_index": 45,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2287,
+      "source_residue": "A:1097: :LEU",
+      "output_residue_index": 45,
+      "output_atom_name": "CD1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2288,
+      "source_residue": "A:1097: :LEU",
+      "output_residue_index": 45,
+      "output_atom_name": "CD2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2300,
+      "source_residue": "A:1098: :PHE",
+      "output_residue_index": 46,
+      "output_atom_name": "N",
+      "cap": true
+    },
+    {
+      "source_atom_index": 2301,
+      "source_residue": "A:1098: :PHE",
+      "output_residue_index": 46,
+      "output_atom_name": "C",
+      "cap": true
+    },
+    {
+      "source_atom_index": 2822,
+      "source_residue": "C:1135: :ALA",
+      "output_residue_index": 47,
+      "output_atom_name": "CH3",
+      "cap": true
+    },
+    {
+      "source_atom_index": 2823,
+      "source_residue": "C:1135: :ALA",
+      "output_residue_index": 47,
+      "output_atom_name": "C",
+      "cap": true
+    },
+    {
+      "source_atom_index": 2824,
+      "source_residue": "C:1135: :ALA",
+      "output_residue_index": 47,
+      "output_atom_name": "O",
+      "cap": true
+    },
+    {
+      "source_atom_index": 2831,
+      "source_residue": "C:1136: :LEU",
+      "output_residue_index": 48,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2832,
+      "source_residue": "C:1136: :LEU",
+      "output_residue_index": 48,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2833,
+      "source_residue": "C:1136: :LEU",
+      "output_residue_index": 48,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2834,
+      "source_residue": "C:1136: :LEU",
+      "output_residue_index": 48,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2835,
+      "source_residue": "C:1136: :LEU",
+      "output_residue_index": 48,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2836,
+      "source_residue": "C:1136: :LEU",
+      "output_residue_index": 48,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2837,
+      "source_residue": "C:1136: :LEU",
+      "output_residue_index": 48,
+      "output_atom_name": "CD1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2838,
+      "source_residue": "C:1136: :LEU",
+      "output_residue_index": 48,
+      "output_atom_name": "CD2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2850,
+      "source_residue": "C:1137: :ALA",
+      "output_residue_index": 49,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2851,
+      "source_residue": "C:1137: :ALA",
+      "output_residue_index": 49,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2852,
+      "source_residue": "C:1137: :ALA",
+      "output_residue_index": 49,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2853,
+      "source_residue": "C:1137: :ALA",
+      "output_residue_index": 49,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2854,
+      "source_residue": "C:1137: :ALA",
+      "output_residue_index": 49,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2860,
+      "source_residue": "C:1138: :GLU",
+      "output_residue_index": 50,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2861,
+      "source_residue": "C:1138: :GLU",
+      "output_residue_index": 50,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2862,
+      "source_residue": "C:1138: :GLU",
+      "output_residue_index": 50,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2863,
+      "source_residue": "C:1138: :GLU",
+      "output_residue_index": 50,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2864,
+      "source_residue": "C:1138: :GLU",
+      "output_residue_index": 50,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2865,
+      "source_residue": "C:1138: :GLU",
+      "output_residue_index": 50,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2866,
+      "source_residue": "C:1138: :GLU",
+      "output_residue_index": 50,
+      "output_atom_name": "CD",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2867,
+      "source_residue": "C:1138: :GLU",
+      "output_residue_index": 50,
+      "output_atom_name": "OE1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2868,
+      "source_residue": "C:1138: :GLU",
+      "output_residue_index": 50,
+      "output_atom_name": "OE2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2875,
+      "source_residue": "C:1139: :TYR",
+      "output_residue_index": 51,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2876,
+      "source_residue": "C:1139: :TYR",
+      "output_residue_index": 51,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2877,
+      "source_residue": "C:1139: :TYR",
+      "output_residue_index": 51,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2878,
+      "source_residue": "C:1139: :TYR",
+      "output_residue_index": 51,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2879,
+      "source_residue": "C:1139: :TYR",
+      "output_residue_index": 51,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2880,
+      "source_residue": "C:1139: :TYR",
+      "output_residue_index": 51,
+      "output_atom_name": "CG",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2881,
+      "source_residue": "C:1139: :TYR",
+      "output_residue_index": 51,
+      "output_atom_name": "CD1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2882,
+      "source_residue": "C:1139: :TYR",
+      "output_residue_index": 51,
+      "output_atom_name": "CD2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2883,
+      "source_residue": "C:1139: :TYR",
+      "output_residue_index": 51,
+      "output_atom_name": "CE1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2884,
+      "source_residue": "C:1139: :TYR",
+      "output_residue_index": 51,
+      "output_atom_name": "CE2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2885,
+      "source_residue": "C:1139: :TYR",
+      "output_residue_index": 51,
+      "output_atom_name": "CZ",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2886,
+      "source_residue": "C:1139: :TYR",
+      "output_residue_index": 51,
+      "output_atom_name": "OH",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2896,
+      "source_residue": "C:1140: :VAL",
+      "output_residue_index": 52,
+      "output_atom_name": "N",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2897,
+      "source_residue": "C:1140: :VAL",
+      "output_residue_index": 52,
+      "output_atom_name": "CA",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2898,
+      "source_residue": "C:1140: :VAL",
+      "output_residue_index": 52,
+      "output_atom_name": "C",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2899,
+      "source_residue": "C:1140: :VAL",
+      "output_residue_index": 52,
+      "output_atom_name": "O",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2900,
+      "source_residue": "C:1140: :VAL",
+      "output_residue_index": 52,
+      "output_atom_name": "CB",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2901,
+      "source_residue": "C:1140: :VAL",
+      "output_residue_index": 52,
+      "output_atom_name": "CG1",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2902,
+      "source_residue": "C:1140: :VAL",
+      "output_residue_index": 52,
+      "output_atom_name": "CG2",
+      "cap": false
+    },
+    {
+      "source_atom_index": 2912,
+      "source_residue": "C:1141: :ILE",
+      "output_residue_index": 53,
+      "output_atom_name": "N",
+      "cap": true
+    },
+    {
+      "source_atom_index": 2913,
+      "source_residue": "C:1141: :ILE",
+      "output_residue_index": 53,
+      "output_atom_name": "C",
+      "cap": true
+    }
+  ],
+  "modeled_sidechain_atoms": [],
+  "sidechain_repair": null,
+  "limitations": [
+    "Standard-residue pH heuristic, not a pKa calculation",
+    "Fixed capped cluster; omitted protein and solvent response",
+    "Inspect caps and protonation near the binding site before production"
+  ],
+  "pdb_sha256": "c9fa68cd205d30683d726b070d57c38ec5a5830d2fae308c8e608bb085b9e488"
+}

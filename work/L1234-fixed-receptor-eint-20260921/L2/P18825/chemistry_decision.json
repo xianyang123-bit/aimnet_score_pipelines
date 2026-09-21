@@ -1,0 +1,14 @@
+{
+  "source": "conservative_automatic_review",
+  "excluded_residue_keys": [
+    "D:1202::CLR",
+    "I:1207::OLC",
+    "J:1208::OLA",
+    "K:1209::OLA",
+    "L:1201::E33",
+    "M:1202::CLR",
+    "N:1203::OLC",
+    "O:1204::OLC"
+  ],
+  "rationale": "Nearby nonprotein species classified as replaceable deposited ligand/additive; no metal, modified amino acid, or recognized cofactor detected."
+}

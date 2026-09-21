@@ -1,0 +1,5 @@
+{
+  "source": "reviewed_L1_decision",
+  "excluded_residue_keys": [],
+  "blocked_reason": "Nearby catalytic zinc and magnesium (2.15/2.06 A); metal-aware preparation required."
+}

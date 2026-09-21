@@ -1,0 +1,5 @@
+{
+  "status": "excluded_chemistry",
+  "source": "reviewed_L1_decision",
+  "blocked_reason": "Nearby cobalt protoporphyrin COH (2.62 A); porphyrin/metal-aware preparation required."
+}

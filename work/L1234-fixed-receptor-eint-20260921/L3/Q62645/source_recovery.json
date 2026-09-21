@@ -1,0 +1,25 @@
+{
+  "status": "matched",
+  "reference_sha256": "98c612b3c07767b9f3e301e1baddc75054552df1d6c879d6649719937da76ac3",
+  "candidates": 5,
+  "results": [
+    {
+      "pdb_id": "3OEK",
+      "matched_atoms": 150,
+      "reference_atoms": 150,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q62645/3OEK.cif",
+      "sha256": "98bf5678622d2a8d1315603eeacc412dc0a16aac3fde5730b573bf4e69a2d923"
+    },
+    {
+      "pdb_id": "3OEL",
+      "matched_atoms": 0,
+      "reference_atoms": 150,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q62645/3OEL.cif",
+      "sha256": "1c41d68fba304ac00cd5229ca9aa27dbe9e2af75fd83d867374e8b2492d2a99a"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L3/Q62645/3OEK.cif",
+  "heterogen_inventory": []
+}

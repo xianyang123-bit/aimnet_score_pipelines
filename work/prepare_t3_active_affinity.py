@@ -8,6 +8,9 @@ import json
 import os
 import pickle
 import subprocess
+import shutil
+from scipy.spatial import cKDTree
+from prepared_pocket import read_pocket
 from pathlib import Path
 
 import lmdb
@@ -54,6 +57,7 @@ def write_json(value: object, path: Path) -> None:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
+    ap.add_argument("--prepared-pocket-root", required=True, help="Root containing LAYER/UNIPROT/prepared.pdb and .prep.json")
     ap.add_argument("--data", required=True)
     ap.add_argument("--work", required=True)
     ap.add_argument("--env-bin", required=True)
@@ -64,6 +68,8 @@ def main() -> None:
     args = ap.parse_args()
 
     data, work = Path(args.data), Path(args.work)
+    if work.exists() and any(work.iterdir()):
+        raise FileExistsError("Refusing to reuse a nonempty preparation directory; choose a new --work path")
     work.mkdir(parents=True, exist_ok=True)
     targets = pd.read_csv(data / "targets.csv.gz")
     actives = pd.read_csv(data / "actives.csv.gz")
@@ -96,7 +102,16 @@ def main() -> None:
             subset.to_csv(target_dir / "actives.csv", index=False)
 
             record = load_pocket(pocket_lmdb)
-            coords = write_pocket(record, target_dir / "pocket.pdb")
+            coords = write_pocket(record, target_dir / "pocket.reference.pdb")
+            prepared = Path(args.prepared_pocket_root) / layer / up / "prepared.pdb"
+            prepared_xyz, prepared_z, _ = read_pocket(prepared)
+            distances, _ = cKDTree(prepared_xyz[prepared_z != 1]).query(coords)
+            if not np.all(distances < 0.02):
+                raise ValueError(f"{layer}/{up}: prepared pocket does not retain reference coordinates")
+            if (target_dir / "pocket.pdb").exists():
+                raise FileExistsError("Use a new work directory for the prepared-pocket protocol")
+            shutil.copyfile(prepared, target_dir / "pocket.pdb")
+            shutil.copyfile(prepared.with_suffix(".prep.json"), target_dir / "pocket.prep.json")
             lo, hi = coords.min(axis=0) - args.padding, coords.max(axis=0) + args.padding
             center, size = (lo + hi) / 2.0, hi - lo
             box = {"center": center.tolist(), "size": size.tolist(), "padding": args.padding}
@@ -127,7 +142,7 @@ def main() -> None:
         "seed": args.seed,
         "docking": {"program": "smina", "exhaustiveness": 8, "num_modes": 1,
                     "seed": 1, "box": "6A pocket bounding box + 4A padding"},
-        "pocket_warning": "LMDB pockets contain heavy-atom coordinates and atom names, but no residue identities or hydrogens.",
+        "pocket_protocol": "Validated source-derived, protonated, capped pockets; LMDB is a coordinate reference only.",
     }
     write_json(manifest, work / "manifest.json")
     print(json.dumps(manifest, indent=2))

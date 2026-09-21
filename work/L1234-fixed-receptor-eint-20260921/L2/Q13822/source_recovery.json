@@ -1,0 +1,120 @@
+{
+  "status": "matched",
+  "reference_sha256": "c07585250dcfc5e7673596c44c35c322091e2273a908ffae4086774b23bebfec",
+  "candidates": 9,
+  "results": [
+    {
+      "pdb_id": "4ZG6",
+      "matched_atoms": 0,
+      "reference_atoms": 215,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/Q13822/4ZG6.cif",
+      "sha256": "14cc16e814c6da8d7487fe4642ed1b03b5a9b1d7628c6186249f0e7108ec660a"
+    },
+    {
+      "pdb_id": "4ZG7",
+      "matched_atoms": 215,
+      "reference_atoms": 215,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/Q13822/4ZG7.cif",
+      "sha256": "d75486f64d04ba50f8987b53d57402ce1dceb0416fad2e0c8743429818cbacbd"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/Q13822/4ZG7.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "B:1::NAG",
+      "name": "2-acetamido-2-deoxy-beta-D-glucopyranose",
+      "distance_to_reference_A": 7.5200551194788465,
+      "elements": [
+        "C",
+        "N",
+        "O"
+      ]
+    },
+    {
+      "residue": "B:2::NAG",
+      "name": "2-acetamido-2-deoxy-beta-D-glucopyranose",
+      "distance_to_reference_A": 4.544827609491916,
+      "elements": [
+        "C",
+        "N",
+        "O"
+      ]
+    },
+    {
+      "residue": "C:903::ZN",
+      "name": "ZINC ION",
+      "distance_to_reference_A": 7.482899237595011,
+      "elements": [
+        "Zn"
+      ]
+    },
+    {
+      "residue": "D:904::ZN",
+      "name": "ZINC ION",
+      "distance_to_reference_A": 5.7843480185756455,
+      "elements": [
+        "Zn"
+      ]
+    },
+    {
+      "residue": "H:908::4O0",
+      "name": "3-({6-chloro-7-fluoro-2-methyl-1-[2-oxo-2-(spiro[cyclopropane-1,3'-indol]-1'(2'H)-yl)ethyl]-1H-indol-3-yl}sulfanyl)-2-fluorobenzoic acid",
+      "distance_to_reference_A": 2.9211756195066405,
+      "elements": [
+        "C",
+        "Cl",
+        "F",
+        "N",
+        "O",
+        "S"
+      ]
+    },
+    {
+      "residue": "I:909::NKN",
+      "name": "(2R)-2-hydroxy-3-(phosphonooxy)propyl tetradecanoate",
+      "distance_to_reference_A": 3.6029091023782502,
+      "elements": [
+        "C",
+        "O",
+        "P"
+      ]
+    },
+    {
+      "residue": "J:910::GOL",
+      "name": "GLYCEROL",
+      "distance_to_reference_A": 3.084678751507196,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "L:912::GOL",
+      "name": "GLYCEROL",
+      "distance_to_reference_A": 6.1762763863026695,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "P:916::GOL",
+      "name": "GLYCEROL",
+      "distance_to_reference_A": 3.7516698948601648,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "Q:917::CL",
+      "name": "CHLORIDE ION",
+      "distance_to_reference_A": 7.6777790408424735,
+      "elements": [
+        "Cl"
+      ]
+    }
+  ]
+}

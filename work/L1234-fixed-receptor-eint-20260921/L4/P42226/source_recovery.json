@@ -1,0 +1,80 @@
+{
+  "status": "matched",
+  "reference_sha256": "73c3b182153129f2a2bc3a8b13e10dbf781fb18b18a87dce66c14600685b8ace",
+  "candidates": 7,
+  "results": [
+    {
+      "pdb_id": "1OJ5",
+      "matched_atoms": 0,
+      "reference_atoms": 173,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P42226/1OJ5.cif",
+      "sha256": "e2f97a74e8de13043df865b9710b1b7cccf97a57d097387048ad0090a6242659"
+    },
+    {
+      "pdb_id": "4Y5U",
+      "matched_atoms": 0,
+      "reference_atoms": 173,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P42226/4Y5U.cif",
+      "sha256": "e4a6ffaa490671b76ff5e7aa475a6011fdc0bb8889314a9c4ed92a8c49c03fdb"
+    },
+    {
+      "pdb_id": "4Y5W",
+      "matched_atoms": 0,
+      "reference_atoms": 173,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P42226/4Y5W.cif",
+      "sha256": "4ce400d25293e6926fe4c3ea58dcd5e28e98393d295a13e2b2362aada78fe073"
+    },
+    {
+      "pdb_id": "5D39",
+      "matched_atoms": 0,
+      "reference_atoms": 173,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P42226/5D39.cif",
+      "sha256": "2c3ec274db49e8f9bb831bf2ae613f4ffc2467e96967884d01c8e0890bccea6b"
+    },
+    {
+      "pdb_id": "5NWM",
+      "matched_atoms": 0,
+      "reference_atoms": 173,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P42226/5NWM.cif",
+      "sha256": "6bff89034ca30b8dac76523ef040c90c708ae990f96c7a2f970dc448fc18c3d5"
+    },
+    {
+      "pdb_id": "5NWX",
+      "matched_atoms": 0,
+      "reference_atoms": 173,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P42226/5NWX.cif",
+      "sha256": "3cf1e54d6507d4c03666db135840f4b208ff1143d8d1e3f25b43a3f622fd7b5b"
+    },
+    {
+      "pdb_id": "9BIG",
+      "matched_atoms": 173,
+      "reference_atoms": 173,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P42226/9BIG.cif",
+      "sha256": "6a116614692defb2b092e18e61d20c7256de59943c26188b702b167bf4e2c544"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P42226/9BIG.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "B:701::A1AQQ",
+      "name": "[(2-{[(2S)-1-{(2S,4S)-4-[(7-{2-[(3R)-2,6-dioxopiperidin-3-yl]-1-oxo-2,3-dihydro-1H-isoindol-4-yl}hept-6-yn-1-yl)oxy]-2-[(2R)-2-phenylmorpholine-4-carbonyl]pyrrolidin-1-yl}-3,3-dimethyl-1-oxobutan-2-yl]carbamoyl}-1-benzothiophen-5-yl)di(fluoro)methyl]phosphonic acid",
+      "distance_to_reference_A": 1.6369654852806121,
+      "elements": [
+        "C",
+        "F",
+        "H",
+        "N",
+        "O",
+        "P",
+        "S"
+      ]
+    }
+  ]
+}

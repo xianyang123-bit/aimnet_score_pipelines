@@ -1,0 +1,87 @@
+{
+  "status": "matched",
+  "reference_sha256": "025cccb575c24549b02a3e4f31cfa72acafb912389859bf4e2b12574c6ba5196",
+  "candidates": 19,
+  "results": [
+    {
+      "pdb_id": "2H8N",
+      "matched_atoms": 0,
+      "reference_atoms": 151,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P56524/2H8N.cif",
+      "sha256": "8f51d05c1c18f8739785d83e8402b23c0a26e6e16e54bd6621419aff60a53f45"
+    },
+    {
+      "pdb_id": "2O94",
+      "matched_atoms": 0,
+      "reference_atoms": 151,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P56524/2O94.cif",
+      "sha256": "89d738e682dbcb26dbcf91c76756db2a7eb94424705fa4062117d76dbfcdef48"
+    },
+    {
+      "pdb_id": "2VQJ",
+      "matched_atoms": 151,
+      "reference_atoms": 151,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P56524/2VQJ.cif",
+      "sha256": "1a0da8b386d2b525de751eea7c4b27310e36ea0aac7c9112823d110c4975f2f3"
+    },
+    {
+      "pdb_id": "2VQM",
+      "matched_atoms": 0,
+      "reference_atoms": 151,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P56524/2VQM.cif",
+      "sha256": "e302096110afe3c3991aa3a132037edac717c5e56f52c1ee9595578ba9abdfb1"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/P56524/2VQJ.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "C:1409::K",
+      "name": "POTASSIUM ION",
+      "distance_to_reference_A": 2.5419443345596675,
+      "elements": [
+        "K"
+      ]
+    },
+    {
+      "residue": "E:1411::SO4",
+      "name": "SULFATE ION",
+      "distance_to_reference_A": 2.7757948411220914,
+      "elements": [
+        "O",
+        "S"
+      ]
+    },
+    {
+      "residue": "H:1414::TFG",
+      "name": "2,2,2-TRIFLUORO-1-{5-[(3-PHENYL-5,6-DIHYDROIMIDAZO[1,2-A]PYRAZIN-7(8H)-YL)CARBONYL]THIOPHEN-2-YL}ETHANE-1,1-DIOL",
+      "distance_to_reference_A": 2.8847531956824253,
+      "elements": [
+        "C",
+        "F",
+        "N",
+        "O",
+        "S"
+      ]
+    },
+    {
+      "residue": "I:1415::ZN",
+      "name": "ZINC ION",
+      "distance_to_reference_A": 1.938928570112888,
+      "elements": [
+        "Zn"
+      ]
+    },
+    {
+      "residue": "J:1416::ZN",
+      "name": "ZINC ION",
+      "distance_to_reference_A": 11.798913382172103,
+      "elements": [
+        "Zn"
+      ]
+    }
+  ]
+}

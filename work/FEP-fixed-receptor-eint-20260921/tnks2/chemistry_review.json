@@ -1,0 +1,17 @@
+{
+  "nearby": [
+    {
+      "residue": "A:2114: :SO4",
+      "resname": "SO4",
+      "distance_A": 2.8632619509922614,
+      "elements": [
+        "O",
+        "S"
+      ]
+    }
+  ],
+  "blockers": [],
+  "ignored_as_nonessential": [
+    "A:2114: :SO4"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "excluded_chemistry",
+  "source": "conservative_automatic_review",
+  "blocked_reason": "Unsupported nearby chemistry",
+  "blockers": [
+    {
+      "residue": "B:900::HEM",
+      "name": "PROTOPORPHYRIN IX CONTAINING FE",
+      "distance_to_reference_A": 3.0903393017596015,
+      "elements": [
+        "C",
+        "Fe",
+        "N",
+        "O"
+      ],
+      "reason": "nearby metal or metal-containing species requires a dedicated treatment"
+    }
+  ],
+  "excluded_residue_keys": []
+}

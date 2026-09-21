@@ -1,0 +1,63 @@
+{
+  "status": "matched",
+  "reference_sha256": "168f6c82263f0c4defe5d7d9e28ce3bf637b39bdcf732c338b3fc3819e9b4510",
+  "candidates": 4,
+  "results": [
+    {
+      "pdb_id": "3GNS",
+      "matched_atoms": 0,
+      "reference_atoms": 203,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q6GI75/3GNS.cif",
+      "sha256": "beff2f9d49a886ee529dc0f4fb4153453f18e902300f833f1be146403cf3f80f"
+    },
+    {
+      "pdb_id": "3GNT",
+      "matched_atoms": 0,
+      "reference_atoms": 203,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q6GI75/3GNT.cif",
+      "sha256": "1674d03e0bc7562c2e0eb5a476fbd69b0bae122ffb59a1c0615d81d014e4b8e1"
+    },
+    {
+      "pdb_id": "3GR6",
+      "matched_atoms": 0,
+      "reference_atoms": 203,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q6GI75/3GR6.cif",
+      "sha256": "ead3be2c47d6c61fc0c2ca90fe7dce966440f9a4a0302db0a01d6bc53e5963f9"
+    },
+    {
+      "pdb_id": "4FS3",
+      "matched_atoms": 203,
+      "reference_atoms": 203,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q6GI75/4FS3.cif",
+      "sha256": "e90ec0c900aa1fad06690aaaedf99d33435628631797920b15b63dcb518d5533"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L1/Q6GI75/4FS3.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "B:301::0WD",
+      "name": "[[(2R,3S,4R,5R)-5-(3-aminocarbonyl-4H-pyridin-1-yl)-3,4-bis(oxidanyl)oxolan-2-yl]methoxy-oxidanyl-phosphoryl] [(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-4-oxidanyl-3-phosphonooxy-oxolan-2-yl]methyl hydrogen phosphate",
+      "distance_to_reference_A": 2.7521157315781446,
+      "elements": [
+        "C",
+        "N",
+        "O",
+        "P"
+      ]
+    },
+    {
+      "residue": "C:302::0WE",
+      "name": "N-methyl-N-[(3-methyl-1-benzofuran-2-yl)methyl]-3-(7-oxo-5,6,7,8-tetrahydro-1,8-naphthyridin-3-yl)propanamide",
+      "distance_to_reference_A": 2.772052308308773,
+      "elements": [
+        "C",
+        "N",
+        "O"
+      ]
+    }
+  ]
+}

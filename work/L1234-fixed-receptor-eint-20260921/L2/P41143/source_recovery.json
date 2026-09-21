@@ -1,0 +1,188 @@
+{
+  "status": "matched",
+  "reference_sha256": "3b10cb1bdbc74b5423241cfc1ece755218d056c37edf5404c2b890dc145598c1",
+  "candidates": 16,
+  "results": [
+    {
+      "pdb_id": "4N6H",
+      "matched_atoms": 192,
+      "reference_atoms": 192,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/P41143/4N6H.cif",
+      "sha256": "a3b3030bc746372875dacaa5a69ccdac27abce88662ed1f2052c68c3d6f22c6b"
+    },
+    {
+      "pdb_id": "4RWA",
+      "matched_atoms": 0,
+      "reference_atoms": 192,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/P41143/4RWA.cif",
+      "sha256": "eeb2d3ad46364c92c0c85b8cf101f5237619118bcc88485fc17002227ed6e88b"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/P41143/4N6H.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "C:1202::OLA",
+      "name": "OLEIC ACID",
+      "distance_to_reference_A": 9.220395707343584,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "D:1203::OLA",
+      "name": "OLEIC ACID",
+      "distance_to_reference_A": 7.284393934981828,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "E:1204::OLA",
+      "name": "OLEIC ACID",
+      "distance_to_reference_A": 3.9521819290108593,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "F:1205::OLA",
+      "name": "OLEIC ACID",
+      "distance_to_reference_A": 3.926442410121416,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "H:1207::OLC",
+      "name": "(2R)-2,3-dihydroxypropyl (9Z)-octadec-9-enoate",
+      "distance_to_reference_A": 8.93203996856263,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "I:1208::OLC",
+      "name": "(2R)-2,3-dihydroxypropyl (9Z)-octadec-9-enoate",
+      "distance_to_reference_A": 9.029133125610674,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "J:1209::OLA",
+      "name": "OLEIC ACID",
+      "distance_to_reference_A": 8.996783480778012,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "K:1210::OLA",
+      "name": "OLEIC ACID",
+      "distance_to_reference_A": 4.233798885162115,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "L:1211::OLA",
+      "name": "OLEIC ACID",
+      "distance_to_reference_A": 7.505393394086693,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "M:1212::OLC",
+      "name": "(2R)-2,3-dihydroxypropyl (9Z)-octadec-9-enoate",
+      "distance_to_reference_A": 11.365492774182739,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "N:1213::PGE",
+      "name": "TRIETHYLENE GLYCOL",
+      "distance_to_reference_A": 4.092632160358416,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "P:1215::OLA",
+      "name": "OLEIC ACID",
+      "distance_to_reference_A": 9.17042147341113,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "Q:1216::OLA",
+      "name": "OLEIC ACID",
+      "distance_to_reference_A": 10.775967937962704,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "T:1219::EJ4",
+      "name": "(4bS,8R,8aS,14bR)-7-(cyclopropylmethyl)-5,6,7,8,14,14b-hexahydro-4,8-methano[1]benzofuro[2,3-a]pyrido[4,3-b]carbazole-1,8a(9H)-diol",
+      "distance_to_reference_A": 2.8716187072799206,
+      "elements": [
+        "C",
+        "N",
+        "O"
+      ]
+    },
+    {
+      "residue": "U:1220::NA",
+      "name": "SODIUM ION",
+      "distance_to_reference_A": 2.4438406249180833,
+      "elements": [
+        "Na"
+      ]
+    },
+    {
+      "residue": "V:1221::PGE",
+      "name": "TRIETHYLENE GLYCOL",
+      "distance_to_reference_A": 6.636481447273091,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "W:1222::OLC",
+      "name": "(2R)-2,3-dihydroxypropyl (9Z)-octadec-9-enoate",
+      "distance_to_reference_A": 10.824545486993902,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "X:1223::OLC",
+      "name": "(2R)-2,3-dihydroxypropyl (9Z)-octadec-9-enoate",
+      "distance_to_reference_A": 7.073742856508146,
+      "elements": [
+        "C",
+        "O"
+      ]
+    }
+  ]
+}

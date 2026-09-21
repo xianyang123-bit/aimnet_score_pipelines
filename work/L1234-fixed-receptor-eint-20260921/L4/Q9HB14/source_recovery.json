@@ -1,0 +1,155 @@
+{
+  "status": "matched",
+  "reference_sha256": "8d1bd1614245e6ff15d574fc95cdb181baa254baf9228c11e29321d8e54ca8c8",
+  "candidates": 14,
+  "results": [
+    {
+      "pdb_id": "9BSN",
+      "matched_atoms": 0,
+      "reference_atoms": 142,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q9HB14/9BSN.cif",
+      "sha256": "b4da697045652f6b1d9066fe49584163de35ca7e33b6cdc9306e30c29731e809"
+    },
+    {
+      "pdb_id": "9BWS",
+      "matched_atoms": 0,
+      "reference_atoms": 142,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q9HB14/9BWS.cif",
+      "sha256": "96b8cd38b75fe33924a27cdc89f7c3fec7cf63e973c0715e8f0fb1220e9e01a5"
+    },
+    {
+      "pdb_id": "9BYI",
+      "matched_atoms": 0,
+      "reference_atoms": 142,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q9HB14/9BYI.cif",
+      "sha256": "3c685c50a081c31187dcad74c70063c1c1b487a01e5d7a5e7ad5b47bb6d360ed"
+    },
+    {
+      "pdb_id": "9C07",
+      "matched_atoms": 0,
+      "reference_atoms": 142,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q9HB14/9C07.cif",
+      "sha256": "9ae677e4272c7deadda863ae17fe9827c48fa93bd3082e0775b83b52673d0977"
+    },
+    {
+      "pdb_id": "9C09",
+      "matched_atoms": 0,
+      "reference_atoms": 142,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q9HB14/9C09.cif",
+      "sha256": "8fafada5d86f87cfa3ff9225fe38a8f37a02f8bfc6dab8cef2e935a397b7a2db"
+    },
+    {
+      "pdb_id": "9DWN",
+      "matched_atoms": 0,
+      "reference_atoms": 142,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q9HB14/9DWN.cif",
+      "sha256": "255b8e3a3719d4d2d14ff8860dd9c57d95056042aef45cc3cdeded598f184db8"
+    },
+    {
+      "pdb_id": "9FT7",
+      "matched_atoms": 0,
+      "reference_atoms": 142,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q9HB14/9FT7.cif",
+      "sha256": "c667e342ac682bd0216be0f4d08a69c148bc455cea7a0029de69b5ee216fe5dd"
+    },
+    {
+      "pdb_id": "9JGZ",
+      "matched_atoms": 142,
+      "reference_atoms": 142,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q9HB14/9JGZ.cif",
+      "sha256": "b36733ffc885fa3cf335579b2bf002d49e58dbd9d16364613899e087513cf360"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/Q9HB14/9JGZ.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "C:501::POV",
+      "name": "(2S)-3-(hexadecanoyloxy)-2-[(9Z)-octadec-9-enoyloxy]propyl 2-(trimethylammonio)ethyl phosphate",
+      "distance_to_reference_A": 8.277093269983125,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "D:502::POV",
+      "name": "(2S)-3-(hexadecanoyloxy)-2-[(9Z)-octadec-9-enoyloxy]propyl 2-(trimethylammonio)ethyl phosphate",
+      "distance_to_reference_A": 9.886457201647106,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "E:503::EIC",
+      "name": "LINOLEIC ACID",
+      "distance_to_reference_A": 3.585267772426484,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "H:506::POV",
+      "name": "(2S)-3-(hexadecanoyloxy)-2-[(9Z)-octadec-9-enoyloxy]propyl 2-(trimethylammonio)ethyl phosphate",
+      "distance_to_reference_A": 11.893664616088675,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "M:511::K",
+      "name": "POTASSIUM ION",
+      "distance_to_reference_A": 11.763003442998743,
+      "elements": [
+        "K"
+      ]
+    },
+    {
+      "residue": "O:502::POV",
+      "name": "(2S)-3-(hexadecanoyloxy)-2-[(9Z)-octadec-9-enoyloxy]propyl 2-(trimethylammonio)ethyl phosphate",
+      "distance_to_reference_A": 8.278054481579602,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "S:506::ACD",
+      "name": "ARACHIDONIC ACID",
+      "distance_to_reference_A": 10.066255957405403,
+      "elements": [
+        "C",
+        "O"
+      ]
+    },
+    {
+      "residue": "T:507::D21",
+      "name": "(2R)-1-(hexadecanoyloxy)-3-(phosphonooxy)propan-2-yl (9Z)-octadec-9-enoate",
+      "distance_to_reference_A": 3.2315565908707016,
+      "elements": [
+        "C",
+        "O",
+        "P"
+      ]
+    },
+    {
+      "residue": "V:509::POV",
+      "name": "(2S)-3-(hexadecanoyloxy)-2-[(9Z)-octadec-9-enoyloxy]propyl 2-(trimethylammonio)ethyl phosphate",
+      "distance_to_reference_A": 10.305506925911017,
+      "elements": [
+        "C",
+        "O"
+      ]
+    }
+  ]
+}

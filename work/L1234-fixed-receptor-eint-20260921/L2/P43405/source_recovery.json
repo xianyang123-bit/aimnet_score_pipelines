@@ -1,0 +1,68 @@
+{
+  "status": "matched",
+  "reference_sha256": "2c1b75ad9d2156a6e2cbacdcf78623843624e87632ce69b159c250ebe699ea89",
+  "candidates": 93,
+  "results": [
+    {
+      "pdb_id": "1A81",
+      "matched_atoms": 0,
+      "reference_atoms": 203,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/P43405/1A81.cif",
+      "sha256": "982fc48c9d1d765502876501a24340249386b37eb669807476759ce6eb60cf03"
+    },
+    {
+      "pdb_id": "1CSY",
+      "matched_atoms": 0,
+      "reference_atoms": 203,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/P43405/1CSY.cif",
+      "sha256": "595e4e5135cde9daf9812d52fb36876cfe6fb6e8dfd2ff17a6c5aab3d9d112ee"
+    },
+    {
+      "pdb_id": "1CSZ",
+      "matched_atoms": 0,
+      "reference_atoms": 203,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/P43405/1CSZ.cif",
+      "sha256": "a2e5e8aba5d465cf625713b344c68c6ccf3e4cd9c59fc10bce86c0e7a47cbf33"
+    },
+    {
+      "pdb_id": "1XBA",
+      "matched_atoms": 0,
+      "reference_atoms": 203,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/P43405/1XBA.cif",
+      "sha256": "9d4570f7c9192c86c55da5f75a5dc50f0d08a9b1a7c8c066f223687aa2a6faaa"
+    },
+    {
+      "pdb_id": "1XBB",
+      "matched_atoms": 0,
+      "reference_atoms": 203,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/P43405/1XBB.cif",
+      "sha256": "bda960a960dbd298378cfd2b7aa86829a8e5b4845fcad4802b086eb1d9051262"
+    },
+    {
+      "pdb_id": "1XBC",
+      "matched_atoms": 203,
+      "reference_atoms": 203,
+      "exact_match": true,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/P43405/1XBC.cif",
+      "sha256": "90b240f6c93c55b9996087226eb361ce317722953e8d8f00e8b1584d4157cda7"
+    }
+  ],
+  "selected_source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L2/P43405/1XBC.cif",
+  "heterogen_inventory": [
+    {
+      "residue": "B:1::STU",
+      "name": "STAUROSPORINE",
+      "distance_to_reference_A": 2.8375300879462055,
+      "elements": [
+        "C",
+        "N",
+        "O"
+      ]
+    }
+  ]
+}

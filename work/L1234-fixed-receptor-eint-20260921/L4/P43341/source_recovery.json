@@ -1,0 +1,15 @@
+{
+  "status": "source_not_recovered",
+  "reference_sha256": "80848792dc7b2066664ef048a301594032d1180b8cb2fa5c70bfe8dd540fb7af",
+  "candidates": 1,
+  "results": [
+    {
+      "pdb_id": "5WLY",
+      "matched_atoms": 0,
+      "reference_atoms": 255,
+      "exact_match": false,
+      "source": "/home/xianyang/aimnet2_score_pipelines/work/L1234-fixed-receptor-eint-20260921/L4/P43341/5WLY.cif",
+      "sha256": "70da19c90f6ebdc2dbc48537c05625cc89c948210f4f96158544e51df4426047"
+    }
+  ]
+}

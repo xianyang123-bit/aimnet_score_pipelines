@@ -1,0 +1,11 @@
+{
+  "source": "reviewed_L1_decision",
+  "excluded_residue_keys": [
+    "F:1201::YRI",
+    "G:1201::YRI"
+  ],
+  "exclude_names": [
+    "YRI"
+  ],
+  "rationale": "Replace deposited inhibitor."
+}
